@@ -1,0 +1,51 @@
+{
+  "id": "ordfoljd",
+  "name": "Ordföljd",
+  "subtitle": "Word order: verb second, inte and linking words",
+  "lessons": [3, 5, 15],
+  "colour": "moss",
+  "order": 3,
+  "generators": [],
+  "ruleCards": [
+    {
+      "title": "The golden rule: verb second",
+      "rule": "In a main clause the verb is always in position 2. Position 1, the fundament, can be the subject, a time word, a place word or something else.",
+      "examples": [["Jag dricker kaffe på morgonen.", "I drink coffee in the morning."], ["På morgonen dricker jag kaffe.", "In the morning I drink coffee."], ["Idag är det kallt.", "Today it’s cold."]],
+      "watch": "Never “Idag jag dricker”: whatever stands in the fundament, the verb comes next."
+    },
+    {
+      "title": "Subject next to the verb",
+      "rule": "If the subject isn’t in the fundament, it comes straight after the verb. Verb and subject swap places but stay together.",
+      "examples": [["Vi bor i Vanda nu.", "Nu bor vi i Vanda.", "We live in Vantaa now."], ["Man pratar svenska i Sverige.", "I Sverige pratar man svenska.", "People speak Swedish in Sweden."]]
+    },
+    {
+      "title": "Inte and adverbs after the first verb",
+      "rule": "Inte, alltid, ofta, aldrig and också come right after the first verb. If the subject comes after the verb, they come after the subject.",
+      "examples": [["Jag dricker inte kaffe.", "I don’t drink coffee."], ["Vi äter ofta fisk.", "We often eat fish."], ["Hon kan inte komma idag.", "She can’t come today."], ["Idag jobbar han inte.", "Today he isn’t working."]],
+      "watch": "With a help verb, inte goes between the help verb and the infinitive: Jag vill inte gå."
+    },
+    {
+      "title": "Yes/no questions: verb first",
+      "rule": "A yes/no question starts with the verb, then the subject. There is no word like English “do”.",
+      "examples": [["Talar du svenska?", "Do you speak Swedish?"], ["Har ni barn?", "Do you have children?"], ["Kan du hjälpa mig?", "Can you help me?"]],
+      "watch": "With a question word, the question word is the fundament and the verb is still second: Var bor du?"
+    },
+    {
+      "title": "Och, men, eller, så, för",
+      "rule": "These words link two main clauses. They don’t count as the fundament, so the next clause starts as usual with the subject and the verb.",
+      "examples": [["Jag gillar te, men han gillar kaffe.", "I like tea, but he likes coffee."], ["Det regnar, så vi tar bussen.", "It’s raining, so we’re taking the bus."], ["Hon är glad, för hon har semester.", "She’s happy, because she’s on holiday."]],
+      "watch": "Så = so (a result). För = because (a reason)."
+    },
+    {
+      "title": "Eftersom or på grund av?",
+      "rule": "Eftersom (because) is followed by a whole clause with a subject and a verb. På grund av (because of) is followed by a noun.",
+      "examples": [["Jag stannar hemma eftersom jag är sjuk.", "I’m staying at home because I’m ill."], ["Tåget är sent på grund av snön.", "The train is late because of the snow."]],
+      "watch": "Inside an eftersom clause, inte comes before the verb: eftersom jag inte har tid."
+    },
+    {
+      "title": "Eftersom first: still verb second",
+      "rule": "If the sentence starts with an eftersom clause, the whole clause is the fundament. The main verb comes next, then the subject.",
+      "examples": [["Eftersom det regnar tar vi bussen.", "Because it’s raining, we’re taking the bus."], ["Eftersom jag är trött går jag hem.", "Because I’m tired, I’m going home."]]
+    }
+  ]
+}

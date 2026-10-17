@@ -1,0 +1,44 @@
+{
+  "id": "fragor",
+  "name": "Frågor",
+  "subtitle": "Questions: question words, var/vart/varifrån and short answers",
+  "lessons": [2, 3],
+  "colour": "lupin",
+  "order": 4,
+  "generators": [],
+  "ruleCards": [
+    {
+      "title": "Question words",
+      "rule": "Vad = what, vem = who, hur = how, var = where, när = when, varför = why. The question word is the fundament, so the verb comes second and the subject after it.",
+      "examples": [["Vad heter du?", "What’s your name?"], ["Vem är det?", "Who is it?"], ["Hur mår du?", "How are you?"], ["När börjar lektionen?", "When does the lesson start?"], ["Varför är du trött?", "Why are you tired?"]],
+      "watch": "Ask a name with vad, not hur: Vad heter du?"
+    },
+    {
+      "title": "Hur mycket, hur många, hur gammal",
+      "rule": "Hur can go with another word. Hur mycket is for things you can’t count, hur många for things you can count.",
+      "examples": [["Hur mycket kostar det?", "How much does it cost?"], ["Hur många barn har du?", "How many children do you have?"], ["Hur gammal är du?", "How old are you?"]]
+    },
+    {
+      "title": "Var, vart, varifrån",
+      "rule": "Var = where (a place, no movement). Vart = where to (movement towards a place). Varifrån = where from.",
+      "examples": [["Var bor du?", "Where do you live?"], ["Vart ska du?", "Where are you going?"], ["Varifrån kommer du?", "Where are you from?"]],
+      "watch": "Same pattern as the answers: Var? – Här. Vart? – Hit. Varifrån? – Härifrån."
+    },
+    {
+      "title": "Vilken, vilket, vilka",
+      "rule": "Vilken (which) goes with en-words, vilket with ett-words and vilka with plurals.",
+      "examples": [["Vilken buss tar du?", "Which bus do you take?"], ["Vilket rum är ditt?", "Which room is yours?"], ["Vilka språk talar du?", "Which languages do you speak?"]]
+    },
+    {
+      "title": "Short answers",
+      "rule": "Answer a yes/no question with ja or nej + det + the verb + the subject. For most verbs, use gör. With är, har, kan, vill and ska, repeat that verb.",
+      "examples": [["Bor du här? – Ja, det gör jag.", "Do you live here? – Yes, I do."], ["Dricker du kaffe? – Nej, jag gör inte det.", "Do you drink coffee? – No, I don’t."], ["Är du trött? – Ja, det är jag.", "Are you tired? – Yes, I am."], ["Kan du simma? – Nej, det kan jag inte.", "Can you swim? – No, I can’t."]],
+      "watch": "Nej, jag gör inte det and Nej, det gör jag inte mean the same."
+    },
+    {
+      "title": "Jo: yes to a question with inte",
+      "rule": "If the question has inte in it, answer jo (not ja) to say yes.",
+      "examples": [["Har du inte bil? – Jo, det har jag.", "Don’t you have a car? – Yes, I do."], ["Kommer du inte? – Jo, det gör jag.", "Aren’t you coming? – Yes, I am."]]
+    }
+  ]
+}

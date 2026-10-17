@@ -1,0 +1,58 @@
+{
+  "id": "verb",
+  "name": "Verb",
+  "subtitle": "Verbs: present tense, commands and help verbs",
+  "lessons": [3, 4, 13],
+  "colour": "ochre",
+  "order": 2,
+  "generators": ["verbs-present"],
+  "ruleCards": [
+    {
+      "title": "Present tense: -r",
+      "rule": "The present tense ends in -r. The form is the same for every person: jag, du, hon, vi, ni, de.",
+      "examples": [["Jag pratar svenska.", "I speak Swedish."], ["Hon köper mjölk.", "She buys milk."], ["Vi bor i Helsingfors.", "We live in Helsinki."]],
+      "watch": "Never change the verb for the person: jag pratar, du pratar, de pratar. Vara is irregular: jag är, du är."
+    },
+    {
+      "title": "Verb groups I–IV",
+      "rule": "Group I: -a becomes -ar. Group II: -a becomes -er. Group III: short verbs that don’t end in -a just add -r. Group IV: irregular verbs; most also take -er in the present.",
+      "examples": [["prata", "pratar", "talk (I)"], ["köpa", "köper", "buy (II)"], ["bo", "bor", "live (III)"], ["skriva", "skriver", "write (IV)"]],
+      "watch": "Group II verbs whose stem ends in r add nothing: höra → hör, köra → kör."
+    },
+    {
+      "title": "Infinitive: -a",
+      "rule": "The infinitive is the dictionary form. It usually ends in -a. Use it after a help verb and after att.",
+      "examples": [["Jag gillar att läsa.", "I like reading."], ["Jag kan läsa.", "I can read."], ["Vi ska bo här.", "We are going to live here."]],
+      "watch": "Group III verbs have no -a: bo, tro, må. And no att after a help verb: Jag vill äta, not Jag vill att äta."
+    },
+    {
+      "title": "Command form",
+      "rule": "For Group II and IV verbs, drop the -a from the infinitive: stänga → Stäng! For Group I and III verbs, the command is the same as the infinitive: Lyssna! Bo!",
+      "examples": [["Stäng dörren!", "Close the door!"], ["Skriv ditt namn här.", "Write your name here."], ["Lyssna!", "Listen!"], ["Kom hit!", "Come here!"]],
+      "watch": "Add gärna to sound friendly: Ring mig gärna!"
+    },
+    {
+      "title": "Help verbs + infinitive",
+      "rule": "Kan, vill, ska, måste and brukar are help verbs. The verb after a help verb is always in the infinitive.",
+      "examples": [["Jag kan simma.", "I can swim."], ["Vi vill äta nu.", "We want to eat now."], ["Hon ska resa till Sverige.", "She is going to travel to Sweden."], ["Du måste vila.", "You must rest."], ["Jag brukar dricka te på morgonen.", "I usually drink tea in the morning."]],
+      "watch": "Only the help verb is in the present: Jag vill äter is wrong. Brukar means “usually”."
+    },
+    {
+      "title": "Borde, får, får inte",
+      "rule": "Borde means “ought to, should”. Får means “may, is allowed to”. Får inte means “must not, is not allowed to”.",
+      "examples": [["Du borde sova mer.", "You ought to sleep more."], ["Får jag sitta här?", "May I sit here?"], ["Man får inte röka här.", "You must not smoke here."]]
+    },
+    {
+      "title": "Behöver inte (never “måste inte”)",
+      "rule": "To say something is not necessary, use behöver inte. Don’t say måste inte.",
+      "examples": [["Du behöver inte komma.", "You don’t have to come."], ["Du får inte komma.", "You’re not allowed to come."], ["Vi behöver inte boka bord.", "We don’t need to book a table."]],
+      "watch": "English “must not” = får inte. English “don’t have to” = behöver inte."
+    },
+    {
+      "title": "Kunde, ville, skulle",
+      "rule": "The help verbs have past forms: kan → kunde, vill → ville, ska → skulle. The next verb is still in the infinitive.",
+      "examples": [["Jag kunde inte sova.", "I couldn’t sleep."], ["Hon ville åka hem.", "She wanted to go home."], ["Vi skulle träffas klockan tre.", "We were going to meet at three."]],
+      "watch": "Skulle vilja is the polite way to ask for something: Jag skulle vilja ha en kaffe."
+    }
+  ]
+}

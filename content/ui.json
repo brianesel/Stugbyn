@@ -1,0 +1,9 @@
+{
+  "feedback": {
+    "correct": "Rätt!",
+    "wrong": "Inte riktigt.",
+    "almost": "Almost!",
+    "diacritics": "Check the å, ä, ö."
+  },
+  "letters": ["å", "ä", "ö"]
+}

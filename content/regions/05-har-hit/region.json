@@ -1,0 +1,53 @@
+{
+  "id": "har-hit",
+  "name": "Här & hit",
+  "subtitle": "Location vs direction: här/hit, hemma/hem",
+  "lessons": [6],
+  "colour": "lake",
+  "order": 5,
+  "generators": [],
+  "ruleCards": [
+    {
+      "title": "Direction or location?",
+      "rule": "Swedish has two words for many places. Use the direction word with movement verbs (gå, åka, komma, springa, flytta): it answers “Vart?”. Use the location word with verbs of being somewhere (vara, bo, sitta, stå, stanna): it answers “Var?”.",
+      "examples": [["Jag går hem.", "I’m going home."], ["Jag är hemma.", "I’m at home."], ["Kom hit!", "Come here!"], ["Jag bor här.", "I live here."]],
+      "watch": "The direction word is usually the short one: hem, hit, dit, upp, ner, in, ut, bort."
+    },
+    {
+      "title": "Hem or hemma?",
+      "rule": "Hem is movement towards home. Hemma is being at home.",
+      "examples": [["Hon åker hem klockan fem.", "She goes home at five."], ["Hon är hemma hela dagen.", "She’s at home all day."], ["Jag stannar hemma idag.", "I’m staying at home today."]],
+      "watch": "Stanna means you stay where you are, so it takes the location word: stanna hemma."
+    },
+    {
+      "title": "Här or hit?",
+      "rule": "Hit is movement to the place where the speaker is. Här is being in that place.",
+      "examples": [["Kom hit!", "Come here!"], ["Vi flyttade hit för två år sedan.", "We moved here two years ago."], ["Vi bor här.", "We live here."]],
+      "watch": "English says “here” for both. Ask yourself: is someone moving? Then it’s hit."
+    },
+    {
+      "title": "Där or dit?",
+      "rule": "Dit is movement to a place over there. Där is being in that place.",
+      "examples": [["Vi åker dit på lördag.", "We’re going there on Saturday."], ["Min syster bor där.", "My sister lives there."]],
+      "watch": "The question words work the same way: Var bor du? (location) but Vart ska du? (direction)."
+    },
+    {
+      "title": "Upp/uppe and ner/nere",
+      "rule": "Upp and ner are movement up or down. Uppe and nere say where something is.",
+      "examples": [["Jag går upp på vinden.", "I go up to the attic."], ["Katten är uppe på taket.", "The cat is up on the roof."], ["Hon springer ner till sjön.", "She runs down to the lake."], ["Barnen är nere vid sjön.", "The children are down by the lake."]],
+      "watch": "Jag går upp klockan sju = I get up at seven. Är du uppe? = Are you up (awake)?"
+    },
+    {
+      "title": "In/inne and ut/ute",
+      "rule": "In and ut are movement in or out. Inne and ute say where something is.",
+      "examples": [["Kom in!", "Come in!"], ["Det är varmt inne.", "It’s warm inside."], ["Hunden springer ut.", "The dog runs out."], ["Barnen leker ute.", "The children are playing outside."]],
+      "watch": "Gå ut can also mean going out in the evening: Vi går ut på fredag."
+    },
+    {
+      "title": "Bort or borta?",
+      "rule": "Bort is movement away. Borta means away (not here) or gone.",
+      "examples": [["Hon flyttar bort.", "She’s moving away."], ["Hon är borta en vecka.", "She’s away for a week."], ["Mina nycklar är borta!", "My keys are gone!"]],
+      "watch": "Ska can carry the direction without a movement verb: Jag ska hem. Vart ska du?"
+    }
+  ]
+}

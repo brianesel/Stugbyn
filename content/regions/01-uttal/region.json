@@ -1,0 +1,63 @@
+{
+  "id": "uttal",
+  "name": "Uttal",
+  "subtitle": "Pronunciation: vowels, long and short sounds, soft g and k",
+  "lessons": [1],
+  "colour": "lake",
+  "order": 1,
+  "generators": [],
+  "ruleCards": [
+    {
+      "title": "Nine vowels",
+      "rule": "Swedish has nine vowels. A, o, u and å are hard vowels. E, i, y, ä and ö are soft (front) vowels, and they change how g, k and sk sound before them.",
+      "examples": [["glas", "glass"], ["sol", "sun"], ["hus", "house"], ["båt", "boat"], ["vit", "white"], ["ny", "new"], ["söt", "sweet"]],
+      "watch": "Mouth tips: for y, make the mouth for u but say i. For ö, make the mouth for o but say e."
+    },
+    {
+      "title": "Long and short vowels",
+      "rule": "A vowel before one consonant is long. A vowel before a double consonant (or two consonants) is short. Long vowel, short consonant; short vowel, long consonant.",
+      "examples": [["tak", "tack", "roof – thank you"], ["väg", "vägg", "road – wall"], ["glas", "glass", "glass – ice cream"], ["ful", "full", "ugly – full"]],
+      "watch": "The length changes the meaning: tak is a roof, tack is thank you."
+    },
+    {
+      "title": "Soft g",
+      "rule": "G before a soft vowel (e, i, y, ä, ö) sounds like j. Before a hard vowel (a, o, u, å) it stays hard.",
+      "examples": [["gäst", "guest"], ["göra", "to do"], ["ge", "to give"], ["gata", "street"], ["gul", "yellow"]],
+      "watch": "This happens in the stressed syllable, usually at the start of the word. In endings the g stays hard: dagen, vägen."
+    },
+    {
+      "title": "Soft k",
+      "rule": "K before a soft vowel (e, i, y, ä, ö) sounds like tj, a soft “ch” sound. Before a hard vowel it stays hard.",
+      "examples": [["köpa", "to buy"], ["kök", "kitchen"], ["kyrka", "church"], ["katt", "cat"], ["ko", "cow"]],
+      "watch": "A few common words break the rule: kille (guy) has a hard k."
+    },
+    {
+      "title": "Soft sk",
+      "rule": "Sk before a soft vowel (e, i, y, ä, ö) sounds like sh. Before a hard vowel it stays sk.",
+      "examples": [["sked", "spoon"], ["skön", "comfortable"], ["skicka", "to send"], ["skola", "school"], ["skåp", "cupboard"]]
+    },
+    {
+      "title": "Tj, sj, skj: always soft",
+      "rule": "Tj always sounds like tj. Sj, skj and stj always sound like sh, whatever vowel comes after.",
+      "examples": [["tjugo", "twenty"], ["tjej", "girl"], ["sju", "seven"], ["sjuk", "ill"], ["skjorta", "shirt"], ["stjärna", "star"]],
+      "watch": "Words ending in -tion also have the sh sound: station, lektion."
+    },
+    {
+      "title": "Rs and rt",
+      "rule": "R + s blends into one sh sound. R + t (and r + d, r + n, r + l) blend into one sound with the tongue curled back.",
+      "examples": [["kurs", "course"], ["först", "first"], ["mars", "March"], ["kort", "card"], ["svart", "black"]],
+      "watch": "In Finland Swedish the r and the s are often said separately, so you will hear both."
+    },
+    {
+      "title": "Hj, dj, lj, gj: just j",
+      "rule": "At the start of a word, the h, d, l or g in hj, dj, lj and gj is silent. The word starts with a j sound.",
+      "examples": [["hjälp", "help"], ["hjärta", "heart"], ["djur", "animal"], ["ljus", "light"], ["gjorde", "did"]]
+    },
+    {
+      "title": "Stress: kaffe or kafé?",
+      "rule": "Most Swedish words are stressed on the first syllable. Many words from French are stressed on the last syllable, often a syllable with é.",
+      "examples": [["kaffe", "coffee"], ["kafé", "café"], ["idé", "idea"], ["restaurang", "restaurant"]],
+      "watch": "Kaffe (KAF-fe) is the drink, kafé (ka-FÉ) is the place."
+    }
+  ]
+}

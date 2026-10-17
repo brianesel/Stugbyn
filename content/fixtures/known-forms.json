@@ -1,0 +1,28 @@
+{
+  "note": "Generated items that must keep exactly these answers. The build fails if a generator output differs.",
+  "items": [
+    { "id": "nouns:pl:bok", "answer": "böcker" },
+    { "id": "nouns:defpl:lärare", "answer": "lärarna" },
+    { "id": "nouns:defpl:rum", "answer": "rummen" },
+    { "id": "nouns:pl:man", "answer": "män" },
+    { "id": "nouns:def:vän", "answer": "vännen" },
+    { "id": "nouns:defpl:äpple", "answer": "äpplena" },
+    { "id": "nouns:houses:katt", "answer": 3 },
+    { "id": "verbs:past:äta", "answer": "åt" },
+    { "id": "verbs:past:göra", "answer": "gjorde" },
+    { "id": "verbs:sup:se", "answer": "sett" },
+    { "id": "verbs:past:köpa", "answer": "köpte" },
+    { "id": "verbs:past:bo", "answer": "bodde" },
+    { "id": "verbs:help:köpa", "answer": "köpa" },
+    { "id": "adj:ett:liten", "answer": "litet" },
+    { "id": "adj:pl:liten", "answer": "små" },
+    { "id": "adj:def:liten", "answer": "lilla" },
+    { "id": "adj:comp:stor", "answer": "större" },
+    { "id": "adj:sup:bra", "answer": "bäst" },
+    { "id": "adj:ett:god", "answer": "gott" },
+    { "id": "days:last:fredag", "answer": "i fredags" },
+    { "id": "numbers:choice:13", "answer": "tretton" },
+    { "id": "numbers:choice:30", "answer": "trettio" },
+    { "id": "numbers:type:245", "answer": "tvåhundrafyrtiofem" }
+  ]
+}

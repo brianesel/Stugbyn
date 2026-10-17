@@ -1,0 +1,14 @@
+node_modules
+dist
+dev-dist
+coverage
+test-results
+playwright-report
+.env
+*.local
+.DS_Store
+# reference material, not part of the app (copyrighted)
+*.pdf
+
+# local tooling
+.claude/

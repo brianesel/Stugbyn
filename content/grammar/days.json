@@ -1,0 +1,33 @@
+{
+  "days": [
+    { "sv": "måndag", "en": "Monday" },
+    { "sv": "tisdag", "en": "Tuesday" },
+    { "sv": "onsdag", "en": "Wednesday" },
+    { "sv": "torsdag", "en": "Thursday" },
+    { "sv": "fredag", "en": "Friday" },
+    { "sv": "lördag", "en": "Saturday" },
+    { "sv": "söndag", "en": "Sunday" }
+  ],
+  "forms": { "next": "på {day}", "habit": "på {day}ar", "last": "i {day}s" },
+  "frames": {
+    "next": [
+      { "sv": "Vi ses ___.", "en": "See you on {dayEn}." },
+      { "sv": "Jag ska gå till läkaren ___.", "en": "I’m going to the doctor on {dayEn} (this week)." }
+    ],
+    "habit": [
+      { "sv": "Jag tränar ___.", "en": "I work out on {dayEn}s (every week)." },
+      { "sv": "Affären är stängd ___.", "en": "The shop is closed on {dayEn}s." }
+    ],
+    "last": [
+      { "sv": "Jag var på bio ___.", "en": "I went to the cinema last {dayEn}." },
+      { "sv": "Vi träffades ___.", "en": "We met last {dayEn}." }
+    ]
+  },
+  "explain": {
+    "next": "På + day = a coming day: på {day} (this {dayEn}).",
+    "habit": "På + plural = every week: på {day}ar ({dayEn}s).",
+    "last": "I + day + s = last week’s day: i {day}s (last {dayEn})."
+  },
+  "level": "A1",
+  "lesson": 10
+}

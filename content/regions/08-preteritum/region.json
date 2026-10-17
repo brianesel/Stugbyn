@@ -1,0 +1,53 @@
+{
+  "id": "preteritum",
+  "name": "Preteritum",
+  "subtitle": "Past tense: groups I–IV and PocKeTS + X",
+  "lessons": [6, 7],
+  "colour": "falu",
+  "order": 8,
+  "generators": ["verbs-past"],
+  "ruleCards": [
+    {
+      "title": "When? Past time markers",
+      "rule": "Use the past tense (preteritum) for something that happened at a finished time in the past. These words tell you the time is over.",
+      "examples": [["igår", "yesterday"], ["i förrgår", "the day before yesterday"], ["förra veckan", "last week"], ["i måndags", "last Monday"], ["för två år sedan", "two years ago"]],
+      "watch": "If the sentence starts with the time word, the verb still comes second: Igår jobbade jag hemma."
+    },
+    {
+      "title": "Group I: -ar → -ade",
+      "rule": "Verbs whose present tense ends in -ar add -de to the present stem: -ar becomes -ade.",
+      "examples": [["jobbar", "jobbade", "work → worked"], ["pratar", "pratade", "talk → talked"], ["lagar", "lagade", "cook, fix → cooked, fixed"], ["Igår lagade jag mat.", "Yesterday I cooked."]],
+      "watch": "This is the biggest group. Most new verbs go here."
+    },
+    {
+      "title": "Group II: -er → +de",
+      "rule": "Verbs whose present tense ends in -er drop the -er and add -de.",
+      "examples": [["stänger", "stängde", "close → closed"], ["ringer", "ringde", "call → called"], ["hör", "hörde", "hear → heard"], ["Mamma ringde i söndags.", "Mum called last Sunday."]],
+      "watch": "Hör has no -er in the present, but it is still Group II: hörde."
+    },
+    {
+      "title": "Group II: PocKeTS + X → +te",
+      "rule": "If the stem ends in p, k, t, s or x (PocKeTS + X), Group II verbs add -te instead of -de.",
+      "examples": [["köper", "köpte", "buy → bought"], ["tänker", "tänkte", "think → thought"], ["läser", "läste", "read → read"], ["reser", "reste", "travel → travelled"], ["Jag köpte en ny jacka.", "I bought a new jacket."]],
+      "watch": "Never köpade or läsde: p and s give -te."
+    },
+    {
+      "title": "Group III: short verbs → +dde",
+      "rule": "Short verbs that end in a vowel add -dde.",
+      "examples": [["bor", "bodde", "live → lived"], ["tror", "trodde", "believe → believed"], ["mår", "mådde", "feel → felt"], ["För fem år sedan bodde vi i Tammerfors.", "Five years ago we lived in Tampere."]],
+      "watch": "Two d’s: bodde, not bode."
+    },
+    {
+      "title": "Group IV: irregular verbs (1)",
+      "rule": "Irregular verbs often change their vowel and get no ending. Learn them by heart.",
+      "examples": [["är", "var", "am, is, are → was, were"], ["har", "hade", "have → had"], ["går", "gick", "go, walk → went"], ["gör", "gjorde", "do → did"], ["ser", "såg", "see → saw"]],
+      "watch": "Gjorde is spelled with gj, but the g is silent."
+    },
+    {
+      "title": "Group IV: irregular verbs (2)",
+      "rule": "More of the most common irregular verbs.",
+      "examples": [["äter", "åt", "eat → ate"], ["dricker", "drack", "drink → drank"], ["skriver", "skrev", "write → wrote"], ["kommer", "kom", "come → came"], ["säger", "sa", "say → said"]],
+      "watch": "Sa is also written sade, but it is pronounced sa."
+    }
+  ]
+}

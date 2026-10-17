@@ -1,0 +1,59 @@
+{
+  "theme": "food",
+  "title": "Mat",
+  "entries": [
+    {
+      "id": "vocab:food:ost",
+      "sv": "ost",
+      "en": "cheese",
+      "pos": "noun",
+      "gender": "en",
+      "forms": { "def": "osten", "pl": "ostar", "defPl": "ostarna" },
+      "group": 2,
+      "level": "A1",
+      "lesson": 7,
+      "example": { "sv": "Jag gillar inte ost.", "en": "I don’t like cheese." },
+      "tags": ["yki-everyday"]
+    },
+    {
+      "id": "vocab:food:smorgas",
+      "sv": "smörgås",
+      "en": "sandwich",
+      "enPl": "sandwiches",
+      "pos": "noun",
+      "gender": "en",
+      "forms": { "def": "smörgåsen", "pl": "smörgåsar", "defPl": "smörgåsarna" },
+      "group": 2,
+      "level": "A1",
+      "lesson": 7,
+      "example": { "sv": "Jag äter en smörgås till frukost.", "en": "I eat a sandwich for breakfast." },
+      "tags": ["yki-everyday"]
+    },
+    {
+      "id": "vocab:food:agg",
+      "sv": "ägg",
+      "en": "egg",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": { "def": "ägget", "pl": "ägg", "defPl": "äggen" },
+      "group": 5,
+      "level": "A1",
+      "lesson": 7,
+      "example": { "sv": "Hon köper tolv ägg.", "en": "She buys twelve eggs." },
+      "tags": ["yki-everyday"]
+    },
+    {
+      "id": "vocab:food:mjolk",
+      "sv": "mjölk",
+      "en": "milk",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": { "def": "mjölken" },
+      "level": "A1",
+      "lesson": 7,
+      "example": { "sv": "Vill du ha mjölk i kaffet?", "en": "Do you want milk in your coffee?" },
+      "tags": ["yki-everyday"]
+    }
+  ]
+}

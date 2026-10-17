@@ -1,0 +1,47 @@
+{
+  "id": "framtid",
+  "name": "Framtid",
+  "subtitle": "Future: ska, kommer att, tänker; tycker vs tror",
+  "lessons": [16],
+  "colour": "ochre",
+  "order": 11,
+  "generators": [],
+  "ruleCards": [
+    {
+      "title": "Present tense + a time word",
+      "rule": "The easiest way to talk about the future: use the present tense and add a time word like imorgon, ikväll, på fredag or nästa vecka.",
+      "examples": [["Jag åker till Stockholm imorgon.", "I’m going to Stockholm tomorrow."], ["Kursen börjar på måndag.", "The course starts on Monday."], ["Vi ses på fredag!", "See you on Friday!"]],
+      "watch": "Without a time word, the present tense usually means now or usually: Jag åker till jobbet (every day)."
+    },
+    {
+      "title": "Ska: plans and decisions",
+      "rule": "Use ska + infinitive for something you have planned or decided. Ska is a help verb, so the next verb is in the infinitive, with no att.",
+      "examples": [["Jag ska börja en kurs i januari.", "I’m going to start a course in January."], ["Vi ska äta pizza ikväll.", "We’re having pizza tonight."], ["Ska vi gå på bio?", "Shall we go to the cinema?"]],
+      "watch": "Ska can stand without a movement verb when a direction follows: Jag ska till tandläkaren. Vart ska du?"
+    },
+    {
+      "title": "Kommer att: predictions",
+      "rule": "Use kommer att + infinitive for what you think will happen, things nobody decides: the weather, feelings, results.",
+      "examples": [["Det kommer att regna imorgon.", "It’s going to rain tomorrow."], ["Du kommer att tycka om Vasa.", "You’ll like Vaasa."], ["Hon kommer att bli trött efter resan.", "She’ll be tired after the trip."]],
+      "watch": "Don’t forget att: kommer att regna. People often drop it when speaking, but write it."
+    },
+    {
+      "title": "Ska or kommer att?",
+      "rule": "Ask yourself: did someone decide this? Yes → ska. No, it’s a guess about the future → kommer att.",
+      "examples": [["Vi ska flytta i maj.", "We’re moving in May. (we’ve decided)"], ["Det kommer att bli kallt i natt.", "It’s going to be cold tonight. (a prediction)"]],
+      "watch": "Du ska … can sound like an order: Du ska städa ditt rum! (You will tidy your room!)"
+    },
+    {
+      "title": "Tänker + infinitive: intentions",
+      "rule": "Tänker + infinitive means “I intend to”. It shows what you have made up your mind to do.",
+      "examples": [["Jag tänker sluta röka.", "I’m going to quit smoking. (I intend to)"], ["Vad tänker du göra i sommar?", "What are you planning to do this summer?"]],
+      "watch": "No att here: Jag tänker resa, not tänker att resa."
+    },
+    {
+      "title": "Tycker, tror or tänker på?",
+      "rule": "All three can be “think” in English. Tycker = your opinion about something you know or have tried. Tror = you believe or guess, but you’re not sure. Tänker på = thinking about someone or something.",
+      "examples": [["Jag tycker att filmen är bra.", "I think the film is good. (my opinion)"], ["Jag tror att det kommer att regna.", "I think it’s going to rain. (a guess)"], ["Jag tänker på dig.", "I’m thinking of you."]],
+      "watch": "Tycker om = like: Jag tycker om kaffe."
+    }
+  ]
+}
