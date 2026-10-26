@@ -1,0 +1,655 @@
+{
+  "theme": "housing",
+  "title": "Boende",
+  "entries": [
+    {
+      "id": "vocab:housing:lagenhet",
+      "sv": "lägenhet",
+      "en": "apartment",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "lägenheten",
+        "pl": "lägenheter",
+        "defPl": "lägenheterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:tvaa",
+      "sv": "tvåa",
+      "en": "two-room flat",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "tvåan",
+        "pl": "tvåor",
+        "defPl": "tvåorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 13,
+      "note": "Also: en tvårummare.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:trea",
+      "sv": "trea",
+      "en": "three-room flat",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "trean",
+        "pl": "treor",
+        "defPl": "treorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 13,
+      "note": "Also: en trerummare.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:lagenhetsvisning",
+      "sv": "lägenhetsvisning",
+      "en": "apartment viewing",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "lägenhetsvisningen",
+        "pl": "lägenhetsvisningar",
+        "defPl": "lägenhetsvisningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:hus",
+      "sv": "hus",
+      "en": "house",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "huset",
+        "pl": "hus",
+        "defPl": "husen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:radhus",
+      "sv": "radhus",
+      "en": "townhouse",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "radhuset",
+        "pl": "radhus",
+        "defPl": "radhusen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:hem",
+      "sv": "hem",
+      "en": "home",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "hemmet",
+        "pl": "hem",
+        "defPl": "hemmen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 13,
+      "note": "The m doubles in the definite forms: hemmet, hemmen.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:rum",
+      "sv": "rum",
+      "en": "room",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "rummet",
+        "pl": "rum",
+        "defPl": "rummen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 13,
+      "note": "The m doubles in the definite forms: rummet, rummen.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:vardagsrum",
+      "sv": "vardagsrum",
+      "en": "living room",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "vardagsrummet",
+        "pl": "vardagsrum",
+        "defPl": "vardagsrummen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 21,
+      "note": "The m doubles in the definite forms.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:sovrum",
+      "sv": "sovrum",
+      "en": "bedroom",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "sovrummet",
+        "pl": "sovrum",
+        "defPl": "sovrummen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 21,
+      "note": "The m doubles in the definite forms.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:badrum",
+      "sv": "badrum",
+      "en": "bathroom",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "badrummet",
+        "pl": "badrum",
+        "defPl": "badrummen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 21,
+      "note": "The m doubles in the definite forms.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:kok",
+      "sv": "kök",
+      "en": "kitchen",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "köket",
+        "pl": "kök",
+        "defPl": "köken"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:matsal",
+      "sv": "matsal",
+      "en": "dining room",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "matsalen",
+        "pl": "matsalar",
+        "defPl": "matsalarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:balkong",
+      "sv": "balkong",
+      "en": "balcony",
+      "enPl": "balconies",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "balkongen",
+        "pl": "balkonger",
+        "defPl": "balkongerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:bastu",
+      "sv": "bastu",
+      "en": "sauna",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "bastun",
+        "pl": "bastur",
+        "defPl": "basturna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 13,
+      "note": "Plural to confirm (bastur / bastuar).",
+      "check": true,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:tvattstuga",
+      "sv": "tvättstuga",
+      "en": "laundry room",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "tvättstugan",
+        "pl": "tvättstugor",
+        "defPl": "tvättstugorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:hiss",
+      "sv": "hiss",
+      "en": "lift",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "hissen",
+        "pl": "hissar",
+        "defPl": "hissarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:fonster",
+      "sv": "fönster",
+      "en": "window",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "fönstret",
+        "pl": "fönster",
+        "defPl": "fönstren"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 13,
+      "note": "The e drops in the definite forms: fönstret, fönstren.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:dorr",
+      "sv": "dörr",
+      "en": "door",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "dörren",
+        "pl": "dörrar",
+        "defPl": "dörrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:vaning",
+      "sv": "våning",
+      "en": "floor, storey",
+      "enPl": "floors",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "våningen",
+        "pl": "våningar",
+        "defPl": "våningarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 13,
+      "example": {
+        "sv": "Jag bor på tredje våningen.",
+        "en": "I live on the third floor."
+      },
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:ljus",
+      "sv": "ljus",
+      "en": "light; candle",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "ljuset",
+        "pl": "ljus",
+        "defPl": "ljusen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 13,
+      "note": "The adjective ljus means light, bright.",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:kvadratmeter",
+      "sv": "kvadratmeter",
+      "en": "square metre",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kvadratmetern",
+        "pl": "kvadratmeter",
+        "defPl": "kvadratmetrarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 13,
+      "note": "Short: kvm. Definite plural to confirm (kvadratmetrarna / kvadratmeterna).",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:tradgard",
+      "sv": "trädgård",
+      "en": "garden",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "trädgården",
+        "pl": "trädgårdar",
+        "defPl": "trädgårdarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 3,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:vaxt",
+      "sv": "växt",
+      "en": "plant",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "växten",
+        "pl": "växter",
+        "defPl": "växterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:odla",
+      "sv": "odla",
+      "en": "grow",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 21,
+      "example": {
+        "sv": "Vi odlar tomater i trädgården.",
+        "en": "We grow tomatoes in the garden."
+      },
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:stadsdel",
+      "sv": "stadsdel",
+      "en": "district",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "stadsdelen",
+        "pl": "stadsdelar",
+        "defPl": "stadsdelarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:tyst-omrade",
+      "sv": "ett tyst område",
+      "en": "a quiet area",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:pa-gangavstand-till",
+      "sv": "på gångavstånd till",
+      "en": "within walking distance of",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 21,
+      "example": {
+        "sv": "Skolan ligger på gångavstånd.",
+        "en": "The school is within walking distance."
+      },
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:utsikt-over",
+      "sv": "utsikt över",
+      "en": "view of",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 21,
+      "example": {
+        "sv": "Lägenheten har utsikt över havet.",
+        "en": "The apartment has a view of the sea."
+      },
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:pa-landet",
+      "sv": "på landet",
+      "en": "in the countryside",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 13,
+      "example": {
+        "sv": "Vi bor på landet.",
+        "en": "We live in the countryside."
+      },
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:i-stan",
+      "sv": "i stan",
+      "en": "in town",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:granne",
+      "sv": "granne",
+      "en": "neighbour",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "grannen",
+        "pl": "grannar",
+        "defPl": "grannarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:pensionar",
+      "sv": "pensionär",
+      "en": "pensioner",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "pensionären",
+        "pl": "pensionärer",
+        "defPl": "pensionärerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:hyra-verb",
+      "sv": "hyra",
+      "en": "rent",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 13,
+      "example": {
+        "sv": "Vi hyr en lägenhet.",
+        "en": "We rent an apartment."
+      },
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:hyra",
+      "sv": "hyra",
+      "en": "rent",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "hyran",
+        "pl": "hyror",
+        "defPl": "hyrorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 13,
+      "note": "Verb: hyra (to rent).",
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:flytta",
+      "sv": "flytta",
+      "en": "move (house)",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    },
+    {
+      "id": "vocab:housing:mysig",
+      "sv": "mysig",
+      "en": "cozy",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 13,
+      "tags": [
+        "yki-housing"
+      ]
+    }
+  ]
+}

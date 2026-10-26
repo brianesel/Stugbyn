@@ -19,7 +19,7 @@ const playable = library.regions.reduce((n, r) => n + r.items.length, 0);
 
 console.log(
   `\nContent v${library.version}: ${library.regions.length} region(s), ${playable} playable items, ` +
-    `${library.nouns.nouns.length} nouns, ${library.vocab.length} vocab theme(s).`,
+    `${library.nouns.nouns.length} nouns, ${library.decks.reduce((n, d) => n + d.entries.length, 0)} words in ${library.decks.length} decks (${library.decks.reduce((n, d) => n + d.items.length, 0)} deck items).`,
 );
 console.log(`${errors} error(s), ${warnings} warning(s).`);
 process.exit(errors + warnings > 0 ? 1 : 0);

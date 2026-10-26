@@ -63,7 +63,11 @@ export function Game({ mode, regionId }: { mode: Mode; regionId: string | null }
     return () => window.removeEventListener('keydown', onKey);
   }, [result, item, next, settings.rate]);
 
-  const backHref = regionId ? `#/region/${encodeURIComponent(regionId)}` : '#/';
+  const backHref = regionId?.startsWith('deck:')
+    ? `#/words/${encodeURIComponent(regionId.slice(5))}`
+    : regionId
+      ? `#/region/${encodeURIComponent(regionId)}`
+      : '#/';
 
   if (!matches || !state) return null;
 
@@ -107,7 +111,11 @@ export function Game({ mode, regionId }: { mode: Mode; regionId: string | null }
       {exerciseAsk(item) && <p className="ask">{exerciseAsk(item)}</p>}
       {prompt && (
         <div className="prompt-row">
-          <Prompt text={prompt} fill={result && (item.kind === 'choice' || item.kind === 'type') ? item.answer : null} />
+          <Prompt
+            text={prompt}
+            lang={item.promptLang}
+            fill={result && (item.kind === 'choice' || item.kind === 'type') ? item.answer : null}
+          />
           {spoken && <AudioButton text={spoken} label="Play the prompt" />}
         </div>
       )}
@@ -124,6 +132,7 @@ export function Game({ mode, regionId }: { mode: Mode; regionId: string | null }
 
 /** Speak the prompt only when it is complete Swedish (no gap to give away). */
 function spokenPrompt(item: Item): string | null {
+  if (item.promptLang === 'en') return null;
   const p = exercisePrompt(item);
   return p && !/_{2,}/.test(p) ? p : null;
 }

@@ -17,6 +17,7 @@ import {
   VocabFile,
 } from './schemas';
 import { generators } from './generators';
+import { generateDeckItems } from './generators/vocab';
 
 /** Raw JSON keyed by file path, as read by Vite’s import.meta.glob or by Node’s fs in scripts. */
 export type RawContent = {
@@ -40,6 +41,9 @@ export type LibraryRegion = Region & { slug: string; items: Item[] };
 
 export type VocabTheme = { file: string; theme: string; title: string; entries: VocabEntry[] };
 
+/** A word deck: one vocab theme with its playable items. Its pseudo-region id is `deck:<theme>`. */
+export type Deck = { id: string; theme: string; title: string; entries: VocabEntry[]; items: Item[] };
+
 export type Library = {
   version: number;
   ui: UiStrings;
@@ -52,6 +56,7 @@ export type Library = {
   verbs: VerbTable | null;
   adjectives: AdjectiveTable | null;
   vocab: VocabTheme[];
+  decks: Deck[];
 };
 
 export type BuildResult = {
@@ -107,7 +112,7 @@ export function buildLibrary(raw: RawContent): BuildResult {
     vocab.push({ file, theme: f.theme, title: f.title, entries });
   }
 
-  // Noun table, with complete countable vocab nouns merged in
+  // Noun table. Vocab nouns are checked like table nouns but practised in their theme decks, not in Substantiv.
   const nounsFile = 'content/grammar/nouns.json';
   const table = parse(NounTable, raw.nouns, nounsFile);
   const nouns: Noun[] = [];
@@ -118,7 +123,6 @@ export function buildLibrary(raw: RawContent): BuildResult {
       allNouns.push({ noun, file: nounsFile });
     }
   });
-  const known = new Set(nouns.map((n) => n.sv));
   for (const theme of vocab) {
     for (const e of theme.entries) {
       if (e.pos !== 'noun' || e.countable === false || !e.gender || !e.group) continue;
@@ -134,6 +138,7 @@ export function buildLibrary(raw: RawContent): BuildResult {
         enPl: e.enPl,
         group: e.group,
         note: e.note || undefined,
+        irregular: e.irregular,
         level: e.level,
         lesson: e.lesson,
         tags: e.tags,
@@ -142,9 +147,6 @@ export function buildLibrary(raw: RawContent): BuildResult {
         check: e.check,
       };
       allNouns.push({ noun, file: theme.file });
-      if (known.has(e.sv)) continue;
-      known.add(e.sv);
-      nouns.push(noun);
     }
   }
   const nounTable: NounTable = {
@@ -231,8 +233,25 @@ export function buildLibrary(raw: RawContent): BuildResult {
   }
   regions.sort((a, b) => a.order - b.order);
 
+  // Word decks, one per vocab theme
+  const decks: Deck[] = [];
+  for (const theme of vocab) {
+    const id = `deck:${theme.theme}`;
+    const deckItems: Item[] = [];
+    for (const item of generateDeckItems(theme.theme, theme.entries)) {
+      allItems.push({ item, file: theme.file });
+      if (items.has(item.id)) continue;
+      items.set(item.id, item);
+      itemRegion.set(item.id, id);
+      deckItems.push(item);
+    }
+    const entries = theme.entries.filter((e) => !isHidden(e));
+    decks.push({ id, theme: theme.theme, title: theme.title, entries, items: deckItems });
+  }
+  decks.sort((a, b) => a.title.localeCompare(b.title, 'sv'));
+
   return {
-    library: { version, ui, regions, items, itemRegion, nouns: nounTable, verbs, adjectives, vocab },
+    library: { version, ui, regions, items, itemRegion, nouns: nounTable, verbs, adjectives, vocab, decks },
     issues,
     allItems,
     allNouns,

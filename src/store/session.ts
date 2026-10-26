@@ -33,7 +33,11 @@ type SessionStore = {
 };
 
 const playable = (items: Item[]) => items.filter((i) => PLAYABLE_KINDS.has(i.kind));
-const regionItems = (regionId: string) => library.regions.find((r) => r.id === regionId)?.items ?? [];
+/** Items of a grammar region, or of a word deck (pseudo-region id `deck:<theme>`). */
+const regionItems = (regionId: string) =>
+  (regionId.startsWith('deck:')
+    ? library.decks.find((d) => d.id === regionId)?.items
+    : library.regions.find((r) => r.id === regionId)?.items) ?? [];
 
 /**
  * Item ids for a region and mode. Practice: everything not marked boss (also what mastery counts).

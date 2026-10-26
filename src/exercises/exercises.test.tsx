@@ -80,3 +80,38 @@ describe('OrderExercise', () => {
     expect(onAnswer).toHaveBeenCalledWith('Hon är glad');
   });
 });
+
+describe('MatchExercise', () => {
+  const item = {
+    id: 't:m',
+    kind: 'match' as const,
+    pairs: [
+      ['en ost', 'cheese'],
+      ['ett ägg', 'egg'],
+      ['en lök', 'onion'],
+      ['en kaka', 'cake'],
+    ] as [string, string][],
+    level: 'A1' as const,
+  };
+  const pair = (sv: string, en: string) => {
+    fireEvent.click(within(screen.getByRole('group', { name: 'Swedish' })).getByRole('button', { name: sv }));
+    fireEvent.click(within(screen.getByRole('group', { name: 'English' })).getByRole('button', { name: en }));
+  };
+
+  it('answers true when every pair is found without a mistake', async () => {
+    const { MatchExercise } = await import('./MatchExercise');
+    const onAnswer = vi.fn();
+    render(<MatchExercise item={item} result={null} onAnswer={onAnswer} />);
+    for (const [sv, en] of item.pairs) pair(sv, en);
+    expect(onAnswer).toHaveBeenCalledWith(true);
+  });
+
+  it('answers false after a wrong pairing', async () => {
+    const { MatchExercise } = await import('./MatchExercise');
+    const onAnswer = vi.fn();
+    render(<MatchExercise item={item} result={null} onAnswer={onAnswer} />);
+    pair('en ost', 'egg');
+    for (const [sv, en] of item.pairs) pair(sv, en);
+    expect(onAnswer).toHaveBeenCalledWith(false);
+  });
+});

@@ -22,20 +22,28 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icon.svg'],
+      includeAssets: ['icon.svg', 'apple-touch-icon.png', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png'],
       manifest: {
         name: 'Stugbyn',
         short_name: 'Stugbyn',
         description: 'Learn Swedish A1–A2 in a small village of games.',
-        theme_color: '#9B2B21',
+        id: './',
+        theme_color: '#E9EFEE',
         background_color: '#E9EFEE',
         display: 'standalone',
+        orientation: 'portrait',
         start_url: './',
-        icons: [{ src: 'icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any maskable' }],
+        scope: './',
+        icons: [
+          { src: 'icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+          { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+          { src: 'icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+          { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
+        ],
       },
       workbox: {
         // Content JSON is bundled into the JS chunks, so precaching the build output covers it.
-        globPatterns: ['**/*.{js,css,html,svg,woff2,json,mp3}'],
+        globPatterns: ['**/*.{js,css,html,svg,png,woff2,json,mp3}'],
         navigateFallback: 'index.html',
       },
     }),

@@ -1,0 +1,567 @@
+{
+  "theme": "school",
+  "title": "Skola",
+  "entries": [
+    {
+      "id": "vocab:school:elev",
+      "sv": "elev",
+      "en": "pupil",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "eleven",
+        "pl": "elever",
+        "defPl": "eleverna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:larare",
+      "sv": "lärare",
+      "en": "teacher",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "läraren",
+        "pl": "lärare",
+        "defPl": "lärarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "note": "Group 5: en lärare → två lärare, de lärarna.",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:skola",
+      "sv": "skola",
+      "en": "school",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "skolan",
+        "pl": "skolor",
+        "defPl": "skolorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:lektion",
+      "sv": "lektion",
+      "en": "lesson",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "lektionen",
+        "pl": "lektioner",
+        "defPl": "lektionerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:klassrum",
+      "sv": "klassrum",
+      "en": "classroom",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "klassrummet",
+        "pl": "klassrum",
+        "defPl": "klassrummen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "note": "Like rum: klassrummet, klassrummen (double m).",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:amne",
+      "sv": "ämne",
+      "en": "school subject",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "ämnet",
+        "pl": "ämnen",
+        "defPl": "ämnena"
+      },
+      "group": 4,
+      "level": "A1",
+      "lesson": 18,
+      "example": {
+        "sv": "Vilket ämne gillar du mest?",
+        "en": "Which subject do you like most?"
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:prov",
+      "sv": "prov",
+      "en": "exam, test",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "provet",
+        "pl": "prov",
+        "defPl": "proven"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:klara-provet",
+      "sv": "klara provet",
+      "en": "pass the exam",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:betyg",
+      "sv": "betyg",
+      "en": "grade",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "betyget",
+        "pl": "betyg",
+        "defPl": "betygen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:laxa",
+      "sv": "läxa",
+      "en": "homework (task)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "läxan",
+        "pl": "läxor",
+        "defPl": "läxorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 18,
+      "example": {
+        "sv": "Har du gjort läxan?",
+        "en": "Have you done the homework?"
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:forskola",
+      "sv": "förskola",
+      "en": "preschool",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "förskolan",
+        "pl": "förskolor",
+        "defPl": "förskolorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:dagis",
+      "sv": "dagis",
+      "en": "kindergarten, daycare",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "dagiset",
+        "pl": "dagis",
+        "defPl": "dagisen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 18,
+      "note": "Everyday word for förskola.",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:grundskola",
+      "sv": "grundskola",
+      "en": "primary school",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "grundskolan",
+        "pl": "grundskolor",
+        "defPl": "grundskolorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:gymnasium",
+      "sv": "gymnasium",
+      "en": "upper secondary school",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "gymnasiet",
+        "pl": "gymnasier",
+        "defPl": "gymnasierna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 18,
+      "note": "Gymnasium drops -um: gymnasiet, gymnasier. Often just “gymnasiet”.",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:hogskola",
+      "sv": "högskola",
+      "en": "university college",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "högskolan",
+        "pl": "högskolor",
+        "defPl": "högskolorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:universitet",
+      "sv": "universitet",
+      "en": "university",
+      "enPl": "universities",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "universitetet",
+        "pl": "universitet",
+        "defPl": "universiteten"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:ta-studenten",
+      "sv": "ta studenten",
+      "en": "graduate from upper secondary school",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:ta-examen",
+      "sv": "ta examen",
+      "en": "graduate (university)",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:sabbatsar",
+      "sv": "sabbatsår",
+      "en": "gap year",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "sabbatsåret",
+        "pl": "sabbatsår",
+        "defPl": "sabbatsåren"
+      },
+      "group": 5,
+      "level": "A2",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:plugghast",
+      "sv": "plugghäst",
+      "en": "nerd, swot",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "plugghästen",
+        "pl": "plugghästar",
+        "defPl": "plugghästarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:mobba",
+      "sv": "mobba",
+      "en": "bully",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 18,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:plugga",
+      "sv": "plugga",
+      "en": "study",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 18,
+      "example": {
+        "sv": "Jag pluggar svenska.",
+        "en": "I study Swedish."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:lara-sig",
+      "sv": "lära sig",
+      "en": "learn",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 18,
+      "example": {
+        "sv": "Jag lär mig svenska.",
+        "en": "I am learning Swedish."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:duktig-pa",
+      "sv": "duktig på",
+      "en": "good at",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 18,
+      "example": {
+        "sv": "Hon är duktig på matte.",
+        "en": "She is good at maths."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:matte",
+      "sv": "matte",
+      "en": "maths",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "matten"
+      },
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:fysik",
+      "sv": "fysik",
+      "en": "physics",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "fysiken"
+      },
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:kemi",
+      "sv": "kemi",
+      "en": "chemistry",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "kemin"
+      },
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:historia",
+      "sv": "historia",
+      "en": "history",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "historien"
+      },
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:sprak",
+      "sv": "språk",
+      "en": "language",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "språket",
+        "pl": "språk",
+        "defPl": "språken"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:termin",
+      "sv": "termin",
+      "en": "semester, term",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "terminen",
+        "pl": "terminer",
+        "defPl": "terminerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:skolkamrat",
+      "sv": "skolkamrat",
+      "en": "schoolmate",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "skolkamraten",
+        "pl": "skolkamrater",
+        "defPl": "skolkamraterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:skolka",
+      "sv": "skolka",
+      "en": "skip class",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:forklara",
+      "sv": "förklara",
+      "en": "explain",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:school:strang",
+      "sv": "sträng",
+      "en": "strict",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 19,
+      "tags": [
+        "yki-work-study"
+      ]
+    }
+  ]
+}

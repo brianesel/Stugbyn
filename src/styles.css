@@ -487,6 +487,11 @@ a {
 .prompt.sentence {
   font-size: 1.75rem;
 }
+.prompt.english {
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 1.6rem;
+}
 .gap {
   display: inline-block;
   min-width: 2.6em;
@@ -923,4 +928,105 @@ select {
 .sync-icon[data-status='error'],
 .sync-icon[data-status='offline'] {
   color: var(--ochre);
+}
+
+/* Matching */
+.match-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.match-card {
+  font-size: 1rem;
+  min-height: 52px;
+  justify-content: center;
+  text-align: center;
+}
+.match-card.picked {
+  border-color: var(--lake);
+  background: var(--surface-2);
+}
+
+/* Word bank */
+.chips {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  scrollbar-width: none;
+}
+.chips::-webkit-scrollbar {
+  display: none;
+}
+.chip {
+  flex: none;
+  min-height: 40px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 2px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.chip[aria-pressed='true'] {
+  background: var(--falu);
+  border-color: var(--falu);
+  color: var(--on-accent);
+}
+.words {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.word {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 6px 8px 12px;
+  background: var(--surface);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+.word .sv {
+  font-weight: 700;
+}
+.word .forms {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.word .en {
+  margin-left: auto;
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+.level-dot {
+  flex: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid var(--ochre);
+}
+.level-dot[data-level='1'] {
+  background: linear-gradient(to top, var(--ochre) 50%, transparent 50%);
+}
+.level-dot[data-level='2'] {
+  background: var(--ochre);
+}
+.search {
+  font: inherit;
+  width: 100%;
+  min-height: 48px;
+  padding: 8px 14px;
+  border-radius: 12px;
+  border: 2px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
 }

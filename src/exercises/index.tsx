@@ -2,6 +2,7 @@ import type { Item } from '../content/schemas';
 import { ChoiceExercise } from './ChoiceExercise';
 import { HousesExercise } from './HousesExercise';
 import { ListenExercise } from './ListenExercise';
+import { MatchExercise } from './MatchExercise';
 import { OrderExercise } from './OrderExercise';
 import { TypeExercise } from './TypeExercise';
 import type { ExerciseProps } from './types';
@@ -19,6 +20,8 @@ export function Exercise({ item, ...rest }: ExerciseProps) {
       return <OrderExercise item={item} {...rest} />;
     case 'listen':
       return <ListenExercise item={item} {...rest} />;
+    case 'match':
+      return <MatchExercise item={item} {...rest} />;
     default:
       return <p className="muted">This exercise type arrives in a later phase.</p>;
   }

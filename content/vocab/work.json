@@ -1,0 +1,884 @@
+{
+  "theme": "work",
+  "title": "Arbete",
+  "entries": [
+    {
+      "id": "vocab:work:jobb",
+      "sv": "jobb",
+      "en": "job",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "jobbet",
+        "pl": "jobb",
+        "defPl": "jobben"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Jag har ett nytt jobb.",
+        "en": "I have a new job."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:arbete",
+      "sv": "arbete",
+      "en": "work, job",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "arbetet",
+        "pl": "arbeten",
+        "defPl": "arbetena"
+      },
+      "group": 4,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:jobba",
+      "sv": "jobba",
+      "en": "work",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Jag jobbar på ett kontor.",
+        "en": "I work in an office."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:arbeta",
+      "sv": "arbeta",
+      "en": "work",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:foretag",
+      "sv": "företag",
+      "en": "company",
+      "enPl": "companies",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "företaget",
+        "pl": "företag",
+        "defPl": "företagen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:kontor",
+      "sv": "kontor",
+      "en": "office",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "kontoret",
+        "pl": "kontor",
+        "defPl": "kontoren"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:jobba-pa",
+      "sv": "jobba på",
+      "en": "work at (+ place)",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Hon jobbar på ett sjukhus.",
+        "en": "She works at a hospital."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:jobba-som",
+      "sv": "jobba som",
+      "en": "work as (+ profession)",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Han jobbar som lärare.",
+        "en": "He works as a teacher."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:larare",
+      "sv": "lärare",
+      "en": "teacher",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "läraren",
+        "pl": "lärare",
+        "defPl": "lärarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "note": "Group 5: en lärare → två lärare, de lärarna.",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:lakare",
+      "sv": "läkare",
+      "en": "doctor",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "läkaren",
+        "pl": "läkare",
+        "defPl": "läkarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "note": "Group 5: en läkare → två läkare, de läkarna.",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:ingenjor",
+      "sv": "ingenjör",
+      "en": "engineer",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "ingenjören",
+        "pl": "ingenjörer",
+        "defPl": "ingenjörerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:servitor",
+      "sv": "servitör",
+      "en": "waiter",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "servitören",
+        "pl": "servitörer",
+        "defPl": "servitörerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:servitris",
+      "sv": "servitris",
+      "en": "waitress",
+      "enPl": "waitresses",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "servitrisen",
+        "pl": "servitriser",
+        "defPl": "servitriserna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:advokat",
+      "sv": "advokat",
+      "en": "lawyer",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "advokaten",
+        "pl": "advokater",
+        "defPl": "advokaterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:sjukskoterska",
+      "sv": "sjuksköterska",
+      "en": "nurse",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "sjuksköterskan",
+        "pl": "sjuksköterskor",
+        "defPl": "sjuksköterskorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:chef",
+      "sv": "chef",
+      "en": "boss",
+      "enPl": "bosses",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "chefen",
+        "pl": "chefer",
+        "defPl": "cheferna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "note": "Exception: chef looks like Group 2 but takes -er: chefer.",
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:programmerare",
+      "sv": "programmerare",
+      "en": "programmer",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "programmeraren",
+        "pl": "programmerare",
+        "defPl": "programmerarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:musiker",
+      "sv": "musiker",
+      "en": "musician",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "musikern",
+        "pl": "musiker",
+        "defPl": "musikerna"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:malare",
+      "sv": "målare",
+      "en": "painter",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "målaren",
+        "pl": "målare",
+        "defPl": "målarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:politiker",
+      "sv": "politiker",
+      "en": "politician",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "politikern",
+        "pl": "politiker",
+        "defPl": "politikerna"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:arkitekt",
+      "sv": "arkitekt",
+      "en": "architect",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "arkitekten",
+        "pl": "arkitekter",
+        "defPl": "arkitekterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:entreprenor",
+      "sv": "entreprenör",
+      "en": "entrepreneur",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "entreprenören",
+        "pl": "entreprenörer",
+        "defPl": "entreprenörerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:konstnar",
+      "sv": "konstnär",
+      "en": "artist",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "konstnären",
+        "pl": "konstnärer",
+        "defPl": "konstnärerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:forskare",
+      "sv": "forskare",
+      "en": "researcher",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "forskaren",
+        "pl": "forskare",
+        "defPl": "forskarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:jobba-hemifran",
+      "sv": "jobba hemifrån",
+      "en": "work from home",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 20,
+      "example": {
+        "sv": "Jag jobbar hemifrån på fredagar.",
+        "en": "I work from home on Fridays."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:pa-distans",
+      "sv": "på distans",
+      "en": "remotely",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:kollega",
+      "sv": "kollega",
+      "en": "colleague",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kollegan",
+        "pl": "kollegor",
+        "defPl": "kollegorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:lon",
+      "sv": "lön",
+      "en": "salary",
+      "enPl": "salaries",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "lönen",
+        "pl": "löner",
+        "defPl": "lönerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:arbetsgivare",
+      "sv": "arbetsgivare",
+      "en": "employer",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "arbetsgivaren",
+        "pl": "arbetsgivare",
+        "defPl": "arbetsgivarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:anstalld",
+      "sv": "anställd",
+      "en": "employee",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "anställda",
+        "pl": "anställda",
+        "defPl": "anställda"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "lesson": 20,
+      "note": "Adjective used as a noun: en anställd, den anställda (or anställde), två anställda, de anställda.",
+      "check": true,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:ansvar",
+      "sv": "ansvar",
+      "en": "responsibility",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "ansvaret"
+      },
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:heltid",
+      "sv": "heltid",
+      "en": "full-time",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "heltiden"
+      },
+      "level": "A1",
+      "lesson": 20,
+      "example": {
+        "sv": "Jag jobbar heltid.",
+        "en": "I work full-time."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:deltid",
+      "sv": "deltid",
+      "en": "part-time",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "deltiden"
+      },
+      "level": "A1",
+      "lesson": 20,
+      "example": {
+        "sv": "Hon jobbar deltid.",
+        "en": "She works part-time."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:jobba-over",
+      "sv": "jobba över",
+      "en": "work overtime",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:mammaledig",
+      "sv": "mammaledig",
+      "en": "on maternity leave",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:pappaledig",
+      "sv": "pappaledig",
+      "en": "on paternity leave",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:arbetslos",
+      "sv": "arbetslös",
+      "en": "unemployed",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:saga-upp-sig",
+      "sv": "säga upp sig",
+      "en": "resign, quit one’s job",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:starta-eget",
+      "sv": "starta eget",
+      "en": "start your own company",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:valbetald",
+      "sv": "välbetald",
+      "en": "well-paid",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:nojd",
+      "sv": "nöjd",
+      "en": "satisfied",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 20,
+      "example": {
+        "sv": "Jag är nöjd med mitt jobb.",
+        "en": "I am satisfied with my job."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:trygg",
+      "sv": "trygg",
+      "en": "safe, secure",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 20,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:arbetsmiljo",
+      "sv": "arbetsmiljö",
+      "en": "working environment",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "arbetsmiljön",
+        "pl": "arbetsmiljöer",
+        "defPl": "arbetsmiljöerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:uppgift",
+      "sv": "uppgift",
+      "en": "task",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "uppgiften",
+        "pl": "uppgifter",
+        "defPl": "uppgifterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:utbrand",
+      "sv": "utbränd",
+      "en": "burnt out",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:sjukskrivning",
+      "sv": "sjukskrivning",
+      "en": "sick leave",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "sjukskrivningen",
+        "pl": "sjukskrivningar",
+        "defPl": "sjukskrivningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:tjana-pengar",
+      "sv": "tjäna pengar",
+      "en": "earn money",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:pendla",
+      "sv": "pendla",
+      "en": "commute",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 21,
+      "example": {
+        "sv": "Jag pendlar till jobbet med tåg.",
+        "en": "I commute to work by train."
+      },
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:spara-tid",
+      "sv": "spara tid",
+      "en": "save time",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:mote",
+      "sv": "möte",
+      "en": "meeting",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "mötet",
+        "pl": "möten",
+        "defPl": "mötena"
+      },
+      "group": 4,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:fordel",
+      "sv": "fördel",
+      "en": "advantage",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "fördelen",
+        "pl": "fördelar",
+        "defPl": "fördelarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:nackdel",
+      "sv": "nackdel",
+      "en": "disadvantage",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "nackdelen",
+        "pl": "nackdelar",
+        "defPl": "nackdelarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:byta-jobb",
+      "sv": "byta jobb",
+      "en": "switch jobs",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    },
+    {
+      "id": "vocab:work:erfarenhet",
+      "sv": "erfarenhet",
+      "en": "experience",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "erfarenheten",
+        "pl": "erfarenheter",
+        "defPl": "erfarenheterna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 21,
+      "tags": [
+        "yki-work-study"
+      ]
+    }
+  ]
+}

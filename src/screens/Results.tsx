@@ -14,9 +14,10 @@ export function Results() {
   if (!summary) return null;
 
   const region = summary.regionId ? library.regions.find((r) => r.id === summary.regionId) : null;
+  const deck = summary.regionId ? library.decks.find((d) => d.id === summary.regionId) : null;
   const again = summary.mode === 'review' ? '#/play/review' : `#/play/${summary.mode}/${encodeURIComponent(summary.regionId ?? '')}`;
   const boss = summary.mode === 'boss';
-  const back = region ? `#/region/${encodeURIComponent(region.id)}` : '#/';
+  const back = region ? `#/region/${encodeURIComponent(region.id)}` : deck ? `#/words/${encodeURIComponent(deck.theme)}` : '#/';
   const perfect = summary.score === summary.total;
 
   return (
@@ -76,9 +77,9 @@ export function Results() {
           {summary.mode === 'review' ? 'Review more' : boss ? 'Fight again' : 'Another round'}
         </a>
         <a className="btn" href={back}>
-          {region ? (
+          {region || deck ? (
             <span>
-              Back to <span lang="sv">{region.name}</span>
+              Back to <span lang="sv">{region?.name ?? deck?.title}</span>
             </span>
           ) : (
             'Back to the village'

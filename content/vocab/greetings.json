@@ -1,0 +1,473 @@
+{
+  "theme": "greetings",
+  "title": "Hälsningar och fraser",
+  "entries": [
+    {
+      "id": "vocab:greetings:jag-heter",
+      "sv": "Hej! Jag heter …",
+      "en": "Hi! My name is …",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Hej! Jag heter Anna.",
+        "en": "Hi! My name is Anna."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-bor-i",
+      "sv": "Jag bor i …",
+      "en": "I live in …",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Jag bor i Helsingfors.",
+        "en": "I live in Helsinki."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-kommer-fran",
+      "sv": "Jag kommer från …",
+      "en": "I come from …",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Jag kommer från Vietnam.",
+        "en": "I come from Vietnam."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-talar-och-lite-svenska",
+      "sv": "Jag talar … och lite svenska",
+      "en": "I speak … and a little Swedish",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Jag talar engelska och lite svenska.",
+        "en": "I speak English and a little Swedish."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:och",
+      "sv": "och",
+      "en": "and",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:lite",
+      "sv": "lite",
+      "en": "a little",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:hur-ar-det",
+      "sv": "Hur är det?",
+      "en": "How are you? / How’s it going?",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:hur-ar-laget",
+      "sv": "Hur är läget?",
+      "en": "How’s it going? (informal)",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:hur-mar-du",
+      "sv": "Hur mår du?",
+      "en": "How are you (feeling)?",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-mar-bra",
+      "sv": "Jag mår bra",
+      "en": "I’m fine",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "example": {
+        "sv": "Tack, jag mår bra.",
+        "en": "Thanks, I’m fine."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:det-ar-bra",
+      "sv": "Det är bra",
+      "en": "It’s fine / I’m good",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:toppen",
+      "sv": "Toppen!",
+      "en": "Great!",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:okej",
+      "sv": "Okej",
+      "en": "okay",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:sa-dar",
+      "sv": "Så där",
+      "en": "so-so",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:ganska-daligt",
+      "sv": "Ganska dåligt",
+      "en": "quite bad",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-ar-trott",
+      "sv": "Jag är trött",
+      "en": "I’m tired",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:krya-pa-dig",
+      "sv": "Krya på dig!",
+      "en": "Get well soon!",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 12,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:ja",
+      "sv": "ja",
+      "en": "yes",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:nej",
+      "sv": "nej",
+      "en": "no",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:tack",
+      "sv": "tack",
+      "en": "thanks, thank you",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:ursakta",
+      "sv": "Ursäkta",
+      "en": "excuse me",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A1",
+      "lesson": 3,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:forlat",
+      "sv": "Förlåt",
+      "en": "sorry",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 3,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:herregud",
+      "sv": "Herregud",
+      "en": "oh my goodness",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:det-later-bra",
+      "sv": "Det låter bra",
+      "en": "it sounds good",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:oroa-dig-inte",
+      "sv": "Oroa dig inte",
+      "en": "don’t worry",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:garna",
+      "sv": "Gärna",
+      "en": "gladly, I’d love to",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 7,
+      "example": {
+        "sv": "Vill du ha kaffe? – Ja, gärna!",
+        "en": "Would you like coffee? – Yes, please!"
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-haller-med",
+      "sv": "Jag håller med",
+      "en": "I agree",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-haller-inte-med",
+      "sv": "Jag håller inte med",
+      "en": "I don’t agree",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-haller-delvis-med",
+      "sv": "Jag håller delvis med",
+      "en": "I partially agree",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:enligt-mig",
+      "sv": "Enligt mig",
+      "en": "in my opinion",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:det-beror-pa",
+      "sv": "Det beror på",
+      "en": "it depends",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:jag-tycker-att",
+      "sv": "Jag tycker att …",
+      "en": "I think that … (opinion)",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A1",
+      "lesson": 17,
+      "example": {
+        "sv": "Jag tycker att svenska är roligt.",
+        "en": "I think Swedish is fun."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:forresten",
+      "sv": "Förresten",
+      "en": "by the way",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 12,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:hej-da",
+      "sv": "Hej då",
+      "en": "bye",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:vi-ses",
+      "sv": "Vi ses!",
+      "en": "See you!",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:tack-sa-mycket",
+      "sv": "Tack så mycket",
+      "en": "thank you very much",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:greetings:varsagod",
+      "sv": "Varsågod",
+      "en": "you’re welcome; here you are",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 3,
+      "tags": [
+        "yki-relationships"
+      ]
+    }
+  ]
+}

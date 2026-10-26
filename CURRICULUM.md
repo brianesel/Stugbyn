@@ -27,4 +27,4 @@ Which class lesson taught what, and where it lives in the app. Source: the class
 | 21 | 26 Oct | Remote vs office work; å ena sidan / å andra sidan; restaurant; housing (rooms, en tvåa, på gångavstånd, utsikt över) | Bisatser, Substantiv (housing nouns) |
 | 22 | — | Speaking: your ideal home (prepared at lesson 21) | Exam Hall speaking (Phase 5) |
 
-**Not in the app yet:** vocabulary themes from the lessons (Phase 3: Word bank and decks), formal writing and directions (Phase 5: Exam Hall).
+**Vocabulary** from every lesson lives in the Word bank (`content/vocab/*.json`, 17 themes). **Not in the app yet:** formal writing practice and speaking tasks (Phase 5: Exam Hall).

@@ -27,6 +27,8 @@ const itemBase = {
   say: z.string().optional(),
   /** Boss-only item (harder: typed or order). Excluded from practice rounds and mastery. */
   boss: z.boolean().optional(),
+  /** Language of the prompt text; English prompts (word decks) are shown in the body font. Default sv. */
+  promptLang: z.enum(['sv', 'en']).optional(),
 };
 
 export const ChoiceItem = z.object({
@@ -184,8 +186,11 @@ export const VocabEntry = z
       .object({ def: z.string().optional(), pl: z.string().optional(), defPl: z.string().optional() })
       .optional(),
     group: z.number().int().min(1).max(5).optional(),
+    /** Listed irregular noun: skips the group / definite-plural agreement checks. */
+    irregular: z.boolean().optional(),
     example: z.object({ sv: z.string(), en: z.string() }).optional(),
     note: z.string().optional(),
+    /** Phrase-bank function tag, e.g. "greeting", "opinion", "complaint". */
     function: z.string().optional(),
   })
   .superRefine((e, ctx) => {

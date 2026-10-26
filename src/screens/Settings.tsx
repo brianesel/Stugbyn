@@ -1,5 +1,6 @@
 import { useRef, useState } from 'react';
 import { AccountPanel } from '../components/AccountPanel';
+import { InstallSteps, isStandalone } from '../components/InstallHint';
 import { useAccount } from '../store/account';
 import type { SpeechRate, Theme } from '../store/save';
 import { useProgress } from '../store/progress';
@@ -109,6 +110,19 @@ export function Settings() {
           <span className="small muted">Highlights the matching cabin and unlocks later regions.</span>
         </div>
       </section>
+
+      {!isStandalone() && (
+        <section className="card stack" aria-labelledby="install-settings-title">
+          <h2 id="install-settings-title">Install on your phone</h2>
+          <p className="small muted" style={{ margin: 0 }}>
+            iPhone and iPad:
+          </p>
+          <InstallSteps />
+          <p className="small muted" style={{ margin: 0 }}>
+            Android: open the ⋮ menu in Chrome and choose <strong>Install app</strong> or <strong>Add to Home screen</strong>.
+          </p>
+        </section>
+      )}
 
       <section className="card stack" aria-labelledby="backup-title">
         <h2 id="backup-title">Backup</h2>

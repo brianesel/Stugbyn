@@ -1,0 +1,598 @@
+{
+  "theme": "family",
+  "title": "Familj och relationer",
+  "entries": [
+    {
+      "id": "vocab:family:van",
+      "sv": "vän",
+      "en": "friend",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "vännen",
+        "pl": "vänner",
+        "defPl": "vännerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:pojkvan",
+      "sv": "pojkvän",
+      "en": "boyfriend",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "pojkvännen",
+        "pl": "pojkvänner",
+        "defPl": "pojkvännerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:flickvan",
+      "sv": "flickvän",
+      "en": "girlfriend",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "flickvännen",
+        "pl": "flickvänner",
+        "defPl": "flickvännerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:sambo",
+      "sv": "sambo",
+      "en": "partner (living together)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "sambon",
+        "pl": "sambor",
+        "defPl": "samborna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "example": {
+        "sv": "Jag bor med min sambo.",
+        "en": "I live with my partner."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:sarbo",
+      "sv": "särbo",
+      "en": "partner (living apart)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "särbon",
+        "pl": "särbor",
+        "defPl": "särborna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:gift",
+      "sv": "gift",
+      "en": "married",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 2,
+      "example": {
+        "sv": "Är du gift?",
+        "en": "Are you married?"
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:man",
+      "sv": "man",
+      "en": "husband; man",
+      "enPl": "husbands; men",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "mannen",
+        "pl": "män",
+        "defPl": "männen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Irregular: en man, mannen, män, männen.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:fru",
+      "sv": "fru",
+      "en": "wife",
+      "enPl": "wives",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "frun",
+        "pl": "fruar",
+        "defPl": "fruarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:maka",
+      "sv": "maka",
+      "en": "spouse (wife)",
+      "enPl": "spouses (wives)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "makan",
+        "pl": "makor",
+        "defPl": "makorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:make",
+      "sv": "make",
+      "en": "spouse (husband)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "maken",
+        "pl": "makar",
+        "defPl": "makarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:barn",
+      "sv": "barn",
+      "en": "child",
+      "enPl": "children",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "barnet",
+        "pl": "barn",
+        "defPl": "barnen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 2,
+      "example": {
+        "sv": "Vi har två barn.",
+        "en": "We have two children."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:son",
+      "sv": "son",
+      "en": "son",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "sonen",
+        "pl": "söner",
+        "defPl": "sönerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Vowel change: son → söner.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:dotter",
+      "sv": "dotter",
+      "en": "daughter",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "dottern",
+        "pl": "döttrar",
+        "defPl": "döttrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Vowel change: dotter → döttrar.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:bror",
+      "sv": "bror",
+      "en": "brother",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "brodern",
+        "pl": "bröder",
+        "defPl": "bröderna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Definite singular is brodern (also brorn in speech); plural bröder.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:syster",
+      "sv": "syster",
+      "en": "sister",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "systern",
+        "pl": "systrar",
+        "defPl": "systrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:syskon",
+      "sv": "syskon",
+      "en": "sibling",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "syskonet",
+        "pl": "syskon",
+        "defPl": "syskonen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 2,
+      "example": {
+        "sv": "Har du syskon?",
+        "en": "Do you have any siblings?"
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:singel",
+      "sv": "singel",
+      "en": "single",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:skild",
+      "sv": "skild",
+      "en": "divorced",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:skilja-sig",
+      "sv": "skilja sig",
+      "en": "get divorced",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:gora-slut",
+      "sv": "göra slut",
+      "en": "break up",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:foralder",
+      "sv": "förälder",
+      "en": "parent",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "föräldern",
+        "pl": "föräldrar",
+        "defPl": "föräldrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Plural föräldrar, föräldrarna.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:mamma",
+      "sv": "mamma",
+      "en": "mum",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "mamman",
+        "pl": "mammor",
+        "defPl": "mammorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:pappa",
+      "sv": "pappa",
+      "en": "dad",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "pappan",
+        "pl": "pappor",
+        "defPl": "papporna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 2,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:farmor",
+      "sv": "farmor",
+      "en": "grandmother (father’s mother)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "farmodern",
+        "pl": "farmödrar",
+        "defPl": "farmödrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Definite also farmorn in speech.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:farfar",
+      "sv": "farfar",
+      "en": "grandfather (father’s father)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "farfadern",
+        "pl": "farfäder",
+        "defPl": "farfäderna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Definite also farfarn in speech.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:mormor",
+      "sv": "mormor",
+      "en": "grandmother (mother’s mother)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "mormodern",
+        "pl": "mormödrar",
+        "defPl": "mormödrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Definite also mormorn in speech.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:morfar",
+      "sv": "morfar",
+      "en": "grandfather (mother’s father)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "morfadern",
+        "pl": "morfäder",
+        "defPl": "morfäderna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "note": "Definite also morfarn in speech.",
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:ensamstaende-foralder",
+      "sv": "ensamstående förälder",
+      "en": "single parent",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:familj",
+      "sv": "familj",
+      "en": "family",
+      "enPl": "families",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "familjen",
+        "pl": "familjer",
+        "defPl": "familjerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 2,
+      "example": {
+        "sv": "Min familj bor i Vasa.",
+        "en": "My family lives in Vaasa."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:ensambarn",
+      "sv": "ensambarn",
+      "en": "only child",
+      "enPl": "only children",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "ensambarnet",
+        "pl": "ensambarn",
+        "defPl": "ensambarnen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:gifta-sig",
+      "sv": "gifta sig",
+      "en": "get married",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:kusin",
+      "sv": "kusin",
+      "en": "cousin",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kusinen",
+        "pl": "kusiner",
+        "defPl": "kusinerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:barnfri",
+      "sv": "barnfri",
+      "en": "child-free",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:family:granne",
+      "sv": "granne",
+      "en": "neighbour",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "grannen",
+        "pl": "grannar",
+        "defPl": "grannarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-relationships"
+      ]
+    }
+  ]
+}

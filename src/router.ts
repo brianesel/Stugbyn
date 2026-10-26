@@ -7,7 +7,8 @@ export type Route =
   | { name: 'play'; mode: 'practice' | 'boss'; id: string }
   | { name: 'play'; mode: 'review'; id: null }
   | { name: 'results' }
-  | { name: 'settings' };
+  | { name: 'settings' }
+  | { name: 'words'; theme: string | null };
 
 export function parseHash(hash: string): Route {
   const parts = hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
@@ -18,6 +19,7 @@ export function parseHash(hash: string): Route {
   if (a === 'play' && b === 'review') return { name: 'play', mode: 'review', id: null };
   if (a === 'results') return { name: 'results' };
   if (a === 'settings') return { name: 'settings' };
+  if (a === 'words') return { name: 'words', theme: b ?? null };
   return { name: 'village' };
 }
 

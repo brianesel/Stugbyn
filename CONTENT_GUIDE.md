@@ -1,6 +1,6 @@
 # Content guide
 
-> Copied from SPEC.md, “Growing the library”. **Status after Phase 2:** `npm run validate` and `npm run dev` work as described, and verbs/adjectives added to `content/grammar/verbs.json` and `adjectives.json` generate items for every relevant region automatically. The `new-item`, `import-inbox` and `content-report` scripts, the Word bank and theme decks arrive in Phase 3. Until then, add nouns to `content/grammar/nouns.json` or to a vocab theme file (nouns with full forms are merged into the Substantiv region automatically).
+> Copied from SPEC.md, “Growing the library”. **Status after Phase 3:** everything below works: `npm run validate`, `npm run new-item`, `npm run import-inbox`, `npm run content-report` and the Word bank. One difference from the original plan: vocab nouns are practised in their theme deck (with en/ett items), not merged into the Substantiv region. Add new words at the end of a theme file so the matching rounds keep their ids.
 >
 > Phase 2 additions: mark harder hand-written items with `"boss": true` (they appear only in boss battles). A verb row needs `en`, `en3`, `enPast`, `enPp` and, if it has an `object`, `objectEn`. If a real word is flagged as a missing å/ä/ö, add it to `content/allowed-words.json`.
 >

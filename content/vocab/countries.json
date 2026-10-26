@@ -1,0 +1,408 @@
+{
+  "theme": "countries",
+  "title": "Länder och språk",
+  "entries": [
+    {
+      "id": "vocab:countries:finland",
+      "sv": "Finland",
+      "en": "Finland",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Jag bor i Finland.",
+        "en": "I live in Finland."
+      },
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:sverige",
+      "sv": "Sverige",
+      "en": "Sweden",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:ryssland",
+      "sv": "Ryssland",
+      "en": "Russia",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:indien",
+      "sv": "Indien",
+      "en": "India",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:iran",
+      "sv": "Iran",
+      "en": "Iran",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:mexiko",
+      "sv": "Mexiko",
+      "en": "Mexico",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:egypten",
+      "sv": "Egypten",
+      "en": "Egypt",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:usa",
+      "sv": "USA",
+      "en": "the USA",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:tyskland",
+      "sv": "Tyskland",
+      "en": "Germany",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:turkiet",
+      "sv": "Turkiet",
+      "en": "Turkey",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:grekland",
+      "sv": "Grekland",
+      "en": "Greece",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:spanien",
+      "sv": "Spanien",
+      "en": "Spain",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:pakistan",
+      "sv": "Pakistan",
+      "en": "Pakistan",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:vietnam",
+      "sv": "Vietnam",
+      "en": "Vietnam",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:norge",
+      "sv": "Norge",
+      "en": "Norway",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:danmark",
+      "sv": "Danmark",
+      "en": "Denmark",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:england",
+      "sv": "England",
+      "en": "England",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:kina",
+      "sv": "Kina",
+      "en": "China",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:finska",
+      "sv": "finska",
+      "en": "Finnish",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:svenska",
+      "sv": "svenska",
+      "en": "Swedish",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Jag talar lite svenska.",
+        "en": "I speak a little Swedish."
+      },
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:ryska",
+      "sv": "ryska",
+      "en": "Russian",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:hindi",
+      "sv": "hindi",
+      "en": "Hindi",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:urdu",
+      "sv": "urdu",
+      "en": "Urdu",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:engelska",
+      "sv": "engelska",
+      "en": "English (language)",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:spanska",
+      "sv": "spanska",
+      "en": "Spanish (language)",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:persiska",
+      "sv": "persiska",
+      "en": "Persian (language)",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:arabiska",
+      "sv": "arabiska",
+      "en": "Arabic (language)",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:vietnamesiska",
+      "sv": "vietnamesiska",
+      "en": "Vietnamese (language)",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:tyska",
+      "sv": "tyska",
+      "en": "German (language)",
+      "pos": "other",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:svensk",
+      "sv": "svensk",
+      "en": "Swedish (nationality)",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:finsk",
+      "sv": "finsk",
+      "en": "Finnish (nationality)",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:tysk",
+      "sv": "tysk",
+      "en": "German (nationality)",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 1,
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:land",
+      "sv": "land",
+      "en": "country",
+      "enPl": "countries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "landet",
+        "pl": "länder",
+        "defPl": "länderna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 1,
+      "note": "Vowel change: land → länder.",
+      "tags": [
+        "yki-society"
+      ]
+    },
+    {
+      "id": "vocab:countries:sprak",
+      "sv": "språk",
+      "en": "language",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "språket",
+        "pl": "språk",
+        "defPl": "språken"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 1,
+      "example": {
+        "sv": "Vilka språk talar du?",
+        "en": "Which languages do you speak?"
+      },
+      "tags": [
+        "yki-society"
+      ]
+    }
+  ]
+}

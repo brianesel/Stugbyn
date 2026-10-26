@@ -1,0 +1,483 @@
+{
+  "theme": "time",
+  "title": "Tid och vanor",
+  "entries": [
+    {
+      "id": "vocab:time:pa-fritiden",
+      "sv": "på fritiden",
+      "en": "in my free time",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Vad gör du på fritiden?",
+        "en": "What do you do in your free time?"
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:pa-helgen",
+      "sv": "på helgen",
+      "en": "at the weekend",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:pa-morgonen",
+      "sv": "på morgonen",
+      "en": "in the morning",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:pa-eftermiddagen",
+      "sv": "på eftermiddagen",
+      "en": "in the afternoon",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:pa-kvallen",
+      "sv": "på kvällen",
+      "en": "in the evening",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:da-och-da",
+      "sv": "då och då",
+      "en": "from time to time",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:alltid",
+      "sv": "alltid",
+      "en": "always",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:ofta",
+      "sv": "ofta",
+      "en": "often",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:ibland",
+      "sv": "ibland",
+      "en": "sometimes",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:sallan",
+      "sv": "sällan",
+      "en": "rarely",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:aldrig",
+      "sv": "aldrig",
+      "en": "never",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Jag dricker aldrig kaffe.",
+        "en": "I never drink coffee."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:igar",
+      "sv": "igår",
+      "en": "yesterday",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 6,
+      "note": "Also written i går.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:idag",
+      "sv": "idag",
+      "en": "today",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 6,
+      "note": "Also written i dag.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:imorgon",
+      "sv": "imorgon",
+      "en": "tomorrow",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 6,
+      "note": "Also written i morgon.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:imorse",
+      "sv": "imorse",
+      "en": "this morning",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 6,
+      "note": "Also written i morse. Only about this morning that has passed.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:ikvall",
+      "sv": "ikväll",
+      "en": "tonight, this evening",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 6,
+      "note": "Also written i kväll.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:forra-veckan",
+      "sv": "förra veckan",
+      "en": "last week",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 6,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:forra-aret",
+      "sv": "förra året",
+      "en": "last year",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 6,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:nasta-vecka",
+      "sv": "nästa vecka",
+      "en": "next week",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 6,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:nasta-ar",
+      "sv": "nästa år",
+      "en": "next year",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 6,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:for-sedan",
+      "sv": "för … sedan",
+      "en": "… ago",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 11,
+      "example": {
+        "sv": "Jag flyttade hit för två år sedan.",
+        "en": "I moved here two years ago."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:snart",
+      "sv": "snart",
+      "en": "soon",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 11,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:sent",
+      "sv": "sent",
+      "en": "late",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 11,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:tidigt",
+      "sv": "tidigt",
+      "en": "early",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 11,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:redan",
+      "sv": "redan",
+      "en": "already",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 16,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:annu-inte",
+      "sv": "ännu inte",
+      "en": "not yet",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 16,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:kanske",
+      "sv": "kanske",
+      "en": "maybe",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 16,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:just-nu",
+      "sv": "just nu",
+      "en": "right now",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 16,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:hela-tiden",
+      "sv": "hela tiden",
+      "en": "all the time",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 16,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:timme",
+      "sv": "timme",
+      "en": "hour",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "timmen",
+        "pl": "timmar",
+        "defPl": "timmarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:minut",
+      "sv": "minut",
+      "en": "minute",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "minuten",
+        "pl": "minuter",
+        "defPl": "minuterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:dag",
+      "sv": "dag",
+      "en": "day",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "dagen",
+        "pl": "dagar",
+        "defPl": "dagarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:vecka",
+      "sv": "vecka",
+      "en": "week",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "veckan",
+        "pl": "veckor",
+        "defPl": "veckorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:manad",
+      "sv": "månad",
+      "en": "month",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "månaden",
+        "pl": "månader",
+        "defPl": "månaderna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:ar",
+      "sv": "år",
+      "en": "year",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "året",
+        "pl": "år",
+        "defPl": "åren"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:helg",
+      "sv": "helg",
+      "en": "weekend",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "helgen",
+        "pl": "helger",
+        "defPl": "helgerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:time:klockan-fem",
+      "sv": "klockan fem",
+      "en": "at five o’clock",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Jag slutar jobba klockan fem.",
+        "en": "I finish work at five o’clock."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import { useHasSwedishVoice } from '../audio/speak';
 import { Cabin } from '../components/Cabin';
+import { InstallHint } from '../components/InstallHint';
 import { Meter } from '../components/Meter';
 import { library } from '../content/load';
 import type { LibraryRegion } from '../content/library';
@@ -52,6 +53,8 @@ export function Village() {
         </a>
       </section>
 
+      <InstallHint />
+
       {account.configured && !account.user && hasProgress && (
         <section className="card note small" style={{ display: 'flex', gap: 12, alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap' }}>
           <span>Progress is saved on this device only. Sign in with your email to keep it safe and use other devices.</span>
@@ -73,6 +76,25 @@ export function Village() {
             OK, got it
           </button>
         </section>
+      )}
+
+      {library.decks.length > 0 && (
+        <a className="card exam-hall" href="#/words" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <svg width="56" height="56" viewBox="0 0 56 56" aria-hidden="true">
+            <rect x="10" y="8" width="36" height="42" rx="4" fill="var(--surface-2)" stroke="var(--ochre)" strokeWidth="2" />
+            <rect x="16" y="16" width="24" height="4" rx="2" fill="var(--ochre)" />
+            <rect x="16" y="25" width="20" height="3" rx="1.5" fill="var(--muted)" />
+            <rect x="16" y="32" width="22" height="3" rx="1.5" fill="var(--muted)" />
+            <rect x="16" y="39" width="14" height="3" rx="1.5" fill="var(--muted)" />
+          </svg>
+          <div>
+            <h2 style={{ marginBottom: 2 }}>Word bank</h2>
+            <p className="muted small" style={{ margin: 0 }}>
+              {library.decks.reduce((n, d) => n + d.entries.length, 0)} words in {library.decks.length} themes from class. Search, listen
+              and practise each theme as a deck.
+            </p>
+          </div>
+        </a>
       )}
 
       <section aria-labelledby="village-title" className="stack">

@@ -85,3 +85,19 @@ Choices made where SPEC.md is silent or where reality differed. Newest phase at 
 **Raw class notes stay out of the repo.** They include classmates’ personal introductions and the repo is public; only the topic map and our own example sentences are committed.
 
 **Default latest lesson is 21.** Existing saves keep their stored value until changed in Settings.
+
+## Phase 3 — Vocabulary and iPhone install (2026-10-26)
+
+**Vocab nouns are not merged into Substantiv.** The spec merges complete vocab nouns into the noun region. With ~340 class nouns that region would have ~2,300 items and its mastery meter would barely move, so vocab nouns are practised in their theme decks instead (each deck includes en/ett items). They are still validated with the same plural-group and definite-plural rules. The grammar noun table stays the curated Substantiv list.
+
+**Deck items.** Per word: meaning (sv → en choice), recall (en → sv choice), listening (choice), typing (words and phrases up to three words, without “…”; the answer is accepted with or without en/ett), en/ett for countable nouns, plus matching rounds of five words in file order. Distractors are other words from the same theme, same part of speech first, chosen by a stable hash. Ids hang off the entry id (`vocab:food:ost:sv-en`), so editing a word keeps its progress; matching rounds are numbered, so append new words at the end of a theme file to keep earlier rounds stable.
+
+**Decks reuse the session engine** as pseudo-regions `deck:<theme>`: practice rounds, daily review and SRS work unchanged. The Word bank shows a three-step dot per word (new, learning, known = average box ≥ 3) and the deck’s mastery meter.
+
+**English prompts.** Items can set `promptLang: "en"`; the prompt is then shown in the body font, isn’t read aloud, and is skipped by the diacritic check.
+
+**Plural-only and uncountable nouns** (kläder, pengar, mjölk) set `countable: false` and give only the definite form. The schema still requires a gender; for plural-only words it is a formality and is never shown.
+
+**Uncertain forms stay hidden.** Entries with `"check": true` are left out of decks until confirmed: bastu (bastur or bastuar?), ananas, bikini (two plurals in use), anställd (an adjective used as a noun). `npm run content-report` lists them.
+
+**iPhone install.** iOS ignores SVG icons and has no install prompt, so the build ships PNG icons (180 apple-touch-icon, 192, 512, maskable 512, rendered from public/icon.svg by `npm run icons`), Apple home-screen meta tags, and an in-app guide: a one-time card on the village in iPhone Safari (dismissal remembered in localStorage) and an “Install on your phone” section in Settings. The installed app has its own storage on iOS, so the guide says to sign in again inside it with the 6-digit code.

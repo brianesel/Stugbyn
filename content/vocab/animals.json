@@ -1,0 +1,504 @@
+{
+  "theme": "animals",
+  "title": "Djur",
+  "entries": [
+    {
+      "id": "vocab:animals:djur",
+      "sv": "djur",
+      "en": "animal",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "djuret",
+        "pl": "djur",
+        "defPl": "djuren"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:husdjur",
+      "sv": "husdjur",
+      "en": "pet",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "husdjuret",
+        "pl": "husdjur",
+        "defPl": "husdjuren"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 9,
+      "example": {
+        "sv": "Har du något husdjur?",
+        "en": "Do you have a pet?"
+      },
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:hund",
+      "sv": "hund",
+      "en": "dog",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "hunden",
+        "pl": "hundar",
+        "defPl": "hundarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:katt",
+      "sv": "katt",
+      "en": "cat",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "katten",
+        "pl": "katter",
+        "defPl": "katterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 9,
+      "note": "Exception: a short en-word that takes -er: katt → katter.",
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:fisk",
+      "sv": "fisk",
+      "en": "fish",
+      "enPl": "fish",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "fisken",
+        "pl": "fiskar",
+        "defPl": "fiskarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:kanin",
+      "sv": "kanin",
+      "en": "rabbit",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kaninen",
+        "pl": "kaniner",
+        "defPl": "kaninerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:fagel",
+      "sv": "fågel",
+      "en": "bird",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "fågeln",
+        "pl": "fåglar",
+        "defPl": "fåglarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "note": "The e drops in the plural: fågel → fåglar.",
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:hast",
+      "sv": "häst",
+      "en": "horse",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "hästen",
+        "pl": "hästar",
+        "defPl": "hästarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:papegoja",
+      "sv": "papegoja",
+      "en": "parrot",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "papegojan",
+        "pl": "papegojor",
+        "defPl": "papegojorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:skoldpadda",
+      "sv": "sköldpadda",
+      "en": "turtle, tortoise",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "sköldpaddan",
+        "pl": "sköldpaddor",
+        "defPl": "sköldpaddorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:alg",
+      "sv": "älg",
+      "en": "moose",
+      "enPl": "moose",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "älgen",
+        "pl": "älgar",
+        "defPl": "älgarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:radjur",
+      "sv": "rådjur",
+      "en": "deer",
+      "enPl": "deer",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "rådjuret",
+        "pl": "rådjur",
+        "defPl": "rådjuren"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:bjorn",
+      "sv": "björn",
+      "en": "bear",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "björnen",
+        "pl": "björnar",
+        "defPl": "björnarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:tvattbjorn",
+      "sv": "tvättbjörn",
+      "en": "raccoon",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "tvättbjörnen",
+        "pl": "tvättbjörnar",
+        "defPl": "tvättbjörnarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:rav",
+      "sv": "räv",
+      "en": "fox",
+      "enPl": "foxes",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "räven",
+        "pl": "rävar",
+        "defPl": "rävarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:varg",
+      "sv": "varg",
+      "en": "wolf",
+      "enPl": "wolves",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "vargen",
+        "pl": "vargar",
+        "defPl": "vargarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:ekorre",
+      "sv": "ekorre",
+      "en": "squirrel",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "ekorren",
+        "pl": "ekorrar",
+        "defPl": "ekorrarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:ko",
+      "sv": "ko",
+      "en": "cow",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kon",
+        "pl": "kor",
+        "defPl": "korna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:gris",
+      "sv": "gris",
+      "en": "pig",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "grisen",
+        "pl": "grisar",
+        "defPl": "grisarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:far",
+      "sv": "får",
+      "en": "sheep",
+      "enPl": "sheep",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "fåret",
+        "pl": "får",
+        "defPl": "fåren"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:hona",
+      "sv": "höna",
+      "en": "hen",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "hönan",
+        "pl": "hönor",
+        "defPl": "hönorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 9,
+      "note": "Plural hönor; höns is the collective word for chickens.",
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:orm",
+      "sv": "orm",
+      "en": "snake",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "ormen",
+        "pl": "ormar",
+        "defPl": "ormarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:spindel",
+      "sv": "spindel",
+      "en": "spider",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "spindeln",
+        "pl": "spindlar",
+        "defPl": "spindlarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 9,
+      "note": "The e drops in the plural: spindel → spindlar.",
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:odjur",
+      "sv": "odjur",
+      "en": "beast, monster",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "odjuret",
+        "pl": "odjur",
+        "defPl": "odjuren"
+      },
+      "group": 5,
+      "level": "A2",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:valja",
+      "sv": "välja",
+      "en": "choose",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:foresla",
+      "sv": "föreslå",
+      "en": "suggest",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 9,
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:gullig",
+      "sv": "gullig",
+      "en": "cute",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 9,
+      "example": {
+        "sv": "Vilken gullig katt!",
+        "en": "What a cute cat!"
+      },
+      "tags": [
+        "yki-nature-weather"
+      ]
+    },
+    {
+      "id": "vocab:animals:farlig",
+      "sv": "farlig",
+      "en": "dangerous",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 9,
+      "example": {
+        "sv": "Björnar kan vara farliga.",
+        "en": "Bears can be dangerous."
+      },
+      "tags": [
+        "yki-nature-weather"
+      ]
+    }
+  ]
+}

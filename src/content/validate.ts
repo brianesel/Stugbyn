@@ -146,7 +146,12 @@ export function validateContent(raw: RawContent, opts: ValidateOptions = {}): Is
       if (near) warn(file, `${where}: “${w}” — did you mean “${near}”?`);
     }
   };
-  for (const { item, file } of allItems) for (const t of swedishTexts(item)) checkText(t, file, item.id);
+  // Deck items are generated from vocab entries (and mix in English), so check the entries themselves instead.
+  for (const { item, file } of allItems) {
+    if (item.tags?.includes('deck')) continue;
+    for (const t of swedishTexts(item)) checkText(t, file, item.id);
+  }
+  for (const t of library.vocab) for (const e of t.entries) checkText(e.sv, t.file, e.id);
   for (const r of library.regions) {
     for (const c of r.ruleCards) for (const ex of c.examples) ex.slice(0, -1).forEach((t) => checkText(t, r.slug, c.title));
   }

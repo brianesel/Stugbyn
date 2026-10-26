@@ -1,0 +1,411 @@
+{
+  "theme": "personality",
+  "title": "Personlighet",
+  "entries": [
+    {
+      "id": "vocab:personality:nyfiken",
+      "sv": "nyfiken",
+      "en": "curious",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Barnet är nyfiket.",
+        "en": "The child is curious."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:arlig",
+      "sv": "ärlig",
+      "en": "honest",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:artig",
+      "sv": "artig",
+      "en": "polite",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:talmodig",
+      "sv": "tålmodig",
+      "en": "patient",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:gralsjuk",
+      "sv": "grälsjuk",
+      "en": "quarrelsome",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:social",
+      "sv": "social",
+      "en": "social",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:tystlaten",
+      "sv": "tystlåten",
+      "en": "quiet",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:generos",
+      "sv": "generös",
+      "en": "generous",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:snal",
+      "sv": "snål",
+      "en": "stingy",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:likasinnad",
+      "sv": "likasinnad",
+      "en": "like-minded",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:omtanksam",
+      "sv": "omtänksam",
+      "en": "thoughtful, caring",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:karleksfull",
+      "sv": "kärleksfull",
+      "en": "loving",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:palitlig",
+      "sv": "pålitlig",
+      "en": "reliable",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:opalitlig",
+      "sv": "opålitlig",
+      "en": "unreliable",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:snall",
+      "sv": "snäll",
+      "en": "kind",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Min granne är väldigt snäll.",
+        "en": "My neighbour is very kind."
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:passionerad",
+      "sv": "passionerad",
+      "en": "passionate",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:beslutsam",
+      "sv": "beslutsam",
+      "en": "determined",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:lojal",
+      "sv": "lojal",
+      "en": "loyal",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:intelligent",
+      "sv": "intelligent",
+      "en": "intelligent",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:dum",
+      "sv": "dum",
+      "en": "stupid",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:arg",
+      "sv": "arg",
+      "en": "angry",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:glad",
+      "sv": "glad",
+      "en": "happy",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:trott",
+      "sv": "trött",
+      "en": "tired",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:mysig",
+      "sv": "mysig",
+      "en": "cosy",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:svartsjuk",
+      "sv": "svartsjuk",
+      "en": "jealous",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:strang",
+      "sv": "sträng",
+      "en": "strict",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:arbetsam",
+      "sv": "arbetsam",
+      "en": "hard-working",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:vanlig",
+      "sv": "vänlig",
+      "en": "friendly",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:slarvig",
+      "sv": "slarvig",
+      "en": "careless, messy",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:prydlig",
+      "sv": "prydlig",
+      "en": "tidy",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:forsiktig",
+      "sv": "försiktig",
+      "en": "careful",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:lugn",
+      "sv": "lugn",
+      "en": "calm",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:rolig",
+      "sv": "rolig",
+      "en": "fun",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:trakig",
+      "sv": "tråkig",
+      "en": "boring",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 17,
+      "tags": [
+        "yki-relationships"
+      ]
+    },
+    {
+      "id": "vocab:personality:egenskap",
+      "sv": "egenskap",
+      "en": "trait, quality",
+      "enPl": "traits, qualities",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "egenskapen",
+        "pl": "egenskaper",
+        "defPl": "egenskaperna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Vilka egenskaper har du?",
+        "en": "What qualities do you have?"
+      },
+      "tags": [
+        "yki-relationships"
+      ]
+    }
+  ]
+}

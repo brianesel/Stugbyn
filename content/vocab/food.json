@@ -8,12 +8,21 @@
       "en": "cheese",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "osten", "pl": "ostar", "defPl": "ostarna" },
+      "forms": {
+        "def": "osten",
+        "pl": "ostar",
+        "defPl": "ostarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 7,
-      "example": { "sv": "Jag gillar inte ost.", "en": "I don’t like cheese." },
-      "tags": ["yki-everyday"]
+      "example": {
+        "sv": "Jag gillar inte ost.",
+        "en": "I don’t like cheese."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
     },
     {
       "id": "vocab:food:smorgas",
@@ -22,12 +31,21 @@
       "enPl": "sandwiches",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "smörgåsen", "pl": "smörgåsar", "defPl": "smörgåsarna" },
+      "forms": {
+        "def": "smörgåsen",
+        "pl": "smörgåsar",
+        "defPl": "smörgåsarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 7,
-      "example": { "sv": "Jag äter en smörgås till frukost.", "en": "I eat a sandwich for breakfast." },
-      "tags": ["yki-everyday"]
+      "example": {
+        "sv": "Jag äter en smörgås till frukost.",
+        "en": "I eat a sandwich for breakfast."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
     },
     {
       "id": "vocab:food:agg",
@@ -35,12 +53,21 @@
       "en": "egg",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "ägget", "pl": "ägg", "defPl": "äggen" },
+      "forms": {
+        "def": "ägget",
+        "pl": "ägg",
+        "defPl": "äggen"
+      },
       "group": 5,
       "level": "A1",
       "lesson": 7,
-      "example": { "sv": "Hon köper tolv ägg.", "en": "She buys twelve eggs." },
-      "tags": ["yki-everyday"]
+      "example": {
+        "sv": "Hon köper tolv ägg.",
+        "en": "She buys twelve eggs."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
     },
     {
       "id": "vocab:food:mjolk",
@@ -49,11 +76,1005 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "mjölken" },
+      "forms": {
+        "def": "mjölken"
+      },
       "level": "A1",
       "lesson": 7,
-      "example": { "sv": "Vill du ha mjölk i kaffet?", "en": "Do you want milk in your coffee?" },
-      "tags": ["yki-everyday"]
+      "example": {
+        "sv": "Vill du ha mjölk i kaffet?",
+        "en": "Do you want milk in your coffee?"
+      },
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:frukost",
+      "sv": "frukost",
+      "en": "breakfast",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "frukosten",
+        "pl": "frukostar",
+        "defPl": "frukostarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 7,
+      "example": {
+        "sv": "Vad äter du till frukost?",
+        "en": "What do you eat for breakfast?"
+      },
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:lunch",
+      "sv": "lunch",
+      "en": "lunch",
+      "enPl": "lunches",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "lunchen",
+        "pl": "luncher",
+        "defPl": "luncherna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:middag",
+      "sv": "middag",
+      "en": "dinner",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "middagen",
+        "pl": "middagar",
+        "defPl": "middagarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 7,
+      "example": {
+        "sv": "Vi äter middag klockan sex.",
+        "en": "We eat dinner at six o’clock."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:kaffe",
+      "sv": "kaffe",
+      "en": "coffee",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "kaffet"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "example": {
+        "sv": "Jag dricker kaffe varje morgon.",
+        "en": "I drink coffee every morning."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:te",
+      "sv": "te",
+      "en": "tea",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "teet"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:brod",
+      "sv": "bröd",
+      "en": "bread",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "brödet"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:frukt",
+      "sv": "frukt",
+      "en": "fruit",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "frukten",
+        "pl": "frukter",
+        "defPl": "frukterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:grot",
+      "sv": "gröt",
+      "en": "porridge",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "gröten"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:smor",
+      "sv": "smör",
+      "en": "butter",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "smöret"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:honung",
+      "sv": "honung",
+      "en": "honey",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "honungen"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:sylt",
+      "sv": "sylt",
+      "en": "jam",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "sylten"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:fattiga-riddare",
+      "sv": "fattiga riddare",
+      "en": "French toast",
+      "pos": "phrase",
+      "note": "A dish name, used like a plural noun: Vi äter fattiga riddare.",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:mjol",
+      "sv": "mjöl",
+      "en": "flour",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "mjölet"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:svamp",
+      "sv": "svamp",
+      "en": "mushroom",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "svampen",
+        "pl": "svampar",
+        "defPl": "svamparna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:korv",
+      "sv": "korv",
+      "en": "sausage",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "korven",
+        "pl": "korvar",
+        "defPl": "korvarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:kott",
+      "sv": "kött",
+      "en": "meat",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "köttet"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:kyckling",
+      "sv": "kyckling",
+      "en": "chicken",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kycklingen",
+        "pl": "kycklingar",
+        "defPl": "kycklingarna"
+      },
+      "group": 2,
+      "note": "As food it is uncountable: Jag äter kyckling.",
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:flask",
+      "sv": "fläsk",
+      "en": "pork",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "fläsket"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:notkott",
+      "sv": "nötkött",
+      "en": "beef",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "nötköttet"
+      },
+      "level": "A1",
+      "lesson": 7,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:apple",
+      "sv": "äpple",
+      "en": "apple",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "äpplet",
+        "pl": "äpplen",
+        "defPl": "äpplena"
+      },
+      "group": 4,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:apelsin",
+      "sv": "apelsin",
+      "en": "orange",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "apelsinen",
+        "pl": "apelsiner",
+        "defPl": "apelsinerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:banan",
+      "sv": "banan",
+      "en": "banana",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "bananen",
+        "pl": "bananer",
+        "defPl": "bananerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:bar",
+      "sv": "bär",
+      "en": "berry",
+      "enPl": "berries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "bäret",
+        "pl": "bär",
+        "defPl": "bären"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:blabar",
+      "sv": "blåbär",
+      "en": "blueberry",
+      "enPl": "blueberries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "blåbäret",
+        "pl": "blåbär",
+        "defPl": "blåbären"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:jordgubbe",
+      "sv": "jordgubbe",
+      "en": "strawberry",
+      "enPl": "strawberries",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "jordgubben",
+        "pl": "jordgubbar",
+        "defPl": "jordgubbarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:hallon",
+      "sv": "hallon",
+      "en": "raspberry",
+      "enPl": "raspberries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "hallonet",
+        "pl": "hallon",
+        "defPl": "hallonen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:lingon",
+      "sv": "lingon",
+      "en": "lingonberry",
+      "enPl": "lingonberries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "lingonet",
+        "pl": "lingon",
+        "defPl": "lingonen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:korsbar",
+      "sv": "körsbär",
+      "en": "cherry",
+      "enPl": "cherries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "körsbäret",
+        "pl": "körsbär",
+        "defPl": "körsbären"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:druva",
+      "sv": "druva",
+      "en": "grape",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "druvan",
+        "pl": "druvor",
+        "defPl": "druvorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:ananas",
+      "sv": "ananas",
+      "en": "pineapple",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "ananasen",
+        "pl": "ananaser",
+        "defPl": "ananaserna"
+      },
+      "group": 3,
+      "note": "Plural also ananas.",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ],
+      "check": true
+    },
+    {
+      "id": "vocab:food:vattenmelon",
+      "sv": "vattenmelon",
+      "en": "watermelon",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "vattenmelonen",
+        "pl": "vattenmeloner",
+        "defPl": "vattenmelonerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:persika",
+      "sv": "persika",
+      "en": "peach",
+      "enPl": "peaches",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "persikan",
+        "pl": "persikor",
+        "defPl": "persikorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:aprikos",
+      "sv": "aprikos",
+      "en": "apricot",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "aprikosen",
+        "pl": "aprikoser",
+        "defPl": "aprikoserna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:gronsak",
+      "sv": "grönsak",
+      "en": "vegetable",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "grönsaken",
+        "pl": "grönsaker",
+        "defPl": "grönsakerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "example": {
+        "sv": "Vi köper frukt och grönsaker.",
+        "en": "We buy fruit and vegetables."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:tomat",
+      "sv": "tomat",
+      "en": "tomato",
+      "enPl": "tomatoes",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "tomaten",
+        "pl": "tomater",
+        "defPl": "tomaterna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:potatis",
+      "sv": "potatis",
+      "en": "potato",
+      "enPl": "potatoes",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "potatisen",
+        "pl": "potatisar",
+        "defPl": "potatisarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:lok",
+      "sv": "lök",
+      "en": "onion",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "löken",
+        "pl": "lökar",
+        "defPl": "lökarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:vitlok",
+      "sv": "vitlök",
+      "en": "garlic",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "vitlöken"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:morot",
+      "sv": "morot",
+      "en": "carrot",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "moroten",
+        "pl": "morötter",
+        "defPl": "morötterna"
+      },
+      "group": 3,
+      "irregular": true,
+      "note": "Vowel change in the plural: morot → morötter.",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:kal",
+      "sv": "kål",
+      "en": "cabbage",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "kålen"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:blomkal",
+      "sv": "blomkål",
+      "en": "cauliflower",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "blomkålen"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:gurka",
+      "sv": "gurka",
+      "en": "cucumber",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "gurkan",
+        "pl": "gurkor",
+        "defPl": "gurkorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:sallad",
+      "sv": "sallad",
+      "en": "salad; lettuce",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "salladen",
+        "pl": "sallader",
+        "defPl": "salladerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:choklad",
+      "sv": "choklad",
+      "en": "chocolate",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "chokladen"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:glass",
+      "sv": "glass",
+      "en": "ice cream",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "glassen",
+        "pl": "glassar",
+        "defPl": "glassarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:kaka",
+      "sv": "kaka",
+      "en": "cake; cookie",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kakan",
+        "pl": "kakor",
+        "defPl": "kakorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:tarta",
+      "sv": "tårta",
+      "en": "cake (layer cake)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "tårtan",
+        "pl": "tårtor",
+        "defPl": "tårtorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:godis",
+      "sv": "godis",
+      "en": "sweets; candy",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "godiset"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:vatten",
+      "sv": "vatten",
+      "en": "water",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "vattnet"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:vin",
+      "sv": "vin",
+      "en": "wine",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "vinet"
+      },
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:ol",
+      "sv": "öl",
+      "en": "beer",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "ölet"
+      },
+      "note": "Also en öl (ölen).",
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:flaska",
+      "sv": "flaska",
+      "en": "bottle",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "flaskan",
+        "pl": "flaskor",
+        "defPl": "flaskorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 10,
+      "example": {
+        "sv": "Jag köper en flaska vatten.",
+        "en": "I buy a bottle of water."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:burk",
+      "sv": "burk",
+      "en": "jar; can",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "burken",
+        "pl": "burkar",
+        "defPl": "burkarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:pase",
+      "sv": "påse",
+      "en": "bag (plastic or paper)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "påsen",
+        "pl": "påsar",
+        "defPl": "påsarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 10,
+      "tags": [
+        "yki-shopping"
+      ]
+    },
+    {
+      "id": "vocab:food:hekto",
+      "sv": "hekto",
+      "en": "hectogram (100 g)",
+      "enPl": "hectograms",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "hektot",
+        "pl": "hekton",
+        "defPl": "hektona"
+      },
+      "group": 4,
+      "level": "A1",
+      "lesson": 10,
+      "example": {
+        "sv": "Två hekto ost, tack.",
+        "en": "200 grams of cheese, please."
+      },
+      "tags": [
+        "yki-shopping"
+      ]
     }
   ]
 }

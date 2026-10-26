@@ -1,0 +1,620 @@
+{
+  "theme": "free-time",
+  "title": "Fritid och intressen",
+  "entries": [
+    {
+      "id": "vocab:free-time:fritid",
+      "sv": "fritid",
+      "en": "free time",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "fritiden"
+      },
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:semester",
+      "sv": "semester",
+      "en": "vacation, holiday",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "semestern",
+        "pl": "semestrar",
+        "defPl": "semestrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 4,
+      "note": "The e drops in the plural: semestrar.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:aka-till-havet",
+      "sv": "åka till havet",
+      "en": "go to the sea",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:vila",
+      "sv": "vila",
+      "en": "rest, relax",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:bada",
+      "sv": "bada",
+      "en": "swim, bathe",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:ga-pa-bio",
+      "sv": "gå på bio",
+      "en": "go to the cinema",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Vi går på bio på fredag.",
+        "en": "We are going to the cinema on Friday."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:fika-verb",
+      "sv": "fika",
+      "en": "have a coffee break",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:fika-noun",
+      "sv": "fika",
+      "en": "coffee break",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "fikan",
+        "pl": "fikor",
+        "defPl": "fikorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:stanna-hemma",
+      "sv": "stanna hemma",
+      "en": "stay at home",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:leka",
+      "sv": "leka",
+      "en": "play (children)",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:spela",
+      "sv": "spela",
+      "en": "play (sports, games, instruments)",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Han spelar gitarr.",
+        "en": "He plays the guitar."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:laga-mat",
+      "sv": "laga mat",
+      "en": "cook",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 4,
+      "example": {
+        "sv": "Jag gillar att laga mat.",
+        "en": "I like to cook."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:matlagningskurs",
+      "sv": "matlagningskurs",
+      "en": "cooking class",
+      "enPl": "cooking classes",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "matlagningskursen",
+        "pl": "matlagningskurser",
+        "defPl": "matlagningskurserna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:spannande",
+      "sv": "spännande",
+      "en": "exciting",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 4,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:intresse",
+      "sv": "intresse",
+      "en": "interest",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "intresset",
+        "pl": "intressen",
+        "defPl": "intressena"
+      },
+      "group": 4,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:hobby",
+      "sv": "hobby",
+      "en": "hobby",
+      "enPl": "hobbies",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "hobbyn",
+        "pl": "hobbyer",
+        "defPl": "hobbyerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:intresserad-av",
+      "sv": "intresserad av",
+      "en": "interested in",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Jag är intresserad av musik.",
+        "en": "I am interested in music."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:musik",
+      "sv": "musik",
+      "en": "music",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "musiken"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:konst",
+      "sv": "konst",
+      "en": "art",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "konsten"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:mala",
+      "sv": "måla",
+      "en": "paint",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:rita",
+      "sv": "rita",
+      "en": "draw",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:sjunga",
+      "sv": "sjunga",
+      "en": "sing",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:dansa",
+      "sv": "dansa",
+      "en": "dance",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:resa",
+      "sv": "resa",
+      "en": "travel",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:lasa",
+      "sv": "läsa",
+      "en": "read",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:vandra",
+      "sv": "vandra",
+      "en": "hike",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:vandring",
+      "sv": "vandring",
+      "en": "hike",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "vandringen",
+        "pl": "vandringar",
+        "defPl": "vandringarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:natur",
+      "sv": "natur",
+      "en": "nature",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "naturen"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Jag gillar att vara ute i naturen.",
+        "en": "I like being out in nature."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:fotografering",
+      "sv": "fotografering",
+      "en": "photography",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "fotograferingen"
+      },
+      "level": "A2",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:trana",
+      "sv": "träna",
+      "en": "work out, train",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Jag tränar tre gånger i veckan.",
+        "en": "I work out three times a week."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:gym",
+      "sv": "gym",
+      "en": "gym",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "gymmet",
+        "pl": "gym",
+        "defPl": "gymmen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 5,
+      "note": "Double m: gymmet, gymmen.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:film",
+      "sv": "film",
+      "en": "film, movie",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "filmen",
+        "pl": "filmer",
+        "defPl": "filmerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:datorspel",
+      "sv": "datorspel",
+      "en": "video game",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "datorspelet",
+        "pl": "datorspel",
+        "defPl": "datorspelen"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:fest",
+      "sv": "fest",
+      "en": "party",
+      "enPl": "parties",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "festen",
+        "pl": "fester",
+        "defPl": "festerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:fira",
+      "sv": "fira",
+      "en": "celebrate",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:festival",
+      "sv": "festival",
+      "en": "festival",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "festivalen",
+        "pl": "festivaler",
+        "defPl": "festivalerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:bibliotek",
+      "sv": "bibliotek",
+      "en": "library",
+      "enPl": "libraries",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "biblioteket",
+        "pl": "bibliotek",
+        "defPl": "biblioteken"
+      },
+      "group": 5,
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:teater",
+      "sv": "teater",
+      "en": "theatre",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "teatern",
+        "pl": "teatrar",
+        "defPl": "teatrarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 5,
+      "note": "The e drops in the plural: teatrar.",
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:promenera",
+      "sv": "promenera",
+      "en": "take a walk",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:ga-ut",
+      "sv": "gå ut",
+      "en": "go out",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:umgas",
+      "sv": "umgås",
+      "en": "hang out, spend time together",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Jag umgås med mina vänner.",
+        "en": "I hang out with my friends."
+      },
+      "tags": [
+        "yki-free-time"
+      ]
+    },
+    {
+      "id": "vocab:free-time:simma",
+      "sv": "simma",
+      "en": "swim",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 5,
+      "tags": [
+        "yki-free-time"
+      ]
+    }
+  ]
+}
