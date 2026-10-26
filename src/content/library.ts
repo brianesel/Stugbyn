@@ -156,6 +156,7 @@ export function buildLibrary(raw: RawContent): BuildResult {
       '5': { ending: '', label: 'Group 5', rule: '' },
     },
     explain: table?.explain ?? {},
+    lessons: table?.lessons,
     say: table?.say ?? {},
     nouns,
   };

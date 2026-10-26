@@ -8,7 +8,6 @@ export function generateAdjectiveItems(table: AdjectiveTable): Item[] {
     if (a.retired || a.draft || a.check) continue;
     // Only the string fields are template variables.
     const vars = Object.fromEntries(Object.entries(a).filter(([, v]) => typeof v === 'string')) as Record<string, string>;
-    const base = { level: a.level, lesson: a.lesson };
     const note = a.note ? ` ${a.note}` : '';
     const agreement = uniq([a.base, a.t, a.a, a.def]);
 
@@ -18,6 +17,7 @@ export function generateAdjectiveItems(table: AdjectiveTable): Item[] {
       const say = fillGap(prompt, answer);
       const explain = fill(table.explain[explainKey], vars) + note;
       const tags = ['adjectives', explainKey, ...(a.tags ?? [])];
+      const base = { level: a.level, lesson: table.lessons?.[explainKey] ?? a.lesson };
       if (options.length >= 2) {
         items.push({ ...base, id: `adj:${key}:${a.base}`, kind: 'choice', ask, prompt, hint, answer, options, explain, say, tags });
       }

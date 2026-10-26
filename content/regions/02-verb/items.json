@@ -1,32 +1,593 @@
 [
-  { "id": "verb:kan-prata", "kind": "choice", "prompt": "Jag kan ___ svenska.", "hint": "I can speak Swedish.", "answer": "prata", "options": ["prata", "pratar", "pratade"], "explain": "After a help verb like kan, the next verb is in the infinitive: kan prata.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:pratar", "kind": "choice", "prompt": "Hon ___ svenska varje dag.", "hint": "She speaks Swedish every day.", "answer": "pratar", "options": ["pratar", "prata"], "explain": "With no help verb, the verb is in the present tense with -r: hon pratar.", "level": "A1", "lesson": 3, "tags": ["present"] },
-  { "id": "verb:vill-dricka", "kind": "choice", "prompt": "Vi vill ___ kaffe.", "hint": "We want to drink coffee.", "answer": "dricka", "options": ["dricka", "dricker"], "explain": "After the help verb vill, use the infinitive: vill dricka.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:dricker", "kind": "choice", "prompt": "Han ___ te på morgonen.", "hint": "He drinks tea in the morning.", "answer": "dricker", "options": ["dricker", "dricka"], "explain": "With no help verb, use the present tense: han dricker.", "level": "A1", "lesson": 3, "tags": ["present"] },
-  { "id": "verb:bor", "kind": "choice", "prompt": "Jag ___ i Esbo.", "hint": "I live in Espoo.", "answer": "bor", "options": ["bor", "boar", "bo"], "explain": "Bo is a Group III verb: it just adds -r, so jag bor.", "level": "A1", "lesson": 3, "tags": ["present", "group-3"] },
-  { "id": "verb:ska-resa", "kind": "choice", "prompt": "De ska ___ till Stockholm i maj.", "hint": "They’re going to travel to Stockholm in May.", "answer": "resa", "options": ["resa", "reser"], "explain": "After the help verb ska, use the infinitive: ska resa.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:brukar-laga", "kind": "choice", "prompt": "Jag brukar ___ mat på kvällen.", "hint": "I usually cook in the evening.", "answer": "laga", "options": ["laga", "lagar"], "explain": "Brukar is a help verb, so the next verb is in the infinitive: brukar laga.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:maste-jobba", "kind": "choice", "prompt": "Du måste ___ imorgon.", "hint": "You have to work tomorrow.", "answer": "jobba", "options": ["jobba", "jobbar"], "explain": "After the help verb måste, use the infinitive: måste jobba.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:stang", "kind": "choice", "prompt": "___ dörren, tack!", "hint": "Close the door, please!", "answer": "Stäng", "options": ["Stäng", "Stänga", "Stänger"], "explain": "Stänga is a Group II verb, so the command form drops the -a: Stäng!", "level": "A1", "lesson": 4, "tags": ["command"] },
-  { "id": "verb:lyssna", "kind": "choice", "prompt": "___ på mig!", "hint": "Listen to me!", "answer": "Lyssna", "options": ["Lyssna", "Lyssnar"], "explain": "Lyssna is a Group I verb, so the command form is the same as the infinitive: Lyssna!", "level": "A1", "lesson": 4, "tags": ["command"] },
-  { "id": "verb:skriv", "kind": "choice", "prompt": "___ ditt namn här.", "hint": "Write your name here.", "answer": "Skriv", "options": ["Skriv", "Skriva", "Skriver"], "explain": "Skriva is a Group IV verb, so the command form drops the -a: Skriv!", "level": "A1", "lesson": 4, "tags": ["command"] },
-  { "id": "verb:behover-inte-boka", "kind": "choice", "prompt": "Du ___ boka bord på McDonald’s.", "hint": "You don’t need to book a table at McDonald’s.", "answer": "behöver inte", "options": ["behöver inte", "måste inte", "får inte"], "explain": "“Don’t need to” is behöver inte; Swedish doesn’t use måste inte, and får inte means “not allowed”.", "level": "A1", "lesson": 13, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:behover-inte-mat", "kind": "choice", "prompt": "Vi ___ ta med mat, det finns lunch.", "hint": "We don’t need to bring food; there is lunch.", "answer": "behöver inte", "options": ["behöver inte", "får inte", "måste inte"], "explain": "Something that isn’t necessary takes behöver inte, never måste inte.", "level": "A1", "lesson": 13, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:far-inte-roka", "kind": "choice", "prompt": "Man ___ röka här.", "hint": "You’re not allowed to smoke here.", "answer": "får inte", "options": ["får inte", "behöver inte", "måste inte"], "explain": "Får inte means “not allowed, must not”.", "level": "A1", "lesson": 13, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:far-jag", "kind": "choice", "prompt": "___ jag låna din penna?", "hint": "May I borrow your pen?", "answer": "Får", "options": ["Får", "Måste", "Brukar"], "explain": "Får means “may, be allowed to”, so Får jag …? asks for permission.", "level": "A1", "lesson": 13, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:borde", "kind": "choice", "prompt": "Du ___ sova mer.", "hint": "You ought to sleep more.", "answer": "borde", "options": ["borde", "får", "brukar"], "explain": "Borde means “ought to, should”.", "level": "A2", "lesson": 13, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:brukar-cykla", "kind": "choice", "prompt": "Jag ___ cykla till jobbet.", "hint": "I usually cycle to work.", "answer": "brukar", "options": ["brukar", "måste", "vill"], "explain": "Brukar means “usually”: jag brukar cykla = I usually cycle.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:vill-bli", "kind": "choice", "prompt": "Hon ___ bli läkare.", "hint": "She wants to become a doctor.", "answer": "vill", "options": ["vill", "kan", "brukar"], "explain": "Vill means “want to”.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:maste-stanna", "kind": "choice", "prompt": "Jag är sjuk, jag ___ stanna hemma.", "hint": "I’m ill, I have to stay at home.", "answer": "måste", "options": ["måste", "brukar", "får"], "explain": "Måste means “must, have to”.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "meaning"] },
-  { "id": "verb:kunde", "kind": "choice", "prompt": "Jag ___ inte komma igår.", "hint": "I couldn’t come yesterday.", "answer": "kunde", "options": ["kunde", "kan", "ville"], "explain": "Kunde is the past form of kan: couldn’t = kunde inte.", "level": "A2", "lesson": 13, "tags": ["help-verbs", "past"] },
-  { "id": "verb:ville", "kind": "choice", "prompt": "Barnen ___ inte sova.", "hint": "The children didn’t want to sleep.", "answer": "ville", "options": ["ville", "vill", "kunde"], "explain": "Ville is the past form of vill: didn’t want to = ville inte.", "level": "A2", "lesson": 13, "tags": ["help-verbs", "past"] },
-  { "id": "verb:skulle-vilja", "kind": "choice", "prompt": "Jag ___ vilja ha en kopp kaffe.", "hint": "I would like a cup of coffee.", "answer": "skulle", "options": ["skulle", "ska", "ville"], "explain": "Skulle vilja is the polite way to say “would like”.", "level": "A2", "lesson": 13, "tags": ["help-verbs", "past", "polite"] },
-  { "id": "verb:type-laser", "kind": "type", "prompt": "Hon ___ en bok varje vecka. (läsa)", "answer": "läser", "accept": [], "hint": "She reads a book every week.", "ask": "Write the verb in the present tense.", "explain": "Läsa is a Group II verb: the -a becomes -er, so hon läser.", "level": "A1", "lesson": 3, "tags": ["present"] },
-  { "id": "verb:type-kora", "kind": "type", "prompt": "Kan du ___ bil? (köra)", "answer": "köra", "accept": [], "hint": "Can you drive a car?", "ask": "Write the right form of the verb.", "explain": "After the help verb kan, the verb stays in the infinitive: kan du köra.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-
-  { "id": "verb:boss-ga", "kind": "type", "boss": true, "prompt": "Jag måste ___ nu. (gå)", "answer": "gå", "accept": [], "hint": "I have to go now.", "ask": "Write the right form of the verb.", "explain": "After the help verb måste, use the infinitive: måste gå.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:boss-skriva", "kind": "type", "boss": true, "prompt": "Vi ska ___ ett mejl till läraren. (skriva)", "answer": "skriva", "accept": [], "hint": "We are going to write an email to the teacher.", "ask": "Write the right form of the verb.", "explain": "After the help verb ska, use the infinitive: ska skriva.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:boss-dricka", "kind": "type", "boss": true, "prompt": "Hon vill ___ te. (dricka)", "answer": "dricka", "accept": [], "hint": "She wants to drink tea.", "ask": "Write the right form of the verb.", "explain": "After the help verb vill, use the infinitive: vill dricka.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:boss-sova", "kind": "type", "boss": true, "prompt": "Barnen brukar ___ länge på lördagar. (sova)", "answer": "sova", "accept": [], "hint": "The children usually sleep late on Saturdays.", "ask": "Write the right form of the verb.", "explain": "After the help verb brukar, use the infinitive: brukar sova.", "level": "A1", "lesson": 3, "tags": ["help-verbs", "infinitive"] },
-  { "id": "verb:boss-borja", "kind": "type", "boss": true, "prompt": "Du borde ___ träna. (börja)", "answer": "börja", "accept": [], "hint": "You ought to start exercising.", "ask": "Write the right form of the verb.", "explain": "After borde, use the infinitive: borde börja.", "level": "A2", "lesson": 13, "tags": ["help-verbs", "infinitive"] }
+  {
+    "id": "verb:kan-prata",
+    "kind": "choice",
+    "prompt": "Jag kan ___ svenska.",
+    "hint": "I can speak Swedish.",
+    "answer": "prata",
+    "options": [
+      "prata",
+      "pratar",
+      "pratade"
+    ],
+    "explain": "After a help verb like kan, the next verb is in the infinitive: kan prata.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:pratar",
+    "kind": "choice",
+    "prompt": "Hon ___ svenska varje dag.",
+    "hint": "She speaks Swedish every day.",
+    "answer": "pratar",
+    "options": [
+      "pratar",
+      "prata"
+    ],
+    "explain": "With no help verb, the verb is in the present tense with -r: hon pratar.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "present"
+    ]
+  },
+  {
+    "id": "verb:vill-dricka",
+    "kind": "choice",
+    "prompt": "Vi vill ___ kaffe.",
+    "hint": "We want to drink coffee.",
+    "answer": "dricka",
+    "options": [
+      "dricka",
+      "dricker"
+    ],
+    "explain": "After the help verb vill, use the infinitive: vill dricka.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:dricker",
+    "kind": "choice",
+    "prompt": "Han ___ te på morgonen.",
+    "hint": "He drinks tea in the morning.",
+    "answer": "dricker",
+    "options": [
+      "dricker",
+      "dricka"
+    ],
+    "explain": "With no help verb, use the present tense: han dricker.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "present"
+    ]
+  },
+  {
+    "id": "verb:bor",
+    "kind": "choice",
+    "prompt": "Jag ___ i Esbo.",
+    "hint": "I live in Espoo.",
+    "answer": "bor",
+    "options": [
+      "bor",
+      "boar",
+      "bo"
+    ],
+    "explain": "Bo is a Group III verb: it just adds -r, so jag bor.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "present",
+      "group-3"
+    ]
+  },
+  {
+    "id": "verb:ska-resa",
+    "kind": "choice",
+    "prompt": "De ska ___ till Stockholm i maj.",
+    "hint": "They’re going to travel to Stockholm in May.",
+    "answer": "resa",
+    "options": [
+      "resa",
+      "reser"
+    ],
+    "explain": "After the help verb ska, use the infinitive: ska resa.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:brukar-laga",
+    "kind": "choice",
+    "prompt": "Jag brukar ___ mat på kvällen.",
+    "hint": "I usually cook in the evening.",
+    "answer": "laga",
+    "options": [
+      "laga",
+      "lagar"
+    ],
+    "explain": "Brukar is a help verb, so the next verb is in the infinitive: brukar laga.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:maste-jobba",
+    "kind": "choice",
+    "prompt": "Du måste ___ imorgon.",
+    "hint": "You have to work tomorrow.",
+    "answer": "jobba",
+    "options": [
+      "jobba",
+      "jobbar"
+    ],
+    "explain": "After the help verb måste, use the infinitive: måste jobba.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:stang",
+    "kind": "choice",
+    "prompt": "___ dörren, tack!",
+    "hint": "Close the door, please!",
+    "answer": "Stäng",
+    "options": [
+      "Stäng",
+      "Stänga",
+      "Stänger"
+    ],
+    "explain": "Stänga is a Group II verb, so the command form drops the -a: Stäng!",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "command"
+    ]
+  },
+  {
+    "id": "verb:lyssna",
+    "kind": "choice",
+    "prompt": "___ på mig!",
+    "hint": "Listen to me!",
+    "answer": "Lyssna",
+    "options": [
+      "Lyssna",
+      "Lyssnar"
+    ],
+    "explain": "Lyssna is a Group I verb, so the command form is the same as the infinitive: Lyssna!",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "command"
+    ]
+  },
+  {
+    "id": "verb:skriv",
+    "kind": "choice",
+    "prompt": "___ ditt namn här.",
+    "hint": "Write your name here.",
+    "answer": "Skriv",
+    "options": [
+      "Skriv",
+      "Skriva",
+      "Skriver"
+    ],
+    "explain": "Skriva is a Group IV verb, so the command form drops the -a: Skriv!",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "command"
+    ]
+  },
+  {
+    "id": "verb:behover-inte-boka",
+    "kind": "choice",
+    "prompt": "Du ___ boka bord på McDonald’s.",
+    "hint": "You don’t need to book a table at McDonald’s.",
+    "answer": "behöver inte",
+    "options": [
+      "behöver inte",
+      "måste inte",
+      "får inte"
+    ],
+    "explain": "“Don’t need to” is behöver inte; Swedish doesn’t use måste inte, and får inte means “not allowed”.",
+    "level": "A1",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:behover-inte-mat",
+    "kind": "choice",
+    "prompt": "Vi ___ ta med mat, det finns lunch.",
+    "hint": "We don’t need to bring food; there is lunch.",
+    "answer": "behöver inte",
+    "options": [
+      "behöver inte",
+      "får inte",
+      "måste inte"
+    ],
+    "explain": "Something that isn’t necessary takes behöver inte, never måste inte.",
+    "level": "A1",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:far-inte-roka",
+    "kind": "choice",
+    "prompt": "Man ___ röka här.",
+    "hint": "You’re not allowed to smoke here.",
+    "answer": "får inte",
+    "options": [
+      "får inte",
+      "behöver inte",
+      "måste inte"
+    ],
+    "explain": "Får inte means “not allowed, must not”.",
+    "level": "A1",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:far-jag",
+    "kind": "choice",
+    "prompt": "___ jag låna din penna?",
+    "hint": "May I borrow your pen?",
+    "answer": "Får",
+    "options": [
+      "Får",
+      "Måste",
+      "Brukar"
+    ],
+    "explain": "Får means “may, be allowed to”, so Får jag …? asks for permission.",
+    "level": "A1",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:borde",
+    "kind": "choice",
+    "prompt": "Du ___ sova mer.",
+    "hint": "You ought to sleep more.",
+    "answer": "borde",
+    "options": [
+      "borde",
+      "får",
+      "brukar"
+    ],
+    "explain": "Borde means “ought to, should”.",
+    "level": "A2",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:brukar-cykla",
+    "kind": "choice",
+    "prompt": "Jag ___ cykla till jobbet.",
+    "hint": "I usually cycle to work.",
+    "answer": "brukar",
+    "options": [
+      "brukar",
+      "måste",
+      "vill"
+    ],
+    "explain": "Brukar means “usually”: jag brukar cykla = I usually cycle.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:vill-bli",
+    "kind": "choice",
+    "prompt": "Hon ___ bli läkare.",
+    "hint": "She wants to become a doctor.",
+    "answer": "vill",
+    "options": [
+      "vill",
+      "kan",
+      "brukar"
+    ],
+    "explain": "Vill means “want to”.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:maste-stanna",
+    "kind": "choice",
+    "prompt": "Jag är sjuk, jag ___ stanna hemma.",
+    "hint": "I’m ill, I have to stay at home.",
+    "answer": "måste",
+    "options": [
+      "måste",
+      "brukar",
+      "får"
+    ],
+    "explain": "Måste means “must, have to”.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "meaning"
+    ]
+  },
+  {
+    "id": "verb:kunde",
+    "kind": "choice",
+    "prompt": "Jag ___ inte komma igår.",
+    "hint": "I couldn’t come yesterday.",
+    "answer": "kunde",
+    "options": [
+      "kunde",
+      "kan",
+      "ville"
+    ],
+    "explain": "Kunde is the past form of kan: couldn’t = kunde inte.",
+    "level": "A2",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "past"
+    ]
+  },
+  {
+    "id": "verb:ville",
+    "kind": "choice",
+    "prompt": "Barnen ___ inte sova.",
+    "hint": "The children didn’t want to sleep.",
+    "answer": "ville",
+    "options": [
+      "ville",
+      "vill",
+      "kunde"
+    ],
+    "explain": "Ville is the past form of vill: didn’t want to = ville inte.",
+    "level": "A2",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "past"
+    ]
+  },
+  {
+    "id": "verb:skulle-vilja",
+    "kind": "choice",
+    "prompt": "Jag ___ vilja ha en kopp kaffe.",
+    "hint": "I would like a cup of coffee.",
+    "answer": "skulle",
+    "options": [
+      "skulle",
+      "ska",
+      "ville"
+    ],
+    "explain": "Skulle vilja is the polite way to say “would like”.",
+    "level": "A2",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "past",
+      "polite"
+    ]
+  },
+  {
+    "id": "verb:type-laser",
+    "kind": "type",
+    "prompt": "Hon ___ en bok varje vecka. (läsa)",
+    "answer": "läser",
+    "accept": [],
+    "hint": "She reads a book every week.",
+    "ask": "Write the verb in the present tense.",
+    "explain": "Läsa is a Group II verb: the -a becomes -er, so hon läser.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "present"
+    ]
+  },
+  {
+    "id": "verb:type-kora",
+    "kind": "type",
+    "prompt": "Kan du ___ bil? (köra)",
+    "answer": "köra",
+    "accept": [],
+    "hint": "Can you drive a car?",
+    "ask": "Write the right form of the verb.",
+    "explain": "After the help verb kan, the verb stays in the infinitive: kan du köra.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:boss-ga",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Jag måste ___ nu. (gå)",
+    "answer": "gå",
+    "accept": [],
+    "hint": "I have to go now.",
+    "ask": "Write the right form of the verb.",
+    "explain": "After the help verb måste, use the infinitive: måste gå.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:boss-skriva",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Vi ska ___ ett mejl till läraren. (skriva)",
+    "answer": "skriva",
+    "accept": [],
+    "hint": "We are going to write an email to the teacher.",
+    "ask": "Write the right form of the verb.",
+    "explain": "After the help verb ska, use the infinitive: ska skriva.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:boss-dricka",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Hon vill ___ te. (dricka)",
+    "answer": "dricka",
+    "accept": [],
+    "hint": "She wants to drink tea.",
+    "ask": "Write the right form of the verb.",
+    "explain": "After the help verb vill, use the infinitive: vill dricka.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:boss-sova",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Barnen brukar ___ länge på lördagar. (sova)",
+    "answer": "sova",
+    "accept": [],
+    "hint": "The children usually sleep late on Saturdays.",
+    "ask": "Write the right form of the verb.",
+    "explain": "After the help verb brukar, use the infinitive: brukar sova.",
+    "level": "A1",
+    "lesson": 3,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:boss-borja",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Du borde ___ träna. (börja)",
+    "answer": "börja",
+    "accept": [],
+    "hint": "You ought to start exercising.",
+    "ask": "Write the right form of the verb.",
+    "explain": "After borde, use the infinitive: borde börja.",
+    "level": "A2",
+    "lesson": 13,
+    "tags": [
+      "help-verbs",
+      "infinitive"
+    ]
+  },
+  {
+    "id": "verb:vet-svaret",
+    "kind": "choice",
+    "prompt": "Jag ___ inte svaret.",
+    "hint": "I don’t know the answer.",
+    "answer": "vet",
+    "options": [
+      "vet",
+      "känner"
+    ],
+    "explain": "Vet is for facts and information: jag vet svaret.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "vet-kanner"
+    ]
+  },
+  {
+    "id": "verb:kanner-anna",
+    "kind": "choice",
+    "prompt": "Jag ___ Anna. Hon är min granne.",
+    "hint": "I know Anna. She’s my neighbour.",
+    "answer": "känner",
+    "options": [
+      "känner",
+      "vet"
+    ],
+    "explain": "Känner is for people: jag känner Anna.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "vet-kanner"
+    ]
+  },
+  {
+    "id": "verb:vet-stationen",
+    "kind": "choice",
+    "prompt": "___ du var stationen är?",
+    "hint": "Do you know where the station is?",
+    "answer": "Vet",
+    "options": [
+      "Vet",
+      "Känner"
+    ],
+    "explain": "Where the station is = information, so vet.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "vet-kanner"
+    ]
+  },
+  {
+    "id": "verb:kanner-peter",
+    "kind": "choice",
+    "prompt": "___ du Peter?",
+    "hint": "Do you know Peter?",
+    "answer": "Känner",
+    "options": [
+      "Känner",
+      "Vet"
+    ],
+    "explain": "Peter is a person, so känner.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "vet-kanner"
+    ]
+  }
 ]

@@ -31,6 +31,7 @@
     "sup_3": "Group III: supine +tt: {inf} → {sup}.",
     "sup_4": "Group IV is irregular: {inf} → {sup}. Learn it by heart."
   },
+  "lessons": {"present": 3, "past": 6, "perfect": 17},
   "verbs": [
     {"id": "verb:jobba", "inf": "jobba", "pres": "jobbar", "imp": "jobba", "past": "jobbade", "sup": "jobbat", "group": 1, "en": "work", "en3": "works", "enPast": "worked", "enPp": "worked", "object": "hemma", "objectEn": "from home", "level": "A1", "lesson": 3},
     {"id": "verb:prata", "inf": "prata", "pres": "pratar", "imp": "prata", "past": "pratade", "sup": "pratat", "group": 1, "en": "talk", "en3": "talks", "enPast": "talked", "enPp": "talked", "object": "med läraren", "objectEn": "to the teacher", "level": "A1", "lesson": 3},
@@ -85,6 +86,18 @@
     {"id": "verb:salja", "inf": "sälja", "pres": "säljer", "imp": "sälj", "past": "sålde", "sup": "sålt", "group": 4, "en": "sell", "en3": "sells", "enPast": "sold", "enPp": "sold", "object": "bilen", "objectEn": "the car", "level": "A1", "lesson": 7},
     {"id": "verb:bli", "inf": "bli", "pres": "blir", "imp": "bli", "past": "blev", "sup": "blivit", "group": 4, "en": "become", "en3": "becomes", "enPast": "became", "enPp": "become", "object": "lärare", "objectEn": "a teacher", "level": "A1", "lesson": 7, "time": "Förra året", "timeEn": "Last year"},
     {"id": "verb:ligga", "inf": "ligga", "pres": "ligger", "imp": "ligg", "past": "låg", "sup": "legat", "group": 4, "en": "lie", "en3": "lies", "enPast": "lay", "enPp": "lain", "object": "i sängen", "objectEn": "in bed", "level": "A1", "lesson": 7},
-    {"id": "verb:flyga", "inf": "flyga", "pres": "flyger", "imp": "flyg", "past": "flög", "sup": "flugit", "group": 4, "en": "fly", "en3": "flies", "enPast": "flew", "enPp": "flown", "object": "till Stockholm", "objectEn": "to Stockholm", "level": "A1", "lesson": 7}
+    {"id": "verb:flyga", "inf": "flyga", "pres": "flyger", "imp": "flyg", "past": "flög", "sup": "flugit", "group": 4, "en": "fly", "en3": "flies", "enPast": "flew", "enPp": "flown", "object": "till Stockholm", "objectEn": "to Stockholm", "level": "A1", "lesson": 7},
+    {"id": "verb:plugga", "inf": "plugga", "pres": "pluggar", "imp": "plugga", "past": "pluggade", "sup": "pluggat", "group": 1, "en": "study", "en3": "studies", "enPast": "studied", "enPp": "studied", "object": "matte", "objectEn": "maths", "level": "A1", "lesson": 3},
+    {"id": "verb:dansa", "inf": "dansa", "pres": "dansar", "imp": "dansa", "past": "dansade", "sup": "dansat", "group": 1, "en": "dance", "en3": "dances", "enPast": "danced", "enPp": "danced", "object": "salsa", "objectEn": "salsa", "level": "A1", "lesson": 3},
+    {"id": "verb:vakna", "inf": "vakna", "pres": "vaknar", "imp": "vakna", "past": "vaknade", "sup": "vaknat", "group": 1, "en": "wake up", "en3": "wakes up", "enPast": "woke up", "enPp": "woken up", "object": "tidigt", "objectEn": "early", "level": "A1", "lesson": 6},
+    {"id": "verb:fira", "inf": "fira", "pres": "firar", "imp": "fira", "past": "firade", "sup": "firat", "group": 1, "en": "celebrate", "en3": "celebrates", "enPast": "celebrated", "enPp": "celebrated", "object": "midsommar", "objectEn": "Midsummer", "time": "Förra året", "timeEn": "Last year", "level": "A1", "lesson": 6},
+    {"id": "verb:trana", "inf": "träna", "pres": "tränar", "imp": "träna", "past": "tränade", "sup": "tränat", "group": 1, "en": "work out", "en3": "works out", "enPast": "worked out", "enPp": "worked out", "object": "på gymmet", "objectEn": "at the gym", "level": "A1", "lesson": 7},
+    {"id": "verb:hitta", "inf": "hitta", "pres": "hittar", "imp": "hitta", "past": "hittade", "sup": "hittat", "group": 1, "en": "find", "en3": "finds", "enPast": "found", "enPp": "found", "object": "nycklarna", "objectEn": "the keys", "level": "A1", "lesson": 7},
+    {"id": "verb:baka", "inf": "baka", "pres": "bakar", "imp": "baka", "past": "bakade", "sup": "bakat", "group": 1, "en": "bake", "en3": "bakes", "enPast": "baked", "enPp": "baked", "object": "en tårta", "objectEn": "a cake", "level": "A1", "lesson": 18},
+    {"id": "verb:tjana", "inf": "tjäna", "pres": "tjänar", "imp": "tjäna", "past": "tjänade", "sup": "tjänat", "group": 1, "en": "earn", "en3": "earns", "enPast": "earned", "enPp": "earned", "object": "pengar", "objectEn": "money", "level": "A1", "lesson": 20},
+    {"id": "verb:bestalla", "inf": "beställa", "pres": "beställer", "imp": "beställ", "past": "beställde", "sup": "beställt", "group": 2, "en": "order", "en3": "orders", "enPast": "ordered", "enPp": "ordered", "object": "en pizza", "objectEn": "a pizza", "level": "A1", "lesson": 6},
+    {"id": "verb:sanka", "inf": "sänka", "pres": "sänker", "imp": "sänk", "past": "sänkte", "sup": "sänkt", "group": 2, "en": "turn down", "en3": "turns down", "enPast": "turned down", "enPp": "turned down", "object": "musiken", "objectEn": "the music", "level": "A1", "lesson": 21},
+    {"id": "verb:valja", "inf": "välja", "pres": "väljer", "imp": "välj", "past": "valde", "sup": "valt", "group": 4, "en": "choose", "en3": "chooses", "enPast": "chose", "enPp": "chosen", "object": "en bok", "objectEn": "a book", "note": "Irregular: välja, valde, valt.", "level": "A1", "lesson": 9},
+    {"id": "verb:be", "inf": "be", "pres": "ber", "imp": "be", "past": "bad", "sup": "bett", "group": 4, "en": "ask", "en3": "asks", "enPast": "asked", "enPp": "asked", "object": "om hjälp", "objectEn": "for help", "note": "Be (ask for) is irregular: ber, bad, bett.", "level": "A1", "lesson": 17}
   ]
 }

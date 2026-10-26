@@ -112,9 +112,9 @@ describe('validator catches bad content', () => {
 });
 
 describe('phase 2 coverage', () => {
-  it('has all 12 regions in village order', () => {
+  it('has all 13 regions in village order', () => {
     expect(library.regions.map((r) => r.id)).toEqual([
-      'uttal', 'verb', 'ordfoljd', 'fragor', 'har-hit', 'substantiv', 'adjektiv', 'preteritum', 'pronomen', 'dagar-tal', 'framtid', 'perfekt',
+      'uttal', 'verb', 'ordfoljd', 'fragor', 'har-hit', 'substantiv', 'adjektiv', 'preteritum', 'pronomen', 'dagar-tal', 'framtid', 'perfekt', 'bisatser',
     ]);
   });
 

@@ -2,58 +2,237 @@
   "id": "adjektiv",
   "name": "Adjektiv",
   "subtitle": "Adjectives: agreement, definite form and comparison",
-  "lessons": [5, 9, 12],
+  "lessons": [
+    5,
+    9,
+    12,
+    16
+  ],
   "colour": "moss",
   "order": 7,
-  "generators": ["adjectives"],
+  "generators": [
+    "adjectives"
+  ],
   "ruleCards": [
     {
       "title": "Three forms: rolig, roligt, roliga",
       "rule": "An adjective agrees with its noun. En-words take the base form, ett-words add -t, and plurals add -a. This works both before the noun and after är.",
-      "examples": [["en rolig film", "a fun film"], ["ett roligt spel", "a fun game"], ["två roliga filmer", "two fun films"], ["Huset är stort.", "The house is big."], ["Barnen är glada.", "The children are happy."]],
+      "examples": [
+        [
+          "en rolig film",
+          "a fun film"
+        ],
+        [
+          "ett roligt spel",
+          "a fun game"
+        ],
+        [
+          "två roliga filmer",
+          "two fun films"
+        ],
+        [
+          "Huset är stort.",
+          "The house is big."
+        ],
+        [
+          "Barnen är glada.",
+          "The children are happy."
+        ]
+      ],
       "watch": "Look at the noun, not the adjective: filmen är rolig (en-word), huset är stort (ett-word)."
     },
     {
       "title": "The definite form: -a",
       "rule": "After den här, det här, de här (and den, det, de + adjective) the adjective always ends in -a, and the noun takes its definite ending too.",
-      "examples": [["den här stora bilen", "this big car"], ["det här stora huset", "this big house"], ["de här stora bilarna", "these big cars"], ["den gamla mannen", "the old man"]],
+      "examples": [
+        [
+          "den här stora bilen",
+          "this big car"
+        ],
+        [
+          "det här stora huset",
+          "this big house"
+        ],
+        [
+          "de här stora bilarna",
+          "these big cars"
+        ],
+        [
+          "den gamla mannen",
+          "the old man"
+        ]
+      ],
       "watch": "Double definite: den stora bilen has both den and -en."
     },
     {
       "title": "After my, your, his: -a",
       "rule": "After possessives (min, din, hans, hennes, vår, deras …) and after a name with -s, the adjective also ends in -a. The noun stays in its basic form.",
-      "examples": [["min stora bil", "my big car"], ["mitt nya hus", "my new house"], ["hennes gamla katt", "her old cat"], ["Annas röda jacka", "Anna’s red jacket"]],
+      "examples": [
+        [
+          "min stora bil",
+          "my big car"
+        ],
+        [
+          "mitt nya hus",
+          "my new house"
+        ],
+        [
+          "hennes gamla katt",
+          "her old cat"
+        ],
+        [
+          "Annas röda jacka",
+          "Anna’s red jacket"
+        ]
+      ],
       "watch": "No definite ending on the noun here: min stora bil, not min stora bilen."
     },
     {
       "title": "Liten: four forms",
       "rule": "Liten is irregular. En-words: liten. Ett-words: litet. Plural: små. Definite and after possessives: lilla.",
-      "examples": [["en liten katt", "a small cat"], ["ett litet hus", "a small house"], ["två små barn", "two small children"], ["den lilla katten", "the little cat"], ["min lilla syster", "my little sister"]],
+      "examples": [
+        [
+          "en liten katt",
+          "a small cat"
+        ],
+        [
+          "ett litet hus",
+          "a small house"
+        ],
+        [
+          "två små barn",
+          "two small children"
+        ],
+        [
+          "den lilla katten",
+          "the little cat"
+        ],
+        [
+          "min lilla syster",
+          "my little sister"
+        ]
+      ],
       "watch": "Plural is always små, also in the definite: de små barnen."
     },
     {
       "title": "Ny → nytt, god → gott, röd → rött",
       "rule": "Adjectives that end in a stressed vowel add -tt for ett-words. Adjectives that end in vowel + d drop the d and add -tt.",
-      "examples": [["en ny bil", "ett nytt hus", "new"], ["en god kaka", "ett gott bröd", "good, tasty"], ["en röd bil", "ett rött hus", "red"], ["en blå bil", "ett blått hus", "blue"]],
+      "examples": [
+        [
+          "en ny bil",
+          "ett nytt hus",
+          "new"
+        ],
+        [
+          "en god kaka",
+          "ett gott bröd",
+          "good, tasty"
+        ],
+        [
+          "en röd bil",
+          "ett rött hus",
+          "red"
+        ],
+        [
+          "en blå bil",
+          "ett blått hus",
+          "blue"
+        ]
+      ],
       "watch": "Bra never changes: en bra bok, ett bra jobb, bra böcker."
     },
     {
       "title": "Comparison: -are and -ast",
       "rule": "Most adjectives add -are for “more” and -ast for “most”. Use än for “than”.",
-      "examples": [["billig – billigare – billigast", "cheap – cheaper – cheapest"], ["varm – varmare – varmast", "warm – warmer – warmest"], ["Bussen är billigare än taxin.", "The bus is cheaper than the taxi."]],
+      "examples": [
+        [
+          "billig – billigare – billigast",
+          "cheap – cheaper – cheapest"
+        ],
+        [
+          "varm – varmare – varmast",
+          "warm – warmer – warmest"
+        ],
+        [
+          "Bussen är billigare än taxin.",
+          "The bus is cheaper than the taxi."
+        ]
+      ],
       "watch": "Never add mer to a short adjective: billigare, not mer billig."
     },
     {
       "title": "Irregular comparison",
       "rule": "A few common adjectives change their vowel or the whole word. Learn them as sets of three.",
-      "examples": [["bra – bättre – bäst", "good – better – best"], ["stor – större – störst", "big – bigger – biggest"], ["gammal – äldre – äldst", "old – older – oldest"], ["liten – mindre – minst", "small – smaller – smallest"], ["ung – yngre – yngst", "young – younger – youngest"]],
+      "examples": [
+        [
+          "bra – bättre – bäst",
+          "good – better – best"
+        ],
+        [
+          "stor – större – störst",
+          "big – bigger – biggest"
+        ],
+        [
+          "gammal – äldre – äldst",
+          "old – older – oldest"
+        ],
+        [
+          "liten – mindre – minst",
+          "small – smaller – smallest"
+        ],
+        [
+          "ung – yngre – yngst",
+          "young – younger – youngest"
+        ]
+      ],
       "watch": "Never gammalare or storare: äldre, större."
     },
     {
       "title": "Mycket, mer, mest vs många, fler, flest",
       "rule": "Things you can’t count (kaffe, tid, vatten, pengar) take mycket – mer – mest. Things you can count (bilar, vänner, böcker) take många – fler – flest.",
-      "examples": [["mycket kaffe", "mer kaffe", "much coffee – more coffee"], ["många vänner", "fler vänner", "many friends – more friends"], ["Vem har mest tid?", "Who has the most time?"], ["Vem har flest böcker?", "Who has the most books?"]],
+      "examples": [
+        [
+          "mycket kaffe",
+          "mer kaffe",
+          "much coffee – more coffee"
+        ],
+        [
+          "många vänner",
+          "fler vänner",
+          "many friends – more friends"
+        ],
+        [
+          "Vem har mest tid?",
+          "Who has the most time?"
+        ],
+        [
+          "Vem har flest böcker?",
+          "Who has the most books?"
+        ]
+      ],
       "watch": "Pengar looks plural but you can’t count it: mycket pengar, mer pengar."
+    },
+    {
+      "title": "Denna, detta, dessa",
+      "rule": "Denna, detta and dessa mean “this, these”, like den här, det här, de här, but more formal. The noun after them stays in the indefinite form.",
+      "examples": [
+        [
+          "denna film",
+          "den här filmen",
+          "this film"
+        ],
+        [
+          "detta hus",
+          "det här huset",
+          "this house"
+        ],
+        [
+          "dessa skor",
+          "de här skorna",
+          "these shoes"
+        ]
+      ],
+      "watch": "Den här + definite noun (den här filmen), but denna + indefinite noun (denna film)."
     }
   ]
 }

@@ -11,7 +11,8 @@ export function RegionScreen({ id }: { id: string }) {
   if (!region) return <NotFound />;
 
   const ids = poolFor(region.id);
-  const bossCount = poolFor(region.id, 'boss').length;
+  const bossKinds = new Set(poolFor(region.id, 'boss').map((id) => library.items.get(id)?.kind));
+  const bossStyle = bossKinds.has('order') && !bossKinds.has('type') ? ', mostly word order' : bossKinds.has('type') ? ', mostly typed' : '';
   const beaten = Boolean(save.bosses[region.id]);
   const m = mastery(ids, save.items);
   const seen = ids.filter((i) => isSeen(save.items[i])).length;
@@ -70,7 +71,7 @@ export function RegionScreen({ id }: { id: string }) {
           Boss battle{beaten ? ' · beaten ✓' : ''}
         </a>
         <p id="boss-note" className="small muted" style={{ margin: 0, textAlign: 'center' }}>
-          10 harder items{bossCount >= 5 ? ', mostly typed' : ''}, 3 lives. Win for +50 XP and a cabin decoration.
+          10 harder items{bossStyle}, 3 lives. Win for +50 XP and a cabin decoration.
         </p>
       </div>
     </div>

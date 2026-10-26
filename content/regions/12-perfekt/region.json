@@ -2,57 +2,204 @@
   "id": "perfekt",
   "name": "Perfekt",
   "subtitle": "Present perfect: har + supine",
-  "lessons": [17],
+  "lessons": [
+    17,
+    18
+  ],
   "colour": "lupin",
   "order": 12,
-  "generators": ["verbs-perfect"],
+  "generators": [
+    "verbs-perfect"
+  ],
   "ruleCards": [
     {
       "title": "Har + supine",
       "rule": "The perfect tense is har + the supine form of the verb. It works like English “have done”.",
-      "examples": [["Jag har jobbat hela dagen.", "I have worked all day."], ["Har du sett filmen?", "Have you seen the film?"], ["Hon har inte ätit.", "She hasn’t eaten."]],
+      "examples": [
+        [
+          "Jag har jobbat hela dagen.",
+          "I have worked all day."
+        ],
+        [
+          "Har du sett filmen?",
+          "Have you seen the film?"
+        ],
+        [
+          "Hon har inte ätit.",
+          "She hasn’t eaten."
+        ]
+      ],
       "watch": "Har is the same for everyone: jag har, du har, vi har, de har."
     },
     {
       "title": "Supine: groups I–III",
       "rule": "Group I adds -t to the infinitive. Group II drops the -a and adds -t. Group III adds -tt.",
-      "examples": [["jobba", "har jobbat", "work → have worked"], ["köpa", "har köpt", "buy → have bought"], ["stänga", "har stängt", "close → have closed"], ["bo", "har bott", "live → have lived"]],
+      "examples": [
+        [
+          "jobba",
+          "har jobbat",
+          "work → have worked"
+        ],
+        [
+          "köpa",
+          "har köpt",
+          "buy → have bought"
+        ],
+        [
+          "stänga",
+          "har stängt",
+          "close → have closed"
+        ],
+        [
+          "bo",
+          "har bott",
+          "live → have lived"
+        ]
+      ],
       "watch": "Group II never gets -at: köpt, not köpat."
     },
     {
       "title": "Supine: group IV",
       "rule": "Many irregular verbs end in -it in the supine. Some very common ones are fully irregular.",
-      "examples": [["skriva", "har skrivit", "write → have written"], ["äta", "har ätit", "eat → have eaten"], ["komma", "har kommit", "come → have come"], ["dricka", "har druckit", "drink → have drunk"]],
+      "examples": [
+        [
+          "skriva",
+          "har skrivit",
+          "write → have written"
+        ],
+        [
+          "äta",
+          "har ätit",
+          "eat → have eaten"
+        ],
+        [
+          "komma",
+          "har kommit",
+          "come → have come"
+        ],
+        [
+          "dricka",
+          "har druckit",
+          "drink → have drunk"
+        ]
+      ],
       "watch": "The vowel often changes: dricka → druckit."
     },
     {
       "title": "Irregular supines to learn",
       "rule": "These common verbs have their own supine forms. Learn them by heart.",
-      "examples": [["se", "har sett", "see → have seen"], ["göra", "har gjort", "do → have done"], ["vara", "har varit", "be → have been"], ["ha", "har haft", "have → have had"], ["gå", "har gått", "go → have gone"], ["säga", "har sagt", "say → have said"]],
+      "examples": [
+        [
+          "se",
+          "har sett",
+          "see → have seen"
+        ],
+        [
+          "göra",
+          "har gjort",
+          "do → have done"
+        ],
+        [
+          "vara",
+          "har varit",
+          "be → have been"
+        ],
+        [
+          "ha",
+          "har haft",
+          "have → have had"
+        ],
+        [
+          "gå",
+          "har gått",
+          "go → have gone"
+        ],
+        [
+          "säga",
+          "har sagt",
+          "say → have said"
+        ]
+      ],
       "watch": "Har haft = have had. Both words are needed."
     },
     {
       "title": "Ever, never, already, not yet",
       "rule": "Use the perfect with aldrig (never), någon gång (ever), redan (already) and ännu inte (not yet), when no finished time is mentioned.",
-      "examples": [["Jag har aldrig varit i Lappland.", "I have never been to Lapland."], ["Har du någon gång ätit surströmming?", "Have you ever eaten fermented herring?"], ["Vi har redan ätit.", "We have already eaten."], ["Bussen har ännu inte kommit.", "The bus hasn’t come yet."]],
+      "examples": [
+        [
+          "Jag har aldrig varit i Lappland.",
+          "I have never been to Lapland."
+        ],
+        [
+          "Har du någon gång ätit surströmming?",
+          "Have you ever eaten fermented herring?"
+        ],
+        [
+          "Vi har redan ätit.",
+          "We have already eaten."
+        ],
+        [
+          "Bussen har ännu inte kommit.",
+          "The bus hasn’t come yet."
+        ]
+      ],
       "watch": "You can also say: Bussen har inte kommit ännu."
     },
     {
       "title": "I + period: still true",
       "rule": "Har + supine + i + a period means something started in the past and is still going on.",
-      "examples": [["Jag har bott här i tio år.", "I have lived here for ten years (and still do)."], ["Hon har jobbat på sjukhuset i fem år.", "She has worked at the hospital for five years."], ["Vi har bott i huset sedan 2010.", "We have lived in the house since 2010."]],
+      "examples": [
+        [
+          "Jag har bott här i tio år.",
+          "I have lived here for ten years (and still do)."
+        ],
+        [
+          "Hon har jobbat på sjukhuset i fem år.",
+          "She has worked at the hospital for five years."
+        ],
+        [
+          "Vi har bott i huset sedan 2010.",
+          "We have lived in the house since 2010."
+        ]
+      ],
       "watch": "English uses “for” here, Swedish uses i: i tio år."
     },
     {
       "title": "Bodde or har bott?",
       "rule": "Past tense (bodde) = it’s over. Perfect (har bott) = it’s still true now.",
-      "examples": [["Jag bodde i Sverige i två år.", "I lived in Sweden for two years (I don’t now)."], ["Jag har bott i Finland i två år.", "I have lived in Finland for two years (I still do)."]],
+      "examples": [
+        [
+          "Jag bodde i Sverige i två år.",
+          "I lived in Sweden for two years (I don’t now)."
+        ],
+        [
+          "Jag har bott i Finland i två år.",
+          "I have lived in Finland for two years (I still do)."
+        ]
+      ],
       "watch": "Ask yourself: do I still live there? Yes → har bott. No → bodde."
     },
     {
       "title": "Finished time → past, no time → perfect",
       "rule": "If you say when it happened (igår, förra året, i måndags), use the past. If the time is not said or not finished, use the perfect.",
-      "examples": [["Jag såg filmen igår.", "I saw the film yesterday."], ["Jag har sett filmen.", "I have seen the film."], ["Vi reste till Stockholm förra året.", "We travelled to Stockholm last year."], ["Vi har rest mycket i år.", "We have travelled a lot this year."]],
+      "examples": [
+        [
+          "Jag såg filmen igår.",
+          "I saw the film yesterday."
+        ],
+        [
+          "Jag har sett filmen.",
+          "I have seen the film."
+        ],
+        [
+          "Vi reste till Stockholm förra året.",
+          "We travelled to Stockholm last year."
+        ],
+        [
+          "Vi har rest mycket i år.",
+          "We have travelled a lot this year."
+        ]
+      ],
       "watch": "Never har with igår: Jag såg den igår, not Jag har sett den igår."
     }
   ]

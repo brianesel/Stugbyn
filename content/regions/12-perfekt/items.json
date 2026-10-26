@@ -1,27 +1,516 @@
 [
-  { "id": "perfekt:har-bott", "kind": "choice", "prompt": "Jag ___ i Finland i 10 år.", "hint": "I’ve lived in Finland for 10 years, and I still live here.", "answer": "har bott", "options": ["har bott", "bodde", "bor"], "explain": "It started in the past and is still true, so use har + supine: har bott.", "level": "A2", "lesson": 17, "tags": ["past-vs-perfect"] },
-  { "id": "perfekt:bodde-for-sedan", "kind": "choice", "prompt": "För tio år sedan ___ jag i Sverige.", "hint": "Ten years ago I lived in Sweden.", "answer": "bodde", "options": ["bodde", "har bott", "bor"], "explain": "För tio år sedan is a finished time, so use the past: bodde.", "level": "A2", "lesson": 17, "tags": ["past-vs-perfect"] },
-  { "id": "perfekt:sag-igar", "kind": "choice", "prompt": "Jag ___ filmen igår.", "hint": "I saw the film yesterday.", "answer": "såg", "options": ["såg", "har sett", "ser"], "explain": "Igår is a finished time, so use the past: såg. Never har with igår.", "level": "A2", "lesson": 17, "tags": ["past-vs-perfect"] },
-  { "id": "perfekt:reste-forra-aret", "kind": "choice", "prompt": "Vi ___ till Stockholm förra året.", "hint": "We travelled to Stockholm last year.", "answer": "reste", "options": ["reste", "har rest", "reser"], "explain": "Förra året is a finished time, so use the past: reste.", "level": "A2", "lesson": 17, "tags": ["past-vs-perfect"] },
-  { "id": "perfekt:jobbat-fem-ar", "kind": "choice", "prompt": "Han har ___ här i fem år.", "hint": "He has worked here for five years (and still does).", "answer": "jobbat", "options": ["jobbat", "jobbade", "jobbt"], "explain": "Group I supine adds -t to the infinitive: jobba → jobbat.", "level": "A2", "lesson": 17, "tags": ["supine", "group-1"] },
-  { "id": "perfekt:kopt", "kind": "choice", "prompt": "Hon har ___ en ny cykel.", "hint": "She has bought a new bike.", "answer": "köpt", "options": ["köpt", "köpat", "köpte"], "explain": "Group II supine drops the -a and adds -t: köpa → köpt.", "level": "A2", "lesson": 17, "tags": ["supine", "group-2"] },
-  { "id": "perfekt:stangt", "kind": "choice", "prompt": "Affären har redan ___.", "hint": "The shop has already closed.", "answer": "stängt", "options": ["stängt", "stängat", "stängde"], "explain": "Group II supine drops the -a and adds -t: stänga → stängt.", "level": "A2", "lesson": 17, "tags": ["supine", "group-2"] },
-  { "id": "perfekt:bott-sedan", "kind": "choice", "prompt": "Vi har ___ i det här huset sedan 2010.", "hint": "We have lived in this house since 2010.", "answer": "bott", "options": ["bott", "bodde", "boat"], "explain": "Group III supine adds -tt: bo → bott.", "level": "A2", "lesson": 17, "tags": ["supine", "group-3"] },
-  { "id": "perfekt:skrivit", "kind": "choice", "prompt": "Har du ___ till mormor?", "hint": "Have you written to Grandma?", "answer": "skrivit", "options": ["skrivit", "skrev", "skrivt"], "explain": "Group IV supine often ends in -it: skriva → skrivit.", "level": "A2", "lesson": 17, "tags": ["supine", "group-4"] },
-  { "id": "perfekt:atit-redan", "kind": "choice", "prompt": "Tack, men vi har redan ___.", "hint": "Thanks, but we have already eaten.", "answer": "ätit", "options": ["ätit", "åt", "ätt"], "explain": "Äta is Group IV: har ätit.", "level": "A2", "lesson": 17, "tags": ["supine", "group-4"] },
-  { "id": "perfekt:nagon-gang", "kind": "choice", "prompt": "Har du någon gång ___ surströmming?", "hint": "Have you ever eaten fermented herring?", "answer": "ätit", "options": ["ätit", "åt", "äta"], "explain": "Någon gång (ever) goes with the perfect: har du ätit.", "level": "A2", "lesson": 17, "tags": ["supine", "ever"] },
-  { "id": "perfekt:aldrig-varit", "kind": "choice", "prompt": "Jag har aldrig ___ i Lappland.", "hint": "I have never been to Lapland.", "answer": "varit", "options": ["varit", "var", "vara"], "explain": "Vara is irregular: har varit.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:sett", "kind": "choice", "prompt": "Har du ___ den nya filmen?", "hint": "Have you seen the new film?", "answer": "sett", "options": ["sett", "såg", "set"], "explain": "Se is irregular: har sett.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:gjort", "kind": "choice", "prompt": "Jag har inte ___ läxan ännu.", "hint": "I haven’t done the homework yet.", "answer": "gjort", "options": ["gjort", "gjorde", "gört"], "explain": "Göra is irregular: har gjort.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:haft", "kind": "choice", "prompt": "Vi har ___ en bra dag.", "hint": "We have had a good day.", "answer": "haft", "options": ["haft", "hade", "havt"], "explain": "Ha is irregular: har haft = have had.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:sagt", "kind": "choice", "prompt": "Vad har hon ___?", "hint": "What has she said?", "answer": "sagt", "options": ["sagt", "sa", "sägt"], "explain": "Säga is irregular: har sagt.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:gatt", "kind": "choice", "prompt": "Han har redan ___ hem.", "hint": "He has already gone home.", "answer": "gått", "options": ["gått", "gick", "gåt"], "explain": "Gå is irregular: har gått.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:annu-inte", "kind": "choice", "prompt": "Bussen har ___ kommit.", "ask": "Pick the right word.", "hint": "The bus hasn’t come yet.", "answer": "ännu inte", "options": ["ännu inte", "redan", "aldrig"], "explain": "Ännu inte = not yet. It goes with the perfect: har ännu inte kommit.", "level": "A2", "lesson": 17, "tags": ["not-yet"] },
-  { "id": "perfekt:redan", "kind": "choice", "prompt": "Jag har ___ läst boken.", "ask": "Pick the right word.", "hint": "I have already read the book.", "answer": "redan", "options": ["redan", "ännu inte", "aldrig"], "explain": "Redan = already. It goes with the perfect: har redan läst.", "level": "A2", "lesson": 17, "tags": ["already"] },
-
-  { "id": "perfekt:boss-varit", "kind": "type", "boss": true, "prompt": "Jag har aldrig ___ i Sverige. (vara)", "answer": "varit", "accept": [], "hint": "I have never been to Sweden.", "ask": "Type the supine.", "explain": "Vara is irregular: har varit.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:boss-sett", "kind": "type", "boss": true, "prompt": "Har du ___ min telefon? (se)", "answer": "sett", "accept": [], "hint": "Have you seen my phone?", "ask": "Type the supine.", "explain": "Se is irregular: har sett.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] },
-  { "id": "perfekt:boss-bott", "kind": "type", "boss": true, "prompt": "Vi har ___ här i tre år. (bo)", "answer": "bott", "accept": [], "hint": "We have lived here for three years.", "ask": "Type the supine.", "explain": "Group III supine adds -tt: bo → bott.", "level": "A2", "lesson": 17, "tags": ["supine", "group-3"] },
-  { "id": "perfekt:boss-atit", "kind": "type", "boss": true, "prompt": "Hon har inte ___ ännu. (äta)", "answer": "ätit", "accept": [], "hint": "She hasn’t eaten yet.", "ask": "Type the supine.", "explain": "Äta is Group IV: har ätit.", "level": "A2", "lesson": 17, "tags": ["supine", "group-4"] },
-  { "id": "perfekt:boss-gjort", "kind": "type", "boss": true, "prompt": "Har du ___ läxan? (göra)", "answer": "gjort", "accept": [], "hint": "Have you done the homework?", "ask": "Type the supine.", "explain": "Göra is irregular: har gjort.", "level": "A2", "lesson": 17, "tags": ["supine", "irregular"] }
+  {
+    "id": "perfekt:har-bott",
+    "kind": "choice",
+    "prompt": "Jag ___ i Finland i 10 år.",
+    "hint": "I’ve lived in Finland for 10 years, and I still live here.",
+    "answer": "har bott",
+    "options": [
+      "har bott",
+      "bodde",
+      "bor"
+    ],
+    "explain": "It started in the past and is still true, so use har + supine: har bott.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "past-vs-perfect"
+    ]
+  },
+  {
+    "id": "perfekt:bodde-for-sedan",
+    "kind": "choice",
+    "prompt": "För tio år sedan ___ jag i Sverige.",
+    "hint": "Ten years ago I lived in Sweden.",
+    "answer": "bodde",
+    "options": [
+      "bodde",
+      "har bott",
+      "bor"
+    ],
+    "explain": "För tio år sedan is a finished time, so use the past: bodde.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "past-vs-perfect"
+    ]
+  },
+  {
+    "id": "perfekt:sag-igar",
+    "kind": "choice",
+    "prompt": "Jag ___ filmen igår.",
+    "hint": "I saw the film yesterday.",
+    "answer": "såg",
+    "options": [
+      "såg",
+      "har sett",
+      "ser"
+    ],
+    "explain": "Igår is a finished time, so use the past: såg. Never har with igår.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "past-vs-perfect"
+    ]
+  },
+  {
+    "id": "perfekt:reste-forra-aret",
+    "kind": "choice",
+    "prompt": "Vi ___ till Stockholm förra året.",
+    "hint": "We travelled to Stockholm last year.",
+    "answer": "reste",
+    "options": [
+      "reste",
+      "har rest",
+      "reser"
+    ],
+    "explain": "Förra året is a finished time, so use the past: reste.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "past-vs-perfect"
+    ]
+  },
+  {
+    "id": "perfekt:jobbat-fem-ar",
+    "kind": "choice",
+    "prompt": "Han har ___ här i fem år.",
+    "hint": "He has worked here for five years (and still does).",
+    "answer": "jobbat",
+    "options": [
+      "jobbat",
+      "jobbade",
+      "jobbt"
+    ],
+    "explain": "Group I supine adds -t to the infinitive: jobba → jobbat.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-1"
+    ]
+  },
+  {
+    "id": "perfekt:kopt",
+    "kind": "choice",
+    "prompt": "Hon har ___ en ny cykel.",
+    "hint": "She has bought a new bike.",
+    "answer": "köpt",
+    "options": [
+      "köpt",
+      "köpat",
+      "köpte"
+    ],
+    "explain": "Group II supine drops the -a and adds -t: köpa → köpt.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-2"
+    ]
+  },
+  {
+    "id": "perfekt:stangt",
+    "kind": "choice",
+    "prompt": "Affären har redan ___.",
+    "hint": "The shop has already closed.",
+    "answer": "stängt",
+    "options": [
+      "stängt",
+      "stängat",
+      "stängde"
+    ],
+    "explain": "Group II supine drops the -a and adds -t: stänga → stängt.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-2"
+    ]
+  },
+  {
+    "id": "perfekt:bott-sedan",
+    "kind": "choice",
+    "prompt": "Vi har ___ i det här huset sedan 2010.",
+    "hint": "We have lived in this house since 2010.",
+    "answer": "bott",
+    "options": [
+      "bott",
+      "bodde",
+      "boat"
+    ],
+    "explain": "Group III supine adds -tt: bo → bott.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-3"
+    ]
+  },
+  {
+    "id": "perfekt:skrivit",
+    "kind": "choice",
+    "prompt": "Har du ___ till mormor?",
+    "hint": "Have you written to Grandma?",
+    "answer": "skrivit",
+    "options": [
+      "skrivit",
+      "skrev",
+      "skrivt"
+    ],
+    "explain": "Group IV supine often ends in -it: skriva → skrivit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-4"
+    ]
+  },
+  {
+    "id": "perfekt:atit-redan",
+    "kind": "choice",
+    "prompt": "Tack, men vi har redan ___.",
+    "hint": "Thanks, but we have already eaten.",
+    "answer": "ätit",
+    "options": [
+      "ätit",
+      "åt",
+      "ätt"
+    ],
+    "explain": "Äta is Group IV: har ätit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-4"
+    ]
+  },
+  {
+    "id": "perfekt:nagon-gang",
+    "kind": "choice",
+    "prompt": "Har du någon gång ___ surströmming?",
+    "hint": "Have you ever eaten fermented herring?",
+    "answer": "ätit",
+    "options": [
+      "ätit",
+      "åt",
+      "äta"
+    ],
+    "explain": "Någon gång (ever) goes with the perfect: har du ätit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "ever"
+    ]
+  },
+  {
+    "id": "perfekt:aldrig-varit",
+    "kind": "choice",
+    "prompt": "Jag har aldrig ___ i Lappland.",
+    "hint": "I have never been to Lapland.",
+    "answer": "varit",
+    "options": [
+      "varit",
+      "var",
+      "vara"
+    ],
+    "explain": "Vara is irregular: har varit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:sett",
+    "kind": "choice",
+    "prompt": "Har du ___ den nya filmen?",
+    "hint": "Have you seen the new film?",
+    "answer": "sett",
+    "options": [
+      "sett",
+      "såg",
+      "set"
+    ],
+    "explain": "Se is irregular: har sett.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:gjort",
+    "kind": "choice",
+    "prompt": "Jag har inte ___ läxan ännu.",
+    "hint": "I haven’t done the homework yet.",
+    "answer": "gjort",
+    "options": [
+      "gjort",
+      "gjorde",
+      "gört"
+    ],
+    "explain": "Göra is irregular: har gjort.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:haft",
+    "kind": "choice",
+    "prompt": "Vi har ___ en bra dag.",
+    "hint": "We have had a good day.",
+    "answer": "haft",
+    "options": [
+      "haft",
+      "hade",
+      "havt"
+    ],
+    "explain": "Ha is irregular: har haft = have had.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:sagt",
+    "kind": "choice",
+    "prompt": "Vad har hon ___?",
+    "hint": "What has she said?",
+    "answer": "sagt",
+    "options": [
+      "sagt",
+      "sa",
+      "sägt"
+    ],
+    "explain": "Säga is irregular: har sagt.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:gatt",
+    "kind": "choice",
+    "prompt": "Han har redan ___ hem.",
+    "hint": "He has already gone home.",
+    "answer": "gått",
+    "options": [
+      "gått",
+      "gick",
+      "gåt"
+    ],
+    "explain": "Gå is irregular: har gått.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:annu-inte",
+    "kind": "choice",
+    "prompt": "Bussen har ___ kommit.",
+    "ask": "Pick the right word.",
+    "hint": "The bus hasn’t come yet.",
+    "answer": "ännu inte",
+    "options": [
+      "ännu inte",
+      "redan",
+      "aldrig"
+    ],
+    "explain": "Ännu inte = not yet. It goes with the perfect: har ännu inte kommit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "not-yet"
+    ]
+  },
+  {
+    "id": "perfekt:redan",
+    "kind": "choice",
+    "prompt": "Jag har ___ läst boken.",
+    "ask": "Pick the right word.",
+    "hint": "I have already read the book.",
+    "answer": "redan",
+    "options": [
+      "redan",
+      "ännu inte",
+      "aldrig"
+    ],
+    "explain": "Redan = already. It goes with the perfect: har redan läst.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "already"
+    ]
+  },
+  {
+    "id": "perfekt:boss-varit",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Jag har aldrig ___ i Sverige. (vara)",
+    "answer": "varit",
+    "accept": [],
+    "hint": "I have never been to Sweden.",
+    "ask": "Type the supine.",
+    "explain": "Vara is irregular: har varit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:boss-sett",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Har du ___ min telefon? (se)",
+    "answer": "sett",
+    "accept": [],
+    "hint": "Have you seen my phone?",
+    "ask": "Type the supine.",
+    "explain": "Se is irregular: har sett.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:boss-bott",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Vi har ___ här i tre år. (bo)",
+    "answer": "bott",
+    "accept": [],
+    "hint": "We have lived here for three years.",
+    "ask": "Type the supine.",
+    "explain": "Group III supine adds -tt: bo → bott.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-3"
+    ]
+  },
+  {
+    "id": "perfekt:boss-atit",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Hon har inte ___ ännu. (äta)",
+    "answer": "ätit",
+    "accept": [],
+    "hint": "She hasn’t eaten yet.",
+    "ask": "Type the supine.",
+    "explain": "Äta is Group IV: har ätit.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "group-4"
+    ]
+  },
+  {
+    "id": "perfekt:boss-gjort",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Har du ___ läxan? (göra)",
+    "answer": "gjort",
+    "accept": [],
+    "hint": "Have you done the homework?",
+    "ask": "Type the supine.",
+    "explain": "Göra is irregular: har gjort.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "supine",
+      "irregular"
+    ]
+  },
+  {
+    "id": "perfekt:rest-peru",
+    "kind": "choice",
+    "prompt": "Jag har aldrig ___ till Peru.",
+    "hint": "I have never travelled to Peru.",
+    "answer": "rest",
+    "options": [
+      "rest",
+      "reste",
+      "resat"
+    ],
+    "explain": "Resa is Group II: reste, rest. Har + supine: har rest.",
+    "level": "A2",
+    "lesson": 18,
+    "tags": [
+      "supine"
+    ]
+  },
+  {
+    "id": "perfekt:varit-vanner",
+    "kind": "choice",
+    "prompt": "Anna och jag har ___ vänner i många år.",
+    "hint": "Anna and I have been friends for many years (and still are).",
+    "answer": "varit",
+    "options": [
+      "varit",
+      "var",
+      "vart"
+    ],
+    "explain": "Har + supine of vara: har varit.",
+    "level": "A2",
+    "lesson": 18,
+    "tags": [
+      "supine"
+    ]
+  },
+  {
+    "id": "perfekt:kommit-paket",
+    "kind": "choice",
+    "prompt": "Tre paket har ___ imorse.",
+    "hint": "Three parcels have come this morning.",
+    "answer": "kommit",
+    "options": [
+      "kommit",
+      "kom",
+      "kommt"
+    ],
+    "explain": "Komma is irregular: kom, kommit.",
+    "level": "A2",
+    "lesson": 18,
+    "tags": [
+      "supine"
+    ]
+  },
+  {
+    "id": "perfekt:haft-betyg",
+    "kind": "choice",
+    "prompt": "Han har alltid ___ bra betyg.",
+    "hint": "He has always had good grades.",
+    "answer": "haft",
+    "options": [
+      "haft",
+      "hade",
+      "havt"
+    ],
+    "explain": "Ha is irregular: hade, haft.",
+    "level": "A2",
+    "lesson": 18,
+    "tags": [
+      "supine"
+    ]
+  }
 ]

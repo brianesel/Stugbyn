@@ -23,13 +23,13 @@ export function generateNounItems(table: NounTable): Item[] {
       ending: group.ending,
       label: group.label,
     };
-    const base = { level: n.level, lesson: n.lesson };
+    const lesson = (type: string) => ({ level: n.level, lesson: table.lessons?.[type] ?? n.lesson });
     const tags = (t: string) => ['nouns', t, ...(n.tags ?? [])];
     const sayPl = fill(table.say.pl, vars);
 
     items.push(
       {
-        ...base,
+        ...lesson('gender'),
         id: `nouns:gender:${n.sv}`,
         kind: 'choice',
         ask: 'En or ett?',
@@ -42,7 +42,7 @@ export function generateNounItems(table: NounTable): Item[] {
         tags: tags('gender'),
       },
       {
-        ...base,
+        ...lesson('def'),
         id: `nouns:def:${n.sv}`,
         kind: 'choice',
         ask: 'Pick the definite form.',
@@ -55,7 +55,7 @@ export function generateNounItems(table: NounTable): Item[] {
         tags: tags('definite'),
       },
       {
-        ...base,
+        ...lesson('houses'),
         id: `nouns:houses:${n.sv}`,
         kind: 'houses',
         ask: 'Which plural group?',
@@ -67,7 +67,7 @@ export function generateNounItems(table: NounTable): Item[] {
         tags: tags('group'),
       },
       {
-        ...base,
+        ...lesson('pl'),
         id: `nouns:pl:${n.sv}`,
         kind: 'choice',
         ask: 'Pick the plural.',
@@ -80,7 +80,7 @@ export function generateNounItems(table: NounTable): Item[] {
         tags: tags('plural'),
       },
       {
-        ...base,
+        ...lesson('defPl'),
         id: `nouns:defpl:${n.sv}`,
         kind: 'choice',
         ask: 'Pick the definite plural.',

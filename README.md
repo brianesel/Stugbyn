@@ -2,7 +2,7 @@
 
 A mobile-first web app that teaches Swedish from A1 to A2 through short games, then prepares for YKI intermediate. See [SPEC.md](SPEC.md) for the full build spec, [CONTENT_GUIDE.md](CONTENT_GUIDE.md) for adding words, and [DECISIONS.md](DECISIONS.md) for choices made along the way. To put it online with email login and saved progress, follow [DEPLOY.md](DEPLOY.md).
 
-**Status:** Phase 2 (Grammar regions) — all 12 regions have rule cards, practice and boss battles; daily review spans all regions.
+**Status:** Phase 2 (Grammar regions) plus accounts — 13 regions following the class up to lesson 21 (see [CURRICULUM.md](CURRICULUM.md)), with rule cards, practice and boss battles; daily review spans all regions.
 
 ## Commands
 

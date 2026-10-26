@@ -1,19 +1,443 @@
 [
-  { "id": "substantiv:katter", "kind": "choice", "prompt": "Två ___ sover i soffan.", "hint": "Two cats are sleeping on the sofa.", "answer": "katter", "options": ["katter", "kattar", "katt"], "explain": "Katt is an exception: it takes -er, so katter, not kattar.", "level": "A1", "lesson": 8, "tags": ["plural", "exception"] },
-  { "id": "substantiv:chefer", "kind": "choice", "prompt": "Alla ___ har möte idag.", "hint": "All the bosses have a meeting today.", "answer": "chefer", "options": ["chefer", "chefar", "chef"], "explain": "Chef is an exception: it takes -er, so chefer.", "level": "A1", "lesson": 8, "tags": ["plural", "exception"] },
-  { "id": "substantiv:saker", "kind": "choice", "prompt": "Jag har många ___ att göra.", "hint": "I have many things to do.", "answer": "saker", "options": ["saker", "sakar", "sak"], "explain": "Sak is an exception: it takes -er, so saker.", "level": "A1", "lesson": 8, "tags": ["plural", "exception"] },
-  { "id": "substantiv:vanner", "kind": "choice", "prompt": "Hon har två bra ___.", "hint": "She has two good friends.", "answer": "vänner", "options": ["vänner", "vänar", "väner"], "explain": "Vän is an exception: it doubles the n and takes -er, so vänner.", "level": "A1", "lesson": 8, "tags": ["plural", "exception"] },
-  { "id": "substantiv:bocker", "kind": "choice", "prompt": "Jag läser tre ___ i månaden.", "hint": "I read three books a month.", "answer": "böcker", "options": ["böcker", "bokar", "boker"], "explain": "Bok is Group 3 with a vowel change: bok → böcker.", "level": "A1", "lesson": 11, "tags": ["plural", "vowel-change"] },
-  { "id": "substantiv:stader", "kind": "choice", "prompt": "Stockholm och Göteborg är stora ___.", "hint": "Stockholm and Gothenburg are big cities.", "answer": "städer", "options": ["städer", "stader", "stadar"], "explain": "Stad is Group 3 with a vowel change: stad → städer.", "level": "A1", "lesson": 11, "tags": ["plural", "vowel-change"] },
-  { "id": "substantiv:handerna", "kind": "choice", "prompt": "Tvätta ___ innan du äter!", "hint": "Wash your hands before you eat!", "answer": "händerna", "options": ["händerna", "handerna", "händer"], "explain": "Hand → händer → händerna. Swedish uses the definite form for body parts: tvätta händerna.", "level": "A1", "lesson": 11, "tags": ["definite-plural", "vowel-change"] },
-  { "id": "substantiv:lararna", "kind": "choice", "prompt": "___ är snälla.", "hint": "The teachers are kind.", "answer": "Lärarna", "options": ["Lärarna", "Lärarena", "Läraren"], "explain": "En-words ending in -are drop the e in the definite plural: lärare → lärarna.", "level": "A1", "lesson": 8, "tags": ["definite-plural"] },
-  { "id": "substantiv:rum", "kind": "choice", "prompt": "Vi bor i ett hus med fem ___.", "hint": "We live in a house with five rooms.", "answer": "rum", "options": ["rum", "rummar", "rummen"], "explain": "Group 5: ett-words ending in a consonant have no plural ending. Ett rum → fem rum.", "level": "A1", "lesson": 4, "tags": ["plural"] },
-  { "id": "substantiv:fonstren", "kind": "choice", "prompt": "___ är öppna.", "hint": "The windows are open.", "answer": "Fönstren", "options": ["Fönstren", "Fönsterna", "Fönstret"], "explain": "Ett fönster → två fönster → fönstren. The e disappears in the definite plural.", "level": "A1", "lesson": 11, "tags": ["definite-plural"] },
-  { "id": "substantiv:ogon", "kind": "choice", "prompt": "Hon har blå ___.", "hint": "She has blue eyes.", "answer": "ögon", "options": ["ögon", "ögor", "ögar"], "explain": "Öga is irregular: ett öga → två ögon.", "level": "A1", "lesson": 11, "tags": ["plural", "irregular"] },
-  { "id": "substantiv:man", "kind": "choice", "prompt": "Det är tre ___ och två kvinnor här.", "hint": "There are three men and two women here.", "answer": "män", "options": ["män", "mannar", "männen"], "explain": "Man is irregular: en man → två män.", "level": "A1", "lesson": 11, "tags": ["plural", "irregular"] },
-  { "id": "substantiv:applen", "kind": "choice", "prompt": "Barnen äter ___.", "hint": "The children are eating apples.", "answer": "äpplen", "options": ["äpplen", "äpplar", "äpple"], "explain": "Group 4: ett-words ending in a vowel add -n. Ett äpple → äpplen.", "level": "A1", "lesson": 4, "tags": ["plural"] },
-  { "id": "substantiv:barn", "kind": "choice", "prompt": "Jag har två ___.", "hint": "I have two children.", "answer": "barn", "options": ["barn", "barnar", "barnen"], "explain": "Group 5: ett-words ending in a consonant have no plural ending. Ett barn → två barn.", "level": "A1", "lesson": 4, "tags": ["plural"] },
-  { "id": "substantiv:nycklarna", "kind": "choice", "prompt": "Var är ___?", "hint": "Where are the keys?", "answer": "nycklarna", "options": ["nycklarna", "nyckelarna", "nycklar"], "explain": "Nyckel → nycklar (the e disappears) → nycklarna.", "level": "A1", "lesson": 8, "tags": ["definite-plural"] },
-  { "id": "substantiv:lektioner", "kind": "choice", "prompt": "Han har tre ___ i veckan.", "hint": "He has three lessons a week.", "answer": "lektioner", "options": ["lektioner", "lektionar", "lektionor"], "explain": "Lektion is a long word from another language, so Group 3: lektioner.", "level": "A1", "lesson": 4, "tags": ["plural"] },
-  { "id": "substantiv:skor", "kind": "choice", "prompt": "Jag köper två par ___.", "hint": "I’m buying two pairs of shoes.", "answer": "skor", "options": ["skor", "skoer", "skon"], "explain": "Sko ends in a vowel other than a, so it adds only -r: skor.", "level": "A1", "lesson": 8, "tags": ["plural"] }
+  {
+    "id": "substantiv:katter",
+    "kind": "choice",
+    "prompt": "Två ___ sover i soffan.",
+    "hint": "Two cats are sleeping on the sofa.",
+    "answer": "katter",
+    "options": [
+      "katter",
+      "kattar",
+      "katt"
+    ],
+    "explain": "Katt is an exception: it takes -er, so katter, not kattar.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "plural",
+      "exception"
+    ]
+  },
+  {
+    "id": "substantiv:chefer",
+    "kind": "choice",
+    "prompt": "Alla ___ har möte idag.",
+    "hint": "All the bosses have a meeting today.",
+    "answer": "chefer",
+    "options": [
+      "chefer",
+      "chefar",
+      "chef"
+    ],
+    "explain": "Chef is an exception: it takes -er, so chefer.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "plural",
+      "exception"
+    ]
+  },
+  {
+    "id": "substantiv:saker",
+    "kind": "choice",
+    "prompt": "Jag har många ___ att göra.",
+    "hint": "I have many things to do.",
+    "answer": "saker",
+    "options": [
+      "saker",
+      "sakar",
+      "sak"
+    ],
+    "explain": "Sak is an exception: it takes -er, so saker.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "plural",
+      "exception"
+    ]
+  },
+  {
+    "id": "substantiv:vanner",
+    "kind": "choice",
+    "prompt": "Hon har två bra ___.",
+    "hint": "She has two good friends.",
+    "answer": "vänner",
+    "options": [
+      "vänner",
+      "vänar",
+      "väner"
+    ],
+    "explain": "Vän is an exception: it doubles the n and takes -er, so vänner.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "plural",
+      "exception"
+    ]
+  },
+  {
+    "id": "substantiv:bocker",
+    "kind": "choice",
+    "prompt": "Jag läser tre ___ i månaden.",
+    "hint": "I read three books a month.",
+    "answer": "böcker",
+    "options": [
+      "böcker",
+      "bokar",
+      "boker"
+    ],
+    "explain": "Bok is Group 3 with a vowel change: bok → böcker.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "plural",
+      "vowel-change"
+    ]
+  },
+  {
+    "id": "substantiv:stader",
+    "kind": "choice",
+    "prompt": "Stockholm och Göteborg är stora ___.",
+    "hint": "Stockholm and Gothenburg are big cities.",
+    "answer": "städer",
+    "options": [
+      "städer",
+      "stader",
+      "stadar"
+    ],
+    "explain": "Stad is Group 3 with a vowel change: stad → städer.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "plural",
+      "vowel-change"
+    ]
+  },
+  {
+    "id": "substantiv:handerna",
+    "kind": "choice",
+    "prompt": "Tvätta ___ innan du äter!",
+    "hint": "Wash your hands before you eat!",
+    "answer": "händerna",
+    "options": [
+      "händerna",
+      "handerna",
+      "händer"
+    ],
+    "explain": "Hand → händer → händerna. Swedish uses the definite form for body parts: tvätta händerna.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "definite-plural",
+      "vowel-change"
+    ]
+  },
+  {
+    "id": "substantiv:lararna",
+    "kind": "choice",
+    "prompt": "___ är snälla.",
+    "hint": "The teachers are kind.",
+    "answer": "Lärarna",
+    "options": [
+      "Lärarna",
+      "Lärarena",
+      "Läraren"
+    ],
+    "explain": "En-words ending in -are drop the e in the definite plural: lärare → lärarna.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "definite-plural"
+    ]
+  },
+  {
+    "id": "substantiv:rum",
+    "kind": "choice",
+    "prompt": "Vi bor i ett hus med fem ___.",
+    "hint": "We live in a house with five rooms.",
+    "answer": "rum",
+    "options": [
+      "rum",
+      "rummar",
+      "rummen"
+    ],
+    "explain": "Group 5: ett-words ending in a consonant have no plural ending. Ett rum → fem rum.",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "plural"
+    ]
+  },
+  {
+    "id": "substantiv:fonstren",
+    "kind": "choice",
+    "prompt": "___ är öppna.",
+    "hint": "The windows are open.",
+    "answer": "Fönstren",
+    "options": [
+      "Fönstren",
+      "Fönsterna",
+      "Fönstret"
+    ],
+    "explain": "Ett fönster → två fönster → fönstren. The e disappears in the definite plural.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "definite-plural"
+    ]
+  },
+  {
+    "id": "substantiv:ogon",
+    "kind": "choice",
+    "prompt": "Hon har blå ___.",
+    "hint": "She has blue eyes.",
+    "answer": "ögon",
+    "options": [
+      "ögon",
+      "ögor",
+      "ögar"
+    ],
+    "explain": "Öga is irregular: ett öga → två ögon.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "plural",
+      "irregular"
+    ]
+  },
+  {
+    "id": "substantiv:man",
+    "kind": "choice",
+    "prompt": "Det är tre ___ och två kvinnor här.",
+    "hint": "There are three men and two women here.",
+    "answer": "män",
+    "options": [
+      "män",
+      "mannar",
+      "männen"
+    ],
+    "explain": "Man is irregular: en man → två män.",
+    "level": "A1",
+    "lesson": 11,
+    "tags": [
+      "plural",
+      "irregular"
+    ]
+  },
+  {
+    "id": "substantiv:applen",
+    "kind": "choice",
+    "prompt": "Barnen äter ___.",
+    "hint": "The children are eating apples.",
+    "answer": "äpplen",
+    "options": [
+      "äpplen",
+      "äpplar",
+      "äpple"
+    ],
+    "explain": "Group 4: ett-words ending in a vowel add -n. Ett äpple → äpplen.",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "plural"
+    ]
+  },
+  {
+    "id": "substantiv:barn",
+    "kind": "choice",
+    "prompt": "Jag har två ___.",
+    "hint": "I have two children.",
+    "answer": "barn",
+    "options": [
+      "barn",
+      "barnar",
+      "barnen"
+    ],
+    "explain": "Group 5: ett-words ending in a consonant have no plural ending. Ett barn → två barn.",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "plural"
+    ]
+  },
+  {
+    "id": "substantiv:nycklarna",
+    "kind": "choice",
+    "prompt": "Var är ___?",
+    "hint": "Where are the keys?",
+    "answer": "nycklarna",
+    "options": [
+      "nycklarna",
+      "nyckelarna",
+      "nycklar"
+    ],
+    "explain": "Nyckel → nycklar (the e disappears) → nycklarna.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "definite-plural"
+    ]
+  },
+  {
+    "id": "substantiv:lektioner",
+    "kind": "choice",
+    "prompt": "Han har tre ___ i veckan.",
+    "hint": "He has three lessons a week.",
+    "answer": "lektioner",
+    "options": [
+      "lektioner",
+      "lektionar",
+      "lektionor"
+    ],
+    "explain": "Lektion is a long word from another language, so Group 3: lektioner.",
+    "level": "A1",
+    "lesson": 4,
+    "tags": [
+      "plural"
+    ]
+  },
+  {
+    "id": "substantiv:skor",
+    "kind": "choice",
+    "prompt": "Jag köper två par ___.",
+    "hint": "I’m buying two pairs of shoes.",
+    "answer": "skor",
+    "options": [
+      "skor",
+      "skoer",
+      "skon"
+    ],
+    "explain": "Sko ends in a vowel other than a, so it adds only -r: skor.",
+    "level": "A1",
+    "lesson": 8,
+    "tags": [
+      "plural"
+    ]
+  },
+  {
+    "id": "substantiv:ingen-penna",
+    "kind": "choice",
+    "prompt": "Det finns ___ penna här.",
+    "hint": "There is no pen here.",
+    "answer": "ingen",
+    "options": [
+      "ingen",
+      "inget",
+      "inga"
+    ],
+    "explain": "En penna is an en-word, so ingen penna.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ingen"
+    ]
+  },
+  {
+    "id": "substantiv:inget-papper",
+    "kind": "choice",
+    "prompt": "Det finns ___ papper här.",
+    "hint": "There is no paper here.",
+    "answer": "inget",
+    "options": [
+      "inget",
+      "ingen",
+      "inga"
+    ],
+    "explain": "Ett papper is an ett-word, so inget papper.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ingen"
+    ]
+  },
+  {
+    "id": "substantiv:inga-biljetter",
+    "kind": "choice",
+    "prompt": "Vi har ___ biljetter kvar.",
+    "hint": "We have no tickets left.",
+    "answer": "inga",
+    "options": [
+      "inga",
+      "ingen",
+      "inget"
+    ],
+    "explain": "Biljetter is plural, so inga biljetter.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ingen"
+    ]
+  },
+  {
+    "id": "substantiv:ingen-inte",
+    "kind": "choice",
+    "prompt": "Jag har ___ bil.",
+    "hint": "I don’t have a car. (no car)",
+    "answer": "ingen",
+    "options": [
+      "ingen",
+      "inte",
+      "inget"
+    ],
+    "explain": "Ingen makes the noun negative: jag har ingen bil (= jag har inte en bil).",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ingen"
+    ]
+  },
+  {
+    "id": "substantiv:ont-huvudet",
+    "kind": "choice",
+    "prompt": "Jag har ont i ___.",
+    "hint": "My head hurts.",
+    "answer": "huvudet",
+    "options": [
+      "huvudet",
+      "huvud",
+      "ett huvud"
+    ],
+    "explain": "Ont i + the definite form: ont i huvudet.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ont-i"
+    ]
+  },
+  {
+    "id": "substantiv:ont-magen",
+    "kind": "choice",
+    "prompt": "Jag har ont i ___.",
+    "hint": "My stomach hurts.",
+    "answer": "magen",
+    "options": [
+      "magen",
+      "mage",
+      "en mage"
+    ],
+    "explain": "Ont i + the definite form: ont i magen.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ont-i"
+    ]
+  },
+  {
+    "id": "substantiv:ont-benet",
+    "kind": "choice",
+    "prompt": "Han har ont i ___.",
+    "hint": "His leg hurts.",
+    "answer": "benet",
+    "options": [
+      "benet",
+      "ben",
+      "ett ben"
+    ],
+    "explain": "Ont i + the definite form: ett ben → ont i benet.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "ont-i"
+    ]
+  }
 ]

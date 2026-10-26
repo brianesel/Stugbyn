@@ -1,34 +1,653 @@
 [
-  { "id": "adjektiv:roligt-spel", "kind": "choice", "prompt": "Det är ett ___ spel.", "hint": "It’s a fun game.", "answer": "roligt", "options": ["roligt", "rolig", "roliga"], "explain": "Spel is an ett-word, so the adjective adds -t: ett roligt spel.", "level": "A1", "lesson": 5, "tags": ["agreement"] },
-  { "id": "adjektiv:barnen-glada", "kind": "choice", "prompt": "Barnen är ___.", "hint": "The children are happy.", "answer": "glada", "options": ["glada", "glad", "glatt"], "explain": "Barnen is plural, so the adjective after är adds -a: glada.", "level": "A1", "lesson": 5, "tags": ["agreement"] },
-  { "id": "adjektiv:huset-stort", "kind": "choice", "prompt": "Huset är ___.", "hint": "The house is big.", "answer": "stort", "options": ["stort", "stor", "stora"], "explain": "Hus is an ett-word, so the adjective after är adds -t: huset är stort.", "level": "A1", "lesson": 5, "tags": ["agreement"] },
-  { "id": "adjektiv:den-har-roda", "kind": "choice", "prompt": "Den här ___ bilen är min.", "hint": "This red car is mine.", "answer": "röda", "options": ["röda", "röd", "rött"], "explain": "After den här the adjective takes the definite form -a: den här röda bilen.", "level": "A1", "lesson": 9, "tags": ["definite"] },
-  { "id": "adjektiv:det-har-gamla", "kind": "choice", "prompt": "Det här ___ huset är från 1800-talet.", "hint": "This old house is from the 1800s.", "answer": "gamla", "options": ["gamla", "gammalt", "gammal"], "explain": "After det här the adjective takes the definite form -a, even with an ett-word: det här gamla huset.", "level": "A1", "lesson": 9, "tags": ["definite"] },
-  { "id": "adjektiv:min-stora", "kind": "choice", "prompt": "Jag älskar min ___ lägenhet.", "hint": "I love my big apartment.", "answer": "stora", "options": ["stora", "stor", "stort"], "explain": "After a possessive like min the adjective ends in -a: min stora lägenhet.", "level": "A1", "lesson": 9, "tags": ["definite", "possessive"] },
-  { "id": "adjektiv:mina-nya", "kind": "choice", "prompt": "Jag gillar mina ___ skor.", "hint": "I like my new shoes.", "answer": "nya", "options": ["nya", "ny", "nytt"], "explain": "Skor is plural and comes after mina, so the adjective ends in -a: mina nya skor.", "level": "A1", "lesson": 9, "tags": ["possessive"] },
-  { "id": "adjektiv:litet-hus", "kind": "choice", "prompt": "De bor i ett ___ hus.", "hint": "They live in a small house.", "answer": "litet", "options": ["litet", "liten", "lilla"], "explain": "Liten is irregular. With an ett-word it becomes litet: ett litet hus.", "level": "A1", "lesson": 5, "tags": ["liten"] },
-  { "id": "adjektiv:sma-barn", "kind": "choice", "prompt": "Hon har två ___ barn.", "hint": "She has two small children.", "answer": "små", "options": ["små", "lilla", "litet"], "explain": "The plural of liten is a different word: små.", "level": "A1", "lesson": 5, "tags": ["liten"] },
-  { "id": "adjektiv:lilla-katten", "kind": "choice", "prompt": "Den ___ katten sover.", "hint": "The little cat is sleeping.", "answer": "lilla", "options": ["lilla", "liten", "små"], "explain": "In the definite form (one thing) liten becomes lilla: den lilla katten.", "level": "A1", "lesson": 9, "tags": ["liten", "definite"] },
-  { "id": "adjektiv:nytt-jobb", "kind": "choice", "prompt": "Jag har ett ___ jobb.", "hint": "I have a new job.", "answer": "nytt", "options": ["nytt", "nyt", "ny"], "explain": "Ny ends in a stressed vowel, so the ett-form adds -tt: ett nytt jobb.", "level": "A1", "lesson": 5, "tags": ["agreement", "tt"] },
-  { "id": "adjektiv:kaffet-gott", "kind": "choice", "prompt": "Kaffet är ___.", "hint": "The coffee tastes good.", "answer": "gott", "options": ["gott", "godt", "god"], "explain": "Kaffe is an ett-word. God drops the d and adds -tt: kaffet är gott.", "level": "A1", "lesson": 5, "tags": ["agreement", "tt"] },
-  { "id": "adjektiv:rott-hus", "kind": "choice", "prompt": "Vi har ett ___ hus på landet.", "hint": "We have a red house in the countryside.", "answer": "rött", "options": ["rött", "rödt", "röd"], "explain": "Röd drops the d and adds -tt with an ett-word: ett rött hus.", "level": "A1", "lesson": 5, "tags": ["agreement", "tt"] },
-  { "id": "adjektiv:billigare", "kind": "choice", "prompt": "Bussen är ___ än taxin.", "hint": "The bus is cheaper than the taxi.", "answer": "billigare", "options": ["billigare", "mer billig", "billigast"], "explain": "To compare two things, add -are and use än: billigare än.", "level": "A2", "lesson": 12, "tags": ["comparison"] },
-  { "id": "adjektiv:varmast", "kind": "choice", "prompt": "Vilken månad är ___?", "hint": "Which month is the warmest?", "answer": "varmast", "options": ["varmast", "varmare", "varm"], "explain": "For “the most …” add -ast: varm → varmast.", "level": "A2", "lesson": 12, "tags": ["comparison"] },
-  { "id": "adjektiv:battre", "kind": "choice", "prompt": "Din svenska är ___ än min.", "hint": "Your Swedish is better than mine.", "answer": "bättre", "options": ["bättre", "mer bra", "bäst"], "explain": "Bra is irregular: bra – bättre – bäst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] },
-  { "id": "adjektiv:bast", "kind": "choice", "prompt": "Hon är ___ i klassen.", "hint": "She is the best in the class.", "answer": "bäst", "options": ["bäst", "bättre", "bra"], "explain": "Bra is irregular: bra – bättre – bäst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] },
-  { "id": "adjektiv:storre", "kind": "choice", "prompt": "Stockholm är ___ än Uppsala.", "hint": "Stockholm is bigger than Uppsala.", "answer": "större", "options": ["större", "storare", "störst"], "explain": "Stor changes its vowel: stor – större – störst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] },
-  { "id": "adjektiv:aldre", "kind": "choice", "prompt": "Min bror är ___ än jag.", "hint": "My brother is older than me.", "answer": "äldre", "options": ["äldre", "gammalare", "äldst"], "explain": "Gammal is irregular: gammal – äldre – äldst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] },
-  { "id": "adjektiv:aldst", "kind": "choice", "prompt": "Mormor är ___ i familjen.", "hint": "Grandma is the oldest in the family.", "answer": "äldst", "options": ["äldst", "äldre", "gammalast"], "explain": "Gammal is irregular: gammal – äldre – äldst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] },
-  { "id": "adjektiv:mer-kaffe", "kind": "choice", "prompt": "Vill du ha ___ kaffe?", "hint": "Would you like more coffee?", "answer": "mer", "options": ["mer", "fler", "mycket"], "explain": "You can’t count coffee, so “more” is mer (mycket – mer – mest).", "level": "A2", "lesson": 12, "tags": ["quantity"] },
-  { "id": "adjektiv:fler-stolar", "kind": "choice", "prompt": "Vi behöver ___ stolar.", "hint": "We need more chairs.", "answer": "fler", "options": ["fler", "mer", "flest"], "explain": "You can count chairs, so “more” is fler (många – fler – flest).", "level": "A2", "lesson": 12, "tags": ["quantity"] },
-  { "id": "adjektiv:manga-vanner", "kind": "choice", "prompt": "Hon har ___ vänner.", "hint": "She has a lot of friends.", "answer": "många", "options": ["många", "mycket", "mer"], "explain": "You can count friends, so “a lot of” is många.", "level": "A1", "lesson": 12, "tags": ["quantity"] },
-  { "id": "adjektiv:mycket-pengar", "kind": "choice", "prompt": "Han har inte ___ pengar.", "hint": "He doesn’t have much money.", "answer": "mycket", "options": ["mycket", "många", "fler"], "explain": "Pengar looks plural, but you can’t count it, so it takes mycket.", "level": "A2", "lesson": 12, "tags": ["quantity"] },
-  { "id": "adjektiv:flest-bocker", "kind": "choice", "prompt": "Vem har ___ böcker?", "hint": "Who has the most books?", "answer": "flest", "options": ["flest", "mest", "fler"], "explain": "You can count books, so “the most” is flest.", "level": "A2", "lesson": 12, "tags": ["quantity"] },
-  { "id": "adjektiv:mest-tid", "kind": "choice", "prompt": "Vem har ___ tid?", "hint": "Who has the most time?", "answer": "mest", "options": ["mest", "flest", "mer"], "explain": "You can’t count time, so “the most” is mest.", "level": "A2", "lesson": 12, "tags": ["quantity"] },
-
-  { "id": "adjektiv:boss-gott-apple", "kind": "type", "boss": true, "prompt": "Det är ett ___ äpple. (god)", "answer": "gott", "accept": [], "hint": "It’s a tasty apple.", "ask": "Type the right form of the adjective.", "explain": "Äpple is an ett-word. God drops the d and adds -tt: ett gott äpple.", "level": "A1", "lesson": 5, "tags": ["agreement", "tt"] },
-  { "id": "adjektiv:boss-sma-barn", "kind": "type", "boss": true, "prompt": "Vi har tre ___ barn. (liten)", "answer": "små", "accept": [], "hint": "We have three small children.", "ask": "Type the right form of the adjective.", "explain": "The plural of liten is små.", "level": "A1", "lesson": 5, "tags": ["liten"] },
-  { "id": "adjektiv:boss-hennes-nya", "kind": "type", "boss": true, "prompt": "Hennes ___ jobb är svårt. (ny)", "answer": "nya", "accept": [], "hint": "Her new job is difficult.", "ask": "Type the right form of the adjective.", "explain": "After a possessive like hennes the adjective ends in -a, even with an ett-word: hennes nya jobb.", "level": "A1", "lesson": 9, "tags": ["possessive"] },
-  { "id": "adjektiv:boss-storre", "kind": "type", "boss": true, "prompt": "Huset är ___ än lägenheten. (stor)", "answer": "större", "accept": [], "hint": "The house is bigger than the apartment.", "ask": "Type the comparative.", "explain": "Stor changes its vowel: stor – större – störst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] },
-  { "id": "adjektiv:boss-aldst", "kind": "type", "boss": true, "prompt": "Min farfar är ___ i familjen. (gammal)", "answer": "äldst", "accept": [], "hint": "My grandfather is the oldest in the family.", "ask": "Type the superlative.", "explain": "Gammal is irregular: gammal – äldre – äldst.", "level": "A2", "lesson": 12, "tags": ["comparison", "irregular"] }
+  {
+    "id": "adjektiv:roligt-spel",
+    "kind": "choice",
+    "prompt": "Det är ett ___ spel.",
+    "hint": "It’s a fun game.",
+    "answer": "roligt",
+    "options": [
+      "roligt",
+      "rolig",
+      "roliga"
+    ],
+    "explain": "Spel is an ett-word, so the adjective adds -t: ett roligt spel.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement"
+    ]
+  },
+  {
+    "id": "adjektiv:barnen-glada",
+    "kind": "choice",
+    "prompt": "Barnen är ___.",
+    "hint": "The children are happy.",
+    "answer": "glada",
+    "options": [
+      "glada",
+      "glad",
+      "glatt"
+    ],
+    "explain": "Barnen is plural, so the adjective after är adds -a: glada.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement"
+    ]
+  },
+  {
+    "id": "adjektiv:huset-stort",
+    "kind": "choice",
+    "prompt": "Huset är ___.",
+    "hint": "The house is big.",
+    "answer": "stort",
+    "options": [
+      "stort",
+      "stor",
+      "stora"
+    ],
+    "explain": "Hus is an ett-word, so the adjective after är adds -t: huset är stort.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement"
+    ]
+  },
+  {
+    "id": "adjektiv:den-har-roda",
+    "kind": "choice",
+    "prompt": "Den här ___ bilen är min.",
+    "hint": "This red car is mine.",
+    "answer": "röda",
+    "options": [
+      "röda",
+      "röd",
+      "rött"
+    ],
+    "explain": "After den här the adjective takes the definite form -a: den här röda bilen.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "definite"
+    ]
+  },
+  {
+    "id": "adjektiv:det-har-gamla",
+    "kind": "choice",
+    "prompt": "Det här ___ huset är från 1800-talet.",
+    "hint": "This old house is from the 1800s.",
+    "answer": "gamla",
+    "options": [
+      "gamla",
+      "gammalt",
+      "gammal"
+    ],
+    "explain": "After det här the adjective takes the definite form -a, even with an ett-word: det här gamla huset.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "definite"
+    ]
+  },
+  {
+    "id": "adjektiv:min-stora",
+    "kind": "choice",
+    "prompt": "Jag älskar min ___ lägenhet.",
+    "hint": "I love my big apartment.",
+    "answer": "stora",
+    "options": [
+      "stora",
+      "stor",
+      "stort"
+    ],
+    "explain": "After a possessive like min the adjective ends in -a: min stora lägenhet.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "definite",
+      "possessive"
+    ]
+  },
+  {
+    "id": "adjektiv:mina-nya",
+    "kind": "choice",
+    "prompt": "Jag gillar mina ___ skor.",
+    "hint": "I like my new shoes.",
+    "answer": "nya",
+    "options": [
+      "nya",
+      "ny",
+      "nytt"
+    ],
+    "explain": "Skor is plural and comes after mina, so the adjective ends in -a: mina nya skor.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "possessive"
+    ]
+  },
+  {
+    "id": "adjektiv:litet-hus",
+    "kind": "choice",
+    "prompt": "De bor i ett ___ hus.",
+    "hint": "They live in a small house.",
+    "answer": "litet",
+    "options": [
+      "litet",
+      "liten",
+      "lilla"
+    ],
+    "explain": "Liten is irregular. With an ett-word it becomes litet: ett litet hus.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "liten"
+    ]
+  },
+  {
+    "id": "adjektiv:sma-barn",
+    "kind": "choice",
+    "prompt": "Hon har två ___ barn.",
+    "hint": "She has two small children.",
+    "answer": "små",
+    "options": [
+      "små",
+      "lilla",
+      "litet"
+    ],
+    "explain": "The plural of liten is a different word: små.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "liten"
+    ]
+  },
+  {
+    "id": "adjektiv:lilla-katten",
+    "kind": "choice",
+    "prompt": "Den ___ katten sover.",
+    "hint": "The little cat is sleeping.",
+    "answer": "lilla",
+    "options": [
+      "lilla",
+      "liten",
+      "små"
+    ],
+    "explain": "In the definite form (one thing) liten becomes lilla: den lilla katten.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "liten",
+      "definite"
+    ]
+  },
+  {
+    "id": "adjektiv:nytt-jobb",
+    "kind": "choice",
+    "prompt": "Jag har ett ___ jobb.",
+    "hint": "I have a new job.",
+    "answer": "nytt",
+    "options": [
+      "nytt",
+      "nyt",
+      "ny"
+    ],
+    "explain": "Ny ends in a stressed vowel, so the ett-form adds -tt: ett nytt jobb.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement",
+      "tt"
+    ]
+  },
+  {
+    "id": "adjektiv:kaffet-gott",
+    "kind": "choice",
+    "prompt": "Kaffet är ___.",
+    "hint": "The coffee tastes good.",
+    "answer": "gott",
+    "options": [
+      "gott",
+      "godt",
+      "god"
+    ],
+    "explain": "Kaffe is an ett-word. God drops the d and adds -tt: kaffet är gott.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement",
+      "tt"
+    ]
+  },
+  {
+    "id": "adjektiv:rott-hus",
+    "kind": "choice",
+    "prompt": "Vi har ett ___ hus på landet.",
+    "hint": "We have a red house in the countryside.",
+    "answer": "rött",
+    "options": [
+      "rött",
+      "rödt",
+      "röd"
+    ],
+    "explain": "Röd drops the d and adds -tt with an ett-word: ett rött hus.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement",
+      "tt"
+    ]
+  },
+  {
+    "id": "adjektiv:billigare",
+    "kind": "choice",
+    "prompt": "Bussen är ___ än taxin.",
+    "hint": "The bus is cheaper than the taxi.",
+    "answer": "billigare",
+    "options": [
+      "billigare",
+      "mer billig",
+      "billigast"
+    ],
+    "explain": "To compare two things, add -are and use än: billigare än.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:varmast",
+    "kind": "choice",
+    "prompt": "Vilken månad är ___?",
+    "hint": "Which month is the warmest?",
+    "answer": "varmast",
+    "options": [
+      "varmast",
+      "varmare",
+      "varm"
+    ],
+    "explain": "For “the most …” add -ast: varm → varmast.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:battre",
+    "kind": "choice",
+    "prompt": "Din svenska är ___ än min.",
+    "hint": "Your Swedish is better than mine.",
+    "answer": "bättre",
+    "options": [
+      "bättre",
+      "mer bra",
+      "bäst"
+    ],
+    "explain": "Bra is irregular: bra – bättre – bäst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:bast",
+    "kind": "choice",
+    "prompt": "Hon är ___ i klassen.",
+    "hint": "She is the best in the class.",
+    "answer": "bäst",
+    "options": [
+      "bäst",
+      "bättre",
+      "bra"
+    ],
+    "explain": "Bra is irregular: bra – bättre – bäst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:storre",
+    "kind": "choice",
+    "prompt": "Stockholm är ___ än Uppsala.",
+    "hint": "Stockholm is bigger than Uppsala.",
+    "answer": "större",
+    "options": [
+      "större",
+      "storare",
+      "störst"
+    ],
+    "explain": "Stor changes its vowel: stor – större – störst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:aldre",
+    "kind": "choice",
+    "prompt": "Min bror är ___ än jag.",
+    "hint": "My brother is older than me.",
+    "answer": "äldre",
+    "options": [
+      "äldre",
+      "gammalare",
+      "äldst"
+    ],
+    "explain": "Gammal is irregular: gammal – äldre – äldst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:aldst",
+    "kind": "choice",
+    "prompt": "Mormor är ___ i familjen.",
+    "hint": "Grandma is the oldest in the family.",
+    "answer": "äldst",
+    "options": [
+      "äldst",
+      "äldre",
+      "gammalast"
+    ],
+    "explain": "Gammal is irregular: gammal – äldre – äldst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:mer-kaffe",
+    "kind": "choice",
+    "prompt": "Vill du ha ___ kaffe?",
+    "hint": "Would you like more coffee?",
+    "answer": "mer",
+    "options": [
+      "mer",
+      "fler",
+      "mycket"
+    ],
+    "explain": "You can’t count coffee, so “more” is mer (mycket – mer – mest).",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "quantity"
+    ]
+  },
+  {
+    "id": "adjektiv:fler-stolar",
+    "kind": "choice",
+    "prompt": "Vi behöver ___ stolar.",
+    "hint": "We need more chairs.",
+    "answer": "fler",
+    "options": [
+      "fler",
+      "mer",
+      "flest"
+    ],
+    "explain": "You can count chairs, so “more” is fler (många – fler – flest).",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "quantity"
+    ]
+  },
+  {
+    "id": "adjektiv:manga-vanner",
+    "kind": "choice",
+    "prompt": "Hon har ___ vänner.",
+    "hint": "She has a lot of friends.",
+    "answer": "många",
+    "options": [
+      "många",
+      "mycket",
+      "mer"
+    ],
+    "explain": "You can count friends, so “a lot of” is många.",
+    "level": "A1",
+    "lesson": 12,
+    "tags": [
+      "quantity"
+    ]
+  },
+  {
+    "id": "adjektiv:mycket-pengar",
+    "kind": "choice",
+    "prompt": "Han har inte ___ pengar.",
+    "hint": "He doesn’t have much money.",
+    "answer": "mycket",
+    "options": [
+      "mycket",
+      "många",
+      "fler"
+    ],
+    "explain": "Pengar looks plural, but you can’t count it, so it takes mycket.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "quantity"
+    ]
+  },
+  {
+    "id": "adjektiv:flest-bocker",
+    "kind": "choice",
+    "prompt": "Vem har ___ böcker?",
+    "hint": "Who has the most books?",
+    "answer": "flest",
+    "options": [
+      "flest",
+      "mest",
+      "fler"
+    ],
+    "explain": "You can count books, so “the most” is flest.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "quantity"
+    ]
+  },
+  {
+    "id": "adjektiv:mest-tid",
+    "kind": "choice",
+    "prompt": "Vem har ___ tid?",
+    "hint": "Who has the most time?",
+    "answer": "mest",
+    "options": [
+      "mest",
+      "flest",
+      "mer"
+    ],
+    "explain": "You can’t count time, so “the most” is mest.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "quantity"
+    ]
+  },
+  {
+    "id": "adjektiv:boss-gott-apple",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Det är ett ___ äpple. (god)",
+    "answer": "gott",
+    "accept": [],
+    "hint": "It’s a tasty apple.",
+    "ask": "Type the right form of the adjective.",
+    "explain": "Äpple is an ett-word. God drops the d and adds -tt: ett gott äpple.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "agreement",
+      "tt"
+    ]
+  },
+  {
+    "id": "adjektiv:boss-sma-barn",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Vi har tre ___ barn. (liten)",
+    "answer": "små",
+    "accept": [],
+    "hint": "We have three small children.",
+    "ask": "Type the right form of the adjective.",
+    "explain": "The plural of liten is små.",
+    "level": "A1",
+    "lesson": 5,
+    "tags": [
+      "liten"
+    ]
+  },
+  {
+    "id": "adjektiv:boss-hennes-nya",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Hennes ___ jobb är svårt. (ny)",
+    "answer": "nya",
+    "accept": [],
+    "hint": "Her new job is difficult.",
+    "ask": "Type the right form of the adjective.",
+    "explain": "After a possessive like hennes the adjective ends in -a, even with an ett-word: hennes nya jobb.",
+    "level": "A1",
+    "lesson": 9,
+    "tags": [
+      "possessive"
+    ]
+  },
+  {
+    "id": "adjektiv:boss-storre",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Huset är ___ än lägenheten. (stor)",
+    "answer": "större",
+    "accept": [],
+    "hint": "The house is bigger than the apartment.",
+    "ask": "Type the comparative.",
+    "explain": "Stor changes its vowel: stor – större – störst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:boss-aldst",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Min farfar är ___ i familjen. (gammal)",
+    "answer": "äldst",
+    "accept": [],
+    "hint": "My grandfather is the oldest in the family.",
+    "ask": "Type the superlative.",
+    "explain": "Gammal is irregular: gammal – äldre – äldst.",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "comparison",
+      "irregular"
+    ]
+  },
+  {
+    "id": "adjektiv:denna-bok",
+    "kind": "choice",
+    "prompt": "Jag har redan läst ___ bok.",
+    "hint": "I have already read this book.",
+    "answer": "denna",
+    "options": [
+      "denna",
+      "detta",
+      "dessa"
+    ],
+    "explain": "En bok is an en-word, so denna bok.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "denna"
+    ]
+  },
+  {
+    "id": "adjektiv:detta-hus",
+    "kind": "choice",
+    "prompt": "___ hus är mycket gammalt.",
+    "hint": "This house is very old.",
+    "answer": "Detta",
+    "options": [
+      "Detta",
+      "Denna",
+      "Dessa"
+    ],
+    "explain": "Ett hus is an ett-word, so detta hus.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "denna"
+    ]
+  },
+  {
+    "id": "adjektiv:dessa-skor",
+    "kind": "choice",
+    "prompt": "Jag köpte ___ skor på rea.",
+    "hint": "I bought these shoes on sale.",
+    "answer": "dessa",
+    "options": [
+      "dessa",
+      "denna",
+      "detta"
+    ],
+    "explain": "Skor is plural, so dessa skor.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "denna"
+    ]
+  },
+  {
+    "id": "adjektiv:denna-restaurang",
+    "kind": "choice",
+    "prompt": "Jag tycker inte om denna ___.",
+    "hint": "I don’t like this restaurant.",
+    "answer": "restaurang",
+    "options": [
+      "restaurang",
+      "restaurangen",
+      "restauranger"
+    ],
+    "explain": "After denna, detta, dessa the noun stays indefinite: denna restaurang.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "denna"
+    ]
+  },
+  {
+    "id": "adjektiv:den-har-restaurangen",
+    "kind": "choice",
+    "prompt": "Jag tycker inte om den här ___.",
+    "hint": "I don’t like this restaurant.",
+    "answer": "restaurangen",
+    "options": [
+      "restaurangen",
+      "restaurang",
+      "restauranger"
+    ],
+    "explain": "After den här, the noun is definite: den här restaurangen.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "denna"
+    ]
+  }
 ]

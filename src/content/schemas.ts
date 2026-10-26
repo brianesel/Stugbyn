@@ -163,6 +163,8 @@ export const NounTable = z.object({
   groups: z.object({ '1': NounGroup, '2': NounGroup, '3': NounGroup, '4': NounGroup, '5': NounGroup }),
   /** Explanation templates with {placeholders}, keyed by item type. */
   explain: z.record(z.string(), z.string()),
+  /** Lesson in which each item type was taught (overrides the row’s lesson). */
+  lessons: z.record(z.string(), z.number().int().positive()).optional(),
   /** Spoken/feedback Swedish templates, keyed by item type. */
   say: z.record(z.string(), z.string()),
   nouns: z.array(z.unknown()),
@@ -254,6 +256,8 @@ export const VerbTable = z.object({
   }),
   defaultTime: Frame,
   explain: z.record(z.string(), z.string()),
+  /** Lesson in which each item type was taught (overrides the row’s lesson). */
+  lessons: z.record(z.string(), z.number().int().positive()).optional(),
   verbs: z.array(z.unknown()),
 });
 export type VerbTable = Omit<z.infer<typeof VerbTable>, 'verbs'> & { verbs: Verb[] };
@@ -287,6 +291,8 @@ export type Adjective = z.infer<typeof Adjective>;
 export const AdjectiveTable = z.object({
   frames: z.object({ en: Frame, ett: Frame, pl: Frame, def: Frame, comp: Frame, sup: Frame }),
   explain: z.record(z.string(), z.string()),
+  /** Lesson in which each item type was taught (overrides the row’s lesson). */
+  lessons: z.record(z.string(), z.number().int().positive()).optional(),
   adjectives: z.array(z.unknown()),
 });
 export type AdjectiveTable = Omit<z.infer<typeof AdjectiveTable>, 'adjectives'> & { adjectives: Adjective[] };

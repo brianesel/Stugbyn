@@ -15,6 +15,7 @@
     "comp": "Comparative: {base} → {comp} (than = än).",
     "sup": "Superlative: {base} → {comp} → {sup}."
   },
+  "lessons": {"en": 5, "ett": 5, "pl": 9, "def": 9, "comp": 12, "sup": 12},
   "adjectives": [
     {"id": "adj:stor", "base": "stor", "t": "stort", "a": "stora", "def": "stora", "comp": "större", "sup": "störst", "en": "big", "enComp": "bigger", "enSup": "biggest", "enNoun": "bil", "enNounEn": "car", "ettNoun": "hus", "ettNounEn": "house", "plNoun": "bilar", "plNounEn": "cars", "defNoun": "bilen", "defNounEn": "car", "level": "A1", "lesson": 5, "note": "Irregular comparison: stor, större, störst."},
     {"id": "adj:liten", "base": "liten", "t": "litet", "a": "små", "def": "lilla", "comp": "mindre", "sup": "minst", "en": "small", "enComp": "smaller", "enSup": "smallest", "enNoun": "katt", "enNounEn": "cat", "ettNoun": "barn", "ettNounEn": "child", "plNoun": "barn", "plNounEn": "children", "defNoun": "katten", "defNounEn": "cat", "level": "A1", "lesson": 5, "irregular": true, "note": "Liten is irregular: en liten, ett litet, två små, den lilla. Comparison: mindre, minst."},

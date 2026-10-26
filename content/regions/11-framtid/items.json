@@ -1,31 +1,527 @@
 [
-  { "id": "framtid:kommer-regna", "kind": "choice", "prompt": "Det ___ regna imorgon.", "hint": "It’s going to rain tomorrow. (a prediction)", "answer": "kommer att", "options": ["kommer att", "tänker", "tror"], "explain": "Nobody decides the weather, so use kommer att for a prediction.", "level": "A2", "lesson": 16, "tags": ["kommer-att"] },
-  { "id": "framtid:tror-pojkvan", "kind": "choice", "prompt": "Jag ___ att Anna har en ny pojkvän.", "hint": "I think Anna has a new boyfriend. (a guess, I’m not sure)", "answer": "tror", "options": ["tror", "tycker", "tänker"], "explain": "When you believe something but aren’t sure, use tror.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:kommer-alska", "kind": "choice", "prompt": "Du ___ älska Lappland!", "hint": "You’re going to love Lapland! (my prediction)", "answer": "kommer att", "options": ["kommer att", "ska", "tänker"], "explain": "You can’t plan to love a place, so a prediction about feelings takes kommer att.", "level": "A2", "lesson": 16, "tags": ["kommer-att", "ska-kommer"] },
-  { "id": "framtid:kommer-trott", "kind": "choice", "prompt": "Hon ___ bli trött efter den långa resan.", "hint": "She’ll be tired after the long trip. (a prediction)", "answer": "kommer att", "options": ["kommer att", "ska", "tänker"], "explain": "Nobody decides to get tired, so use kommer att for a prediction.", "level": "A2", "lesson": 16, "tags": ["kommer-att", "ska-kommer"] },
-  { "id": "framtid:kommer-dyrt", "kind": "choice", "prompt": "Det ___ bli dyrt att renovera köket.", "hint": "It’s going to be expensive to renovate the kitchen. (a prediction)", "answer": "kommer att", "options": ["kommer att", "tänker", "tycker"], "explain": "A guess about how things will turn out takes kommer att.", "level": "A2", "lesson": 16, "tags": ["kommer-att"] },
-  { "id": "framtid:kommer-att-form", "kind": "choice", "prompt": "Om du tränar varje dag, kommer du ___ bli starkare.", "hint": "If you train every day, you will get stronger.", "answer": "att", "options": ["att", "till", "på"], "explain": "The prediction form is always kommer att + infinitive.", "level": "A2", "lesson": 16, "tags": ["kommer-att"] },
-  { "id": "framtid:ska-pasta", "kind": "choice", "prompt": "Jag ___ laga pasta ikväll. Vill du komma?", "hint": "I’m going to cook pasta tonight. (my plan) Do you want to come?", "answer": "ska", "options": ["ska", "ska att", "tror"], "explain": "Use ska for plans. Ska is a help verb, so the infinitive follows directly, with no att.", "level": "A1", "lesson": 16, "tags": ["ska"] },
-  { "id": "framtid:ska-middag", "kind": "choice", "prompt": "Vi ___ äta middag hos Lena på lördag.", "hint": "We’re having dinner at Lena’s on Saturday. (it’s planned)", "answer": "ska", "options": ["ska", "ska att", "tycker"], "explain": "A plan takes ska + infinitive, with no att.", "level": "A1", "lesson": 16, "tags": ["ska"] },
-  { "id": "framtid:ska-bio", "kind": "choice", "prompt": "___ vi gå på bio ikväll?", "hint": "Shall we go to the cinema tonight?", "answer": "Ska", "options": ["Ska", "Kommer", "Tror"], "explain": "Ska vi …? is how you suggest a plan: shall we …?", "level": "A1", "lesson": 16, "tags": ["ska"] },
-  { "id": "framtid:ska-tandlakaren", "kind": "choice", "prompt": "Jag ___ till tandläkaren klockan tre.", "hint": "I’m going to the dentist at three. (I have an appointment)", "answer": "ska", "options": ["ska", "kommer att", "tänker"], "explain": "Ska can stand alone with a direction (ska till …); kommer att always needs a verb after it.", "level": "A2", "lesson": 16, "tags": ["ska", "ska-kommer"] },
-  { "id": "framtid:present-aker", "kind": "choice", "prompt": "Jag ___ till Helsingfors imorgon.", "hint": "I’m going to Helsinki tomorrow.", "answer": "åker", "options": ["åker", "åka", "åkte"], "explain": "Present tense + a time word like imorgon talks about the future.", "level": "A1", "lesson": 16, "tags": ["present"] },
-  { "id": "framtid:present-borjar", "kind": "choice", "prompt": "Kursen ___ på måndag.", "hint": "The course starts next Monday.", "answer": "börjar", "options": ["börjar", "börja", "började"], "explain": "Present tense + a time word like på måndag talks about the future.", "level": "A1", "lesson": 16, "tags": ["present"] },
-  { "id": "framtid:tanker-sluta", "kind": "choice", "prompt": "Jag ___ sluta röka efter nyår.", "hint": "I intend to quit smoking after New Year.", "answer": "tänker", "options": ["tänker", "tycker", "tror"], "explain": "Tänker + infinitive shows an intention: I intend to.", "level": "A2", "lesson": 16, "tags": ["tanker"] },
-  { "id": "framtid:tanker-gora", "kind": "choice", "prompt": "Vad tänker du ___ i sommar?", "hint": "What are you planning to do this summer?", "answer": "göra", "options": ["göra", "att göra", "gör"], "explain": "Tänker meaning intend is followed by the infinitive without att.", "level": "A2", "lesson": 16, "tags": ["tanker"] },
-  { "id": "framtid:tycker-film", "kind": "choice", "prompt": "Jag har sett filmen. Jag ___ att den är bra.", "hint": "I’ve seen the film. In my opinion it’s good.", "answer": "tycker", "options": ["tycker", "tror", "tänker"], "explain": "An opinion about something you have seen or tried takes tycker.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:tror-bussen", "kind": "choice", "prompt": "Jag ___ att bussen går klockan åtta, men jag är inte säker.", "hint": "I think the bus leaves at eight, but I’m not sure.", "answer": "tror", "options": ["tror", "tycker", "tänker"], "explain": "When you aren’t sure if something is true, use tror.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:tanker-pa", "kind": "choice", "prompt": "Jag ___ på dig.", "hint": "I’m thinking of you.", "answer": "tänker", "options": ["tänker", "tycker"], "explain": "Thinking about someone is tänka på.", "level": "A1", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:tycker-om-fisk", "kind": "choice", "prompt": "Jag ___ inte om fisk.", "hint": "I don’t like fish.", "answer": "tycker", "options": ["tycker", "tror", "tänker"], "explain": "Like is tycka om: Jag tycker om …, Jag tycker inte om …", "level": "A1", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:tror-sol", "kind": "choice", "prompt": "___ du att det blir sol i helgen?", "hint": "Do you think it will be sunny this weekend? (a guess)", "answer": "Tror", "options": ["Tror", "Tycker", "Tänker"], "explain": "Nobody can know the weather yet, so a guess about it takes tror.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:tycker-svenska", "kind": "choice", "prompt": "Jag ___ att svenska är ett vackert språk.", "hint": "In my opinion, Swedish is a beautiful language.", "answer": "tycker", "options": ["tycker", "tror", "tänker"], "explain": "A personal opinion or taste takes tycker.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:order-ska-kurs", "kind": "order", "sentence": "Jag ska börja en kurs i januari.", "accept": ["I januari ska jag börja en kurs."], "en": "I’m going to start a course in January.", "explain": "Ska is the verb in second place; the infinitive börja comes after the subject.", "level": "A1", "lesson": 16, "tags": ["ska", "word-order"] },
-  { "id": "framtid:order-kommer-snoa", "kind": "order", "sentence": "Det kommer att snöa ikväll.", "accept": ["Ikväll kommer det att snöa."], "en": "It’s going to snow tonight.", "explain": "Kommer is the verb in second place, and att + infinitive follows.", "level": "A2", "lesson": 16, "tags": ["kommer-att", "word-order"] },
-
-  { "id": "framtid:boss-kommer-varmt", "kind": "type", "boss": true, "prompt": "Det ___ bli varmt i helgen. (is going to – a prediction)", "answer": "kommer att", "accept": [], "hint": "It’s going to be warm this weekend.", "explain": "A prediction about the weather takes kommer att.", "level": "A2", "lesson": 16, "tags": ["kommer-att"] },
-  { "id": "framtid:boss-ska-aland", "kind": "type", "boss": true, "prompt": "Vi ___ till Åland på fredag. (are going – a plan)", "answer": "ska", "accept": ["åker", "reser"], "hint": "We’re going to Åland on Friday.", "explain": "A plan with a direction can be just ska + till …: Vi ska till Åland.", "level": "A2", "lesson": 16, "tags": ["ska"] },
-  { "id": "framtid:boss-tror-fest", "kind": "type", "boss": true, "prompt": "Jag ___ att det blir en bra fest. (think – a guess)", "answer": "tror", "accept": [], "hint": "I think it will be a good party.", "explain": "A guess about the future takes tror.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:boss-tycker-kaffe", "kind": "type", "boss": true, "prompt": "Jag ___ att kaffet är för starkt. (think – my opinion)", "answer": "tycker", "accept": [], "hint": "I think the coffee is too strong.", "explain": "An opinion about something you have tasted takes tycker.", "level": "A2", "lesson": 16, "tags": ["tycker-tror"] },
-  { "id": "framtid:boss-gora", "kind": "type", "boss": true, "prompt": "Vad tänker du ___ ikväll? (do)", "answer": "göra", "accept": [], "hint": "What are you planning to do tonight?", "explain": "Tänker is followed by the infinitive without att: tänker göra.", "level": "A2", "lesson": 16, "tags": ["tanker"] },
-  { "id": "framtid:boss-tanker-pa", "kind": "type", "boss": true, "prompt": "Jag ___ ofta på min familj. (think about)", "answer": "tänker", "accept": [], "hint": "I often think about my family.", "explain": "Thinking about someone is tänka på.", "level": "A1", "lesson": 16, "tags": ["tycker-tror"] }
+  {
+    "id": "framtid:kommer-regna",
+    "kind": "choice",
+    "prompt": "Det ___ regna imorgon.",
+    "hint": "It’s going to rain tomorrow. (a prediction)",
+    "answer": "kommer att",
+    "options": [
+      "kommer att",
+      "tänker",
+      "tror"
+    ],
+    "explain": "Nobody decides the weather, so use kommer att for a prediction.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att"
+    ]
+  },
+  {
+    "id": "framtid:tror-pojkvan",
+    "kind": "choice",
+    "prompt": "Jag ___ att Anna har en ny pojkvän.",
+    "hint": "I think Anna has a new boyfriend. (a guess, I’m not sure)",
+    "answer": "tror",
+    "options": [
+      "tror",
+      "tycker",
+      "tänker"
+    ],
+    "explain": "When you believe something but aren’t sure, use tror.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:kommer-alska",
+    "kind": "choice",
+    "prompt": "Du ___ älska Lappland!",
+    "hint": "You’re going to love Lapland! (my prediction)",
+    "answer": "kommer att",
+    "options": [
+      "kommer att",
+      "ska",
+      "tänker"
+    ],
+    "explain": "You can’t plan to love a place, so a prediction about feelings takes kommer att.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att",
+      "ska-kommer"
+    ]
+  },
+  {
+    "id": "framtid:kommer-trott",
+    "kind": "choice",
+    "prompt": "Hon ___ bli trött efter den långa resan.",
+    "hint": "She’ll be tired after the long trip. (a prediction)",
+    "answer": "kommer att",
+    "options": [
+      "kommer att",
+      "ska",
+      "tänker"
+    ],
+    "explain": "Nobody decides to get tired, so use kommer att for a prediction.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att",
+      "ska-kommer"
+    ]
+  },
+  {
+    "id": "framtid:kommer-dyrt",
+    "kind": "choice",
+    "prompt": "Det ___ bli dyrt att renovera köket.",
+    "hint": "It’s going to be expensive to renovate the kitchen. (a prediction)",
+    "answer": "kommer att",
+    "options": [
+      "kommer att",
+      "tänker",
+      "tycker"
+    ],
+    "explain": "A guess about how things will turn out takes kommer att.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att"
+    ]
+  },
+  {
+    "id": "framtid:kommer-att-form",
+    "kind": "choice",
+    "prompt": "Om du tränar varje dag, kommer du ___ bli starkare.",
+    "hint": "If you train every day, you will get stronger.",
+    "answer": "att",
+    "options": [
+      "att",
+      "till",
+      "på"
+    ],
+    "explain": "The prediction form is always kommer att + infinitive.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att"
+    ]
+  },
+  {
+    "id": "framtid:ska-pasta",
+    "kind": "choice",
+    "prompt": "Jag ___ laga pasta ikväll. Vill du komma?",
+    "hint": "I’m going to cook pasta tonight. (my plan) Do you want to come?",
+    "answer": "ska",
+    "options": [
+      "ska",
+      "ska att",
+      "tror"
+    ],
+    "explain": "Use ska for plans. Ska is a help verb, so the infinitive follows directly, with no att.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "ska"
+    ]
+  },
+  {
+    "id": "framtid:ska-middag",
+    "kind": "choice",
+    "prompt": "Vi ___ äta middag hos Lena på lördag.",
+    "hint": "We’re having dinner at Lena’s on Saturday. (it’s planned)",
+    "answer": "ska",
+    "options": [
+      "ska",
+      "ska att",
+      "tycker"
+    ],
+    "explain": "A plan takes ska + infinitive, with no att.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "ska"
+    ]
+  },
+  {
+    "id": "framtid:ska-bio",
+    "kind": "choice",
+    "prompt": "___ vi gå på bio ikväll?",
+    "hint": "Shall we go to the cinema tonight?",
+    "answer": "Ska",
+    "options": [
+      "Ska",
+      "Kommer",
+      "Tror"
+    ],
+    "explain": "Ska vi …? is how you suggest a plan: shall we …?",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "ska"
+    ]
+  },
+  {
+    "id": "framtid:ska-tandlakaren",
+    "kind": "choice",
+    "prompt": "Jag ___ till tandläkaren klockan tre.",
+    "hint": "I’m going to the dentist at three. (I have an appointment)",
+    "answer": "ska",
+    "options": [
+      "ska",
+      "kommer att",
+      "tänker"
+    ],
+    "explain": "Ska can stand alone with a direction (ska till …); kommer att always needs a verb after it.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "ska",
+      "ska-kommer"
+    ]
+  },
+  {
+    "id": "framtid:present-aker",
+    "kind": "choice",
+    "prompt": "Jag ___ till Helsingfors imorgon.",
+    "hint": "I’m going to Helsinki tomorrow.",
+    "answer": "åker",
+    "options": [
+      "åker",
+      "åka",
+      "åkte"
+    ],
+    "explain": "Present tense + a time word like imorgon talks about the future.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "present"
+    ]
+  },
+  {
+    "id": "framtid:present-borjar",
+    "kind": "choice",
+    "prompt": "Kursen ___ på måndag.",
+    "hint": "The course starts next Monday.",
+    "answer": "börjar",
+    "options": [
+      "börjar",
+      "börja",
+      "började"
+    ],
+    "explain": "Present tense + a time word like på måndag talks about the future.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "present"
+    ]
+  },
+  {
+    "id": "framtid:tanker-sluta",
+    "kind": "choice",
+    "prompt": "Jag ___ sluta röka efter nyår.",
+    "hint": "I intend to quit smoking after New Year.",
+    "answer": "tänker",
+    "options": [
+      "tänker",
+      "tycker",
+      "tror"
+    ],
+    "explain": "Tänker + infinitive shows an intention: I intend to.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tanker"
+    ]
+  },
+  {
+    "id": "framtid:tanker-gora",
+    "kind": "choice",
+    "prompt": "Vad tänker du ___ i sommar?",
+    "hint": "What are you planning to do this summer?",
+    "answer": "göra",
+    "options": [
+      "göra",
+      "att göra",
+      "gör"
+    ],
+    "explain": "Tänker meaning intend is followed by the infinitive without att.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tanker"
+    ]
+  },
+  {
+    "id": "framtid:tycker-film",
+    "kind": "choice",
+    "prompt": "Jag har sett filmen. Jag ___ att den är bra.",
+    "hint": "I’ve seen the film. In my opinion it’s good.",
+    "answer": "tycker",
+    "options": [
+      "tycker",
+      "tror",
+      "tänker"
+    ],
+    "explain": "An opinion about something you have seen or tried takes tycker.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:tror-bussen",
+    "kind": "choice",
+    "prompt": "Jag ___ att bussen går klockan åtta, men jag är inte säker.",
+    "hint": "I think the bus leaves at eight, but I’m not sure.",
+    "answer": "tror",
+    "options": [
+      "tror",
+      "tycker",
+      "tänker"
+    ],
+    "explain": "When you aren’t sure if something is true, use tror.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:tanker-pa",
+    "kind": "choice",
+    "prompt": "Jag ___ på dig.",
+    "hint": "I’m thinking of you.",
+    "answer": "tänker",
+    "options": [
+      "tänker",
+      "tycker"
+    ],
+    "explain": "Thinking about someone is tänka på.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:tycker-om-fisk",
+    "kind": "choice",
+    "prompt": "Jag ___ inte om fisk.",
+    "hint": "I don’t like fish.",
+    "answer": "tycker",
+    "options": [
+      "tycker",
+      "tror",
+      "tänker"
+    ],
+    "explain": "Like is tycka om: Jag tycker om …, Jag tycker inte om …",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:tror-sol",
+    "kind": "choice",
+    "prompt": "___ du att det blir sol i helgen?",
+    "hint": "Do you think it will be sunny this weekend? (a guess)",
+    "answer": "Tror",
+    "options": [
+      "Tror",
+      "Tycker",
+      "Tänker"
+    ],
+    "explain": "Nobody can know the weather yet, so a guess about it takes tror.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:tycker-svenska",
+    "kind": "choice",
+    "prompt": "Jag ___ att svenska är ett vackert språk.",
+    "hint": "In my opinion, Swedish is a beautiful language.",
+    "answer": "tycker",
+    "options": [
+      "tycker",
+      "tror",
+      "tänker"
+    ],
+    "explain": "A personal opinion or taste takes tycker.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:order-ska-kurs",
+    "kind": "order",
+    "sentence": "Jag ska börja en kurs i januari.",
+    "accept": [
+      "I januari ska jag börja en kurs."
+    ],
+    "en": "I’m going to start a course in January.",
+    "explain": "Ska is the verb in second place; the infinitive börja comes after the subject.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "ska",
+      "word-order"
+    ]
+  },
+  {
+    "id": "framtid:order-kommer-snoa",
+    "kind": "order",
+    "sentence": "Det kommer att snöa ikväll.",
+    "accept": [
+      "Ikväll kommer det att snöa."
+    ],
+    "en": "It’s going to snow tonight.",
+    "explain": "Kommer is the verb in second place, and att + infinitive follows.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att",
+      "word-order"
+    ]
+  },
+  {
+    "id": "framtid:boss-kommer-varmt",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Det ___ bli varmt i helgen. (is going to – a prediction)",
+    "answer": "kommer att",
+    "accept": [],
+    "hint": "It’s going to be warm this weekend.",
+    "explain": "A prediction about the weather takes kommer att.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "kommer-att"
+    ]
+  },
+  {
+    "id": "framtid:boss-ska-aland",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Vi ___ till Åland på fredag. (are going – a plan)",
+    "answer": "ska",
+    "accept": [
+      "åker",
+      "reser"
+    ],
+    "hint": "We’re going to Åland on Friday.",
+    "explain": "A plan with a direction can be just ska + till …: Vi ska till Åland.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "ska"
+    ]
+  },
+  {
+    "id": "framtid:boss-tror-fest",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Jag ___ att det blir en bra fest. (think – a guess)",
+    "answer": "tror",
+    "accept": [],
+    "hint": "I think it will be a good party.",
+    "explain": "A guess about the future takes tror.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:boss-tycker-kaffe",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Jag ___ att kaffet är för starkt. (think – my opinion)",
+    "answer": "tycker",
+    "accept": [],
+    "hint": "I think the coffee is too strong.",
+    "explain": "An opinion about something you have tasted takes tycker.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:boss-gora",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Vad tänker du ___ ikväll? (do)",
+    "answer": "göra",
+    "accept": [],
+    "hint": "What are you planning to do tonight?",
+    "explain": "Tänker is followed by the infinitive without att: tänker göra.",
+    "level": "A2",
+    "lesson": 16,
+    "tags": [
+      "tanker"
+    ]
+  },
+  {
+    "id": "framtid:boss-tanker-pa",
+    "kind": "type",
+    "boss": true,
+    "prompt": "Jag ___ ofta på min familj. (think about)",
+    "answer": "tänker",
+    "accept": [],
+    "hint": "I often think about my family.",
+    "explain": "Thinking about someone is tänka på.",
+    "level": "A1",
+    "lesson": 16,
+    "tags": [
+      "tycker-tror"
+    ]
+  },
+  {
+    "id": "framtid:trodde-tomten",
+    "kind": "choice",
+    "prompt": "När jag var liten ___ jag att tomten fanns på riktigt.",
+    "hint": "When I was little, I believed that Santa Claus was real.",
+    "answer": "trodde",
+    "options": [
+      "trodde",
+      "tyckte",
+      "tänkte"
+    ],
+    "explain": "A belief, in the past: tro → trodde.",
+    "level": "A1",
+    "lesson": 18,
+    "tags": [
+      "tycker-tror",
+      "past"
+    ]
+  },
+  {
+    "id": "framtid:tyckte-filmen",
+    "kind": "choice",
+    "prompt": "Jag såg filmen igår. Jag ___ att den var rolig.",
+    "hint": "I saw the film yesterday. In my opinion it was funny.",
+    "answer": "tyckte",
+    "options": [
+      "tyckte",
+      "trodde",
+      "tänkte"
+    ],
+    "explain": "An opinion from experience, in the past: tycka → tyckte.",
+    "level": "A1",
+    "lesson": 18,
+    "tags": [
+      "tycker-tror",
+      "past"
+    ]
+  }
 ]

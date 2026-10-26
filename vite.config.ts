@@ -6,6 +6,18 @@ import { VitePWA } from 'vite-plugin-pwa';
 // Relative base so the static build works on GitHub Pages sub-paths as well as Netlify/Vercel roots.
 export default defineConfig({
   base: './',
+  build: {
+    rollupOptions: {
+      output: {
+        // Libraries change rarely; keeping them apart means a content update doesn’t re-download them.
+        manualChunks: (id) => {
+          if (id.includes('@supabase')) return 'supabase';
+          if (id.includes('node_modules/react') || id.includes('node_modules/scheduler')) return 'react';
+          if (id.includes('node_modules')) return 'vendor';
+        },
+      },
+    },
+  },
   plugins: [
     react(),
     VitePWA({

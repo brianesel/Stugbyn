@@ -75,3 +75,13 @@ Choices made where SPEC.md is silent or where reality differed. Newest phase at 
 **Local-first sync.** The device copy stays primary; sync is pull → merge → push, a few seconds after changes, on leaving the app and on reconnect. The merge reuses the import rules (latest `lastAnswer` per item, max XP, latest streak, union of boss wins, settings from the most recently changed save). A brand-new save has `updatedAt: 0` so it never overrides the account’s settings. Known limit: XP earned on two devices between syncs is combined with max(), not added.
 
 **Reset and delete.** Reset while signed in overwrites the account copy instead of merging (otherwise the old progress would come straight back). Delete account calls a `security definer` function that deletes the auth user; progress cascades. Voice recordings (Phase 4) stay local.
+
+## Class notes up to lesson 21 (2026-10-26)
+
+**Lesson numbers come from the notes.** Grammar tables have a `lessons` map giving the lesson each generated item type was taught in (nouns: en/ett 4, definite 5, plural and houses 8, definite plural 11; verbs: present 3, past 6, perfect 17; adjectives: en/ett 5, plural/definite 9, comparison 12). It overrides the row’s own `lesson`. Numbers are lesson 10, days lesson 13. CURRICULUM.md maps every lesson to its region.
+
+**Region 13, Bisatser (lessons 18–21),** covers conjunctions vs subjunctions, inte before the verb in subordinate clauses, inversion after a fronted clause, för att + infinitive, trots att, and å ena sidan / å andra sidan. It is open from the start (no `unlockLesson`), since the class has already reached it. Order items accept marked-but-correct fronted orders (Att du ljuger vet jag.) so a grammatical answer is never marked wrong.
+
+**Raw class notes stay out of the repo.** They include classmates’ personal introductions and the repo is public; only the topic map and our own example sentences are committed.
+
+**Default latest lesson is 21.** Existing saves keep their stored value until changed in Settings.

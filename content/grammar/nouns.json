@@ -18,6 +18,7 @@
     "defPl_5": "Group 5 ett-words add -en to the plural: {pl} → {defPl}."
   },
   "say": {"pl": "{art} {sv} – två {pl}"},
+  "lessons": {"gender": 4, "def": 5, "pl": 8, "houses": 8, "defPl": 11},
   "nouns": [
     {"id": "noun:flicka", "sv": "flicka", "gender": "en", "def": "flickan", "pl": "flickor", "defPl": "flickorna", "en": "girl", "group": 1, "level": "A1", "lesson": 4},
     {"id": "noun:klocka", "sv": "klocka", "gender": "en", "def": "klockan", "pl": "klockor", "defPl": "klockorna", "en": "clock", "group": 1, "level": "A1", "lesson": 4},
@@ -101,6 +102,24 @@
     {"id": "noun:fonster", "sv": "fönster", "gender": "ett", "def": "fönstret", "pl": "fönster", "defPl": "fönstren", "en": "window", "group": 5, "level": "A1", "lesson": 11, "irregular": true, "note": "Group 5: ett fönster → två fönster.", "defPlNote": "The e disappears: fönster → fönstren."},
     {"id": "noun:larare", "sv": "lärare", "gender": "en", "def": "läraren", "pl": "lärare", "defPl": "lärarna", "en": "teacher", "group": 5, "level": "A1", "lesson": 8, "irregular": true, "note": "Group 5: en-words for people ending in -are stay the same: en lärare → två lärare.", "defPlNote": "En-words ending in -are drop the e and add -na: lärare → lärarna."},
     {"id": "noun:lakare", "sv": "läkare", "gender": "en", "def": "läkaren", "pl": "läkare", "defPl": "läkarna", "en": "doctor", "group": 5, "level": "A1", "lesson": 8, "irregular": true, "note": "Group 5: en-words for people ending in -are stay the same: en läkare → två läkare.", "defPlNote": "En-words ending in -are drop the e and add -na: läkare → läkarna."},
-    {"id": "noun:man", "sv": "man", "gender": "en", "def": "mannen", "pl": "män", "defPl": "männen", "en": "man", "enPl": "men", "group": 5, "level": "A1", "lesson": 11, "irregular": true, "note": "Irregular: man → män (no ending, but the vowel changes).", "defPlNote": "Irregular: män → männen."}
+    {"id": "noun:man", "sv": "man", "gender": "en", "def": "mannen", "pl": "män", "defPl": "männen", "en": "man", "enPl": "men", "group": 5, "level": "A1", "lesson": 11, "irregular": true, "note": "Irregular: man → män (no ending, but the vowel changes).", "defPlNote": "Irregular: män → männen."},
+    {"id": "noun:kollega", "sv": "kollega", "gender": "en", "def": "kollegan", "pl": "kollegor", "defPl": "kollegorna", "en": "colleague", "group": 1, "level": "A1", "lesson": 5},
+    {"id": "noun:flaska", "sv": "flaska", "gender": "en", "def": "flaskan", "pl": "flaskor", "defPl": "flaskorna", "en": "bottle", "group": 1, "level": "A1", "lesson": 8},
+    {"id": "noun:kaka", "sv": "kaka", "gender": "en", "def": "kakan", "pl": "kakor", "defPl": "kakorna", "en": "cake", "group": 1, "level": "A1", "lesson": 7},
+    {"id": "noun:troja", "sv": "tröja", "gender": "en", "def": "tröjan", "pl": "tröjor", "defPl": "tröjorna", "en": "sweater", "group": 1, "level": "A1", "lesson": 10},
+    {"id": "noun:skjorta", "sv": "skjorta", "gender": "en", "def": "skjortan", "pl": "skjortor", "defPl": "skjortorna", "en": "shirt", "group": 1, "level": "A1", "lesson": 10},
+    {"id": "noun:klanning", "sv": "klänning", "gender": "en", "def": "klänningen", "pl": "klänningar", "defPl": "klänningarna", "en": "dress", "group": 2, "level": "A1", "lesson": 8, "enPl": "dresses", "note": "Group 2 (-ar): -ing words take -ar: klänning → klänningar."},
+    {"id": "noun:cykel", "sv": "cykel", "gender": "en", "def": "cykeln", "pl": "cyklar", "defPl": "cyklarna", "en": "bike", "group": 2, "level": "A1", "lesson": 8, "note": "Group 2 (-ar): the last e disappears: cykel → cyklar."},
+    {"id": "noun:dotter", "sv": "dotter", "gender": "en", "def": "dottern", "pl": "döttrar", "defPl": "döttrarna", "en": "daughter", "group": 2, "level": "A1", "lesson": 8, "note": "Group 2 with a vowel change, and the e disappears: dotter → döttrar."},
+    {"id": "noun:tomat", "sv": "tomat", "gender": "en", "def": "tomaten", "pl": "tomater", "defPl": "tomaterna", "en": "tomato", "group": 3, "level": "A1", "lesson": 8, "enPl": "tomatoes"},
+    {"id": "noun:balkong", "sv": "balkong", "gender": "en", "def": "balkongen", "pl": "balkonger", "defPl": "balkongerna", "en": "balcony", "group": 3, "level": "A1", "lesson": 8, "enPl": "balconies"},
+    {"id": "noun:servitor", "sv": "servitör", "gender": "en", "def": "servitören", "pl": "servitörer", "defPl": "servitörerna", "en": "waiter", "group": 3, "level": "A1", "lesson": 8},
+    {"id": "noun:apelsin", "sv": "apelsin", "gender": "en", "def": "apelsinen", "pl": "apelsiner", "defPl": "apelsinerna", "en": "orange", "group": 3, "level": "A1", "lesson": 8},
+    {"id": "noun:biljett", "sv": "biljett", "gender": "en", "def": "biljetten", "pl": "biljetter", "defPl": "biljetterna", "en": "ticket", "group": 3, "level": "A1", "lesson": 8},
+    {"id": "noun:son", "sv": "son", "gender": "en", "def": "sonen", "pl": "söner", "defPl": "sönerna", "en": "son", "group": 3, "level": "A1", "lesson": 8, "note": "Group 3 with a vowel change: son → söner."},
+    {"id": "noun:bror", "sv": "bror", "gender": "en", "def": "brodern", "pl": "bröder", "defPl": "bröderna", "en": "brother", "group": 3, "level": "A1", "lesson": 8, "note": "Irregular: en bror, brodern, två bröder."},
+    {"id": "noun:mote", "sv": "möte", "gender": "ett", "def": "mötet", "pl": "möten", "defPl": "mötena", "en": "meeting", "group": 4, "level": "A1", "lesson": 8},
+    {"id": "noun:konto", "sv": "konto", "gender": "ett", "def": "kontot", "pl": "konton", "defPl": "kontona", "en": "account", "group": 4, "level": "A1", "lesson": 8},
+    {"id": "noun:italienare", "sv": "italienare", "gender": "en", "def": "italienaren", "pl": "italienare", "defPl": "italienarna", "en": "Italian", "group": 5, "level": "A1", "lesson": 8, "irregular": true, "note": "Group 5: en-words for origin and professions ending in -are stay the same: en italienare → två italienare.", "defPlNote": "En-words ending in -are drop the e and add -na: italienare → italienarna."}
   ]
 }

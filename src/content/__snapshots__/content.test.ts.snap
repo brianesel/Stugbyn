@@ -29,7 +29,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "the car",
     "id": "nouns:def:bil",
     "kind": "choice",
-    "lesson": 4,
+    "lesson": 5,
     "level": "A1",
     "options": [
       "bilen",
@@ -51,7 +51,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "car",
     "id": "nouns:houses:bil",
     "kind": "houses",
-    "lesson": 4,
+    "lesson": 8,
     "level": "A1",
     "prompt": "en bil",
     "say": "en bil – två bilar",
@@ -67,7 +67,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "cars",
     "id": "nouns:pl:bil",
     "kind": "choice",
-    "lesson": 4,
+    "lesson": 8,
     "level": "A1",
     "options": [
       "bilar",
@@ -89,7 +89,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "the cars",
     "id": "nouns:defpl:bil",
     "kind": "choice",
-    "lesson": 4,
+    "lesson": 11,
     "level": "A1",
     "options": [
       "bilarna",
@@ -131,7 +131,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "the apple",
     "id": "nouns:def:äpple",
     "kind": "choice",
-    "lesson": 4,
+    "lesson": 5,
     "level": "A1",
     "options": [
       "äpplet",
@@ -153,7 +153,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "apple",
     "id": "nouns:houses:äpple",
     "kind": "houses",
-    "lesson": 4,
+    "lesson": 8,
     "level": "A1",
     "prompt": "ett äpple",
     "say": "ett äpple – två äpplen",
@@ -169,7 +169,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "apples",
     "id": "nouns:pl:äpple",
     "kind": "choice",
-    "lesson": 4,
+    "lesson": 8,
     "level": "A1",
     "options": [
       "äpplen",
@@ -191,7 +191,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "the apples",
     "id": "nouns:defpl:äpple",
     "kind": "choice",
-    "lesson": 4,
+    "lesson": 11,
     "level": "A1",
     "options": [
       "äpplena",
@@ -213,7 +213,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "teacher",
     "id": "nouns:gender:lärare",
     "kind": "choice",
-    "lesson": 8,
+    "lesson": 4,
     "level": "A1",
     "options": [
       "en",
@@ -233,7 +233,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "the teacher",
     "id": "nouns:def:lärare",
     "kind": "choice",
-    "lesson": 8,
+    "lesson": 5,
     "level": "A1",
     "options": [
       "läraren",
@@ -291,7 +291,7 @@ exports[`nouns generator > matches the snapshot for three sample rows 1`] = `
     "hint": "the teachers",
     "id": "nouns:defpl:lärare",
     "kind": "choice",
-    "lesson": 8,
+    "lesson": 11,
     "level": "A1",
     "options": [
       "lärarna",

@@ -39,7 +39,7 @@ export type SaveData = {
 
 export const BOSS_WIN_XP = 50;
 
-export const DEFAULT_SETTINGS: Settings = { theme: 'system', autoAdvance: false, dailyGoal: 50, rate: 0.9, lessonReached: 17 };
+export const DEFAULT_SETTINGS: Settings = { theme: 'system', autoAdvance: false, dailyGoal: 50, rate: 0.9, lessonReached: 21 };
 
 export function dayKey(t: number): string {
   const d = new Date(t);

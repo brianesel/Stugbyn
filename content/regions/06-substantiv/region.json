@@ -2,64 +2,274 @@
   "id": "substantiv",
   "name": "Substantiv",
   "subtitle": "Nouns: en/ett, definite forms and plural Groups 1–5",
-  "lessons": [4, 5, 8, 11],
+  "lessons": [
+    4,
+    5,
+    8,
+    9,
+    11
+  ],
   "colour": "falu",
   "order": 6,
-  "generators": ["nouns"],
+  "generators": [
+    "nouns"
+  ],
   "ruleCards": [
     {
       "title": "En or ett?",
       "rule": "Every noun is an en-word or an ett-word. About three in four are en-words. There is no reliable rule, so learn the article with the word.",
-      "examples": [["en bil", "a car"], ["ett hus", "a house"], ["en flicka", "a girl"], ["ett äpple", "an apple"]],
+      "examples": [
+        [
+          "en bil",
+          "a car"
+        ],
+        [
+          "ett hus",
+          "a house"
+        ],
+        [
+          "en flicka",
+          "a girl"
+        ],
+        [
+          "ett äpple",
+          "an apple"
+        ]
+      ],
       "watch": "Words for people are almost always en-words: en lärare, en man, en kvinna. But: ett barn."
     },
     {
       "title": "The definite form",
       "rule": "Swedish puts “the” at the end of the word. En-words add -en or -n, ett-words add -et or -t.",
-      "examples": [["en bil", "bilen", "the car"], ["en flicka", "flickan", "the girl"], ["ett hus", "huset", "the house"], ["ett äpple", "äpplet", "the apple"]],
+      "examples": [
+        [
+          "en bil",
+          "bilen",
+          "the car"
+        ],
+        [
+          "en flicka",
+          "flickan",
+          "the girl"
+        ],
+        [
+          "ett hus",
+          "huset",
+          "the house"
+        ],
+        [
+          "ett äpple",
+          "äpplet",
+          "the apple"
+        ]
+      ],
       "watch": "Words ending in -el and -er often just add -n: nyckel → nyckeln, syster → systern."
     },
     {
       "title": "Group 1: the -or house",
       "rule": "En-words that end in -a drop the a and add -or.",
-      "examples": [["en flicka", "flickor", "girl"], ["en klocka", "klockor", "clock"], ["en skola", "skolor", "school"]],
+      "examples": [
+        [
+          "en flicka",
+          "flickor",
+          "girl"
+        ],
+        [
+          "en klocka",
+          "klockor",
+          "clock"
+        ],
+        [
+          "en skola",
+          "skolor",
+          "school"
+        ]
+      ],
       "watch": "A few words without -a also take -or: en ros → rosor."
     },
     {
       "title": "Group 2: the -ar house",
       "rule": "Short concrete en-words, en-words with an e in one of the last two letters, and -ing words.",
-      "examples": [["en bil", "bilar", "car"], ["en pojke", "pojkar", "boy"], ["en tidning", "tidningar", "newspaper"], ["en nyckel", "nycklar", "key"]],
+      "examples": [
+        [
+          "en bil",
+          "bilar",
+          "car"
+        ],
+        [
+          "en pojke",
+          "pojkar",
+          "boy"
+        ],
+        [
+          "en tidning",
+          "tidningar",
+          "newspaper"
+        ],
+        [
+          "en nyckel",
+          "nycklar",
+          "key"
+        ]
+      ],
       "watch": "The last e often disappears: fågel → fåglar, syster → systrar."
     },
     {
       "title": "Group 3: the -er and -r house",
       "rule": "Long en-words, words from other languages and words stressed on the last syllable add -er. En-words ending in a vowel other than a add only -r.",
-      "examples": [["en telefon", "telefoner", "phone"], ["en restaurang", "restauranger", "restaurant"], ["en sko", "skor", "shoe"], ["en idé", "idéer", "idea"]],
+      "examples": [
+        [
+          "en telefon",
+          "telefoner",
+          "phone"
+        ],
+        [
+          "en restaurang",
+          "restauranger",
+          "restaurant"
+        ],
+        [
+          "en sko",
+          "skor",
+          "shoe"
+        ],
+        [
+          "en idé",
+          "idéer",
+          "idea"
+        ]
+      ],
       "watch": "Some short words change their vowel: bok → böcker, stad → städer, hand → händer, natt → nätter."
     },
     {
       "title": "Group 3 exceptions",
       "rule": "These look like short Group 2 words, but they take -er. Learn them by heart.",
-      "examples": [["en katt", "katter", "cat"], ["en chef", "chefer", "boss"], ["en sak", "saker", "thing"], ["en vän", "vänner", "friend"]],
+      "examples": [
+        [
+          "en katt",
+          "katter",
+          "cat"
+        ],
+        [
+          "en chef",
+          "chefer",
+          "boss"
+        ],
+        [
+          "en sak",
+          "saker",
+          "thing"
+        ],
+        [
+          "en vän",
+          "vänner",
+          "friend"
+        ]
+      ],
       "watch": "Vän doubles the n: vännen, vänner, vännerna."
     },
     {
       "title": "Group 4: the -n house",
       "rule": "Ett-words that end in a vowel add -n.",
-      "examples": [["ett äpple", "äpplen", "apple"], ["ett hjärta", "hjärtan", "heart"], ["ett meddelande", "meddelanden", "message"]],
+      "examples": [
+        [
+          "ett äpple",
+          "äpplen",
+          "apple"
+        ],
+        [
+          "ett hjärta",
+          "hjärtan",
+          "heart"
+        ],
+        [
+          "ett meddelande",
+          "meddelanden",
+          "message"
+        ]
+      ],
       "watch": "Irregular: ett öga → ögon, ett öra → öron."
     },
     {
       "title": "Group 5: the no-ending house",
       "rule": "Ett-words that end in a consonant, and en-words for people ending in -are or -er, look the same in the plural.",
-      "examples": [["ett hus", "två hus", "house"], ["ett barn", "två barn", "child"], ["en lärare", "två lärare", "teacher"]],
+      "examples": [
+        [
+          "ett hus",
+          "två hus",
+          "house"
+        ],
+        [
+          "ett barn",
+          "två barn",
+          "child"
+        ],
+        [
+          "en lärare",
+          "två lärare",
+          "teacher"
+        ]
+      ],
       "watch": "Irregular: en man → två män."
     },
     {
       "title": "The definite plural",
       "rule": "Start from the plural. Groups 1–3 add -na, Group 4 adds -a, Group 5 ett-words add -en.",
-      "examples": [["bilar", "bilarna", "the cars"], ["äpplen", "äpplena", "the apples"], ["hus", "husen", "the houses"]],
+      "examples": [
+        [
+          "bilar",
+          "bilarna",
+          "the cars"
+        ],
+        [
+          "äpplen",
+          "äpplena",
+          "the apples"
+        ],
+        [
+          "hus",
+          "husen",
+          "the houses"
+        ]
+      ],
       "watch": "En-words ending in -are drop the e: lärare → lärarna. Rum doubles the m: rummen."
+    },
+    {
+      "title": "Ingen, inget, inga",
+      "rule": "Inte makes a verb negative. Ingen, inget, inga make a noun negative (“no, not any”). They follow the noun: ingen for en-words, inget for ett-words, inga for plurals.",
+      "examples": [
+        [
+          "Det finns ingen penna här.",
+          "There is no pen here."
+        ],
+        [
+          "Det finns inget papper här.",
+          "There is no paper here."
+        ],
+        [
+          "Det finns inga problem.",
+          "There are no problems."
+        ]
+      ]
+    },
+    {
+      "title": "Jag har ont i …",
+      "rule": "To say something hurts, use ont i + the body part in the definite form.",
+      "examples": [
+        [
+          "Jag har ont i huvudet.",
+          "My head hurts."
+        ],
+        [
+          "Jag har ont i magen.",
+          "My stomach hurts."
+        ],
+        [
+          "Han har ont i ryggen.",
+          "His back hurts."
+        ]
+      ],
+      "watch": "Also: huvudvärk (headache), tandvärk (toothache), magvärk (stomachache)."
     }
   ]
 }
