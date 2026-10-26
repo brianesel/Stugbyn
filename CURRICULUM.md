@@ -24,6 +24,7 @@ Which class lesson taught what, and where it lives in the app. Source: the class
 | 18 | 19 Oct | Present perfect practice; conjunctions reset word order; school; tycker/tror in the past | Perfekt, Bisatser, Framtid |
 | 19 | 21 Oct | School memories; subjunctions att, när, om, eftersom, för att; inte before the verb in subordinate clauses | Bisatser |
 | 20 | 23 Oct | Trots att; work and work–life balance | Bisatser |
-| 21 | 26 Oct | Remote vs office work; å ena sidan / å andra sidan; restaurant | Bisatser |
+| 21 | 26 Oct | Remote vs office work; å ena sidan / å andra sidan; restaurant; housing (rooms, en tvåa, på gångavstånd, utsikt över) | Bisatser, Substantiv (housing nouns) |
+| 22 | — | Speaking: your ideal home (prepared at lesson 21) | Exam Hall speaking (Phase 5) |
 
 **Not in the app yet:** vocabulary themes from the lessons (Phase 3: Word bank and decks), formal writing and directions (Phase 5: Exam Hall).
