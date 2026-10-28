@@ -8,11 +8,21 @@
       "en": "restaurant",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "restaurangen", "pl": "restauranger", "defPl": "restaurangerna" },
+      "forms": {
+        "def": "restaurangen",
+        "pl": "restauranger",
+        "defPl": "restaurangerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Den nya restaurangen är så populär att man måste boka bord i fjol.",
+        "en": "The new restaurant is so popular that you have to book a table last year."
+      }
     },
     {
       "id": "vocab:restaurant:servitor",
@@ -20,11 +30,21 @@
       "en": "waiter",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "servitören", "pl": "servitörer", "defPl": "servitörerna" },
+      "forms": {
+        "def": "servitören",
+        "pl": "servitörer",
+        "defPl": "servitörerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Servitören var så snabb att maten kom innan jag beställde.",
+        "en": "The waiter was so fast that the food came before I ordered."
+      }
     },
     {
       "id": "vocab:restaurant:servitris",
@@ -33,11 +53,21 @@
       "enPl": "waitresses",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "servitrisen", "pl": "servitriser", "defPl": "servitriserna" },
+      "forms": {
+        "def": "servitrisen",
+        "pl": "servitriser",
+        "defPl": "servitriserna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Servitrisen frågar alltid om maten är god precis när jag har munnen full.",
+        "en": "The waitress always asks if the food is good just when my mouth is full."
+      }
     },
     {
       "id": "vocab:restaurant:bord",
@@ -45,11 +75,21 @@
       "en": "table",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "bordet", "pl": "bord", "defPl": "borden" },
+      "forms": {
+        "def": "bordet",
+        "pl": "bord",
+        "defPl": "borden"
+      },
       "group": 5,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag ville ha ett bord vid fönstret. Jag fick ett bord vid toaletten.",
+        "en": "I wanted a table by the window. I got a table by the toilet."
+      }
     },
     {
       "id": "vocab:restaurant:boka-bord",
@@ -58,8 +98,17 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Jag vill boka bord för två.", "en": "I would like to book a table for two." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Jag vill boka bord för två.",
+        "en": "I would like to book a table for two."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag bokade bord för två: jag och min efterrätt.",
+        "en": "I booked a table for two: me and my dessert."
+      }
     },
     {
       "id": "vocab:restaurant:meny",
@@ -67,11 +116,21 @@
       "en": "menu",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "menyn", "pl": "menyer", "defPl": "menyerna" },
+      "forms": {
+        "def": "menyn",
+        "pl": "menyer",
+        "defPl": "menyerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag läser hela menyn i tio minuter och beställer sedan samma sak som alltid.",
+        "en": "I read the whole menu for ten minutes and then order the same thing as always."
+      }
     },
     {
       "id": "vocab:restaurant:bestalla",
@@ -80,7 +139,13 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag ville beställa på svenska, men servitören svarade på engelska.",
+        "en": "I wanted to order in Swedish, but the waiter answered in English."
+      }
     },
     {
       "id": "vocab:restaurant:redo-att-bestalla",
@@ -89,8 +154,17 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Är ni redo att beställa?", "en": "Are you ready to order?" },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Är ni redo att beställa?",
+        "en": "Are you ready to order?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Är ni redo att beställa? – Nej, vi har bara läst menyn fem gånger.",
+        "en": "“Are you ready to order?” “No, we’ve only read the menu five times.”"
+      }
     },
     {
       "id": "vocab:restaurant:kan-jag-fa",
@@ -100,8 +174,17 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Kan jag få menyn, tack?", "en": "Can I have the menu, please?" },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Kan jag få menyn, tack?",
+        "en": "Can I have the menu, please?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Kan jag få notan? Nej, vänta – kan jag få en efterrätt först?",
+        "en": "Can I have the bill? No, wait – can I have a dessert first?"
+      }
     },
     {
       "id": "vocab:restaurant:jag-tal-inte-gluten",
@@ -111,7 +194,14 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag tål inte gluten. Och inte måndagar heller.",
+        "en": "I can’t tolerate gluten. Or Mondays, for that matter.",
+        "note": "Tål inte means ‘can’t tolerate’, for food and for other things too."
+      }
     },
     {
       "id": "vocab:restaurant:glutenintolerant",
@@ -120,7 +210,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Katten är inte glutenintolerant. Hon tål bara inte mat som inte är lax.",
+        "en": "The cat isn’t gluten intolerant. She just can’t stand food that isn’t salmon."
+      }
     },
     {
       "id": "vocab:restaurant:vegan",
@@ -128,12 +224,25 @@
       "en": "vegan",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "veganen", "pl": "veganer", "defPl": "veganerna" },
+      "forms": {
+        "def": "veganen",
+        "pl": "veganer",
+        "defPl": "veganerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Jag är vegan.", "en": "I am a vegan." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Jag är vegan.",
+        "en": "I am a vegan."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Är du vegan? – Nej, men min sallad är det.",
+        "en": "“Are you a vegan?” “No, but my salad is.”"
+      }
     },
     {
       "id": "vocab:restaurant:byta-bord",
@@ -143,8 +252,17 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Kan vi byta bord?", "en": "Can we change tables?" },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Kan vi byta bord?",
+        "en": "Can we change tables?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Vi bytte bord tre gånger. Nu sitter vi i köket.",
+        "en": "We changed tables three times. Now we’re sitting in the kitchen."
+      }
     },
     {
       "id": "vocab:restaurant:sanka-musiken",
@@ -154,8 +272,17 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Kan ni sänka musiken, tack?", "en": "Could you turn down the music, please?" },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Kan ni sänka musiken, tack?",
+        "en": "Could you turn down the music, please?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Kan ni sänka musiken? – Det är inte musik. Det är kocken som sjunger.",
+        "en": "“Could you turn down the music?” “It isn’t music. It’s the chef singing.”"
+      }
     },
     {
       "id": "vocab:restaurant:smaka",
@@ -164,8 +291,17 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Maten smakar gott.", "en": "The food tastes good." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Maten smakar gott.",
+        "en": "The food tastes good."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Kocken smakar alltid på maten. Därför tar det så lång tid.",
+        "en": "The chef always tastes the food. That’s why it takes so long."
+      }
     },
     {
       "id": "vocab:restaurant:notan-tack",
@@ -175,7 +311,13 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Notan, tack! – Är du säker? Den är ganska lång.",
+        "en": "“The bill, please!” “Are you sure? It’s quite long.”"
+      }
     },
     {
       "id": "vocab:restaurant:nota",
@@ -183,11 +325,21 @@
       "en": "bill (at a restaurant)",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "notan", "pl": "notor", "defPl": "notorna" },
+      "forms": {
+        "def": "notan",
+        "pl": "notor",
+        "defPl": "notorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Portionen var liten. Notan var stor.",
+        "en": "The portion was small. The bill was big."
+      }
     },
     {
       "id": "vocab:restaurant:kvitto",
@@ -195,11 +347,21 @@
       "en": "receipt",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "kvittot", "pl": "kvitton", "defPl": "kvittona" },
+      "forms": {
+        "def": "kvittot",
+        "pl": "kvitton",
+        "defPl": "kvittona"
+      },
       "group": 4,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Kvittot var längre än middagen.",
+        "en": "The receipt was longer than the dinner."
+      }
     },
     {
       "id": "vocab:restaurant:rakning",
@@ -208,11 +370,21 @@
       "enPl": "bills",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "räkningen", "pl": "räkningar", "defPl": "räkningarna" },
+      "forms": {
+        "def": "räkningen",
+        "pl": "räkningar",
+        "defPl": "räkningarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Det enda som alltid kommer i tid hem till mig är räkningarna.",
+        "en": "The only thing that always arrives at my home on time is the bills."
+      }
     },
     {
       "id": "vocab:restaurant:faktura",
@@ -220,11 +392,21 @@
       "en": "invoice",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "fakturan", "pl": "fakturor", "defPl": "fakturorna" },
+      "forms": {
+        "def": "fakturan",
+        "pl": "fakturor",
+        "defPl": "fakturorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Fakturan kom före paketet.",
+        "en": "The invoice arrived before the parcel."
+      }
     },
     {
       "id": "vocab:restaurant:dricks",
@@ -233,10 +415,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "dricksen" },
+      "forms": {
+        "def": "dricksen"
+      },
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Vad är dricks? – Pengar som du inte ska dricka upp.",
+        "en": "“What is a tip?” “Money you’re not supposed to drink.”",
+        "note": "Dricks (tip) comes from dricka (drink): it was once money for a drink."
+      }
     },
     {
       "id": "vocab:restaurant:ge-dricks",
@@ -245,7 +436,14 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag gav dricks i Finland. Servitören trodde att jag hade tappat pengarna.",
+        "en": "I gave a tip in Finland. The waiter thought I had dropped the money.",
+        "note": "Tipping is not very common in Finland."
+      }
     },
     {
       "id": "vocab:restaurant:matratt",
@@ -254,11 +452,21 @@
       "enPl": "dishes",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "maträtten", "pl": "maträtter", "defPl": "maträtterna" },
+      "forms": {
+        "def": "maträtten",
+        "pl": "maträtter",
+        "defPl": "maträtterna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Min bästa maträtt? Telefonnumret till pizzerian.",
+        "en": "My best dish? The pizzeria’s phone number."
+      }
     },
     {
       "id": "vocab:restaurant:forratt",
@@ -266,11 +474,21 @@
       "en": "starter",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "förrätten", "pl": "förrätter", "defPl": "förrätterna" },
+      "forms": {
+        "def": "förrätten",
+        "pl": "förrätter",
+        "defPl": "förrätterna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Brödet var så gott att förrätten blev huvudrätt.",
+        "en": "The bread was so good that the starter became the main course."
+      }
     },
     {
       "id": "vocab:restaurant:huvudratt",
@@ -278,11 +496,21 @@
       "en": "main course",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "huvudrätten", "pl": "huvudrätter", "defPl": "huvudrätterna" },
+      "forms": {
+        "def": "huvudrätten",
+        "pl": "huvudrätter",
+        "defPl": "huvudrätterna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Barn tycker att efterrätten är huvudrätten.",
+        "en": "Children think the dessert is the main course."
+      }
     },
     {
       "id": "vocab:restaurant:efterratt",
@@ -290,12 +518,25 @@
       "en": "dessert",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "efterrätten", "pl": "efterrätter", "defPl": "efterrätterna" },
+      "forms": {
+        "def": "efterrätten",
+        "pl": "efterrätter",
+        "defPl": "efterrätterna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Vi tar glass till efterrätt.", "en": "We’ll have ice cream for dessert." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Vi tar glass till efterrätt.",
+        "en": "We’ll have ice cream for dessert."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Hos mormor börjar middagen med efterrätt. Hon gör som hon vill.",
+        "en": "At Grandma’s, dinner starts with dessert. She does as she likes."
+      }
     },
     {
       "id": "vocab:restaurant:kock",
@@ -303,11 +544,22 @@
       "en": "cook; chef",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "kocken", "pl": "kockar", "defPl": "kockarna" },
+      "forms": {
+        "def": "kocken",
+        "pl": "kockar",
+        "defPl": "kockarna"
+      },
       "group": 2,
       "level": "A2",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Många kockar i köket? Då blir det mycket disk.",
+        "en": "Lots of cooks in the kitchen? Then there’s lots of washing-up.",
+        "note": "Kock (cook) and kök (kitchen) sound a bit alike."
+      }
     },
     {
       "id": "vocab:restaurant:utsokt",
@@ -316,7 +568,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Maten var utsökt. Jag hade inte lagat den.",
+        "en": "The food was delicious. I hadn’t cooked it."
+      }
     },
     {
       "id": "vocab:restaurant:god",
@@ -325,8 +583,18 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Soppan är mycket god.", "en": "The soup is very tasty." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Soppan är mycket god.",
+        "en": "The soup is very tasty."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Allt är gott med tillräckligt mycket smör.",
+        "en": "Everything is tasty with enough butter.",
+        "note": "God becomes gott with allt and with ett-words."
+      }
     },
     {
       "id": "vocab:restaurant:langsam",
@@ -335,7 +603,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Servitören var långsam, så vi blev vänner.",
+        "en": "The waiter was slow, so we became friends."
+      }
     },
     {
       "id": "vocab:restaurant:service",
@@ -344,11 +618,22 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "servicen" },
+      "forms": {
+        "def": "servicen"
+      },
       "level": "A1",
       "lesson": 21,
-      "example": { "sv": "Servicen var långsam.", "en": "The service was slow." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Servicen var långsam.",
+        "en": "The service was slow."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Servicen var fantastisk. Servitören förstod min svenska!",
+        "en": "The service was fantastic. The waiter understood my Swedish!"
+      }
     },
     {
       "id": "vocab:restaurant:smaklig-maltid",
@@ -358,7 +643,13 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 21,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "”Smaklig måltid!” sa jag till katten. Hon svarade inte. Hon åt.",
+        "en": "“Enjoy your meal!” I said to the cat. She didn’t answer. She ate."
+      }
     }
   ]
 }

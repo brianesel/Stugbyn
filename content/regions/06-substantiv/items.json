@@ -16,7 +16,11 @@
     "tags": [
       "plural",
       "exception"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi har inga barn, men vi har tre katter och ingen makt.",
+      "en": "We have no children, but we have three cats and no power."
+    }
   },
   {
     "id": "substantiv:chefer",
@@ -35,7 +39,11 @@
     "tags": [
       "plural",
       "exception"
-    ]
+    ],
+    "fun": {
+      "sv": "Alla chefer har möte idag. Vi andra jobbar.",
+      "en": "All the bosses have a meeting today. The rest of us are working."
+    }
   },
   {
     "id": "substantiv:saker",
@@ -54,7 +62,11 @@
     "tags": [
       "plural",
       "exception"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har många saker att göra. Först kaffe.",
+      "en": "I have many things to do. Coffee first."
+    }
   },
   {
     "id": "substantiv:vanner",
@@ -73,7 +85,11 @@
     "tags": [
       "plural",
       "exception"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon har två bra vänner: kaffe och bastu.",
+      "en": "She has two good friends: coffee and the sauna."
+    }
   },
   {
     "id": "substantiv:bocker",
@@ -92,7 +108,11 @@
     "tags": [
       "plural",
       "vowel-change"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag köper tre böcker i månaden. Jag läser en.",
+      "en": "I buy three books a month. I read one."
+    }
   },
   {
     "id": "substantiv:stader",
@@ -111,7 +131,11 @@
     "tags": [
       "plural",
       "vowel-change"
-    ]
+    ],
+    "fun": {
+      "sv": "Stockholm och Göteborg är stora städer. Min by har en buss.",
+      "en": "Stockholm and Gothenburg are big cities. My village has one bus."
+    }
   },
   {
     "id": "substantiv:handerna",
@@ -130,7 +154,11 @@
     "tags": [
       "definite-plural",
       "vowel-change"
-    ]
+    ],
+    "fun": {
+      "sv": "– Tvätta händerna!\n– Men jag åt bara chips!\n– Just därför.",
+      "en": "“Wash your hands!” “But I only ate crisps!” “Exactly.”"
+    }
   },
   {
     "id": "substantiv:lararna",
@@ -148,7 +176,11 @@
     "lesson": 8,
     "tags": [
       "definite-plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Lärarna är snälla. De säger ”nästan rätt” hela tiden.",
+      "en": "The teachers are kind. They say “almost right” all the time."
+    }
   },
   {
     "id": "substantiv:rum",
@@ -166,7 +198,12 @@
     "lesson": 4,
     "tags": [
       "plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi bor i ett hus med fem rum. Katten använder alla.",
+      "en": "We live in a house with five rooms. The cat uses all of them.",
+      "note": "Ett rum, fem rum: many ett-words don’t change in the plural."
+    }
   },
   {
     "id": "substantiv:fonstren",
@@ -184,7 +221,11 @@
     "lesson": 11,
     "tags": [
       "definite-plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Fönstren är öppna. Myggorna säger tack.",
+      "en": "The windows are open. The mosquitoes say thank you."
+    }
   },
   {
     "id": "substantiv:ogon",
@@ -203,7 +244,12 @@
     "tags": [
       "plural",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Katten har stora ögon när jag öppnar kylskåpet.",
+      "en": "The cat has big eyes when I open the fridge.",
+      "note": "Öga – ögon is an irregular plural."
+    }
   },
   {
     "id": "substantiv:man",
@@ -222,7 +268,12 @@
     "tags": [
       "plural",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Tre män och en IKEA-hylla. Hyllan vinner.",
+      "en": "Three men and one IKEA shelf. The shelf wins.",
+      "note": "Man – män: the plural changes the vowel."
+    }
   },
   {
     "id": "substantiv:applen",
@@ -240,7 +291,12 @@
     "lesson": 4,
     "tags": [
       "plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Ett äpple om dagen? Jag äter tre äpplen. Och en kaka.",
+      "en": "An apple a day? I eat three apples. And a cake.",
+      "note": "Äpple – äpplen: ett-words ending in a vowel add -n."
+    }
   },
   {
     "id": "substantiv:barn",
@@ -258,7 +314,12 @@
     "lesson": 4,
     "tags": [
       "plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har två barn och noll tid.",
+      "en": "I have two children and zero time.",
+      "note": "Barn stays barn in the plural."
+    }
   },
   {
     "id": "substantiv:nycklarna",
@@ -276,7 +337,11 @@
     "lesson": 8,
     "tags": [
       "definite-plural"
-    ]
+    ],
+    "fun": {
+      "sv": "– Var är nycklarna?\n– Där du lade dem.\n– Tack, mycket bra hjälp.",
+      "en": "“Where are the keys?” “Where you put them.” “Thanks, very helpful.”"
+    }
   },
   {
     "id": "substantiv:lektioner",
@@ -294,7 +359,11 @@
     "lesson": 4,
     "tags": [
       "plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Han har tre lektioner i veckan och fyra ursäkter.",
+      "en": "He has three lessons a week and four excuses."
+    }
   },
   {
     "id": "substantiv:skor",
@@ -312,7 +381,11 @@
     "lesson": 8,
     "tags": [
       "plural"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag köper två par skor. Ett par för snö, ett par för mer snö.",
+      "en": "I’m buying two pairs of shoes. One pair for snow, one pair for more snow."
+    }
   },
   {
     "id": "substantiv:ingen-penna",
@@ -330,7 +403,11 @@
     "lesson": 9,
     "tags": [
       "ingen"
-    ]
+    ],
+    "fun": {
+      "sv": "Det finns ingen penna här, bara tio pennor som inte fungerar.",
+      "en": "There’s no pen here, just ten pens that don’t work."
+    }
   },
   {
     "id": "substantiv:inget-papper",
@@ -348,7 +425,11 @@
     "lesson": 9,
     "tags": [
       "ingen"
-    ]
+    ],
+    "fun": {
+      "sv": "Det finns inget papper i skrivaren. Skrivaren är glad.",
+      "en": "There’s no paper in the printer. The printer is happy."
+    }
   },
   {
     "id": "substantiv:inga-biljetter",
@@ -366,7 +447,11 @@
     "lesson": 9,
     "tags": [
       "ingen"
-    ]
+    ],
+    "fun": {
+      "sv": "– Har ni biljetter?\n– Nej, vi har inga biljetter. Vi har bara en lång kö.",
+      "en": "“Do you have tickets?” “No, we have no tickets. We just have a long queue.”"
+    }
   },
   {
     "id": "substantiv:ingen-inte",
@@ -384,7 +469,11 @@
     "lesson": 9,
     "tags": [
       "ingen"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har ingen bil. Jag har en cykel och mycket snö.",
+      "en": "I don’t have a car. I have a bike and a lot of snow."
+    }
   },
   {
     "id": "substantiv:ont-huvudet",
@@ -402,7 +491,11 @@
     "lesson": 9,
     "tags": [
       "ont-i"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har ont i huvudet. Det är svensk grammatik.",
+      "en": "I have a headache. It’s Swedish grammar."
+    }
   },
   {
     "id": "substantiv:ont-magen",
@@ -420,7 +513,11 @@
     "lesson": 9,
     "tags": [
       "ont-i"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har ont i magen. Jag åt sex kanelbullar. För kulturen.",
+      "en": "My stomach hurts. I ate six cinnamon buns. For the culture."
+    }
   },
   {
     "id": "substantiv:ont-benet",
@@ -438,6 +535,10 @@
     "lesson": 9,
     "tags": [
       "ont-i"
-    ]
+    ],
+    "fun": {
+      "sv": "Han har ont i benet. Han sprang efter bussen. Bussen vann.",
+      "en": "His leg hurts. He ran after the bus. The bus won."
+    }
   }
 ]

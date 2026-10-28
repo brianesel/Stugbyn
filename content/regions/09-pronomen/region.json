@@ -11,43 +11,50 @@
       "title": "Subject or object?",
       "rule": "The subject form does the action. After the verb, or after a preposition like med, till or för, use the object form.",
       "examples": [["Jag ser honom.", "I see him."], ["Han ser mig.", "He sees me."], ["Hon pratar med oss.", "She talks to us."]],
-      "watch": "Mig, dig and sig are written with g but usually said “mej, dej, sej”."
+      "watch": "Mig, dig and sig are written with g but usually said “mej, dej, sej”.",
+      "fun": {"sv": "Jag ser honom. Han ser mig. Ingen av oss säger hej.", "en": "I see him. He sees me. Neither of us says hello."}
     },
     {
       "title": "The pronoun pairs",
       "rule": "Every subject pronoun has an object form. Learn them as pairs.",
       "examples": [["jag", "mig", "I / me"], ["du", "dig", "you (one person)"], ["han", "honom", "he / him"], ["hon", "henne", "she / her"], ["vi", "oss", "we / us"], ["ni", "er", "you (plural)"], ["de", "dem", "they / them"]],
-      "watch": "De and dem both sound like “dom”, so think: does it do the action (de) or does something happen to it (dem)?"
+      "watch": "De and dem both sound like “dom”, so think: does it do the action (de) or does something happen to it (dem)?",
+      "fun": {"sv": "– Jag älskar dig, sa jag till kaffet. Det värmde mig.", "en": "“I love you,” I said to the coffee. It warmed me."}
     },
     {
       "title": "Min, mitt, mina",
       "rule": "My, your (one person), our and your (plural) change like en/ett/plural, following the noun that is owned.",
       "examples": [["min bil", "my car"], ["mitt hus", "my house"], ["mina barn", "my children"], ["din väska", "dina väskor", "your bag, your bags"], ["vårt kök", "our kitchen"], ["era nycklar", "your (plural) keys"]],
-      "watch": "The noun after a possessive has no ending: min bil, not min bilen."
+      "watch": "The noun after a possessive has no ending: min bil, not min bilen.",
+      "fun": {"sv": "Min soffa, mitt täcke, mina kuddar. Allt är kattens.", "en": "My sofa, my duvet, my pillows. It all belongs to the cat."}
     },
     {
       "title": "Hans, hennes, deras",
       "rule": "His, her and their never change, whatever the noun is.",
       "examples": [["hans bil", "hans hus", "his car, his house"], ["hennes barn", "her children"], ["deras lägenhet", "their flat"]],
-      "watch": "Hennes is already possessive. There is no extra -s."
+      "watch": "Hennes is already possessive. There is no extra -s.",
+      "fun": {"sv": "Hans bil, hennes bil, deras bil. Det är samma bil.", "en": "His car, her car, their car. It’s the same car."}
     },
     {
       "title": "Sin, sitt, sina: “his/her/their own”",
       "rule": "When the owner is the third-person subject (han, hon, de, a name, man) of the same clause, use sin/sitt/sina. If it belongs to someone else, use hans/hennes/deras. Sin/sitt/sina change like en/ett/plural.",
       "examples": [["Anna ringer sina föräldrar.", "Anna calls her (own) parents."], ["Anna ringer hennes föräldrar.", "Anna calls her (Sara’s) parents."], ["Peter tvättar sin bil.", "Peter washes his (own) car."], ["De säljer sitt hus.", "They’re selling their (own) house."]],
-      "watch": "Sin is never part of the subject: Erik och hans fru bor här (not sin fru). With jag, du, vi, ni use min, din, vår, er."
+      "watch": "Sin is never part of the subject: Erik och hans fru bor här (not sin fru). With jag, du, vi, ni use min, din, vår, er.",
+      "fun": {"sv": "Katten har sin säng, sin mat och sina leksaker. Men den sover i min säng.", "en": "The cat has its own bed, its own food and its own toys. But it sleeps in my bed."}
     },
     {
       "title": "Reflexive verbs",
       "rule": "Some verbs need a pronoun that points back to the subject: jag – mig, du – dig, han/hon/man – sig, vi – oss, ni – er, de – sig.",
       "examples": [["Jag känner mig trött.", "I feel tired."], ["Hon sätter sig.", "She sits down."], ["Vi lägger oss tidigt.", "We go to bed early."], ["De ska gifta sig i juni.", "They’re getting married in June."]],
-      "watch": "With de, the reflexive is sig, not dem: De gifter sig."
+      "watch": "With de, the reflexive is sig, not dem: De gifter sig.",
+      "fun": {"sv": "Jag lägger mig klockan tio. Katten lägger sig på mig klockan fem över tio.", "en": "I go to bed at ten. The cat lies down on me at five past ten."}
     },
     {
       "title": "Man: “one, you, people”",
       "rule": "Use man for general statements about people. The verb looks the same as with han or hon.",
       "examples": [["Man får inte röka här.", "You’re not allowed to smoke here."], ["I Finland dricker man mycket kaffe.", "In Finland people drink a lot of coffee."]],
-      "watch": "Man goes with sig and sin: Man måste ta hand om sig."
+      "watch": "Man goes with sig and sin: Man måste ta hand om sig.",
+      "fun": {"sv": "I Finland står man två meter från varandra i busskön.", "en": "In Finland people stand two metres apart in the bus queue."}
     }
   ]
 }

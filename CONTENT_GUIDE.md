@@ -51,3 +51,13 @@ The validator lists every `"check": true` entry so a human (or the teacher) conf
 **Content report.** `npm run content-report` prints counts per theme, level, lesson and region, and lists drafts and `check` flags. Use it to see gaps against the YKI vocabulary topics.
 
 **Versioning and migrations.** `content/version.json` holds a content version number; bump it when content changes. Saved progress stores the version it was made with. On load, the app runs migration functions in `src/content/migrations.ts` for renamed ids (an `idRenames` map), so an intentional rename can keep progress.
+
+## Funny examples (ⓘ)
+
+Any word, rule card or exercise can have a `"fun"` field, shown behind the ⓘ button:
+
+```json
+"fun": { "sv": "– Får jag klappa ditt får? – Ja, det får du.", "en": "“May I pet your sheep?” “Yes, you may.”", "note": "Pun: får means both ‘sheep’ and ‘may’." }
+```
+
+Keep it short, kind and in A1–A2 Swedish, use the word or rule itself, and add a `note` when the joke depends on the Swedish. Exercises generated from a word reuse that word’s joke.

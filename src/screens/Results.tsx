@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { AudioButton } from '../components/AudioButton';
+import { InfoTip } from '../components/InfoTip';
 import { library } from '../content/load';
 import { expectedText } from '../engine/grading';
 import { navigate } from '../router';
@@ -64,6 +65,7 @@ export function Results() {
                     <strong>{text}</strong>
                   </span>
                   {item.hint && <span className="en">{item.hint}</span>}
+                  <InfoTip fun={item.fun} />
                   <AudioButton text={text} itemId={id} />
                 </li>
               );

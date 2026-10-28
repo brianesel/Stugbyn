@@ -7,10 +7,14 @@ import { VitePWA } from 'vite-plugin-pwa';
 export default defineConfig({
   base: './',
   build: {
+    // The largest chunk is the content data (words, items, jokes): ~150 kB gzipped, downloaded once and precached
+    // for offline use. Code chunks stay well under the default 500 kB.
+    chunkSizeWarningLimit: 800,
     rollupOptions: {
       output: {
         // Libraries change rarely; keeping them apart means a content update doesn’t re-download them.
         manualChunks: (id) => {
+          if (id.includes('/content/') && id.endsWith('.json')) return 'content';
           if (id.includes('@supabase')) return 'supabase';
           if (id.includes('node_modules/react') || id.includes('node_modules/scheduler')) return 'react';
           if (id.includes('node_modules')) return 'vendor';

@@ -27,7 +27,7 @@ export function generateVerbItems(table: VerbTable, drill: VerbDrill): Item[] {
       time: v.time ?? table.defaultTime.sv,
       timeEn: v.timeEn ?? table.defaultTime.en,
     };
-    const base = { level: v.level, lesson: table.lessons?.[drill] ?? v.lesson };
+    const base = { level: v.level, lesson: table.lessons?.[drill] ?? v.lesson, fun: v.fun };
     const tags = (t: string) => ['verbs', t, `group-${v.group}`, ...(v.tags ?? [])];
     const note = v.note ? ` ${v.note}` : '';
     const forms = [v.inf, v.pres, v.past, v.sup];

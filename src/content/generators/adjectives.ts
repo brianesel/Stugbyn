@@ -17,7 +17,7 @@ export function generateAdjectiveItems(table: AdjectiveTable): Item[] {
       const say = fillGap(prompt, answer);
       const explain = fill(table.explain[explainKey], vars) + note;
       const tags = ['adjectives', explainKey, ...(a.tags ?? [])];
-      const base = { level: a.level, lesson: table.lessons?.[explainKey] ?? a.lesson };
+      const base = { level: a.level, lesson: table.lessons?.[explainKey] ?? a.lesson, fun: a.fun };
       if (options.length >= 2) {
         items.push({ ...base, id: `adj:${key}:${a.base}`, kind: 'choice', ask, prompt, hint, answer, options, explain, say, tags });
       }

@@ -27,7 +27,11 @@
           "See you on Friday!"
         ]
       ],
-      "watch": "Without a time word, the present tense usually means now or usually: Jag åker till jobbet (every day)."
+      "watch": "Without a time word, the present tense usually means now or usually: Jag åker till jobbet (every day).",
+      "fun": {
+        "sv": "Imorgon börjar jag plugga svenska ordentligt. Det sa jag igår också.",
+        "en": "Tomorrow I start studying Swedish properly. I said that yesterday too."
+      }
     },
     {
       "title": "Ska: plans and decisions",
@@ -46,7 +50,11 @@
           "Shall we go to the cinema?"
         ]
       ],
-      "watch": "Ska can stand without a movement verb when a direction follows: Jag ska till tandläkaren. Vart ska du?"
+      "watch": "Ska can stand without a movement verb when a direction follows: Jag ska till tandläkaren. Vart ska du?",
+      "fun": {
+        "sv": "Ikväll ska jag laga mat. Jag har redan ringt pizzerian.",
+        "en": "Tonight I’m going to cook. I’ve already called the pizzeria."
+      }
     },
     {
       "title": "Kommer att: predictions",
@@ -65,7 +73,11 @@
           "She’ll be tired after the trip."
         ]
       ],
-      "watch": "Don’t forget att: kommer att regna. People often drop it when speaking, but write it."
+      "watch": "Don’t forget att: kommer att regna. People often drop it when speaking, but write it.",
+      "fun": {
+        "sv": "Det kommer att snöa. Det kommer att bli mörkt. Du kommer att älska Finland.",
+        "en": "It’s going to snow. It’s going to get dark. You’re going to love Finland."
+      }
     },
     {
       "title": "Ska or kommer att?",
@@ -80,7 +92,12 @@
           "It’s going to be cold tonight. (a prediction)"
         ]
       ],
-      "watch": "Du ska … can sound like an order: Du ska städa ditt rum! (You will tidy your room!)"
+      "watch": "Du ska … can sound like an order: Du ska städa ditt rum! (You will tidy your room!)",
+      "fun": {
+        "sv": "Vi ska grilla på lördag. Det kommer att regna.",
+        "en": "We’re having a barbecue on Saturday. It’s going to rain.",
+        "note": "Ska: we decided it. Kommer att: nobody decided the rain."
+      }
     },
     {
       "title": "Tänker + infinitive: intentions",
@@ -95,7 +112,11 @@
           "What are you planning to do this summer?"
         ]
       ],
-      "watch": "No att here: Jag tänker resa, not tänker att resa."
+      "watch": "No att here: Jag tänker resa, not tänker att resa.",
+      "fun": {
+        "sv": "Jag tänker träna idag. Soffan har andra planer.",
+        "en": "I intend to exercise today. The sofa has other plans."
+      }
     },
     {
       "title": "Tycker, tror or tänker på?",
@@ -114,7 +135,12 @@
           "I’m thinking of you."
         ]
       ],
-      "watch": "Tycker om = like: Jag tycker om kaffe."
+      "watch": "Tycker om = like: Jag tycker om kaffe.",
+      "fun": {
+        "sv": "Jag tycker att kaffe är gott. Jag tror att jag dricker för mycket. Och nu tänker jag på kaffe.",
+        "en": "I think coffee tastes good. I think I drink too much. And now I’m thinking about coffee.",
+        "note": "Tycker = opinion, tror = a guess, tänker på = thinking about something."
+      }
     }
   ]
 }

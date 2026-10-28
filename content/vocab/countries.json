@@ -15,7 +15,11 @@
       },
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Finland har nästan alla en bastu. Och ingen pratar i den.",
+        "en": "In Finland almost everyone has a sauna. And nobody talks in it."
+      }
     },
     {
       "id": "vocab:countries:sverige",
@@ -26,7 +30,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Sverige säger man ”fika”. I Finland säger man ingenting och dricker kaffe.",
+        "en": "In Sweden they say “fika”. In Finland they say nothing and drink coffee.",
+        "note": "Fika is the Swedish coffee break."
+      }
     },
     {
       "id": "vocab:countries:ryssland",
@@ -37,7 +46,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Ryssland är så stort att det är kväll i den ena änden och morgon i den andra.",
+        "en": "Russia is so big that it’s evening at one end and morning at the other."
+      }
     },
     {
       "id": "vocab:countries:indien",
@@ -48,7 +61,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Indien är det 35 grader. I Rovaniemi är det också 35. Minus.",
+        "en": "In India it’s 35 degrees. In Rovaniemi it’s 35 too. Minus."
+      }
     },
     {
       "id": "vocab:countries:iran",
@@ -59,7 +76,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min vän från Iran bjuder alltid på te. Jag har inte sovit sedan i tisdags.",
+        "en": "My friend from Iran always offers me tea. I haven’t slept since Tuesday."
+      }
     },
     {
       "id": "vocab:countries:mexiko",
@@ -70,7 +91,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Mexiko äter man tacos. I Sverige äter man tacos på fredagar.",
+        "en": "In Mexico people eat tacos. In Sweden people eat tacos on Fridays.",
+        "note": "Friday tacos (fredagstacos) are a real Swedish tradition."
+      }
     },
     {
       "id": "vocab:countries:egypten",
@@ -81,7 +107,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Egypten var det sand överallt. Det var som Helsingfors i april.",
+        "en": "In Egypt there was sand everywhere. It was like Helsinki in April.",
+        "note": "After winter, Finnish streets are covered in grit sand."
+      }
     },
     {
       "id": "vocab:countries:usa",
@@ -92,7 +123,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I USA är allt stort, även kaffet. Jag sov inte på två dagar.",
+        "en": "In the USA everything is big, even the coffee. I didn’t sleep for two days."
+      }
     },
     {
       "id": "vocab:countries:tyskland",
@@ -103,7 +138,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har en present från Tyskland till dig: korv. Katten har redan ätit hälften.",
+        "en": "I have a present from Germany for you: sausage. The cat has already eaten half."
+      }
     },
     {
       "id": "vocab:countries:turkiet",
@@ -114,7 +153,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag åkte till Turkiet för solen. Jag låg i skuggan hela veckan.",
+        "en": "I went to Turkey for the sun. I lay in the shade all week."
+      }
     },
     {
       "id": "vocab:countries:grekland",
@@ -125,7 +168,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Grekland åt jag sallad med ost. Osten var större än salladen.",
+        "en": "In Greece I ate a salad with cheese. The cheese was bigger than the salad."
+      }
     },
     {
       "id": "vocab:countries:spanien",
@@ -136,7 +183,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Spanien äter man middag klockan tio. Då sover jag redan.",
+        "en": "In Spain people eat dinner at ten. By then I’m already asleep."
+      }
     },
     {
       "id": "vocab:countries:pakistan",
@@ -147,7 +198,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min vän från Pakistan förklarade cricket. Det tog en timme. Matchen tog fem dagar.",
+        "en": "My friend from Pakistan explained cricket. It took an hour. The match took five days."
+      }
     },
     {
       "id": "vocab:countries:vietnam",
@@ -158,7 +213,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag lagade mat från Vietnam. Min vårrulle blev mer en vinterrulle.",
+        "en": "I cooked food from Vietnam. My spring roll turned out more like a winter roll.",
+        "note": "Vårrulle means spring roll (vår = spring)."
+      }
     },
     {
       "id": "vocab:countries:norge",
@@ -169,7 +229,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Norge finns det fjäll och fjordar. I Finland finns det sjöar och fler sjöar.",
+        "en": "In Norway there are mountains and fjords. In Finland there are lakes and more lakes."
+      }
     },
     {
       "id": "vocab:countries:danmark",
@@ -180,7 +244,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Danmark är väldigt platt. Där är en liten kulle ett berg.",
+        "en": "Denmark is very flat. There a small hill counts as a mountain."
+      }
     },
     {
       "id": "vocab:countries:england",
@@ -191,7 +259,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I England pratar man om vädret. I Finland suckar man bara.",
+        "en": "In England people talk about the weather. In Finland people just sigh."
+      }
     },
     {
       "id": "vocab:countries:kina",
@@ -202,7 +274,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "I Kina bor det många människor. I min by bor det tolv och en älg.",
+        "en": "Lots of people live in China. In my village twelve people live, and a moose."
+      }
     },
     {
       "id": "vocab:countries:finska",
@@ -213,7 +289,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Finska har femton kasus. Svenska har en och ett. Båda är svåra.",
+        "en": "Finnish has fifteen cases. Swedish has en and ett. Both are hard."
+      }
     },
     {
       "id": "vocab:countries:svenska",
@@ -228,7 +308,12 @@
       },
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har lärt mig svenska i två år. Nu kan jag säga ”sju sjösjuka sjömän”. Nästan.",
+        "en": "I’ve been learning Swedish for two years. Now I can say “sju sjösjuka sjömän”. Almost.",
+        "note": "A famous tongue twister: ‘seven seasick sailors’."
+      }
     },
     {
       "id": "vocab:countries:ryska",
@@ -239,7 +324,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min kollega talar ryska, finska och svenska. På morgonen talar hon inget språk alls.",
+        "en": "My colleague speaks Russian, Finnish and Swedish. In the morning she speaks no language at all."
+      }
     },
     {
       "id": "vocab:countries:hindi",
@@ -250,7 +339,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min kollega lär mig hindi. Jag kan redan säga ”chai”. Det räcker till fikat.",
+        "en": "My colleague is teaching me Hindi. I can already say “chai”. That’s enough for the coffee break.",
+        "note": "Chai means tea in Hindi."
+      }
     },
     {
       "id": "vocab:countries:urdu",
@@ -261,7 +355,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min vän talar urdu och svenska. När hon är arg talar hon båda samtidigt.",
+        "en": "My friend speaks Urdu and Swedish. When she’s angry she speaks both at once."
+      }
     },
     {
       "id": "vocab:countries:engelska",
@@ -272,7 +370,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "När jag talar svenska svarar alla på engelska. Jag ger inte upp!",
+        "en": "When I speak Swedish, everyone answers in English. I’m not giving up!"
+      }
     },
     {
       "id": "vocab:countries:spanska",
@@ -283,7 +385,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag kan två ord på spanska: ”hola” och ”paella”. Semestern blev bra.",
+        "en": "I know two words of Spanish: “hola” and “paella”. The holiday went well."
+      }
     },
     {
       "id": "vocab:countries:persiska",
@@ -294,7 +400,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "På persiska skriver man från höger till vänster. Jag skriver svenska från fel till rätt.",
+        "en": "In Persian you write from right to left. I write Swedish from wrong to right.",
+        "note": "Wordplay: höger is ‘right’ as a direction, rätt is ‘right’ as in correct."
+      }
     },
     {
       "id": "vocab:countries:arabiska",
@@ -305,7 +416,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min kollega lär mig arabiska. Idag lärde jag mig ”qahwa”. Det betyder kaffe!",
+        "en": "My colleague is teaching me Arabic. Today I learned “qahwa”. It means coffee!",
+        "note": "The word kaffe (coffee) comes from Arabic qahwa."
+      }
     },
     {
       "id": "vocab:countries:vietnamesiska",
@@ -316,7 +432,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Vietnamesiska har sex toner. Jag har en: trött.",
+        "en": "Vietnamese has six tones. I have one: tired."
+      }
     },
     {
       "id": "vocab:countries:tyska",
@@ -327,7 +447,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Tyska ord är långa. Jag började läsa ett igår och är inte klar än.",
+        "en": "German words are long. I started reading one yesterday and I’m not finished yet."
+      }
     },
     {
       "id": "vocab:countries:svensk",
@@ -338,7 +462,12 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Han måste vara svensk. Han har sagt ”lagom” tre gånger idag.",
+        "en": "He must be Swedish. He has said “lagom” three times today.",
+        "note": "Lagom (just right, not too much) is a very Swedish word."
+      }
     },
     {
       "id": "vocab:countries:finsk",
@@ -349,7 +478,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "– Är du finsk? – … – Okej, det var ett ja.",
+        "en": "“Are you Finnish?” “…” “Okay, that was a yes.”"
+      }
     },
     {
       "id": "vocab:countries:tysk",
@@ -360,7 +493,11 @@
       "lesson": 1,
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Min granne är tysk. Han sorterar soporna i sju påsar.",
+        "en": "My neighbour is German. He sorts his rubbish into seven bags."
+      }
     },
     {
       "id": "vocab:countries:land",
@@ -380,7 +517,12 @@
       "note": "Vowel change: land → länder.",
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vilket land kommer du från? – Från landet. Vi har en ko.",
+        "en": "“Which country are you from?” “From the countryside. We have a cow.”",
+        "note": "Pun: landet means both ‘the country’ and ‘the countryside’."
+      }
     },
     {
       "id": "vocab:countries:sprak",
@@ -402,7 +544,12 @@
       },
       "tags": [
         "yki-society"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag talar fyra språk: engelska, lite svenska, lite finska och mycket kroppsspråk.",
+        "en": "I speak four languages: English, a little Swedish, a little Finnish and lots of body language.",
+        "note": "Kroppsspråk = body language (kropp = body)."
+      }
     }
   ]
 }

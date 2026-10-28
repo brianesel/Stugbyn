@@ -15,7 +15,12 @@
     "lesson": 5,
     "tags": [
       "agreement"
-    ]
+    ],
+    "fun": {
+      "sv": "Svenska är ett roligt spel. Reglerna ändras varje dag.",
+      "en": "Swedish is a fun game. The rules change every day.",
+      "note": "Spel is an ett-word, so rolig takes -t: ett roligt spel."
+    }
   },
   {
     "id": "adjektiv:barnen-glada",
@@ -33,7 +38,11 @@
     "lesson": 5,
     "tags": [
       "agreement"
-    ]
+    ],
+    "fun": {
+      "sv": "Barnen är glada. Det är snö och ingen skola.",
+      "en": "The children are happy. There’s snow and no school."
+    }
   },
   {
     "id": "adjektiv:huset-stort",
@@ -51,7 +60,11 @@
     "lesson": 5,
     "tags": [
       "agreement"
-    ]
+    ],
+    "fun": {
+      "sv": "Huset är stort, men katten sitter alltid på min stol.",
+      "en": "The house is big, but the cat always sits on my chair."
+    }
   },
   {
     "id": "adjektiv:den-har-roda",
@@ -69,7 +82,11 @@
     "lesson": 9,
     "tags": [
       "definite"
-    ]
+    ],
+    "fun": {
+      "sv": "Den här röda bilen är min. Den vita är också min – under snön.",
+      "en": "This red car is mine. The white one is mine too – under the snow."
+    }
   },
   {
     "id": "adjektiv:det-har-gamla",
@@ -87,7 +104,11 @@
     "lesson": 9,
     "tags": [
       "definite"
-    ]
+    ],
+    "fun": {
+      "sv": "Det här gamla huset har tre rum och sju spöken.",
+      "en": "This old house has three rooms and seven ghosts."
+    }
   },
   {
     "id": "adjektiv:min-stora",
@@ -106,7 +127,12 @@
     "tags": [
       "definite",
       "possessive"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag älskar min stora soffa. Katten älskar den mer.",
+      "en": "I love my big sofa. The cat loves it more.",
+      "note": "After min the adjective takes -a: min stora soffa."
+    }
   },
   {
     "id": "adjektiv:mina-nya",
@@ -124,7 +150,11 @@
     "lesson": 9,
     "tags": [
       "possessive"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag gillar mina nya skor. Snön gillar dem också.",
+      "en": "I like my new shoes. The snow likes them too."
+    }
   },
   {
     "id": "adjektiv:litet-hus",
@@ -142,7 +172,12 @@
     "lesson": 5,
     "tags": [
       "liten"
-    ]
+    ],
+    "fun": {
+      "sv": "De bor i ett litet hus med en stor katt.",
+      "en": "They live in a small house with a big cat.",
+      "note": "Liten becomes litet with ett-words."
+    }
   },
   {
     "id": "adjektiv:sma-barn",
@@ -160,7 +195,12 @@
     "lesson": 5,
     "tags": [
       "liten"
-    ]
+    ],
+    "fun": {
+      "sv": "Två små barn i en liten lägenhet. Grannarna vet allt om oss.",
+      "en": "Two small children in a small flat. The neighbours know everything about us.",
+      "note": "Små is the plural of liten: två små barn."
+    }
   },
   {
     "id": "adjektiv:lilla-katten",
@@ -179,7 +219,12 @@
     "tags": [
       "liten",
       "definite"
-    ]
+    ],
+    "fun": {
+      "sv": "Den lilla katten sover. Den stora katten bestämmer.",
+      "en": "The little cat sleeps. The big cat is in charge.",
+      "note": "Liten becomes lilla in the definite form."
+    }
   },
   {
     "id": "adjektiv:nytt-jobb",
@@ -198,7 +243,11 @@
     "tags": [
       "agreement",
       "tt"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har ett nytt jobb. Jag förstår redan kaffemaskinen.",
+      "en": "I have a new job. I already understand the coffee machine."
+    }
   },
   {
     "id": "adjektiv:kaffet-gott",
@@ -217,7 +266,11 @@
     "tags": [
       "agreement",
       "tt"
-    ]
+    ],
+    "fun": {
+      "sv": "Kaffet är gott. Kaffet är alltid gott. Jag är nästan finsk nu.",
+      "en": "The coffee is good. The coffee is always good. I’m almost Finnish now."
+    }
   },
   {
     "id": "adjektiv:rott-hus",
@@ -236,7 +289,11 @@
     "tags": [
       "agreement",
       "tt"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi har ett rött hus på landet. Alla har ett rött hus på landet.",
+      "en": "We have a red house in the countryside. Everyone has a red house in the countryside."
+    }
   },
   {
     "id": "adjektiv:billigare",
@@ -254,7 +311,11 @@
     "lesson": 12,
     "tags": [
       "comparison"
-    ]
+    ],
+    "fun": {
+      "sv": "Bussen är billigare än taxin. Att gå är billigast, men det är minus tjugo.",
+      "en": "The bus is cheaper than the taxi. Walking is cheapest, but it’s minus twenty."
+    }
   },
   {
     "id": "adjektiv:varmast",
@@ -272,7 +333,12 @@
     "lesson": 12,
     "tags": [
       "comparison"
-    ]
+    ],
+    "fun": {
+      "sv": "– Vilken månad är varmast i Finland?\n– Juli. Den dagen var fin.",
+      "en": "“Which month is the warmest in Finland?” “July. That day was nice.”",
+      "note": "The joke: the Finnish summer is so short it feels like one day."
+    }
   },
   {
     "id": "adjektiv:battre",
@@ -291,7 +357,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "– Din svenska är bättre än min!\n– Tack, jag pratar med min katt varje dag.",
+      "en": "“Your Swedish is better than mine!” “Thanks, I talk to my cat every day.”"
+    }
   },
   {
     "id": "adjektiv:bast",
@@ -310,7 +380,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon är bäst i klassen. Jag är bäst på fikapausen.",
+      "en": "She’s the best in the class. I’m the best at the coffee break."
+    }
   },
   {
     "id": "adjektiv:storre",
@@ -329,7 +403,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Stockholm är större än Uppsala. Mitt IKEA-paket är större än min bil.",
+      "en": "Stockholm is bigger than Uppsala. My IKEA package is bigger than my car."
+    }
   },
   {
     "id": "adjektiv:aldre",
@@ -348,7 +426,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Min bror är äldre än jag, men jag är äldre på morgonen.",
+      "en": "My brother is older than me, but I’m older in the mornings."
+    }
   },
   {
     "id": "adjektiv:aldst",
@@ -367,7 +449,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Mormor är äldst i familjen och snabbast på telefonen.",
+      "en": "Grandma is the oldest in the family and the fastest on her phone."
+    }
   },
   {
     "id": "adjektiv:mer-kaffe",
@@ -385,7 +471,11 @@
     "lesson": 12,
     "tags": [
       "quantity"
-    ]
+    ],
+    "fun": {
+      "sv": "– Vill du ha mer kaffe?\n– Är det en fråga?",
+      "en": "“Would you like more coffee?” “Is that a question?”"
+    }
   },
   {
     "id": "adjektiv:fler-stolar",
@@ -403,7 +493,12 @@
     "lesson": 12,
     "tags": [
       "quantity"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi behöver fler stolar. Katten sitter på alla.",
+      "en": "We need more chairs. The cat is sitting on all of them.",
+      "note": "Fler for things you can count (stolar), mer for things you can’t (kaffe)."
+    }
   },
   {
     "id": "adjektiv:manga-vanner",
@@ -421,7 +516,11 @@
     "lesson": 12,
     "tags": [
       "quantity"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon har många vänner. De flesta är myggor.",
+      "en": "She has a lot of friends. Most of them are mosquitoes."
+    }
   },
   {
     "id": "adjektiv:mycket-pengar",
@@ -439,7 +538,11 @@
     "lesson": 12,
     "tags": [
       "quantity"
-    ]
+    ],
+    "fun": {
+      "sv": "Han har inte mycket pengar, men han har mycket tid. Och mycket kaffe.",
+      "en": "He doesn’t have much money, but he has a lot of time. And a lot of coffee."
+    }
   },
   {
     "id": "adjektiv:flest-bocker",
@@ -457,7 +560,11 @@
     "lesson": 12,
     "tags": [
       "quantity"
-    ]
+    ],
+    "fun": {
+      "sv": "Vem har flest böcker? Den som läser minst.",
+      "en": "Who has the most books? The one who reads the least."
+    }
   },
   {
     "id": "adjektiv:mest-tid",
@@ -475,7 +582,11 @@
     "lesson": 12,
     "tags": [
       "quantity"
-    ]
+    ],
+    "fun": {
+      "sv": "Vem har mest tid? Katten. Den har nio liv.",
+      "en": "Who has the most time? The cat. It has nine lives."
+    }
   },
   {
     "id": "adjektiv:boss-gott-apple",
@@ -492,7 +603,11 @@
     "tags": [
       "agreement",
       "tt"
-    ]
+    ],
+    "fun": {
+      "sv": "Det är ett gott äpple. Masken tycker också det.",
+      "en": "It’s a tasty apple. The worm thinks so too."
+    }
   },
   {
     "id": "adjektiv:boss-sma-barn",
@@ -508,7 +623,11 @@
     "lesson": 5,
     "tags": [
       "liten"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi har tre små barn, så vi har inga små problem.",
+      "en": "We have three small children, so we have no small problems."
+    }
   },
   {
     "id": "adjektiv:boss-hennes-nya",
@@ -524,7 +643,11 @@
     "lesson": 9,
     "tags": [
       "possessive"
-    ]
+    ],
+    "fun": {
+      "sv": "Hennes nya jobb är svårt. Hon måste vara glad före nio.",
+      "en": "Her new job is hard. She has to be cheerful before nine."
+    }
   },
   {
     "id": "adjektiv:boss-storre",
@@ -541,7 +664,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Huset är större än lägenheten, men lägenheten har bastu.",
+      "en": "The house is bigger than the apartment, but the apartment has a sauna."
+    }
   },
   {
     "id": "adjektiv:boss-aldst",
@@ -558,7 +685,11 @@
     "tags": [
       "comparison",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Min farfar är äldst i familjen och har mest energi.",
+      "en": "My grandfather is the oldest in the family and has the most energy."
+    }
   },
   {
     "id": "adjektiv:denna-bok",
@@ -576,7 +707,11 @@
     "lesson": 16,
     "tags": [
       "denna"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har redan läst denna bok tre gånger. Den heter ”Svensk grammatik”.",
+      "en": "I’ve already read this book three times. It’s called “Swedish Grammar”."
+    }
   },
   {
     "id": "adjektiv:detta-hus",
@@ -594,7 +729,11 @@
     "lesson": 16,
     "tags": [
       "denna"
-    ]
+    ],
+    "fun": {
+      "sv": "Detta hus är mycket gammalt. Detta golv sjunger när man går.",
+      "en": "This house is very old. This floor sings when you walk."
+    }
   },
   {
     "id": "adjektiv:dessa-skor",
@@ -612,7 +751,11 @@
     "lesson": 16,
     "tags": [
       "denna"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag köpte dessa skor på rea. Nu vet jag varför.",
+      "en": "I bought these shoes on sale. Now I know why."
+    }
   },
   {
     "id": "adjektiv:denna-restaurang",
@@ -630,7 +773,12 @@
     "lesson": 16,
     "tags": [
       "denna"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tycker inte om denna restaurang. Den har inga kanelbullar.",
+      "en": "I don’t like this restaurant. It has no cinnamon buns.",
+      "note": "After denna the noun has no ending: denna restaurang."
+    }
   },
   {
     "id": "adjektiv:den-har-restaurangen",
@@ -648,6 +796,11 @@
     "lesson": 16,
     "tags": [
       "denna"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tycker om den här restaurangen. Kön är längre än menyn.",
+      "en": "I like this restaurant. The queue is longer than the menu.",
+      "note": "After den här the noun takes the definite ending: den här restaurangen."
+    }
   }
 ]

@@ -115,3 +115,29 @@ describe('MatchExercise', () => {
     expect(onAnswer).toHaveBeenCalledWith(false);
   });
 });
+
+describe('InfoTip', () => {
+  const fun = { sv: 'Jag har två katter. Eller, de har mig.', en: 'I have two cats. Or rather, they have me.', note: 'A joke.' };
+
+  it('stays hidden until the ⓘ is clicked, then closes on a second click or Escape', async () => {
+    const { InfoTip } = await import('../components/InfoTip');
+    render(<InfoTip fun={fun} />);
+    const btn = screen.getByRole('button', { name: 'Show a funny example' });
+    expect(screen.queryByText(fun.en)).toBeNull();
+    fireEvent.click(btn);
+    expect(screen.getByText(fun.sv)).toHaveAttribute('lang', 'sv');
+    expect(screen.getByText(fun.en)).toBeInTheDocument();
+    expect(btn).toHaveAttribute('aria-expanded', 'true');
+    fireEvent.click(btn);
+    expect(screen.queryByText(fun.en)).toBeNull();
+    fireEvent.click(btn);
+    fireEvent.keyDown(document, { key: 'Escape' });
+    expect(screen.queryByText(fun.en)).toBeNull();
+  });
+
+  it('renders nothing when there is no joke', async () => {
+    const { InfoTip } = await import('../components/InfoTip');
+    const { container } = render(<InfoTip />);
+    expect(container).toBeEmptyDOMElement();
+  });
+});

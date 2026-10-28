@@ -13,7 +13,11 @@
       "note": "Plural only: kläder, kläderna.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag har massor av kläder men ingenting att ta på mig.",
+        "en": "I have loads of clothes but nothing to wear."
+      }
     },
     {
       "id": "vocab:clothes:klanning",
@@ -26,7 +30,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Klänningen var på rea. Nu har jag tre.",
+        "en": "The dress was on sale. Now I have three."
+      }
     },
     {
       "id": "vocab:clothes:kjol",
@@ -38,7 +46,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Det är minus tjugo. Jag har kjol och tre par strumpbyxor.",
+        "en": "It’s minus twenty. I’m wearing a skirt and three pairs of tights."
+      }
     },
     {
       "id": "vocab:clothes:sko",
@@ -50,7 +62,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Min sko har ett hål. Nu vet jag när det regnar.",
+        "en": "My shoe has a hole. Now I know when it’s raining."
+      }
     },
     {
       "id": "vocab:clothes:stovel",
@@ -62,7 +78,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Mina stövlar är vattentäta. Vattnet som kom in stannar där.",
+        "en": "My boots are waterproof. The water that got in stays in."
+      }
     },
     {
       "id": "vocab:clothes:strumpa",
@@ -74,7 +94,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Tvättmaskinen äter strumpor. Jag har tolv strumpor och inga par.",
+        "en": "The washing machine eats socks. I have twelve socks and no pairs."
+      }
     },
     {
       "id": "vocab:clothes:jacka",
@@ -86,7 +110,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag har en vinterjacka, en vårjacka och en höstjacka. Alla är svarta.",
+        "en": "I have a winter jacket, a spring jacket and an autumn jacket. They’re all black."
+      }
     },
     {
       "id": "vocab:clothes:skjorta",
@@ -98,7 +126,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag strök skjortan. Bara framsidan. Ingen ser ryggen på videomötet.",
+        "en": "I ironed the shirt. Just the front. Nobody sees the back in the video meeting."
+      }
     },
     {
       "id": "vocab:clothes:troja",
@@ -110,7 +142,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Mormor stickade en tröja till mig. Den går ner till knäna.",
+        "en": "Grandma knitted me a sweater. It goes down to my knees."
+      }
     },
     {
       "id": "vocab:clothes:byxor",
@@ -123,7 +159,11 @@
       "note": "Plural word: ett par byxor = a pair of trousers.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag hittade tjugo euro i mina gamla byxor. Årets bästa dag!",
+        "en": "I found twenty euros in my old trousers. Best day of the year!"
+      }
     },
     {
       "id": "vocab:clothes:jeans",
@@ -136,7 +176,11 @@
       "note": "Plural word: ett par jeans.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jeans passar till allt: jobbet, festen och soffan.",
+        "en": "Jeans go with everything: work, parties and the sofa."
+      }
     },
     {
       "id": "vocab:clothes:vaska",
@@ -148,7 +192,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Min väska är full av saker. Jag hittar aldrig det jag letar efter.",
+        "en": "My bag is full of stuff. I never find what I’m looking for."
+      }
     },
     {
       "id": "vocab:clothes:mossa",
@@ -160,7 +208,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Min mössa är ful men varm. I januari bryr sig ingen.",
+        "en": "My hat is ugly but warm. In January nobody cares."
+      }
     },
     {
       "id": "vocab:clothes:handske",
@@ -172,7 +224,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag har tre vänsterhandskar och ingen högerhandske.",
+        "en": "I have three left gloves and no right glove."
+      }
     },
     {
       "id": "vocab:clothes:halsduk",
@@ -185,7 +241,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Min halsduk är fyra meter lång. Mormor kunde inte sluta sticka.",
+        "en": "My scarf is four metres long. Grandma couldn’t stop knitting."
+      }
     },
     {
       "id": "vocab:clothes:kostym",
@@ -197,7 +257,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Han har kostym på kontoret och pyjamas på mötena hemifrån.",
+        "en": "He wears a suit at the office and pyjamas in meetings from home."
+      }
     },
     {
       "id": "vocab:clothes:kavaj",
@@ -209,7 +273,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag har kavaj och slips på videomötet. Och mjukisbyxor under bordet.",
+        "en": "I’m wearing a blazer and tie in the video meeting. And sweatpants under the table."
+      }
     },
     {
       "id": "vocab:clothes:badklader",
@@ -222,7 +290,11 @@
       "note": "Plural only.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag packade badkläder till semestern. Vi åkte till Lappland i januari.",
+        "en": "I packed swimwear for the holiday. We went to Lapland in January."
+      }
     },
     {
       "id": "vocab:clothes:baddrakt",
@@ -234,7 +306,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Min baddräkt har varit i sjön en gång. Sjön var fyra grader.",
+        "en": "My swimsuit has been in the lake once. The lake was four degrees."
+      }
     },
     {
       "id": "vocab:clothes:bikini",
@@ -248,7 +324,11 @@
       "level": "A1",
       "lesson": 10,
       "tags": ["yki-shopping"],
-      "check": true
+      "check": true,
+      "fun": {
+        "sv": "Jag köpte en bikini i maj. Det snöade i juni.",
+        "en": "I bought a bikini in May. It snowed in June."
+      }
     },
     {
       "id": "vocab:clothes:glasogon",
@@ -261,7 +341,11 @@
       "note": "Plural only: ett par glasögon = a pair of glasses.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "– Var är mina glasögon? – På ditt huvud.",
+        "en": "“Where are my glasses?” “On your head.”"
+      }
     },
     {
       "id": "vocab:clothes:par",
@@ -274,7 +358,12 @@
       "level": "A1",
       "lesson": 10,
       "example": { "sv": "Jag köper ett par skor.", "en": "I buy a pair of shoes." },
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Ett par strumpor, ett par byxor och ett par minuter till i sängen.",
+        "en": "A pair of socks, a pair of trousers and a couple more minutes in bed.",
+        "note": "Ett par means both ‘a pair’ and ‘a couple, a few’."
+      }
     },
     {
       "id": "vocab:clothes:storlek",
@@ -287,7 +376,11 @@
       "level": "A1",
       "lesson": 10,
       "example": { "sv": "Vilken storlek har du?", "en": "What size are you?" },
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Storleken var rätt i affären. Hemma var den fel.",
+        "en": "The size was right in the shop. At home it was wrong."
+      }
     },
     {
       "id": "vocab:clothes:tjock",
@@ -296,7 +389,11 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag har en tjock tröja, tjocka strumpor och tjocka gardiner. Det är februari.",
+        "en": "I have a thick sweater, thick socks and thick curtains. It’s February."
+      }
     },
     {
       "id": "vocab:clothes:tunn",
@@ -305,7 +402,11 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Min jacka är för tunn för Finland. Den är perfekt för Spanien. Jag bor i Finland.",
+        "en": "My jacket is too thin for Finland. It’s perfect for Spain. I live in Finland."
+      }
     },
     {
       "id": "vocab:clothes:passa",
@@ -315,7 +416,11 @@
       "level": "A1",
       "lesson": 10,
       "example": { "sv": "Klänningen passar dig.", "en": "The dress suits you." },
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Den gula mössan passar inte till jackan. Den passar inte till någonting. Jag älskar den.",
+        "en": "The yellow hat doesn’t go with the jacket. It doesn’t go with anything. I love it."
+      }
     },
     {
       "id": "vocab:clothes:prova",
@@ -325,7 +430,11 @@
       "level": "A1",
       "lesson": 10,
       "example": { "sv": "Får jag prova jackan?", "en": "May I try on the jacket?" },
-      "tags": ["yki-shopping"]
+      "tags": ["yki-shopping"],
+      "fun": {
+        "sv": "Jag provade tio par jeans. Sedan köpte jag samma som förra gången.",
+        "en": "I tried on ten pairs of jeans. Then I bought the same as last time."
+      }
     }
   ]
 }

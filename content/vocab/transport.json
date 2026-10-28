@@ -9,7 +9,11 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "GPS:en säger ”vänster”. Min man säger ”höger”. Vi kör rakt fram.",
+        "en": "The GPS says “left”. My husband says “right”. We drive straight on."
+      }
     },
     {
       "id": "vocab:transport:hoger",
@@ -18,7 +22,11 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag vet var höger är: där klockan inte är.",
+        "en": "I know where right is: where my watch isn’t."
+      }
     },
     {
       "id": "vocab:transport:till-vanster",
@@ -27,7 +35,11 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Till vänster ser ni en sjö. Till höger ser ni … också en sjö. Välkommen till Finland!",
+        "en": "On the left you see a lake. On the right you see … also a lake. Welcome to Finland!"
+      }
     },
     {
       "id": "vocab:transport:till-hoger",
@@ -36,7 +48,11 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Toaletten ligger till höger. Kön börjar till vänster.",
+        "en": "The toilet is on the right. The queue starts on the left."
+      }
     },
     {
       "id": "vocab:transport:svang-till-vanster",
@@ -46,7 +62,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Sväng till vänster vid korsningen.", "en": "Turn left at the crossroads." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "– Sväng till vänster! Nej, det andra vänster!",
+        "en": "“Turn left! No, the other left!”"
+      }
     },
     {
       "id": "vocab:transport:ga-rakt-fram",
@@ -55,7 +75,11 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "”Gå rakt fram”, sa mannen. Sedan pekade han till höger.",
+        "en": "“Go straight ahead,” said the man. Then he pointed to the right."
+      }
     },
     {
       "id": "vocab:transport:ga-forbi",
@@ -65,7 +89,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Gå förbi kyrkan.", "en": "Go past the church." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag går förbi bageriet varje dag. Ibland går jag faktiskt förbi.",
+        "en": "I walk past the bakery every day. Sometimes I actually walk past it."
+      }
     },
     {
       "id": "vocab:transport:korsning",
@@ -77,7 +105,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Fyra finländare i en korsning: alla väntar, ingen kör.",
+        "en": "Four Finns at a crossroads: everyone waits, nobody drives."
+      }
     },
     {
       "id": "vocab:transport:overgangsstalle",
@@ -89,7 +121,11 @@
       "group": 4,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Vid övergångsstället väntar alla på den gröna gubben. Även ankorna.",
+        "en": "At the crossing everyone waits for the green man. Even the ducks."
+      }
     },
     {
       "id": "vocab:transport:korsa-gatan",
@@ -98,7 +134,11 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Varför korsade hönan gatan? Det var rea på andra sidan.",
+        "en": "Why did the hen cross the street? There was a sale on the other side."
+      }
     },
     {
       "id": "vocab:transport:ga",
@@ -109,7 +149,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Jag går till jobbet.", "en": "I walk to work." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag går till jobbet varje dag. Bilen stannar hemma och vilar.",
+        "en": "I walk to work every day. The car stays at home and rests."
+      }
     },
     {
       "id": "vocab:transport:aka",
@@ -120,7 +164,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Vi åker buss till stan.", "en": "We go into town by bus." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "– Ska vi åka nu? – Ja, men först fem minuter till i bastun.",
+        "en": "“Shall we go now?” “Yes, but first five more minutes in the sauna.”"
+      }
     },
     {
       "id": "vocab:transport:buss",
@@ -133,7 +181,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Bussen kom i tid! Jag blev så glad att jag glömde att gå på.",
+        "en": "The bus came on time! I was so happy that I forgot to get on."
+      }
     },
     {
       "id": "vocab:transport:tunnelbana",
@@ -145,7 +197,12 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Tunnelbanan i Helsingfors är inte lång. Men den är vår.",
+        "en": "The Helsinki metro isn’t long. But it’s ours.",
+        "note": "Here vår means ‘our’ (it also means ‘spring’)."
+      }
     },
     {
       "id": "vocab:transport:tag",
@@ -157,7 +214,11 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Tåget är försenat på grund av löv på spåret. Och snö. Och måndag.",
+        "en": "The train is delayed because of leaves on the track. And snow. And Monday."
+      }
     },
     {
       "id": "vocab:transport:sparvagn",
@@ -169,7 +230,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Spårvagnen har inga stora drömmar. Den följer bara spåret.",
+        "en": "The tram has no big dreams. It just follows the track."
+      }
     },
     {
       "id": "vocab:transport:pendeltag",
@@ -181,7 +246,11 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "På pendeltåget sover alla. Ingen vet var de ska gå av.",
+        "en": "On the commuter train everyone is asleep. Nobody knows where to get off."
+      }
     },
     {
       "id": "vocab:transport:hallplats",
@@ -193,7 +262,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Vid hållplatsen står fem personer, två meter mellan varje. Det är finsk kö.",
+        "en": "Five people stand at the stop, two metres apart. That’s a Finnish queue."
+      }
     },
     {
       "id": "vocab:transport:station",
@@ -205,7 +278,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag var på stationen i tid. Det var inte tåget.",
+        "en": "I was at the station on time. The train wasn’t."
+      }
     },
     {
       "id": "vocab:transport:byta",
@@ -215,7 +292,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Du måste byta buss i centrum.", "en": "You have to change buses in the centre." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag bytte tåg två gånger och buss en gång. Nu vill jag byta stad.",
+        "en": "I changed trains twice and buses once. Now I want to change cities."
+      }
     },
     {
       "id": "vocab:transport:ga-pa",
@@ -224,7 +305,12 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Gå på bussen, inte på mina fötter, tack!",
+        "en": "Get on the bus, not on my feet, please!",
+        "note": "Pun: gå på means ‘get on’ but literally ‘walk on’."
+      }
     },
     {
       "id": "vocab:transport:ga-av",
@@ -234,7 +320,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Jag går av vid nästa hållplats.", "en": "I get off at the next stop." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag glömde att gå av. Nu bor jag i Tammerfors.",
+        "en": "I forgot to get off. Now I live in Tampere."
+      }
     },
     {
       "id": "vocab:transport:vara-framme",
@@ -244,7 +334,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "När är vi framme?", "en": "When will we be there?" },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "– Är vi framme snart? – Nej. – Nu då? – Nej.",
+        "en": "“Are we there soon?” “No.” “What about now?” “No.”"
+      }
     },
     {
       "id": "vocab:transport:ursakta-var-ligger",
@@ -255,7 +349,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Ursäkta, var ligger stationen?", "en": "Excuse me, where is the station?" },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "– Ursäkta, var ligger stationen? – Här. Du står på den.",
+        "en": "“Excuse me, where is the station?” “Here. You’re standing on it.”"
+      }
     },
     {
       "id": "vocab:transport:gata",
@@ -267,7 +365,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Gatan heter Storgatan. Den är inte stor.",
+        "en": "The street is called Big Street. It isn’t big."
+      }
     },
     {
       "id": "vocab:transport:vag",
@@ -279,7 +381,12 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "GPS:en säger att det finns en väg här. Jag ser bara en vägg.",
+        "en": "The GPS says there’s a road here. I only see a wall.",
+        "note": "Väg (road) and vägg (wall) differ only by one g."
+      }
     },
     {
       "id": "vocab:transport:karta",
@@ -291,7 +398,11 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag har en karta, en app och en kompass. Jag är fortfarande vilse.",
+        "en": "I have a map, an app and a compass. I’m still lost."
+      }
     },
     {
       "id": "vocab:transport:cykel",
@@ -303,7 +414,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Min cykel står ute hela vintern. Den är finsk nu.",
+        "en": "My bike stays outside all winter. It’s Finnish now."
+      }
     },
     {
       "id": "vocab:transport:bil",
@@ -315,7 +430,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Min bil är gammal. Den startar bara när den vill. Precis som jag på morgonen.",
+        "en": "My car is old. It only starts when it wants to. Just like me in the morning."
+      }
     },
     {
       "id": "vocab:transport:flygplan",
@@ -327,7 +446,11 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag gillar flygplan. Mest när de står stilla på flygplatsen.",
+        "en": "I like planes. Mostly when they’re standing still at the airport."
+      }
     },
     {
       "id": "vocab:transport:biljett",
@@ -339,7 +462,11 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Jag köpte en biljett i appen. Nu behöver jag en app för att hitta biljetten.",
+        "en": "I bought a ticket in the app. Now I need an app to find the ticket."
+      }
     },
     {
       "id": "vocab:transport:metrokort",
@@ -351,7 +478,11 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Mitt metrokort ligger i min andra jacka. Min andra jacka är hemma.",
+        "en": "My metro card is in my other jacket. My other jacket is at home."
+      }
     },
     {
       "id": "vocab:transport:korkort",
@@ -363,7 +494,11 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Med körkort kan jag köra bil. Utan kaffe kan jag inte köra någonting.",
+        "en": "With a driving licence I can drive a car. Without coffee I can’t drive anything."
+      }
     },
     {
       "id": "vocab:transport:utomlands",
@@ -373,7 +508,11 @@
       "level": "A1",
       "lesson": 14,
       "example": { "sv": "Vi reser utomlands i sommar.", "en": "We are travelling abroad this summer." },
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Vi har semester utomlands – i Sverige. Där säger alla ”tack” hela tiden.",
+        "en": "We’re on holiday abroad – in Sweden. There everyone says “thanks” all the time."
+      }
     },
     {
       "id": "vocab:transport:sjo",
@@ -385,7 +524,11 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-travel"]
+      "tags": ["yki-travel"],
+      "fun": {
+        "sv": "Finland har fler sjöar än jag kan räkna. Och jag kan räkna till hundra på svenska!",
+        "en": "Finland has more lakes than I can count. And I can count to a hundred in Swedish!"
+      }
     }
   ]
 }

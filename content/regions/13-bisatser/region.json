@@ -11,49 +11,57 @@
       "title": "Och, men, så, för, eller: a fresh start",
       "rule": "These independent linkers join two main clauses. They don’t count as the fundament, so the word order after them just resets from the top: linker + fundament + verb + subject + inte/adverbs.",
       "examples": [["Jag gillar filmer och jag tittar ofta på dem.", "I like films and I often watch them."], ["Jag gillar filmer men jag har inte tid att titta på dem.", "I like films but I don’t have time to watch them."], ["Min familj brukar resa till Kanarieöarna på sommaren men i år bestämde vi oss för att stanna hemma.", "My family usually travels to the Canary Islands in summer, but this year we decided to stay at home."]],
-      "watch": "After the linker, something other than the subject can be the fundament: men i år bestämde vi oss (verb second, then subject)."
+      "watch": "After the linker, something other than the subject can be the fundament: men i år bestämde vi oss (verb second, then subject).",
+      "fun": {"sv": "Jag älskar vintern, men i februari älskar jag den inte så mycket.", "en": "I love winter, but in February I don’t love it so much."}
     },
     {
       "title": "The dependent linkers",
       "rule": "Att (that), när (when), om (if), eftersom (because), för att (in order to) and trots att (even though) start a subordinate clause: a sentence that can’t stand on its own.",
       "examples": [["Jag vet att du ljuger.", "I know that you’re lying."], ["Jag köpte en jacka när jag var i Italien.", "I bought a jacket when I was in Italy."], ["Jag ska hjälpa dig om jag har tid.", "I’ll help you if I have time."], ["Jag kan inte gå ut eftersom det är väldigt kallt.", "I can’t go out because it’s very cold."]],
-      "watch": "När = when (it will happen). Om = if (maybe it happens)."
+      "watch": "När = when (it will happen). Om = if (maybe it happens).",
+      "fun": {"sv": "Jag vet att katten inte kan öppna kylskåpet. Men varför är det öppet?", "en": "I know that the cat can’t open the fridge. But why is it open?"}
     },
     {
       "title": "Subject first after a subjunction",
       "rule": "After att, när, om, eftersom and trots att you can ONLY start with the subject. Then comes the verb.",
       "examples": [["Jag var mycket trött när jag kom hem igår.", "I was very tired when I came home yesterday."], ["Jag pluggade svenska trots att jag var trött.", "I studied Swedish even though I was tired."]],
-      "watch": "Never “När igår kom jag hem” or “Trots att bor jag i Finland”: the subject comes straight after the linker."
+      "watch": "Never “När igår kom jag hem” or “Trots att bor jag i Finland”: the subject comes straight after the linker.",
+      "fun": {"sv": "Katten satt på min plats när jag kom hem. Den flyttade sig inte.", "en": "The cat was sitting in my seat when I got home. It didn’t move."}
     },
     {
       "title": "Inte and adverbs before the verb",
       "rule": "In a subordinate clause, inte and adverbs like alltid, aldrig, ofta, också and just go BEFORE the verb, right after the subject.",
       "examples": [["Han kommer inte.", "… att han inte kommer.", "He isn’t coming. / … that he isn’t coming."], ["Du sa att du inte ville hjälpa mig.", "You said that you didn’t want to help me."], ["Jag tror att vi inte har svenska på fredag.", "I think we don’t have Swedish on Friday."], ["Ring mig inte när jag inte är på kontoret.", "Don’t call me when I’m not at the office."]],
-      "watch": "Main clause: jag har inte. Subordinate clause: att jag inte har."
+      "watch": "Main clause: jag har inte. Subordinate clause: att jag inte har.",
+      "fun": {"sv": "Katten säger att den inte har ätit. Skålen säger något annat.", "en": "The cat says it hasn’t eaten. The bowl says otherwise."}
     },
     {
       "title": "Subordinate clause first: verb, then subject",
       "rule": "When the subordinate clause comes first, the whole clause is the fundament. The main clause verb comes next and the subject after it, so the verb is still second.",
       "examples": [["Jag köpte en jacka när jag var i Italien.", "När jag var i Italien köpte jag en jacka.", "I bought a jacket when I was in Italy."], ["Jag ska hjälpa dig om jag har tid.", "Om jag har tid ska jag hjälpa dig.", "I’ll help you if I have time."], ["När du kommer hem går jag ut.", "When you come home, I’ll go out."]],
-      "watch": "Not “Om jag har tid jag ska hjälpa dig”: after the fronted clause, the verb comes first."
+      "watch": "Not “Om jag har tid jag ska hjälpa dig”: after the fronted clause, the verb comes first.",
+      "fun": {"sv": "Om jag har tid ska jag städa. Jag har aldrig tid.", "en": "If I have time, I’ll clean. I never have time."}
     },
     {
       "title": "För att + infinitive",
       "rule": "För att means “in order to” and tells the purpose. It is the exception: it is followed by an infinitive, with no subject.",
       "examples": [["Jag gick till affären för att köpa en kaka.", "I went to the shop to buy a cake."], ["Jag dricker kaffe på morgonen för att fokusera.", "I drink coffee in the morning to focus."], ["Vi gick till en bar för att dricka öl.", "För att dricka öl gick vi till en bar.", "We went to a bar to drink beer."]],
-      "watch": "Not “Jag gick till affären att köpa en kaka”: purpose needs för att."
+      "watch": "Not “Jag gick till affären att köpa en kaka”: purpose needs för att.",
+      "fun": {"sv": "Jag åkte till IKEA för att köpa en lampa. Jag kom hem med allt utom en lampa.", "en": "I went to IKEA to buy a lamp. I came home with everything except a lamp."}
     },
     {
       "title": "Trots att or men?",
       "rule": "Both show a contrast. Men (but) is an independent linker: normal main clause order after it. Trots att (even though) is a subjunction: subject first, inte before the verb, and verb then subject if the clause comes first.",
       "examples": [["Jag var trött men jag pluggade svenska.", "I was tired but I studied Swedish."], ["Jag pluggade svenska trots att jag var trött.", "I studied Swedish even though I was tired."], ["Trots att jag inte har arbetat så mycket är jag trött.", "Even though I haven’t worked that much, I’m tired."], ["Trots att jag har bott i Finland i åtta år tycker jag inte om finsk mat.", "Even though I’ve lived in Finland for eight years, I don’t like Finnish food."]],
-      "watch": "Not “Trots att bor jag i Finland …”: after trots att, the subject comes first."
+      "watch": "Not “Trots att bor jag i Finland …”: after trots att, the subject comes first.",
+      "fun": {"sv": "Jag går till bastun trots att det är trettio grader ute.", "en": "I go to the sauna even though it’s thirty degrees outside."}
     },
     {
       "title": "Å ena sidan … Å andra sidan …",
       "rule": "Use these to weigh two sides in a discussion. Å ena sidan and Å andra sidan are the fundament, so the verb comes next and then the subject. En fördel/nackdel är att … is followed by subordinate word order.",
       "examples": [["Å ena sidan behöver man inte pendla om man jobbar hemifrån.", "On the one hand, you don’t need to commute if you work from home."], ["Å andra sidan kan det vara roligt att träffa kollegor på kontoret.", "On the other hand, it can be fun to meet colleagues at the office."], ["En fördel med att jobba hemifrån är att man inte behöver pendla.", "One advantage of working from home is that you don’t need to commute."], ["En nackdel är att man inte träffar sina kollegor.", "A disadvantage is that you don’t meet your colleagues."]],
-      "watch": "Not “Å ena sidan man behöver …”: invert after the phrase, just like after idag."
+      "watch": "Not “Å ena sidan man behöver …”: invert after the phrase, just like after idag.",
+      "fun": {"sv": "Å ena sidan är det mörkt hela vintern. Å andra sidan syns inte dammet.", "en": "On the one hand, it’s dark all winter. On the other hand, you can’t see the dust."}
     }
   ]
 }

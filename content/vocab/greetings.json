@@ -16,7 +16,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hej! Jag heter Anna. – Hej! Jag heter också Anna. – Okej, det blir lätt.",
+        "en": "“Hi! My name is Anna.” “Hi! My name is Anna too.” “Okay, this will be easy.”"
+      }
     },
     {
       "id": "vocab:greetings:jag-bor-i",
@@ -32,7 +36,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag bor i Helsingfors. Min katt bor i min säng.",
+        "en": "I live in Helsinki. My cat lives in my bed."
+      }
     },
     {
       "id": "vocab:greetings:jag-kommer-fran",
@@ -48,7 +56,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Var kommer du ifrån? – Från köket. Jag gjorde kaffe.",
+        "en": "“Where do you come from?” “From the kitchen. I made coffee.”"
+      }
     },
     {
       "id": "vocab:greetings:jag-talar-och-lite-svenska",
@@ -64,7 +76,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag talar engelska och lite svenska. Mycket lite. Det här var allt.",
+        "en": "I speak English and a little Swedish. Very little. That was all of it."
+      }
     },
     {
       "id": "vocab:greetings:och",
@@ -75,7 +91,11 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Kaffe och bulle? Eller kaffe och kaffe?",
+        "en": "Coffee and a bun? Or coffee and coffee?"
+      }
     },
     {
       "id": "vocab:greetings:lite",
@@ -86,7 +106,11 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vill du ha lite kaffe? – Ja, mycket lite. Hela kannan.",
+        "en": "“Would you like a little coffee?” “Yes, a very little. The whole pot.”"
+      }
     },
     {
       "id": "vocab:greetings:hur-ar-det",
@@ -98,7 +122,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur är det? – Det är november. – Aha, jag förstår.",
+        "en": "“How’s it going?” “It’s November.” “Ah, I see.”"
+      }
     },
     {
       "id": "vocab:greetings:hur-ar-laget",
@@ -110,7 +138,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur är läget? – Lugnt. Jag ligger i soffan och katten ligger på mig.",
+        "en": "“How’s it going?” “Calm. I’m lying on the sofa and the cat is lying on me.”"
+      }
     },
     {
       "id": "vocab:greetings:hur-mar-du",
@@ -122,7 +154,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur mår du? – Fråga mig efter kaffet.",
+        "en": "“How are you?” “Ask me after the coffee.”"
+      }
     },
     {
       "id": "vocab:greetings:jag-mar-bra",
@@ -138,7 +174,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag mår bra, tack. Det är fredag.",
+        "en": "I’m fine, thanks. It’s Friday."
+      }
     },
     {
       "id": "vocab:greetings:det-ar-bra",
@@ -150,7 +190,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Jag har glömt din födelsedag. – Det är bra. Jag också.",
+        "en": "“I forgot your birthday.” “That’s fine. So did I.”"
+      }
     },
     {
       "id": "vocab:greetings:toppen",
@@ -162,7 +206,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Det snöar igen! – Toppen. Då behöver jag inte gå till gymmet.",
+        "en": "“It’s snowing again!” “Great. Then I don’t need to go to the gym.”"
+      }
     },
     {
       "id": "vocab:greetings:okej",
@@ -174,7 +222,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Bussen är sen. – Okej. – Den kommer i april. – Okej.",
+        "en": "“The bus is late.” “Okay.” “It’s coming in April.” “Okay.”"
+      }
     },
     {
       "id": "vocab:greetings:sa-dar",
@@ -186,7 +238,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur var semestern? – Så där. Det regnade bara på dagarna.",
+        "en": "“How was the holiday?” “So-so. It only rained during the day.”"
+      }
     },
     {
       "id": "vocab:greetings:ganska-daligt",
@@ -198,7 +254,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur gick provet? – Ganska dåligt. Men min penna var fin.",
+        "en": "“How did the test go?” “Quite badly. But my pen was nice.”"
+      }
     },
     {
       "id": "vocab:greetings:jag-ar-trott",
@@ -210,7 +270,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är trött. Jag har tänkt på att träna hela dagen.",
+        "en": "I’m tired. I’ve been thinking about working out all day."
+      }
     },
     {
       "id": "vocab:greetings:krya-pa-dig",
@@ -222,7 +286,11 @@
       "lesson": 12,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Jag är förkyld. – Krya på dig! Men stå inte så nära.",
+        "en": "“I’ve got a cold.” “Get well soon! But don’t stand so close.”"
+      }
     },
     {
       "id": "vocab:greetings:ja",
@@ -233,7 +301,12 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vill du ha kaffe eller te? – Ja.",
+        "en": "“Would you like coffee or tea?” “Yes.”",
+        "note": "The answer ‘ja’ to an either-or question means: both, please."
+      }
     },
     {
       "id": "vocab:greetings:nej",
@@ -244,7 +317,11 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Sover du? – Nej. – Varför har du stängda ögon?",
+        "en": "“Are you asleep?” “No.” “Then why are your eyes closed?”"
+      }
     },
     {
       "id": "vocab:greetings:tack",
@@ -255,7 +332,12 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vill du ha mer kaffe? – Tack. – Var det ja eller nej?",
+        "en": "“Would you like more coffee?” “Thanks.” “Was that a yes or a no?”",
+        "note": "A plain ‘tack’ to an offer usually means ‘yes, please’ in Swedish."
+      }
     },
     {
       "id": "vocab:greetings:ursakta",
@@ -267,7 +349,11 @@
       "lesson": 3,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Ursäkta, är det här kön? – Nej, vi står bara här.",
+        "en": "“Excuse me, is this the queue?” “No, we’re just standing here.”"
+      }
     },
     {
       "id": "vocab:greetings:forlat",
@@ -279,7 +365,11 @@
       "lesson": 3,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Förlåt! sa jag. Till dörren.",
+        "en": "“Sorry!” I said. To the door."
+      }
     },
     {
       "id": "vocab:greetings:herregud",
@@ -291,7 +381,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Herregud, det är ljust ute! – Lugn, det är bara grannens lampa.",
+        "en": "“Oh my goodness, it’s light outside!” “Relax, it’s just the neighbour’s lamp.”"
+      }
     },
     {
       "id": "vocab:greetings:det-later-bra",
@@ -303,7 +397,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Bastu och sedan sjön? – Det låter bra. Kallt, men bra.",
+        "en": "“Sauna and then the lake?” “Sounds good. Cold, but good.”"
+      }
     },
     {
       "id": "vocab:greetings:oroa-dig-inte",
@@ -315,7 +413,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Oroa dig inte! Myggorna kommer bara på sommaren. Hela sommaren.",
+        "en": "Don’t worry! The mosquitoes only come in summer. All summer."
+      }
     },
     {
       "id": "vocab:greetings:garna",
@@ -331,7 +433,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vill du hjälpa mig att flytta? – Gärna! Nästa år?",
+        "en": "“Would you help me move?” “Gladly! Next year?”"
+      }
     },
     {
       "id": "vocab:greetings:jag-haller-med",
@@ -343,7 +449,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Det är för kallt för att jogga. – Jag håller med. Och för varmt i juli.",
+        "en": "“It’s too cold to go jogging.” “I agree. And too warm in July.”"
+      }
     },
     {
       "id": "vocab:greetings:jag-haller-inte-med",
@@ -355,7 +465,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Katten bestämmer här. – Jag håller inte med. – Mjau. – Okej, jag håller med.",
+        "en": "“The cat is in charge here.” “I don’t agree.” “Meow.” “Okay, I agree.”"
+      }
     },
     {
       "id": "vocab:greetings:jag-haller-delvis-med",
@@ -367,7 +481,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag håller delvis med: pizza är god, men inte till frukost. Eller jo.",
+        "en": "I partly agree: pizza is good, but not for breakfast. Or actually, yes."
+      }
     },
     {
       "id": "vocab:greetings:enligt-mig",
@@ -379,7 +497,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Enligt mig är det inte måndag förrän jag har druckit kaffe.",
+        "en": "In my opinion it isn’t Monday until I’ve had coffee."
+      }
     },
     {
       "id": "vocab:greetings:det-beror-pa",
@@ -391,7 +513,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Kommer du på festen? – Det beror på. Finns det bullar?",
+        "en": "“Are you coming to the party?” “It depends. Are there buns?”"
+      }
     },
     {
       "id": "vocab:greetings:jag-tycker-att",
@@ -407,7 +533,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag tycker att svenska är lätt. Utom en och ett.",
+        "en": "I think Swedish is easy. Except en and ett."
+      }
     },
     {
       "id": "vocab:greetings:forresten",
@@ -419,7 +549,11 @@
       "lesson": 12,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Bra jobbat idag! Förresten, du har kaffe på tröjan.",
+        "en": "Good work today! By the way, you have coffee on your jumper."
+      }
     },
     {
       "id": "vocab:greetings:hej-da",
@@ -431,7 +565,11 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hej då! sa jag. Sedan pratade vi i dörren i tjugo minuter.",
+        "en": "“Bye!” I said. Then we talked in the doorway for twenty minutes."
+      }
     },
     {
       "id": "vocab:greetings:vi-ses",
@@ -443,7 +581,11 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vi ses! – Ja, i kön på Lidl.",
+        "en": "“See you!” “Yes, in the queue at Lidl.”"
+      }
     },
     {
       "id": "vocab:greetings:tack-sa-mycket",
@@ -455,7 +597,11 @@
       "lesson": 1,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Tack så mycket för sockorna! Nu har jag fyrtio par.",
+        "en": "Thank you very much for the socks! Now I have forty pairs."
+      }
     },
     {
       "id": "vocab:greetings:varsagod",
@@ -467,7 +613,11 @@
       "lesson": 3,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Varsågod, en bulle! – Tack! – Det blir fem euro.",
+        "en": "“Here you are, a bun!” “Thanks!” “That’ll be five euros.”"
+      }
     }
   ]
 }

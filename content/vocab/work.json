@@ -22,7 +22,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt jobb är ganska lätt. Det svåra är att gå upp på morgonen.",
+        "en": "My job is quite easy. The hard part is getting up in the morning."
+      }
     },
     {
       "id": "vocab:work:arbete",
@@ -40,7 +44,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt arbete är viktigt. Jag skickar mejl om andra mejl.",
+        "en": "My work is important. I send emails about other emails."
+      }
     },
     {
       "id": "vocab:work:jobba",
@@ -55,7 +63,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar bäst under press. Och efter tre koppar kaffe.",
+        "en": "I work best under pressure. And after three cups of coffee."
+      }
     },
     {
       "id": "vocab:work:arbeta",
@@ -66,7 +78,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min katt arbetar hårt: hon sover sexton timmar om dagen.",
+        "en": "My cat works hard: she sleeps sixteen hours a day."
+      }
     },
     {
       "id": "vocab:work:foretag",
@@ -85,7 +101,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Vårt företag är litet: tre personer och en hund. Hunden är chef.",
+        "en": "Our company is small: three people and a dog. The dog is the boss."
+      }
     },
     {
       "id": "vocab:work:kontor",
@@ -103,7 +123,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "På kontoret finns det ett kylskåp. Ingen vet vems yoghurten är.",
+        "en": "There’s a fridge at the office. Nobody knows whose yoghurt it is."
+      }
     },
     {
       "id": "vocab:work:jobba-pa",
@@ -118,7 +142,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar på ett kafé. Jag luktar kaffe hela tiden. Det är inget problem.",
+        "en": "I work at a café. I smell of coffee all the time. That’s not a problem."
+      }
     },
     {
       "id": "vocab:work:jobba-som",
@@ -133,7 +161,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar som ingenjör. Hemma jobbar jag som kattens dörröppnare.",
+        "en": "I work as an engineer. At home I work as the cat’s door opener."
+      }
     },
     {
       "id": "vocab:work:larare",
@@ -153,7 +185,11 @@
       "note": "Group 5: en lärare → två lärare, de lärarna.",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Läraren frågade: ”Några frågor?” Alla tittade ner. Ingen förstod frågan.",
+        "en": "The teacher asked: “Any questions?” Everyone looked down. Nobody understood the question."
+      }
     },
     {
       "id": "vocab:work:lakare",
@@ -173,7 +209,11 @@
       "note": "Group 5: en läkare → två läkare, de läkarna.",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Läkaren sa: ”Du behöver vila.” Katten hörde det och nickade.",
+        "en": "The doctor said: “You need rest.” The cat heard it and nodded."
+      }
     },
     {
       "id": "vocab:work:ingenjor",
@@ -191,7 +231,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "En ingenjör lagar inte saker. Hon gör dem bättre, tills de inte fungerar.",
+        "en": "An engineer doesn’t fix things. She improves them, until they don’t work."
+      }
     },
     {
       "id": "vocab:work:servitor",
@@ -209,7 +253,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Servitören frågade: ”Är allt bra?” Jag hade mat i munnen, så jag nickade.",
+        "en": "The waiter asked: “Is everything OK?” I had food in my mouth, so I nodded."
+      }
     },
     {
       "id": "vocab:work:servitris",
@@ -228,7 +276,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Servitrisen kom med kaffe innan jag beställde. Hon kände mig.",
+        "en": "The waitress brought coffee before I ordered. She knew me."
+      }
     },
     {
       "id": "vocab:work:advokat",
@@ -246,7 +298,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min katt behöver ingen advokat. Hon tittar bara på mig, och jag förlorar.",
+        "en": "My cat doesn’t need a lawyer. She just looks at me, and I lose."
+      }
     },
     {
       "id": "vocab:work:sjukskoterska",
@@ -264,7 +320,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Sjuksköterskan sa: ”Det gör inte ont.” Hon ljög lite.",
+        "en": "The nurse said: “It won’t hurt.” She lied a little."
+      }
     },
     {
       "id": "vocab:work:chef",
@@ -284,7 +344,11 @@
       "note": "Exception: chef looks like Group 2 but takes -er: chefer.",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min chef säger ”ett snabbt möte”. Jag tar med mig mat.",
+        "en": "My boss says “a quick meeting”. I bring food."
+      }
     },
     {
       "id": "vocab:work:programmerare",
@@ -303,7 +367,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "– Fungerar det? – Ja, på min dator, sa programmeraren.",
+        "en": "“Does it work?” “Yes, on my computer,” said the programmer."
+      }
     },
     {
       "id": "vocab:work:musiker",
@@ -321,7 +389,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Grannen är musiker. Han övar på trumpet. Klockan sju på morgonen.",
+        "en": "The neighbour is a musician. He practises the trumpet. At seven in the morning."
+      }
     },
     {
       "id": "vocab:work:malare",
@@ -340,7 +412,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Målaren målade hela väggen. Sedan kom katten.",
+        "en": "The painter painted the whole wall. Then the cat came."
+      }
     },
     {
       "id": "vocab:work:politiker",
@@ -358,7 +434,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt barn vill bli politiker eller astronaut. Eller katt.",
+        "en": "My child wants to be a politician or an astronaut. Or a cat."
+      }
     },
     {
       "id": "vocab:work:arkitekt",
@@ -376,7 +456,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Arkitekten ritade ett fint hus. Han glömde trappan.",
+        "en": "The architect drew a nice house. He forgot the stairs."
+      }
     },
     {
       "id": "vocab:work:entreprenor",
@@ -394,7 +478,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är entreprenör. Mitt företag har en anställd: jag.",
+        "en": "I’m an entrepreneur. My company has one employee: me."
+      }
     },
     {
       "id": "vocab:work:konstnar",
@@ -412,7 +500,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt barn är konstnär. Köksväggen är hennes första utställning.",
+        "en": "My child is an artist. The kitchen wall is her first exhibition."
+      }
     },
     {
       "id": "vocab:work:forskare",
@@ -431,7 +523,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Forskarna säger att kaffe är bra för hälsan. Jag läser bara den forskningen.",
+        "en": "Researchers say coffee is good for your health. I only read that research."
+      }
     },
     {
       "id": "vocab:work:jobba-hemifran",
@@ -446,7 +542,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar hemifrån. Min kollega är katten. Hon sover på mötena.",
+        "en": "I work from home. My colleague is the cat. She sleeps in the meetings."
+      }
     },
     {
       "id": "vocab:work:pa-distans",
@@ -457,7 +557,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar på distans. Katten går över tangentbordet på varje möte.",
+        "en": "I work remotely. The cat walks across the keyboard in every meeting."
+      }
     },
     {
       "id": "vocab:work:kollega",
@@ -475,7 +579,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min kollega säger ”god morgon” klockan elva. Han är en kvällsmänniska.",
+        "en": "My colleague says “good morning” at eleven. He’s a night owl."
+      }
     },
     {
       "id": "vocab:work:lon",
@@ -494,7 +602,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Lönen kommer en gång i månaden. Räkningarna kommer varje dag.",
+        "en": "The salary comes once a month. The bills come every day."
+      }
     },
     {
       "id": "vocab:work:arbetsgivare",
@@ -513,7 +625,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min arbetsgivare ger oss gratis frukt. Bananerna är slut klockan nio.",
+        "en": "My employer gives us free fruit. The bananas are gone by nine."
+      }
     },
     {
       "id": "vocab:work:anstalld",
@@ -534,7 +650,11 @@
       "check": true,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi har tio anställda och en kaffemaskin. Kaffemaskinen jobbar hårdast.",
+        "en": "We have ten employees and one coffee machine. The coffee machine works hardest."
+      }
     },
     {
       "id": "vocab:work:ansvar",
@@ -550,7 +670,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har mycket ansvar på jobbet. Hemma har katten allt ansvar.",
+        "en": "I have a lot of responsibility at work. At home the cat is in charge of everything."
+      }
     },
     {
       "id": "vocab:work:heltid",
@@ -570,7 +694,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar heltid. Min katt sover heltid.",
+        "en": "I work full-time. My cat sleeps full-time."
+      }
     },
     {
       "id": "vocab:work:deltid",
@@ -590,7 +718,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbar deltid. Resten av tiden letar jag efter mina nycklar.",
+        "en": "I work part-time. The rest of the time I look for my keys."
+      }
     },
     {
       "id": "vocab:work:jobba-over",
@@ -601,7 +733,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag jobbade över igår. Datorn också. Nu vill ingen av oss prata.",
+        "en": "I worked overtime yesterday. So did the computer. Now neither of us wants to talk."
+      }
     },
     {
       "id": "vocab:work:mammaledig",
@@ -612,7 +748,12 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Hon är mammaledig, men hon säger att det inte är ledigt alls.",
+        "en": "She’s on maternity leave, but she says it isn’t time off at all.",
+        "note": "Ledig means ‘free, off work’."
+      }
     },
     {
       "id": "vocab:work:pappaledig",
@@ -623,7 +764,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Han är pappaledig. Han har aldrig jobbat så mycket.",
+        "en": "He’s on paternity leave. He has never worked so much."
+      }
     },
     {
       "id": "vocab:work:arbetslos",
@@ -634,7 +779,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min katt har alltid varit arbetslös. Hon är mycket nöjd med det.",
+        "en": "My cat has always been unemployed. She’s very happy with that."
+      }
     },
     {
       "id": "vocab:work:saga-upp-sig",
@@ -645,7 +794,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag ville säga upp mig, men chefen bjöd på tårta. Jag stannar.",
+        "en": "I wanted to quit, but the boss treated us to cake. I’m staying."
+      }
     },
     {
       "id": "vocab:work:starta-eget",
@@ -656,7 +809,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag startade eget för att få mer fritid. Det var för fem år sedan.",
+        "en": "I started my own company to get more free time. That was five years ago."
+      }
     },
     {
       "id": "vocab:work:valbetald",
@@ -667,7 +824,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är inte välbetald, men jag har en fin kaffemugg.",
+        "en": "I’m not well-paid, but I have a nice coffee mug."
+      }
     },
     {
       "id": "vocab:work:nojd",
@@ -682,7 +843,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten ser nöjd ut. Jag vet inte varför, och jag är lite rädd.",
+        "en": "The cat looks satisfied. I don’t know why, and I’m a bit scared."
+      }
     },
     {
       "id": "vocab:work:trygg",
@@ -693,7 +858,11 @@
       "lesson": 20,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Barnet känner sig tryggt under filten. Där kan monstren inte se det.",
+        "en": "The child feels safe under the blanket. The monsters can’t see it there."
+      }
     },
     {
       "id": "vocab:work:arbetsmiljo",
@@ -711,7 +880,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Vår arbetsmiljö är bra: ljus, tyst och full av kakor.",
+        "en": "Our working environment is good: bright, quiet and full of biscuits."
+      }
     },
     {
       "id": "vocab:work:uppgift",
@@ -729,7 +902,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min viktigaste uppgift idag: hitta min kaffekopp.",
+        "en": "My most important task today: find my coffee cup."
+      }
     },
     {
       "id": "vocab:work:utbrand",
@@ -740,7 +917,12 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Ljuset är utbränt. Jag förstår det. Det har jobbat hela kvällen.",
+        "en": "The candle has burnt out. I understand. It has worked all evening.",
+        "note": "Utbränd means ‘burnt out’, for candles and for tired people."
+      }
     },
     {
       "id": "vocab:work:sjukskrivning",
@@ -758,7 +940,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Datorn har virus. Den behöver en sjukskrivning.",
+        "en": "The computer has a virus. It needs sick leave."
+      }
     },
     {
       "id": "vocab:work:tjana-pengar",
@@ -769,7 +955,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag tjänar pengar för att köpa kaffe, så att jag kan jobba och tjäna pengar.",
+        "en": "I earn money to buy coffee, so that I can work and earn money."
+      }
     },
     {
       "id": "vocab:work:pendla",
@@ -784,7 +974,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag pendlar en timme varje dag. Det är min enda lugna tid.",
+        "en": "I commute an hour every day. It’s my only quiet time."
+      }
     },
     {
       "id": "vocab:work:spara-tid",
@@ -795,7 +989,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag sparar tid med en app. Nu lägger jag all min tid på appen.",
+        "en": "I save time with an app. Now I spend all my time on the app."
+      }
     },
     {
       "id": "vocab:work:mote",
@@ -813,7 +1011,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mötet kunde ha varit ett mejl. Mejlet kunde ha varit ingenting.",
+        "en": "The meeting could have been an email. The email could have been nothing."
+      }
     },
     {
       "id": "vocab:work:fordel",
@@ -831,7 +1033,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "En fördel med vintern: inga myggor.",
+        "en": "One advantage of winter: no mosquitoes."
+      }
     },
     {
       "id": "vocab:work:nackdel",
@@ -849,7 +1055,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "En nackdel med att jobba hemma: kylskåpet är alltid nära.",
+        "en": "One disadvantage of working at home: the fridge is always close."
+      }
     },
     {
       "id": "vocab:work:byta-jobb",
@@ -860,7 +1070,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag ville byta jobb. Jag bytte kaffemugg i stället.",
+        "en": "I wanted to switch jobs. I switched coffee mugs instead."
+      }
     },
     {
       "id": "vocab:work:erfarenhet",
@@ -878,7 +1092,11 @@
       "lesson": 21,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Annonsen: ”Vi söker en ung person med tjugo års erfarenhet.”",
+        "en": "The job ad: “We’re looking for a young person with twenty years of experience.”"
+      }
     }
   ]
 }

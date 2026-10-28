@@ -16,7 +16,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har mycket fritid. Jag använder den för att planera min fritid.",
+        "en": "I have a lot of free time. I use it to plan my free time."
+      }
     },
     {
       "id": "vocab:free-time:semester",
@@ -35,7 +39,11 @@
       "note": "The e drops in the plural: semestrar.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min semester var fin. Det regnade bara en gång: i tre veckor.",
+        "en": "My holiday was nice. It only rained once: for three weeks."
+      }
     },
     {
       "id": "vocab:free-time:aka-till-havet",
@@ -46,7 +54,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi åkte till havet. Havet var kallt. Vi åkte hem.",
+        "en": "We went to the sea. The sea was cold. We went home."
+      }
     },
     {
       "id": "vocab:free-time:vila",
@@ -57,7 +69,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "På söndag vilar jag. På måndag vilar jag efter söndagen.",
+        "en": "On Sunday I rest. On Monday I rest after Sunday."
+      }
     },
     {
       "id": "vocab:free-time:bada",
@@ -68,7 +84,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Att bada i sjön i maj är modigt. Att bada i november är finskt.",
+        "en": "Swimming in the lake in May is brave. Swimming in November is Finnish."
+      }
     },
     {
       "id": "vocab:free-time:ga-pa-bio",
@@ -83,7 +103,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi gick på bio. Filmen var bra, tror jag. Jag sov.",
+        "en": "We went to the cinema. The film was good, I think. I slept."
+      }
     },
     {
       "id": "vocab:free-time:fika-verb",
@@ -94,7 +118,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi fikar klockan tio, klockan två och när någon har kaka med sig.",
+        "en": "We have fika at ten, at two and whenever someone brings cake."
+      }
     },
     {
       "id": "vocab:free-time:fika-noun",
@@ -112,7 +140,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "En fika utan kaka är bara kaffe.",
+        "en": "A fika without cake is just coffee."
+      }
     },
     {
       "id": "vocab:free-time:stanna-hemma",
@@ -123,7 +155,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Det är minus trettio. Jag stannar hemma och kallar det en hobby.",
+        "en": "It’s minus thirty. I’m staying at home and calling it a hobby."
+      }
     },
     {
       "id": "vocab:free-time:leka",
@@ -134,7 +170,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Barnen lekte kurragömma. Katten vann – den är fortfarande borta.",
+        "en": "The children played hide-and-seek. The cat won – it’s still missing."
+      }
     },
     {
       "id": "vocab:free-time:spela",
@@ -149,7 +189,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag spelar piano. Katten lämnar rummet.",
+        "en": "I play the piano. The cat leaves the room."
+      }
     },
     {
       "id": "vocab:free-time:laga-mat",
@@ -164,7 +208,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag lagar mat, och brandvarnaren sjunger med.",
+        "en": "I cook, and the smoke alarm sings along."
+      }
     },
     {
       "id": "vocab:free-time:matlagningskurs",
@@ -183,7 +231,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Efter min matlagningskurs bränner jag maten professionellt.",
+        "en": "After my cooking class, I burn food professionally."
+      }
     },
     {
       "id": "vocab:free-time:spannande",
@@ -194,7 +246,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min lördag var spännande: jag hittade en ny sorts kaffe.",
+        "en": "My Saturday was exciting: I found a new kind of coffee."
+      }
     },
     {
       "id": "vocab:free-time:intresse",
@@ -212,7 +268,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Mina intressen är kaffe, katter och sömn. I den ordningen.",
+        "en": "My interests are coffee, cats and sleep. In that order."
+      }
     },
     {
       "id": "vocab:free-time:hobby",
@@ -231,7 +291,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min hobby är att köpa saker till nya hobbyer.",
+        "en": "My hobby is buying things for new hobbies."
+      }
     },
     {
       "id": "vocab:free-time:intresserad-av",
@@ -246,7 +310,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten är intresserad av allt. Utom leksakerna jag köpte till den.",
+        "en": "The cat is interested in everything. Except the toys I bought for it."
+      }
     },
     {
       "id": "vocab:free-time:musik",
@@ -262,7 +330,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min sons musik är för hög. Nu är jag officiellt min pappa.",
+        "en": "My son’s music is too loud. Now I’m officially my dad."
+      }
     },
     {
       "id": "vocab:free-time:konst",
@@ -278,7 +350,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt barn gjorde konst på väggen. Med ketchup.",
+        "en": "My child made art on the wall. With ketchup."
+      }
     },
     {
       "id": "vocab:free-time:mala",
@@ -289,7 +365,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag målade ett porträtt av katten. Katten var inte nöjd.",
+        "en": "I painted a portrait of the cat. The cat wasn’t pleased."
+      }
     },
     {
       "id": "vocab:free-time:rita",
@@ -300,7 +380,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min dotter ritade en häst. Jag sa: ”Vilken fin bil!”",
+        "en": "My daughter drew a horse. I said, “What a nice car!”"
+      }
     },
     {
       "id": "vocab:free-time:sjunga",
@@ -311,7 +395,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag sjunger bara i duschen. Grannarna tycker att det räcker.",
+        "en": "I only sing in the shower. The neighbours think that’s enough."
+      }
     },
     {
       "id": "vocab:free-time:dansa",
@@ -322,7 +410,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag dansar som om ingen tittar. Det är bäst för alla.",
+        "en": "I dance as if no one is watching. It’s best for everyone."
+      }
     },
     {
       "id": "vocab:free-time:resa",
@@ -333,7 +425,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag reste till Sverige för att öva svenska. Alla pratade engelska med mig.",
+        "en": "I travelled to Sweden to practise Swedish. Everyone spoke English to me."
+      }
     },
     {
       "id": "vocab:free-time:lasa",
@@ -344,7 +440,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag läser en bok om tålamod. Jag har varit på sidan tre sedan juni.",
+        "en": "I’m reading a book about patience. I’ve been on page three since June."
+      }
     },
     {
       "id": "vocab:free-time:vandra",
@@ -355,7 +455,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi vandrade i Lappland. Myggorna vandrade med oss.",
+        "en": "We hiked in Lapland. The mosquitoes hiked with us."
+      }
     },
     {
       "id": "vocab:free-time:vandring",
@@ -373,7 +477,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Vandringen var tio kilometer. Kartan sa fem.",
+        "en": "The hike was ten kilometres. The map said five."
+      }
     },
     {
       "id": "vocab:free-time:natur",
@@ -393,7 +501,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag älskar naturen. Särskilt från fönstret i november.",
+        "en": "I love nature. Especially from the window in November."
+      }
     },
     {
       "id": "vocab:free-time:fotografering",
@@ -409,7 +521,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min hobby är fotografering. Jag har 3 000 bilder av min katt.",
+        "en": "My hobby is photography. I have 3,000 pictures of my cat."
+      }
     },
     {
       "id": "vocab:free-time:trana",
@@ -424,7 +540,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag tränar varje morgon: jag springer efter bussen.",
+        "en": "I work out every morning: I run after the bus."
+      }
     },
     {
       "id": "vocab:free-time:gym",
@@ -444,7 +564,11 @@
       "note": "Double m: gymmet, gymmen.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har gymkort sedan januari. Jag har varit där en gång: i januari.",
+        "en": "I’ve had a gym card since January. I’ve been there once: in January."
+      }
     },
     {
       "id": "vocab:free-time:film",
@@ -462,7 +586,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Filmen var tre timmar lång. Popcornen tog slut efter tio minuter.",
+        "en": "The film was three hours long. The popcorn ran out after ten minutes."
+      }
     },
     {
       "id": "vocab:free-time:datorspel",
@@ -480,7 +608,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Min son spelar datorspel hela dagen. Han säger att det är träning för fingrarna.",
+        "en": "My son plays video games all day. He says it’s exercise for his fingers."
+      }
     },
     {
       "id": "vocab:free-time:fest",
@@ -499,7 +631,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "En finsk fest: alla står i köket och pratar om vädret.",
+        "en": "A Finnish party: everyone stands in the kitchen talking about the weather."
+      }
     },
     {
       "id": "vocab:free-time:fira",
@@ -510,7 +646,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi firar allt: födelsedagar, namnsdagar och att det är fredag.",
+        "en": "We celebrate everything: birthdays, name days and the fact that it’s Friday."
+      }
     },
     {
       "id": "vocab:free-time:festival",
@@ -528,7 +668,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Festival i Finland: sol, regn, sol och myggor. Allt på en timme.",
+        "en": "A festival in Finland: sun, rain, sun and mosquitoes. All in one hour."
+      }
     },
     {
       "id": "vocab:free-time:bibliotek",
@@ -547,7 +691,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Biblioteket är gratis, varmt och tyst. Mitt andra hem i december.",
+        "en": "The library is free, warm and quiet. My second home in December."
+      }
     },
     {
       "id": "vocab:free-time:teater",
@@ -566,7 +714,11 @@
       "note": "The e drops in the plural: teatrar.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Teatern var så bra att jag glömde min telefon i två timmar.",
+        "en": "The play was so good that I forgot my phone for two hours."
+      }
     },
     {
       "id": "vocab:free-time:promenera",
@@ -577,7 +729,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag promenerar med hunden. Eller hunden promenerar med mig.",
+        "en": "I walk the dog. Or the dog walks me."
+      }
     },
     {
       "id": "vocab:free-time:ga-ut",
@@ -588,7 +744,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Ska vi gå ut i kväll? – Det är minus tjugo. – Ska vi gå ut i april då?",
+        "en": "“Shall we go out tonight?” “It’s minus twenty.” “Shall we go out in April, then?”"
+      }
     },
     {
       "id": "vocab:free-time:umgas",
@@ -603,7 +763,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Finländare umgås gärna. Helst på två meters avstånd.",
+        "en": "Finns like to hang out. Preferably two metres apart."
+      }
     },
     {
       "id": "vocab:free-time:simma",
@@ -614,7 +778,11 @@
       "lesson": 5,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag simmar som en sten. Men en snabb sten.",
+        "en": "I swim like a stone. But a fast stone."
+      }
     }
   ]
 }

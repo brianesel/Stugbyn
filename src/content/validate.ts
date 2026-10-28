@@ -152,6 +152,21 @@ export function validateContent(raw: RawContent, opts: ValidateOptions = {}): Is
     for (const t of swedishTexts(item)) checkText(t, file, item.id);
   }
   for (const t of library.vocab) for (const e of t.entries) checkText(e.sv, t.file, e.id);
+  // Funny examples are Swedish too
+  const funs: { sv: string; file: string; where: string }[] = [];
+  for (const { item, file } of allItems) if (item.fun && !item.tags?.includes('deck')) funs.push({ sv: item.fun.sv, file, where: `${item.id} (fun)` });
+  for (const r of library.regions) for (const c of r.ruleCards) if (c.fun) funs.push({ sv: c.fun.sv, file: r.slug, where: `${c.title} (fun)` });
+  for (const t of library.vocab) for (const e of t.entries) if (e.fun) funs.push({ sv: e.fun.sv, file: t.file, where: `${e.id} (fun)` });
+  for (const { noun, file } of allNouns) if (noun.fun) funs.push({ sv: noun.fun.sv, file, where: `${noun.id} (fun)` });
+  for (const v of library.verbs?.verbs ?? []) if (v.fun) funs.push({ sv: v.fun.sv, file: 'content/grammar/verbs.json', where: `${v.id} (fun)` });
+  for (const a of library.adjectives?.adjectives ?? []) if (a.fun) funs.push({ sv: a.fun.sv, file: 'content/grammar/adjectives.json', where: `${a.id} (fun)` });
+  const seenFun = new Set<string>();
+  for (const f of funs) {
+    const key = `${f.where}|${f.sv}`;
+    if (seenFun.has(key)) continue;
+    seenFun.add(key);
+    checkText(f.sv, f.file, f.where);
+  }
   for (const r of library.regions) {
     for (const c of r.ruleCards) for (const ex of c.examples) ex.slice(0, -1).forEach((t) => checkText(t, r.slug, c.title));
   }

@@ -15,7 +15,12 @@
     "lesson": 17,
     "tags": [
       "past-vs-perfect"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har bott i Finland i tio år. Nu säger jag ”joo” till allt.",
+      "en": "I’ve lived in Finland for ten years. Now I say “joo” to everything.",
+      "note": "Joo is the Finnish ‘yeah’, also used by Finland-Swedes."
+    }
   },
   {
     "id": "perfekt:bodde-for-sedan",
@@ -33,7 +38,11 @@
     "lesson": 17,
     "tags": [
       "past-vs-perfect"
-    ]
+    ],
+    "fun": {
+      "sv": "För tio år sedan bodde jag ensam. Sedan kom katten och tog över.",
+      "en": "Ten years ago I lived alone. Then the cat came and took over."
+    }
   },
   {
     "id": "perfekt:sag-igar",
@@ -51,7 +60,11 @@
     "lesson": 17,
     "tags": [
       "past-vs-perfect"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag såg filmen igår. Slutet såg jag inte, för jag sov.",
+      "en": "I saw the film yesterday. I didn’t see the ending, because I was asleep."
+    }
   },
   {
     "id": "perfekt:reste-forra-aret",
@@ -69,7 +82,11 @@
     "lesson": 17,
     "tags": [
       "past-vs-perfect"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi reste till Stockholm förra året. Vi pratade svenska, och de svarade på engelska.",
+      "en": "We travelled to Stockholm last year. We spoke Swedish, and they answered in English."
+    }
   },
   {
     "id": "perfekt:jobbat-fem-ar",
@@ -88,7 +105,11 @@
     "tags": [
       "supine",
       "group-1"
-    ]
+    ],
+    "fun": {
+      "sv": "Han har jobbat här i fem år. Kaffemaskinen har jobbat här i tio.",
+      "en": "He has worked here for five years. The coffee machine has worked here for ten."
+    }
   },
   {
     "id": "perfekt:kopt",
@@ -107,7 +128,11 @@
     "tags": [
       "supine",
       "group-2"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon har köpt en ny cykel. Sedan började det snöa.",
+      "en": "She has bought a new bike. Then it started to snow."
+    }
   },
   {
     "id": "perfekt:stangt",
@@ -126,7 +151,11 @@
     "tags": [
       "supine",
       "group-2"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag sprang hela vägen. Affären har redan stängt.",
+      "en": "I ran all the way. The shop has already closed."
+    }
   },
   {
     "id": "perfekt:bott-sedan",
@@ -145,7 +174,11 @@
     "tags": [
       "supine",
       "group-3"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi har bott i det här huset sedan 2010. Katten tror att det är hans hus.",
+      "en": "We have lived in this house since 2010. The cat thinks it’s his house."
+    }
   },
   {
     "id": "perfekt:skrivit",
@@ -164,7 +197,11 @@
     "tags": [
       "supine",
       "group-4"
-    ]
+    ],
+    "fun": {
+      "sv": "– Har du skrivit till mormor? – Ja. Hon har redan svarat fem gånger.",
+      "en": "“Have you written to Grandma?” “Yes. She has already answered five times.”"
+    }
   },
   {
     "id": "perfekt:atit-redan",
@@ -183,7 +220,11 @@
     "tags": [
       "supine",
       "group-4"
-    ]
+    ],
+    "fun": {
+      "sv": "– Tack, men vi har redan ätit. – Det finns kaka. – Ja tack!",
+      "en": "“Thanks, but we’ve already eaten.” “There’s cake.” “Yes, please!”"
+    }
   },
   {
     "id": "perfekt:nagon-gang",
@@ -202,7 +243,11 @@
     "tags": [
       "supine",
       "ever"
-    ]
+    ],
+    "fun": {
+      "sv": "– Har du någon gång ätit surströmming? – Ja, en gång. En gång räcker.",
+      "en": "“Have you ever eaten fermented herring?” “Yes, once. Once is enough.”"
+    }
   },
   {
     "id": "perfekt:aldrig-varit",
@@ -221,7 +266,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har aldrig varit i Lappland. Men Lapplands myggor har besökt mig.",
+      "en": "I have never been to Lapland. But Lapland’s mosquitoes have visited me."
+    }
   },
   {
     "id": "perfekt:sett",
@@ -240,7 +289,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "– Har du sett den nya filmen? – Ja, de första tio minuterna.",
+      "en": "“Have you seen the new film?” “Yes, the first ten minutes.”"
+    }
   },
   {
     "id": "perfekt:gjort",
@@ -259,7 +312,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har inte gjort läxan ännu. Katten har sovit på den.",
+      "en": "I haven’t done the homework yet. The cat has been sleeping on it."
+    }
   },
   {
     "id": "perfekt:haft",
@@ -278,7 +335,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi har haft en bra dag. Det har inte regnat på tre timmar!",
+      "en": "We have had a good day. It hasn’t rained for three hours!"
+    }
   },
   {
     "id": "perfekt:sagt",
@@ -297,7 +358,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "– Vad har hon sagt? – Ingenting. Det är det som är problemet.",
+      "en": "“What has she said?” “Nothing. That’s the problem.”"
+    }
   },
   {
     "id": "perfekt:gatt",
@@ -316,7 +381,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Han har redan gått hem. Klockan är tre och det är fredag.",
+      "en": "He has already gone home. It’s three o’clock and it’s Friday."
+    }
   },
   {
     "id": "perfekt:annu-inte",
@@ -335,7 +404,11 @@
     "lesson": 17,
     "tags": [
       "not-yet"
-    ]
+    ],
+    "fun": {
+      "sv": "Bussen har ännu inte kommit. Våren har inte heller kommit.",
+      "en": "The bus hasn’t come yet. Spring hasn’t come either."
+    }
   },
   {
     "id": "perfekt:redan",
@@ -354,7 +427,11 @@
     "lesson": 17,
     "tags": [
       "already"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har redan läst boken. Nu läser jag den igen, för jag förstod ingenting.",
+      "en": "I have already read the book. Now I’m reading it again, because I understood nothing."
+    }
   },
   {
     "id": "perfekt:boss-varit",
@@ -371,7 +448,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har aldrig varit i Sverige, men jag har varit på IKEA.",
+      "en": "I have never been to Sweden, but I have been to IKEA."
+    }
   },
   {
     "id": "perfekt:boss-sett",
@@ -388,7 +469,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "– Har du sett min telefon? – Ja, du har den i handen.",
+      "en": "“Have you seen my phone?” “Yes, it’s in your hand.”"
+    }
   },
   {
     "id": "perfekt:boss-bott",
@@ -405,7 +490,11 @@
     "tags": [
       "supine",
       "group-3"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi har bott här i tre år. Flyttkartongerna står kvar i hallen.",
+      "en": "We have lived here for three years. The moving boxes are still in the hall."
+    }
   },
   {
     "id": "perfekt:boss-atit",
@@ -422,7 +511,11 @@
     "tags": [
       "supine",
       "group-4"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon har inte ätit ännu. Katten har redan ätit två gånger.",
+      "en": "She hasn’t eaten yet. The cat has already eaten twice."
+    }
   },
   {
     "id": "perfekt:boss-gjort",
@@ -439,7 +532,11 @@
     "tags": [
       "supine",
       "irregular"
-    ]
+    ],
+    "fun": {
+      "sv": "– Har du gjort läxan? – Ja, i huvudet.",
+      "en": "“Have you done the homework?” “Yes, in my head.”"
+    }
   },
   {
     "id": "perfekt:rest-peru",
@@ -457,7 +554,11 @@
     "lesson": 18,
     "tags": [
       "supine"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag har aldrig rest till Peru. Men min resväska har varit där.",
+      "en": "I have never travelled to Peru. But my suitcase has been there."
+    }
   },
   {
     "id": "perfekt:varit-vanner",
@@ -475,7 +576,11 @@
     "lesson": 18,
     "tags": [
       "supine"
-    ]
+    ],
+    "fun": {
+      "sv": "Anna och jag har varit vänner i många år. Vi har aldrig varit överens.",
+      "en": "Anna and I have been friends for many years. We have never agreed on anything."
+    }
   },
   {
     "id": "perfekt:kommit-paket",
@@ -493,7 +598,11 @@
     "lesson": 18,
     "tags": [
       "supine"
-    ]
+    ],
+    "fun": {
+      "sv": "Tre paket har kommit imorse. Katten bor redan i ett av dem.",
+      "en": "Three parcels have come this morning. The cat already lives in one of them."
+    }
   },
   {
     "id": "perfekt:haft-betyg",
@@ -511,6 +620,10 @@
     "lesson": 18,
     "tags": [
       "supine"
-    ]
+    ],
+    "fun": {
+      "sv": "Han har alltid haft bra betyg. Hans lillasyster har alltid haft hans gamla böcker.",
+      "en": "He has always had good grades. His little sister has always had his old books."
+    }
   }
 ]

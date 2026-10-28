@@ -1,5 +1,6 @@
 import { useRef, useState } from 'react';
 import { AudioButton } from '../components/AudioButton';
+import { InfoTip } from '../components/InfoTip';
 import { library } from '../content/load';
 import { NotFound } from './Region';
 
@@ -45,7 +46,10 @@ export function RulesScreen({ id }: { id: string }) {
       >
         {cards.map((c, i) => (
           <article key={c.title} className="card rule-card" aria-label={`Card ${i + 1} of ${cards.length}: ${c.title}`}>
-            <h2>{c.title}</h2>
+            <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
+              <h2>{c.title}</h2>
+              <InfoTip fun={c.fun} />
+            </div>
             <p style={{ margin: 0 }}>{c.rule}</p>
             <ul className="examples">
               {c.examples.map((ex) => {

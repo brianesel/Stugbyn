@@ -37,7 +37,7 @@ export function generateDeckItems(theme: string, entries: VocabEntry[]): Item[] 
   const items: Item[] = [];
   for (const e of words) {
     const label = deckLabel(e);
-    const base = { level: e.level, lesson: e.lesson, tags: ['deck', theme, ...(e.tags ?? [])] };
+    const base = { level: e.level, lesson: e.lesson, tags: ['deck', theme, ...(e.tags ?? [])], fun: e.fun };
     const explain = e.example ? `${label} = ${e.en}. ${e.example.sv} (${e.example.en})` : `${label} = ${e.en}.`;
     const svOthers = distractors(e, words, 3, deckLabel);
     const enOthers = distractors(e, words, 3, (x) => x.en);

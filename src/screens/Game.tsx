@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { canPlay, speak } from '../audio/speak';
 import { AudioButton } from '../components/AudioButton';
+import { InfoTip } from '../components/InfoTip';
 import { Meter } from '../components/Meter';
 import { library } from '../content/load';
 import type { Item } from '../content/schemas';
@@ -159,6 +160,7 @@ function Feedback({
       <div className="expected">
         <span lang="sv">{result.expected}</span>
         {canPlay(item.id) && <AudioButton text={result.expected} itemId={item.id} label="Play the correct Swedish" />}
+        <InfoTip fun={item.fun} />
       </div>
       {result.explain && <p style={{ marginTop: 6 }}>{result.explain}</p>}
       <button ref={nextRef} type="button" className="btn btn-primary btn-block" onClick={onNext}>

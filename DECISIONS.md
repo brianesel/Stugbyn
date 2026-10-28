@@ -101,3 +101,13 @@ Choices made where SPEC.md is silent or where reality differed. Newest phase at 
 **Uncertain forms stay hidden.** Entries with `"check": true` are left out of decks until confirmed: bastu (bastur or bastuar?), ananas, bikini (two plurals in use), anställd (an adjective used as a noun). `npm run content-report` lists them.
 
 **iPhone install.** iOS ignores SVG icons and has no install prompt, so the build ships PNG icons (180 apple-touch-icon, 192, 512, maskable 512, rendered from public/icon.svg by `npm run icons`), Apple home-screen meta tags, and an in-app guide: a one-time card on the village in iPhone Safari (dismissal remembered in localStorage) and an “Install on your phone” section in Settings. The installed app has its own storage on iOS, so the guide says to sign in again inside it with the 6-digit code.
+
+## Jokes behind ⓘ (2026-10-28)
+
+**Every word, rule card and hand-written exercise has a `fun` example** (`{ sv, en, note? }`): a small joke, pun or funny everyday situation that uses the word or rule, A1–A2 Swedish, with an English translation and a note when the joke depends on the Swedish (får/får, glas/glass, recept, ben). Generated exercises inherit the joke of the row they drill (noun, verb, adjective, vocab word). 1,356 jokes in total; all were read back for correct Swedish before shipping.
+
+**Shown only on demand.** An ⓘ button opens a small popover: on hover with a mouse, on tap on a phone; a click keeps it open until you click elsewhere or press Escape. It appears in the answer feedback, on rule cards, in the Word bank and in the results list. The Swedish line can be played aloud.
+
+**Validator.** Jokes are checked for missing å/ä/ö like other Swedish text. Real words that look like typos (vantar = mittens, bar) go in content/allowed-words.json.
+
+**Bundle.** Content data now has its own chunk (~150 kB gzipped, precached). The warning limit is raised to 800 kB for that data chunk only in spirit; code chunks stay small.

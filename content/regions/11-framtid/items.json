@@ -15,7 +15,11 @@
     "lesson": 16,
     "tags": [
       "kommer-att"
-    ]
+    ],
+    "fun": {
+      "sv": "Det kommer att regna imorgon. Det vet jag, för jag har tvättat bilen.",
+      "en": "It’s going to rain tomorrow. I know, because I’ve washed the car."
+    }
   },
   {
     "id": "framtid:tror-pojkvan",
@@ -33,7 +37,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tror att Anna har en ny pojkvän. Hon ler mot telefonen hela dagen.",
+      "en": "I think Anna has a new boyfriend. She smiles at her phone all day."
+    }
   },
   {
     "id": "framtid:kommer-alska",
@@ -52,7 +60,11 @@
     "tags": [
       "kommer-att",
       "ska-kommer"
-    ]
+    ],
+    "fun": {
+      "sv": "Du kommer att älska Lappland! Och myggorna kommer att älska dig.",
+      "en": "You’re going to love Lapland! And the mosquitoes are going to love you."
+    }
   },
   {
     "id": "framtid:kommer-trott",
@@ -71,7 +83,11 @@
     "tags": [
       "kommer-att",
       "ska-kommer"
-    ]
+    ],
+    "fun": {
+      "sv": "Katten kommer att bli trött ikväll. Han har bara sovit tolv timmar idag.",
+      "en": "The cat is going to be tired tonight. He has only slept twelve hours today."
+    }
   },
   {
     "id": "framtid:kommer-dyrt",
@@ -89,7 +105,11 @@
     "lesson": 16,
     "tags": [
       "kommer-att"
-    ]
+    ],
+    "fun": {
+      "sv": "Det kommer att bli dyrt att renovera köket. Vi beställer pizza i stället.",
+      "en": "It’s going to be expensive to renovate the kitchen. We’re ordering pizza instead."
+    }
   },
   {
     "id": "framtid:kommer-att-form",
@@ -107,7 +127,11 @@
     "lesson": 16,
     "tags": [
       "kommer-att"
-    ]
+    ],
+    "fun": {
+      "sv": "Om du sover på soffan kommer du att bli kattens bästa vän.",
+      "en": "If you sleep on the sofa, you’ll become the cat’s best friend."
+    }
   },
   {
     "id": "framtid:ska-pasta",
@@ -125,7 +149,11 @@
     "lesson": 16,
     "tags": [
       "ska"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag ska laga pasta ikväll. Det är också min plan för imorgon.",
+      "en": "I’m going to cook pasta tonight. That’s also my plan for tomorrow."
+    }
   },
   {
     "id": "framtid:ska-middag",
@@ -143,7 +171,11 @@
     "lesson": 16,
     "tags": [
       "ska"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi ska äta middag hos Lena på lördag. Hon vet det inte än.",
+      "en": "We’re having dinner at Lena’s on Saturday. She doesn’t know yet."
+    }
   },
   {
     "id": "framtid:ska-bio",
@@ -161,7 +193,11 @@
     "lesson": 16,
     "tags": [
       "ska"
-    ]
+    ],
+    "fun": {
+      "sv": "– Ska vi gå på bio ikväll? – Ja! Jag tar med popcorn, du tar med pengar.",
+      "en": "“Shall we go to the cinema tonight?” “Yes! I’ll bring popcorn, you bring the money.”"
+    }
   },
   {
     "id": "framtid:ska-tandlakaren",
@@ -180,7 +216,11 @@
     "tags": [
       "ska",
       "ska-kommer"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag ska till tandläkaren klockan tre. Det gör redan ont.",
+      "en": "I’m going to the dentist at three. It already hurts."
+    }
   },
   {
     "id": "framtid:present-aker",
@@ -198,7 +238,11 @@
     "lesson": 16,
     "tags": [
       "present"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag åker till Helsingfors imorgon. Katten åker inte med. Han är arg.",
+      "en": "I’m going to Helsinki tomorrow. The cat isn’t coming. He’s cross."
+    }
   },
   {
     "id": "framtid:present-borjar",
@@ -216,7 +260,11 @@
     "lesson": 16,
     "tags": [
       "present"
-    ]
+    ],
+    "fun": {
+      "sv": "Kursen börjar på måndag. Jag har redan köpt fem pennor.",
+      "en": "The course starts on Monday. I’ve already bought five pens."
+    }
   },
   {
     "id": "framtid:tanker-sluta",
@@ -234,7 +282,11 @@
     "lesson": 16,
     "tags": [
       "tanker"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tänker sluta dricka kaffe. Efter den här koppen.",
+      "en": "I intend to quit coffee. After this cup."
+    }
   },
   {
     "id": "framtid:tanker-gora",
@@ -252,7 +304,11 @@
     "lesson": 16,
     "tags": [
       "tanker"
-    ]
+    ],
+    "fun": {
+      "sv": "– Vad tänker du göra i sommar? – Ingenting. Jag har planerat det länge.",
+      "en": "“What are you planning to do this summer?” “Nothing. I’ve been planning it for ages.”"
+    }
   },
   {
     "id": "framtid:tycker-film",
@@ -270,7 +326,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tycker att filmen är bra. Jag sov bara lite.",
+      "en": "In my opinion the film is good. I only slept a little."
+    }
   },
   {
     "id": "framtid:tror-bussen",
@@ -288,7 +348,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tror att bussen går klockan åtta. Bussen tror något annat.",
+      "en": "I think the bus leaves at eight. The bus thinks otherwise."
+    }
   },
   {
     "id": "framtid:tanker-pa",
@@ -305,7 +369,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "– Jag tänker på dig, sa katten och tittade på kylskåpet.",
+      "en": "“I’m thinking of you,” said the cat, looking at the fridge."
+    }
   },
   {
     "id": "framtid:tycker-om-fisk",
@@ -323,7 +391,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tycker inte om fisk. Men min katt tycker mycket om min fisk.",
+      "en": "I don’t like fish. But my cat likes my fish a lot."
+    }
   },
   {
     "id": "framtid:tror-sol",
@@ -341,7 +413,12 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "– Tror du att det blir sol i helgen? – Ja. Jag tror också på tomten.",
+      "en": "“Do you think it’ll be sunny this weekend?” “Yes. I also believe in Santa.”",
+      "note": "Tro means both ‘think (guess)’ and, with på, ‘believe in’."
+    }
   },
   {
     "id": "framtid:tycker-svenska",
@@ -359,7 +436,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tycker att svenska är ett vackert språk. Särskilt när någon annan pratar det.",
+      "en": "I think Swedish is a beautiful language. Especially when someone else speaks it."
+    }
   },
   {
     "id": "framtid:order-ska-kurs",
@@ -375,7 +456,11 @@
     "tags": [
       "ska",
       "word-order"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag ska börja en kurs i januari. I februari ska jag sluta.",
+      "en": "I’m going to start a course in January. In February I’m going to quit."
+    }
   },
   {
     "id": "framtid:order-kommer-snoa",
@@ -391,7 +476,11 @@
     "tags": [
       "kommer-att",
       "word-order"
-    ]
+    ],
+    "fun": {
+      "sv": "Det kommer att snöa ikväll. Och imorgon. Och till april.",
+      "en": "It’s going to snow tonight. And tomorrow. And until April."
+    }
   },
   {
     "id": "framtid:boss-kommer-varmt",
@@ -406,7 +495,11 @@
     "lesson": 16,
     "tags": [
       "kommer-att"
-    ]
+    ],
+    "fun": {
+      "sv": "Det kommer att bli varmt i helgen: plus fem grader!",
+      "en": "It’s going to be warm this weekend: plus five degrees!"
+    }
   },
   {
     "id": "framtid:boss-ska-aland",
@@ -424,7 +517,11 @@
     "lesson": 16,
     "tags": [
       "ska"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi ska till Åland på fredag. Båten är bokad, men magen är inte redo.",
+      "en": "We’re going to Åland on Friday. The boat is booked, but my stomach isn’t ready."
+    }
   },
   {
     "id": "framtid:boss-tror-fest",
@@ -439,7 +536,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tror att det blir en bra fest. Katten tror att det blir för mycket folk.",
+      "en": "I think it’ll be a good party. The cat thinks there’ll be too many people."
+    }
   },
   {
     "id": "framtid:boss-tycker-kaffe",
@@ -454,7 +555,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "– Jag tycker att kaffet är för starkt. – Då är du inte finländare än.",
+      "en": "“I think the coffee is too strong.” “Then you’re not a Finn yet.”"
+    }
   },
   {
     "id": "framtid:boss-gora",
@@ -469,7 +574,11 @@
     "lesson": 16,
     "tags": [
       "tanker"
-    ]
+    ],
+    "fun": {
+      "sv": "– Vad tänker du göra ikväll? – Samma som katten: ingenting.",
+      "en": "“What are you planning to do tonight?” “Same as the cat: nothing.”"
+    }
   },
   {
     "id": "framtid:boss-tanker-pa",
@@ -484,7 +593,11 @@
     "lesson": 16,
     "tags": [
       "tycker-tror"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tänker ofta på min familj. Mest när jag är hungrig.",
+      "en": "I often think about my family. Mostly when I’m hungry."
+    }
   },
   {
     "id": "framtid:trodde-tomten",
@@ -503,7 +616,12 @@
     "tags": [
       "tycker-tror",
       "past"
-    ]
+    ],
+    "fun": {
+      "sv": "När jag var liten trodde jag att tomten fanns. Nu vet jag att han bor i Finland.",
+      "en": "When I was little, I believed that Santa existed. Now I know he lives in Finland.",
+      "note": "Finland says Santa lives in Rovaniemi, in Lapland."
+    }
   },
   {
     "id": "framtid:tyckte-filmen",
@@ -522,6 +640,10 @@
     "tags": [
       "tycker-tror",
       "past"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag tyckte att filmen var rolig. Alla andra grät.",
+      "en": "I thought the film was funny. Everyone else cried."
+    }
   }
 ]

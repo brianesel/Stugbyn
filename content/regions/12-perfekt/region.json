@@ -29,7 +29,11 @@
           "She hasn’t eaten."
         ]
       ],
-      "watch": "Har is the same for everyone: jag har, du har, vi har, de har."
+      "watch": "Har is the same for everyone: jag har, du har, vi har, de har.",
+      "fun": {
+        "sv": "Jag har jobbat hela dagen. Alltså, jag har varit på jobbet hela dagen.",
+        "en": "I’ve worked all day. Well, I’ve been at work all day."
+      }
     },
     {
       "title": "Supine: groups I–III",
@@ -56,7 +60,12 @@
           "live → have lived"
         ]
       ],
-      "watch": "Group II never gets -at: köpt, not köpat."
+      "watch": "Group II never gets -at: köpt, not köpat.",
+      "fun": {
+        "sv": "Jag har köpt ett gymkort. Det har bott i min plånbok i ett år.",
+        "en": "I’ve bought a gym card. It has lived in my wallet for a year.",
+        "note": "Köpt is Group II (drop -a, add -t); bott is Group III (add -tt)."
+      }
     },
     {
       "title": "Supine: group IV",
@@ -83,7 +92,11 @@
           "drink → have drunk"
         ]
       ],
-      "watch": "The vowel often changes: dricka → druckit."
+      "watch": "The vowel often changes: dricka → druckit.",
+      "fun": {
+        "sv": "Jag har skrivit tre mejl och druckit fyra koppar kaffe. Det kallas jobb.",
+        "en": "I’ve written three emails and drunk four cups of coffee. That’s called work."
+      }
     },
     {
       "title": "Irregular supines to learn",
@@ -120,7 +133,11 @@
           "say → have said"
         ]
       ],
-      "watch": "Har haft = have had. Both words are needed."
+      "watch": "Har haft = have had. Both words are needed.",
+      "fun": {
+        "sv": "– Vad har du gjort idag? – Jag har sett en serie. Hela serien.",
+        "en": "“What have you done today?” “I’ve watched a series. The whole series.”"
+      }
     },
     {
       "title": "Ever, never, already, not yet",
@@ -143,7 +160,11 @@
           "The bus hasn’t come yet."
         ]
       ],
-      "watch": "You can also say: Bussen har inte kommit ännu."
+      "watch": "You can also say: Bussen har inte kommit ännu.",
+      "fun": {
+        "sv": "– Har du någon gång badat i en isvak? – Nej, inte ännu. Och förhoppningsvis aldrig.",
+        "en": "“Have you ever swum in a hole in the ice?” “No, not yet. And hopefully never.”"
+      }
     },
     {
       "title": "I + period: still true",
@@ -162,7 +183,11 @@
           "We have lived in the house since 2010."
         ]
       ],
-      "watch": "English uses “for” here, Swedish uses i: i tio år."
+      "watch": "English uses “for” here, Swedish uses i: i tio år.",
+      "fun": {
+        "sv": "Jag har bott här i tio år. Grannen och jag har nickat till varandra i tio år.",
+        "en": "I’ve lived here for ten years. The neighbour and I have nodded at each other for ten years."
+      }
     },
     {
       "title": "Bodde or har bott?",
@@ -177,7 +202,11 @@
           "I have lived in Finland for two years (I still do)."
         ]
       ],
-      "watch": "Ask yourself: do I still live there? Yes → har bott. No → bodde."
+      "watch": "Ask yourself: do I still live there? Yes → har bott. No → bodde.",
+      "fun": {
+        "sv": "Jag bodde i Spanien i ett år. Jag har bott i Finland i sju år. Jag har frusit i sju år.",
+        "en": "I lived in Spain for a year. I’ve lived in Finland for seven years. I’ve been cold for seven years."
+      }
     },
     {
       "title": "Finished time → past, no time → perfect",
@@ -200,7 +229,11 @@
           "We have travelled a lot this year."
         ]
       ],
-      "watch": "Never har with igår: Jag såg den igår, not Jag har sett den igår."
+      "watch": "Never har with igår: Jag såg den igår, not Jag har sett den igår.",
+      "fun": {
+        "sv": "– Har du sett filmen? – Ja, jag såg den igår. Med stängda ögon.",
+        "en": "“Have you seen the film?” “Yes, I saw it yesterday. With my eyes closed.”"
+      }
     }
   ]
 }

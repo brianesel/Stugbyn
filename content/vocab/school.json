@@ -18,7 +18,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vem är bästa eleven? – Den som sitter närmast kaffet.",
+        "en": "“Who’s the best pupil?” “The one sitting closest to the coffee.”"
+      }
     },
     {
       "id": "vocab:school:larare",
@@ -38,7 +42,11 @@
       "note": "Group 5: en lärare → två lärare, de lärarna.",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min lärare säger ”bra!” även när det är fel. Det är en bra lärare.",
+        "en": "My teacher says “good!” even when it’s wrong. That’s a good teacher."
+      }
     },
     {
       "id": "vocab:school:skola",
@@ -56,7 +64,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Skolan är bra. Det är bara morgonen som är för tidig.",
+        "en": "School is good. It’s just the morning that’s too early."
+      }
     },
     {
       "id": "vocab:school:lektion",
@@ -74,7 +86,11 @@
       "lesson": 4,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Lektionen börjar klockan åtta. Jag börjar klockan nio.",
+        "en": "The lesson starts at eight. I start at nine."
+      }
     },
     {
       "id": "vocab:school:klassrum",
@@ -94,7 +110,11 @@
       "note": "Like rum: klassrummet, klassrummen (double m).",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Klassrummet blir mycket tyst när läraren frågar: ”Vem vill läsa högt?”",
+        "en": "The classroom goes very quiet when the teacher asks: “Who wants to read aloud?”"
+      }
     },
     {
       "id": "vocab:school:amne",
@@ -116,7 +136,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt favoritämne? Lunch.",
+        "en": "My favourite subject? Lunch."
+      }
     },
     {
       "id": "vocab:school:prov",
@@ -134,7 +158,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Provet var lätt. Det var bara frågorna som var svåra.",
+        "en": "The exam was easy. It was just the questions that were hard."
+      }
     },
     {
       "id": "vocab:school:klara-provet",
@@ -145,7 +173,12 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag klarade provet. Läraren klarade inte min handstil.",
+        "en": "I passed the exam. The teacher couldn’t cope with my handwriting.",
+        "note": "Klara means both ‘pass’ and ‘manage, cope with’."
+      }
     },
     {
       "id": "vocab:school:betyg",
@@ -163,7 +196,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min katt får högsta betyg i sömn och lägsta i matte.",
+        "en": "My cat gets top grades in sleep and the lowest in maths."
+      }
     },
     {
       "id": "vocab:school:laxa",
@@ -185,7 +222,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Hunden åt min läxa. Jag har ingen hund.",
+        "en": "The dog ate my homework. I don’t have a dog."
+      }
     },
     {
       "id": "vocab:school:forskola",
@@ -203,7 +244,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "På förskolan lär sig barnen att dela. Vuxna glömmer det sedan.",
+        "en": "At preschool children learn to share. Adults forget it later."
+      }
     },
     {
       "id": "vocab:school:dagis",
@@ -222,7 +267,11 @@
       "note": "Everyday word for förskola.",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "På dagis sover man efter lunch. Varför slutade vi med det?",
+        "en": "At kindergarten you sleep after lunch. Why did we stop doing that?"
+      }
     },
     {
       "id": "vocab:school:grundskola",
@@ -240,7 +289,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "I grundskolan lärde jag mig tre språk. Nu kan jag säga hej på alla tre.",
+        "en": "In primary school I learned three languages. Now I can say hi in all three."
+      }
     },
     {
       "id": "vocab:school:gymnasium",
@@ -259,7 +312,12 @@
       "note": "Gymnasium drops -um: gymnasiet, gymnasier. Often just “gymnasiet”.",
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Gymnasium låter som gym, men där tränar man bara hjärnan.",
+        "en": "Gymnasium sounds like a gym, but there you only train your brain.",
+        "note": "Gymnasium is upper secondary school, not a gym."
+      }
     },
     {
       "id": "vocab:school:hogskola",
@@ -277,7 +335,12 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Högskola betyder inte en hög skola. Vår har bara två våningar.",
+        "en": "Högskola doesn’t mean a tall school. Ours only has two floors.",
+        "note": "Hög means ‘high, tall’, but högskola means university college."
+      }
     },
     {
       "id": "vocab:school:universitet",
@@ -296,7 +359,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "På universitetet lärde jag mig mycket. Mest om billig pasta.",
+        "en": "At university I learned a lot. Mostly about cheap pasta."
+      }
     },
     {
       "id": "vocab:school:ta-studenten",
@@ -307,7 +374,12 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "När vi tog studenten sprang vi ut och skrek. Grannarna skrek också.",
+        "en": "When we graduated we ran out and screamed. The neighbours screamed too.",
+        "note": "Swedish school-leavers traditionally run out of school shouting and singing."
+      }
     },
     {
       "id": "vocab:school:ta-examen",
@@ -318,7 +390,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Han tog examen i ekonomi. Nu har han inga pengar, men han förstår varför.",
+        "en": "He graduated in economics. Now he has no money, but he understands why."
+      }
     },
     {
       "id": "vocab:school:sabbatsar",
@@ -336,7 +412,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt sabbatsår blev tre år. Det var ett långt år.",
+        "en": "My gap year turned into three years. It was a long year."
+      }
     },
     {
       "id": "vocab:school:plugghast",
@@ -354,7 +434,12 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Han är en riktig plugghäst, men han har aldrig sett en häst.",
+        "en": "He’s a real swot, but he has never seen a horse.",
+        "note": "Plugghäst is literally ‘study horse’."
+      }
     },
     {
       "id": "vocab:school:mobba",
@@ -365,7 +450,11 @@
       "lesson": 18,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min katt mobbar hunden. Hunden är fem gånger större.",
+        "en": "My cat bullies the dog. The dog is five times bigger."
+      }
     },
     {
       "id": "vocab:school:plugga",
@@ -380,7 +469,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag pluggar bäst med kaffe, musik och katten på boken.",
+        "en": "I study best with coffee, music and the cat on the book."
+      }
     },
     {
       "id": "vocab:school:lara-sig",
@@ -395,7 +488,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag lär mig ett nytt ord varje dag och glömmer två.",
+        "en": "I learn one new word every day and forget two."
+      }
     },
     {
       "id": "vocab:school:duktig-pa",
@@ -410,7 +507,11 @@
       },
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är duktig på att plugga. Mindre duktig på att komma ihåg.",
+        "en": "I’m good at studying. Less good at remembering."
+      }
     },
     {
       "id": "vocab:school:matte",
@@ -426,7 +527,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Matte är lätt: en kaka plus en kaka är ingen kaka. Jag har ätit dem.",
+        "en": "Maths is easy: one cake plus one cake is no cake. I’ve eaten them."
+      }
     },
     {
       "id": "vocab:school:fysik",
@@ -442,7 +547,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Fysiken säger att katter landar på fötterna. Min katt landar på mig.",
+        "en": "Physics says cats land on their feet. My cat lands on me."
+      }
     },
     {
       "id": "vocab:school:kemi",
@@ -458,7 +567,12 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vi har bra kemi, sa kemiläraren till sitt kaffe.",
+        "en": "“We have good chemistry,” said the chemistry teacher to her coffee.",
+        "note": "Kemi means ‘chemistry’ in both senses, just like in English."
+      }
     },
     {
       "id": "vocab:school:historia",
@@ -474,7 +588,12 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Farfar berättar historier om historia. Han var där själv.",
+        "en": "Grandad tells stories about history. He was there himself.",
+        "note": "Historia means both ‘history’ and ‘story’."
+      }
     },
     {
       "id": "vocab:school:sprak",
@@ -492,7 +611,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag talar fyra språk: finska, engelska, lite svenska och katt.",
+        "en": "I speak four languages: Finnish, English, a little Swedish and cat."
+      }
     },
     {
       "id": "vocab:school:termin",
@@ -510,7 +633,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Terminen börjar i augusti. Min motivation börjar i december.",
+        "en": "The term starts in August. My motivation starts in December."
+      }
     },
     {
       "id": "vocab:school:skolkamrat",
@@ -528,7 +655,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Min gamla skolkamrat är min chef nu. Han kommer ihåg allt.",
+        "en": "My old schoolmate is my boss now. He remembers everything."
+      }
     },
     {
       "id": "vocab:school:skolka",
@@ -539,7 +670,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Han skolkade från lektionen om att inte skolka.",
+        "en": "He skipped the lesson about not skipping class."
+      }
     },
     {
       "id": "vocab:school:forklara",
@@ -550,7 +685,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Kan du förklara igen? Långsamt? På engelska?",
+        "en": "Can you explain again? Slowly? In English?"
+      }
     },
     {
       "id": "vocab:school:strang",
@@ -561,7 +700,11 @@
       "lesson": 19,
       "tags": [
         "yki-work-study"
-      ]
+      ],
+      "fun": {
+        "sv": "Vår lärare är sträng: den som kommer sent bjuder alla på bullar.",
+        "en": "Our teacher is strict: whoever arrives late treats everyone to buns."
+      }
     }
   ]
 }

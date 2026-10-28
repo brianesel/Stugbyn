@@ -36,7 +36,11 @@
           "an apple"
         ]
       ],
-      "watch": "Words for people are almost always en-words: en lärare, en man, en kvinna. But: ett barn."
+      "watch": "Words for people are almost always en-words: en lärare, en man, en kvinna. But: ett barn.",
+      "fun": {
+        "sv": "Det heter en stol men ett bord. Varför? Ingen vet. Inte ens stolen.",
+        "en": "It’s en stol (a chair) but ett bord (a table). Why? Nobody knows. Not even the chair."
+      }
     },
     {
       "title": "The definite form",
@@ -63,7 +67,11 @@
           "the apple"
         ]
       ],
-      "watch": "Words ending in -el and -er often just add -n: nyckel → nyckeln, syster → systern."
+      "watch": "Words ending in -el and -er often just add -n: nyckel → nyckeln, syster → systern.",
+      "fun": {
+        "sv": "Jag köpte en lampa på IKEA. Lampan är fin, men skruvarna är kvar i påsen.",
+        "en": "I bought a lamp at IKEA. The lamp is nice, but the screws are still in the bag."
+      }
     },
     {
       "title": "Group 1: the -or house",
@@ -85,7 +93,11 @@
           "school"
         ]
       ],
-      "watch": "A few words without -a also take -or: en ros → rosor."
+      "watch": "A few words without -a also take -or: en ros → rosor.",
+      "fun": {
+        "sv": "En kaka, två kakor, tre kakor … nu finns det inga kakor kvar.",
+        "en": "One cake, two cakes, three cakes … now there are no cakes left."
+      }
     },
     {
       "title": "Group 2: the -ar house",
@@ -112,7 +124,12 @@
           "key"
         ]
       ],
-      "watch": "The last e often disappears: fågel → fåglar, syster → systrar."
+      "watch": "The last e often disappears: fågel → fåglar, syster → systrar.",
+      "fun": {
+        "sv": "Det finns två sorters morgnar: tidiga morgnar och för tidiga morgnar.",
+        "en": "There are two kinds of mornings: early mornings and far too early mornings.",
+        "note": "En morgon, två morgnar: Group 2, and the o drops out."
+      }
     },
     {
       "title": "Group 3: the -er and -r house",
@@ -139,7 +156,11 @@
           "idea"
         ]
       ],
-      "watch": "Some short words change their vowel: bok → böcker, stad → städer, hand → händer, natt → nätter."
+      "watch": "Some short words change their vowel: bok → böcker, stad → städer, hand → händer, natt → nätter.",
+      "fun": {
+        "sv": "Hemma har vi fyra telefoner och tre datorer. Men ingen laddare.",
+        "en": "At home we have four phones and three computers. But no charger."
+      }
     },
     {
       "title": "Group 3 exceptions",
@@ -166,7 +187,11 @@
           "friend"
         ]
       ],
-      "watch": "Vän doubles the n: vännen, vänner, vännerna."
+      "watch": "Vän doubles the n: vännen, vänner, vännerna.",
+      "fun": {
+        "sv": "Jag hade en katt. Nu har jag tre katter. Jag vet inte hur.",
+        "en": "I had one cat. Now I have three cats. I don’t know how."
+      }
     },
     {
       "title": "Group 4: the -n house",
@@ -188,7 +213,11 @@
           "message"
         ]
       ],
-      "watch": "Irregular: ett öga → ögon, ett öra → öron."
+      "watch": "Irregular: ett öga → ögon, ett öra → öron.",
+      "fun": {
+        "sv": "Mormor har ett äppelträd. Nu har vi tvåhundra äpplen i köket.",
+        "en": "Grandma has an apple tree. Now we have two hundred apples in the kitchen."
+      }
     },
     {
       "title": "Group 5: the no-ending house",
@@ -210,7 +239,11 @@
           "teacher"
         ]
       ],
-      "watch": "Irregular: en man → två män."
+      "watch": "Irregular: en man → två män.",
+      "fun": {
+        "sv": "Ett barn, två barn, tre barn. Ordet ändras inte, men ljudnivån gör det.",
+        "en": "One child, two children, three children. The word doesn’t change, but the noise level does."
+      }
     },
     {
       "title": "The definite plural",
@@ -232,7 +265,11 @@
           "the houses"
         ]
       ],
-      "watch": "En-words ending in -are drop the e: lärare → lärarna. Rum doubles the m: rummen."
+      "watch": "En-words ending in -are drop the e: lärare → lärarna. Rum doubles the m: rummen.",
+      "fun": {
+        "sv": "Var är nycklarna? Var är glasögonen? Var är barnen? Okej, i bilen.",
+        "en": "Where are the keys? Where are the glasses? Where are the children? Okay, in the car."
+      }
     },
     {
       "title": "Ingen, inget, inga",
@@ -250,7 +287,12 @@
           "Det finns inga problem.",
           "There are no problems."
         ]
-      ]
+      ],
+      "fun": {
+        "sv": "Inget kaffe, ingen mjölk, inga bullar. Det är ingen morgon, det är en katastrof.",
+        "en": "No coffee, no milk, no buns. That’s not a morning, that’s a disaster.",
+        "note": "Inget for ett-words (kaffe), ingen for en-words (mjölk, morgon), inga for plurals (bullar)."
+      }
     },
     {
       "title": "Jag har ont i …",
@@ -269,7 +311,11 @@
           "His back hurts."
         ]
       ],
-      "watch": "Also: huvudvärk (headache), tandvärk (toothache), magvärk (stomachache)."
+      "watch": "Also: huvudvärk (headache), tandvärk (toothache), magvärk (stomachache).",
+      "fun": {
+        "sv": "Jag har ont i huvudet av alla en- och ett-ord.",
+        "en": "My head hurts from all the en-words and ett-words."
+      }
     }
   ]
 }

@@ -23,7 +23,7 @@ export function generateNounItems(table: NounTable): Item[] {
       ending: group.ending,
       label: group.label,
     };
-    const lesson = (type: string) => ({ level: n.level, lesson: table.lessons?.[type] ?? n.lesson });
+    const lesson = (type: string) => ({ level: n.level, lesson: table.lessons?.[type] ?? n.lesson, fun: n.fun });
     const tags = (t: string) => ['nouns', t, ...(n.tags ?? [])];
     const sayPl = fill(table.say.pl, vars);
 

@@ -18,7 +18,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min bästa vän är min kaffebryggare. Den väcker mig varje morgon.",
+        "en": "My best friend is my coffee maker. It wakes me up every morning."
+      }
     },
     {
       "id": "vocab:family:pojkvan",
@@ -36,7 +40,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Har du en pojkvän? – Nej, jag har en katt. Den klagar mindre.",
+        "en": "“Do you have a boyfriend?” “No, I have a cat. It complains less.”"
+      }
     },
     {
       "id": "vocab:family:flickvan",
@@ -54,7 +62,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min flickvän säger att jag pratar för mycket svenska. På finska.",
+        "en": "My girlfriend says I speak too much Swedish. In Finnish."
+      }
     },
     {
       "id": "vocab:family:sambo",
@@ -76,7 +88,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min sambo och jag delar allt. Utom choklad.",
+        "en": "My partner and I share everything. Except chocolate."
+      }
     },
     {
       "id": "vocab:family:sarbo",
@@ -94,7 +110,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi är särbor. Det är perfekt: två kylskåp.",
+        "en": "We’re a couple living apart. It’s perfect: two fridges."
+      }
     },
     {
       "id": "vocab:family:gift",
@@ -109,7 +129,12 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Är svampen giftig? – Nej, inte ens gift. Den är singel.",
+        "en": "“Is the mushroom poisonous?” “No, not even married. It’s single.”",
+        "note": "Pun: gift means ‘married’, but ett gift is ‘a poison’ (giftig = poisonous)."
+      }
     },
     {
       "id": "vocab:family:man",
@@ -130,7 +155,12 @@
       "note": "Irregular: en man, mannen, män, männen.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min man kan laga allt. Utom mat.",
+        "en": "My husband can fix anything. Except food.",
+        "note": "Laga means ‘fix’, and laga mat means ‘cook’."
+      }
     },
     {
       "id": "vocab:family:fru",
@@ -149,7 +179,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min fru har alltid rätt. Även när hon sover.",
+        "en": "My wife is always right. Even when she’s asleep."
+      }
     },
     {
       "id": "vocab:family:maka",
@@ -168,7 +202,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Hans maka bestämmer hemma. Utom på lördagar. Då bestämmer katten.",
+        "en": "His wife makes the decisions at home. Except on Saturdays. Then the cat decides."
+      }
     },
     {
       "id": "vocab:family:make",
@@ -186,7 +224,12 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min make letar efter strumpans make.",
+        "en": "My husband is looking for the sock’s other half.",
+        "note": "Make means ‘husband’ and also ‘the other one of a pair’."
+      }
     },
     {
       "id": "vocab:family:barn",
@@ -209,7 +252,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Barn är som katter: de vaknar klockan fem och vill ha mat.",
+        "en": "Children are like cats: they wake up at five and want food."
+      }
     },
     {
       "id": "vocab:family:son",
@@ -228,7 +275,11 @@
       "note": "Vowel change: son → söner.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min son är fem år och vet allt. Jag är fyrtio och vet ingenting.",
+        "en": "My son is five and knows everything. I’m forty and know nothing."
+      }
     },
     {
       "id": "vocab:family:dotter",
@@ -247,7 +298,11 @@
       "note": "Vowel change: dotter → döttrar.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min dotter lär mig svenska. Hon tar betalt i glass.",
+        "en": "My daughter teaches me Swedish. She charges in ice cream."
+      }
     },
     {
       "id": "vocab:family:bror",
@@ -266,7 +321,11 @@
       "note": "Definite singular is brodern (also brorn in speech); plural bröder.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min bror och jag delar allt. Han vet bara inte om det.",
+        "en": "My brother and I share everything. He just doesn’t know it."
+      }
     },
     {
       "id": "vocab:family:syster",
@@ -284,7 +343,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min syster ringer bara när hon behöver hjälp. Alltså varje dag.",
+        "en": "My sister only calls when she needs help. So, every day."
+      }
     },
     {
       "id": "vocab:family:syskon",
@@ -306,7 +369,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har fyra syskon och ett badrum. Vi står i kö varje morgon.",
+        "en": "I have four siblings and one bathroom. We queue every morning."
+      }
     },
     {
       "id": "vocab:family:singel",
@@ -317,7 +384,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Är du singel? – Nej, jag har en katt och tre krukväxter.",
+        "en": "“Are you single?” “No, I have a cat and three houseplants.”"
+      }
     },
     {
       "id": "vocab:family:skild",
@@ -328,7 +399,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Mina strumpor är skilda. Den ena bor i tvättmaskinen nu.",
+        "en": "My socks are divorced. One of them lives in the washing machine now."
+      }
     },
     {
       "id": "vocab:family:skilja-sig",
@@ -339,7 +414,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Mina föräldrar ville skilja sig, men båda ville ha katten. Så de stannade tillsammans.",
+        "en": "My parents wanted to divorce, but both wanted the cat. So they stayed together."
+      }
     },
     {
       "id": "vocab:family:gora-slut",
@@ -350,7 +429,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag gjorde slut med gymmet: ”Det är inte du, det är jag.”",
+        "en": "I broke up with the gym: “It’s not you, it’s me.”"
+      }
     },
     {
       "id": "vocab:family:foralder",
@@ -369,7 +452,11 @@
       "note": "Plural föräldrar, föräldrarna.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Att vara förälder är lätt, säger alla som inte har barn.",
+        "en": "Being a parent is easy, says everyone who doesn’t have children."
+      }
     },
     {
       "id": "vocab:family:mamma",
@@ -387,7 +474,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Har du ätit? frågar mamma. Jag är fyrtio år gammal.",
+        "en": "“Have you eaten?” asks Mum. I’m forty years old."
+      }
     },
     {
       "id": "vocab:family:pappa",
@@ -405,7 +496,11 @@
       "lesson": 2,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Pappa säger att han inte är trött. Sedan sover han i soffan.",
+        "en": "Dad says he isn’t tired. Then he falls asleep on the sofa."
+      }
     },
     {
       "id": "vocab:family:farmor",
@@ -424,7 +519,11 @@
       "note": "Definite also farmorn in speech.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Farmor säger att det inte är kallt ute. Det är minus trettio.",
+        "en": "Grandma says it isn’t cold outside. It’s minus thirty."
+      }
     },
     {
       "id": "vocab:family:farfar",
@@ -443,7 +542,11 @@
       "note": "Definite also farfarn in speech.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Farfar går i bastu varje dag. Han är nittio och säger att det är därför.",
+        "en": "Grandpa goes to the sauna every day. He’s ninety and says that’s why."
+      }
     },
     {
       "id": "vocab:family:mormor",
@@ -462,7 +565,11 @@
       "note": "Definite also mormorn in speech.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Jag är mätt, mormor. – Bara en bulle till!",
+        "en": "“I’m full, Grandma.” “Just one more bun!”"
+      }
     },
     {
       "id": "vocab:family:morfar",
@@ -481,7 +588,11 @@
       "note": "Definite also morfarn in speech.",
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Morfar berättar samma historia varje jul. Nu kan vi den utantill.",
+        "en": "Grandpa tells the same story every Christmas. Now we know it by heart."
+      }
     },
     {
       "id": "vocab:family:ensamstaende-foralder",
@@ -492,7 +603,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Ensamstående förälder: kock, taxi och lärare. Lön: en kram.",
+        "en": "Single parent: cook, taxi and teacher. Salary: one hug."
+      }
     },
     {
       "id": "vocab:family:familj",
@@ -515,7 +630,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min familj är liten: jag, min sambo och tre katter. Katterna bestämmer.",
+        "en": "My family is small: me, my partner and three cats. The cats are in charge."
+      }
     },
     {
       "id": "vocab:family:ensambarn",
@@ -534,7 +653,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är ensambarn. Jag vann alla bråk om tv:n.",
+        "en": "I’m an only child. I won every fight about the TV."
+      }
     },
     {
       "id": "vocab:family:gifta-sig",
@@ -545,7 +668,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "De ska gifta sig i januari. I Finland. Utomhus.",
+        "en": "They’re getting married in January. In Finland. Outdoors."
+      }
     },
     {
       "id": "vocab:family:kusin",
@@ -563,7 +690,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har tjugo kusiner. Jag kan tre av namnen.",
+        "en": "I have twenty cousins. I know three of the names."
+      }
     },
     {
       "id": "vocab:family:barnfri",
@@ -574,7 +705,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi är barnfria. Våra katter håller inte med.",
+        "en": "We’re child-free. Our cats disagree."
+      }
     },
     {
       "id": "vocab:family:granne",
@@ -592,7 +727,11 @@
       "lesson": 10,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min granne nickar en gång per år. Vi är bästa vänner nu.",
+        "en": "My neighbour nods once a year. We’re best friends now."
+      }
     }
   ]
 }

@@ -22,7 +22,12 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Ost i öst, ost i väst, ost är bäst.",
+        "en": "Cheese in the east, cheese in the west, cheese is best.",
+        "note": "Ost (cheese) and öst (east) differ only by the dots on the o."
+      }
     },
     {
       "id": "vocab:food:smorgas",
@@ -45,7 +50,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Min smörgås föll på golvet. Med smöret nedåt, såklart.",
+        "en": "My sandwich fell on the floor. Butter side down, of course."
+      }
     },
     {
       "id": "vocab:food:agg",
@@ -67,7 +76,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vad kom först, hönan eller ägget? – Frukosten.",
+        "en": "“Which came first, the chicken or the egg?” “Breakfast.”"
+      }
     },
     {
       "id": "vocab:food:mjolk",
@@ -87,7 +100,12 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Mjölken går ut i dag. Jag stannar hemma.",
+        "en": "The milk goes out (expires) today. I’m staying in.",
+        "note": "Gå ut means both ‘go out’ and ‘expire’ (for food)."
+      }
     },
     {
       "id": "vocab:food:frukost",
@@ -109,7 +127,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Frukost är dagens viktigaste måltid. Därför äter jag den två gånger.",
+        "en": "Breakfast is the most important meal of the day. That’s why I eat it twice."
+      }
     },
     {
       "id": "vocab:food:lunch",
@@ -128,7 +150,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag börjar tänka på lunch klockan nio.",
+        "en": "I start thinking about lunch at nine."
+      }
     },
     {
       "id": "vocab:food:middag",
@@ -150,7 +176,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi äter middag klockan fem. I december är det mitt i natten.",
+        "en": "We eat dinner at five. In December, that’s the middle of the night."
+      }
     },
     {
       "id": "vocab:food:kaffe",
@@ -170,7 +200,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur många koppar kaffe dricker du? – Bara en. Den fylls på ofta.",
+        "en": "“How many cups of coffee do you drink?” “Just one. It gets refilled often.”"
+      }
     },
     {
       "id": "vocab:food:te",
@@ -186,7 +220,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag dricker te när jag vill vara lugn och kaffe när jag vill vara snabb.",
+        "en": "I drink tea when I want to be calm and coffee when I want to be fast."
+      }
     },
     {
       "id": "vocab:food:brod",
@@ -202,7 +240,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Brödet var så hårt att vi byggde en bastu av det.",
+        "en": "The bread was so hard that we built a sauna out of it."
+      }
     },
     {
       "id": "vocab:food:frukt",
@@ -220,7 +262,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag äter mycket frukt. Bananen i kakan räknas väl?",
+        "en": "I eat a lot of fruit. The banana in the cake counts, right?"
+      }
     },
     {
       "id": "vocab:food:grot",
@@ -236,7 +282,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Min gröt har klumpar. Jag säger att det är en överraskning.",
+        "en": "My porridge has lumps. I say they’re a surprise."
+      }
     },
     {
       "id": "vocab:food:smor",
@@ -252,7 +302,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Allt blir bättre med smör. Utom min tröja.",
+        "en": "Everything gets better with butter. Except my sweater."
+      }
     },
     {
       "id": "vocab:food:honung",
@@ -268,7 +322,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Björnen och jag har samma hobby: honung.",
+        "en": "The bear and I have the same hobby: honey."
+      }
     },
     {
       "id": "vocab:food:sylt",
@@ -284,7 +342,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Sylt till köttbullar? Ja, svenskarna menar allvar.",
+        "en": "Jam with meatballs? Yes, the Swedes are serious."
+      }
     },
     {
       "id": "vocab:food:fattiga-riddare",
@@ -296,7 +358,12 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Fattiga riddare? Med så mycket smör och sylt är de rika.",
+        "en": "Poor knights? With that much butter and jam, they’re rich.",
+        "note": "Fattiga riddare (French toast) literally means ‘poor knights’."
+      }
     },
     {
       "id": "vocab:food:mjol",
@@ -312,7 +379,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag bakade bröd. Brödet blev litet, men hela köket blev vitt av mjöl.",
+        "en": "I baked bread. The bread was small, but the whole kitchen turned white with flour."
+      }
     },
     {
       "id": "vocab:food:svamp",
@@ -330,7 +401,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag plockar svamp i skogen. Myggorna plockar mig.",
+        "en": "I pick mushrooms in the forest. The mosquitoes pick me."
+      }
     },
     {
       "id": "vocab:food:korv",
@@ -348,7 +423,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "I bastun grillar vi korv. Och oss själva.",
+        "en": "In the sauna we grill sausages. And ourselves."
+      }
     },
     {
       "id": "vocab:food:kott",
@@ -364,7 +443,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Min katt äter bara kött. Och min middag.",
+        "en": "My cat only eats meat. And my dinner."
+      }
     },
     {
       "id": "vocab:food:kyckling",
@@ -383,7 +466,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Kycklingen gick över vägen. Den ville inte bli middag.",
+        "en": "The chicken crossed the road. It didn’t want to become dinner."
+      }
     },
     {
       "id": "vocab:food:flask",
@@ -399,7 +486,11 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Ärtsoppa och fläsk på torsdag. Det är inte mat, det är tradition.",
+        "en": "Pea soup and pork on Thursday. It’s not food, it’s tradition."
+      }
     },
     {
       "id": "vocab:food:notkott",
@@ -415,7 +506,12 @@
       "lesson": 7,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Nötkött kommer från kor, inte från nötter. Jag har frågat.",
+        "en": "Beef comes from cows, not from nuts. I asked.",
+        "note": "Nöt means ‘cattle’ in nötkött, but en nöt is also ‘a nut’."
+      }
     },
     {
       "id": "vocab:food:apple",
@@ -433,7 +529,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag köpte ett äpple för hälsan och en äppelpaj för humöret.",
+        "en": "I bought an apple for my health and an apple pie for my mood."
+      }
     },
     {
       "id": "vocab:food:apelsin",
@@ -451,7 +551,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "En apelsin direkt efter tandkrämen? Dålig idé.",
+        "en": "An orange right after toothpaste? Bad idea."
+      }
     },
     {
       "id": "vocab:food:banan",
@@ -469,7 +573,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "I går var min banan gul. I dag är den brun. I morgon blir den bananbröd.",
+        "en": "Yesterday my banana was yellow. Today it’s brown. Tomorrow it becomes banana bread."
+      }
     },
     {
       "id": "vocab:food:bar",
@@ -488,7 +596,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag plockar bär: ett i korgen, två i munnen.",
+        "en": "I pick berries: one in the basket, two in my mouth."
+      }
     },
     {
       "id": "vocab:food:blabar",
@@ -507,7 +619,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Efter blåbären är min mun blå. Och mina händer. Och hunden.",
+        "en": "After the blueberries my mouth is blue. And my hands. And the dog."
+      }
     },
     {
       "id": "vocab:food:jordgubbe",
@@ -526,7 +642,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Svensk midsommar: regn, jordgubbar och tjugo myggor per person.",
+        "en": "Swedish midsummer: rain, strawberries and twenty mosquitoes per person."
+      }
     },
     {
       "id": "vocab:food:hallon",
@@ -545,7 +665,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Hallon på tårtan, hallon i munnen och inga hallon i korgen.",
+        "en": "Raspberries on the cake, raspberries in my mouth and no raspberries in the basket."
+      }
     },
     {
       "id": "vocab:food:lingon",
@@ -564,7 +688,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Skogen är full av lingon. Nu är jag också full av lingon.",
+        "en": "The forest is full of lingonberries. Now I’m full of lingonberries too."
+      }
     },
     {
       "id": "vocab:food:korsbar",
@@ -583,7 +711,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Körsbär har ett kort liv: en vecka på trädet, en sekund i munnen.",
+        "en": "Cherries have a short life: a week on the tree, a second in your mouth."
+      }
     },
     {
       "id": "vocab:food:druva",
@@ -601,7 +733,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "En druva i solen blir ett russin. Jag i solen blir röd.",
+        "en": "A grape in the sun becomes a raisin. Me in the sun becomes red."
+      }
     },
     {
       "id": "vocab:food:ananas",
@@ -621,7 +757,11 @@
       "tags": [
         "yki-shopping"
       ],
-      "check": true
+      "check": true,
+      "fun": {
+        "sv": "Ananas på pizza? Min familj pratar inte om det längre.",
+        "en": "Pineapple on pizza? My family doesn’t talk about it any more."
+      }
     },
     {
       "id": "vocab:food:vattenmelon",
@@ -639,7 +779,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Vattenmelon är mest vatten. Jag bär alltså hem en liten sjö från affären.",
+        "en": "Watermelon is mostly water. So I’m carrying a small lake home from the shop."
+      }
     },
     {
       "id": "vocab:food:persika",
@@ -658,7 +802,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Mjuk som en persika? Min persika är hård som en sten.",
+        "en": "Soft as a peach? My peach is as hard as a stone."
+      }
     },
     {
       "id": "vocab:food:aprikos",
@@ -676,7 +824,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Aprikos eller persika? Jag ser ingen skillnad, men båda är goda.",
+        "en": "Apricot or peach? I can’t see the difference, but both are tasty."
+      }
     },
     {
       "id": "vocab:food:gronsak",
@@ -698,7 +850,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Pommes frites är en grönsak. De kommer ju från potatis!",
+        "en": "French fries are a vegetable. They come from potatoes, after all!"
+      }
     },
     {
       "id": "vocab:food:tomat",
@@ -717,7 +873,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Är tomaten en frukt eller en grönsak? För min son är den ketchup.",
+        "en": "Is the tomato a fruit or a vegetable? For my son, it’s ketchup."
+      }
     },
     {
       "id": "vocab:food:potatis",
@@ -736,7 +896,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Färskpotatis i juni: det enda finländare köar för med ett leende.",
+        "en": "New potatoes in June: the only thing Finns queue for with a smile."
+      }
     },
     {
       "id": "vocab:food:lok",
@@ -754,7 +918,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag gråter inte. Jag skär lök.",
+        "en": "I’m not crying. I’m cutting onions."
+      }
     },
     {
       "id": "vocab:food:vitlok",
@@ -770,7 +938,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Vitlök håller vampyrer borta. Och grannarna.",
+        "en": "Garlic keeps vampires away. And the neighbours."
+      }
     },
     {
       "id": "vocab:food:morot",
@@ -790,7 +962,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "– Varför äter du så många morötter? – Jag vill se i mörkret. Det är ju december.",
+        "en": "“Why do you eat so many carrots?” “I want to see in the dark. It’s December, after all.”"
+      }
     },
     {
       "id": "vocab:food:kal",
@@ -806,7 +982,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Kål är billig, nyttig och lite tråkig. Som min bil.",
+        "en": "Cabbage is cheap, healthy and a bit boring. Like my car."
+      }
     },
     {
       "id": "vocab:food:blomkal",
@@ -822,7 +1002,12 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Blomkål är en blomma man kan äta. Min sambo vill ändå hellre ha rosor.",
+        "en": "Cauliflower is a flower you can eat. My partner still prefers roses.",
+        "note": "Blomkål literally means ‘flower cabbage’."
+      }
     },
     {
       "id": "vocab:food:gurka",
@@ -840,7 +1025,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Gurkan är nästan bara vatten. Jag har betalat två euro för vatten.",
+        "en": "The cucumber is almost only water. I paid two euros for water."
+      }
     },
     {
       "id": "vocab:food:sallad",
@@ -858,7 +1047,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Sallad är min favoritmat. På hamburgaren.",
+        "en": "Salad is my favourite food. On my hamburger."
+      }
     },
     {
       "id": "vocab:food:choklad",
@@ -874,7 +1067,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har en bit choklad kvar. Jag gömmer den för mig själv.",
+        "en": "I have one piece of chocolate left. I’m hiding it from myself."
+      }
     },
     {
       "id": "vocab:food:glass",
@@ -892,7 +1089,12 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Glass i ett glas är fortfarande glass.",
+        "en": "Ice cream in a glass is still ice cream.",
+        "note": "Glass (two s) is ‘ice cream’; glas (one s) is ‘a glass’."
+      }
     },
     {
       "id": "vocab:food:kaka",
@@ -910,7 +1112,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Den sista kakan är borta. Katten säger att den inte vet något.",
+        "en": "The last cookie is gone. The cat says it doesn’t know anything."
+      }
     },
     {
       "id": "vocab:food:tarta",
@@ -928,7 +1134,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Tårtan var så fin att ingen ville äta den. Sedan kom farfar.",
+        "en": "The cake was so pretty that nobody wanted to eat it. Then Grandpa arrived."
+      }
     },
     {
       "id": "vocab:food:godis",
@@ -944,7 +1154,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Lördagsgodis äter man på lördag. Och fredag. Och lite i dag.",
+        "en": "Saturday sweets are for Saturday. And Friday. And a bit today."
+      }
     },
     {
       "id": "vocab:food:vatten",
@@ -960,7 +1174,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Finland har tusentals sjöar, men jag köper vatten på flaska.",
+        "en": "Finland has thousands of lakes, but I buy bottled water."
+      }
     },
     {
       "id": "vocab:food:vin",
@@ -976,7 +1194,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "– Rött eller vitt vin? – Saft, tack. Jag kör.",
+        "en": "“Red or white wine?” “Juice, please. I’m driving.”"
+      }
     },
     {
       "id": "vocab:food:ol",
@@ -993,7 +1215,12 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "En ö, ett öl, ett öra: svenska är lätt, säger de.",
+        "en": "An island, a beer, an ear: Swedish is easy, they say.",
+        "note": "Ö (island), öl (beer) and öra (ear) look almost the same."
+      }
     },
     {
       "id": "vocab:food:flaska",
@@ -1015,7 +1242,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag köpte en flaska vatten för tre euro. Sjön bredvid var gratis.",
+        "en": "I bought a bottle of water for three euros. The lake next to it was free."
+      }
     },
     {
       "id": "vocab:food:burk",
@@ -1033,7 +1264,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag kan inte öppna burken. Burken vinner igen.",
+        "en": "I can’t open the jar. The jar wins again."
+      }
     },
     {
       "id": "vocab:food:pase",
@@ -1051,7 +1286,11 @@
       "lesson": 10,
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Hemma har jag en påse med påsar. Och en påse för den påsen.",
+        "en": "At home I have a bag of bags. And a bag for that bag."
+      }
     },
     {
       "id": "vocab:food:hekto",
@@ -1074,7 +1313,11 @@
       },
       "tags": [
         "yki-shopping"
-      ]
+      ],
+      "fun": {
+        "sv": "Ett hekto godis, tack. Okej, två hekto. Det är ju fredag.",
+        "en": "A hundred grams of sweets, please. OK, two hundred. It’s Friday, after all."
+      }
     }
   ]
 }

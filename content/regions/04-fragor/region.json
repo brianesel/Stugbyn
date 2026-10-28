@@ -11,34 +11,40 @@
       "title": "Question words",
       "rule": "Vad = what, vem = who, hur = how, var = where, när = when, varför = why. The question word is the fundament, so the verb comes second and the subject after it.",
       "examples": [["Vad heter du?", "What’s your name?"], ["Vem är det?", "Who is it?"], ["Hur mår du?", "How are you?"], ["När börjar lektionen?", "When does the lesson start?"], ["Varför är du trött?", "Why are you tired?"]],
-      "watch": "Ask a name with vad, not hur: Vad heter du?"
+      "watch": "Ask a name with vad, not hur: Vad heter du?",
+      "fun": {"sv": "– Vem är det? – Katten. – Vad vill hon? – Mat. – När? – Nu. Alltid nu.", "en": "“Who is it?” “The cat.” “What does she want?” “Food.” “When?” “Now. Always now.”"}
     },
     {
       "title": "Hur mycket, hur många, hur gammal",
       "rule": "Hur can go with another word. Hur mycket is for things you can’t count, hur många for things you can count.",
-      "examples": [["Hur mycket kostar det?", "How much does it cost?"], ["Hur många barn har du?", "How many children do you have?"], ["Hur gammal är du?", "How old are you?"]]
+      "examples": [["Hur mycket kostar det?", "How much does it cost?"], ["Hur många barn har du?", "How many children do you have?"], ["Hur gammal är du?", "How old are you?"]],
+      "fun": {"sv": "– Hur mycket kaffe dricker du? – Inte så mycket. – Hur många koppar? – Tolv.", "en": "“How much coffee do you drink?” “Not that much.” “How many cups?” “Twelve.”"}
     },
     {
       "title": "Var, vart, varifrån",
       "rule": "Var = where (a place, no movement). Vart = where to (movement towards a place). Varifrån = where from.",
       "examples": [["Var bor du?", "Where do you live?"], ["Vart ska du?", "Where are you going?"], ["Varifrån kommer du?", "Where are you from?"]],
-      "watch": "Same pattern as the answers: Var? – Här. Vart? – Hit. Varifrån? – Härifrån."
+      "watch": "Same pattern as the answers: Var? – Här. Vart? – Hit. Varifrån? – Härifrån.",
+      "fun": {"sv": "– Var är du? – I bastun. – Vart ska du sen? – Till sjön. Och sen tillbaka hit.", "en": "“Where are you?” “In the sauna.” “Where are you going after that?” “To the lake. And then back here.”", "note": "Var asks where something is; vart asks where someone is going."}
     },
     {
       "title": "Vilken, vilket, vilka",
       "rule": "Vilken (which) goes with en-words, vilket with ett-words and vilka with plurals.",
-      "examples": [["Vilken buss tar du?", "Which bus do you take?"], ["Vilket rum är ditt?", "Which room is yours?"], ["Vilka språk talar du?", "Which languages do you speak?"]]
+      "examples": [["Vilken buss tar du?", "Which bus do you take?"], ["Vilket rum är ditt?", "Which room is yours?"], ["Vilka språk talar du?", "Which languages do you speak?"]],
+      "fun": {"sv": "– Vilken kaka vill du ha? Vilket bröd? Vilka bullar? – Ja, tack.", "en": "“Which cake would you like? Which bread? Which buns?” “Yes, please.”", "note": "Vilken for en-words (kaka), vilket for ett-words (bröd), vilka for plurals (bullar)."}
     },
     {
       "title": "Short answers",
       "rule": "Answer a yes/no question with ja or nej + det + the verb + the subject. For most verbs, use gör. With är, har, kan, vill and ska, repeat that verb.",
       "examples": [["Bor du här? – Ja, det gör jag.", "Do you live here? – Yes, I do."], ["Dricker du kaffe? – Nej, jag gör inte det.", "Do you drink coffee? – No, I don’t."], ["Är du trött? – Ja, det är jag.", "Are you tired? – Yes, I am."], ["Kan du simma? – Nej, det kan jag inte.", "Can you swim? – No, I can’t."]],
-      "watch": "Nej, jag gör inte det and Nej, det gör jag inte mean the same."
+      "watch": "Nej, jag gör inte det and Nej, det gör jag inte mean the same.",
+      "fun": {"sv": "– Pratar du svenska? – Ja, det gör jag. – Förstår du svenska? – Nej, det gör jag inte.", "en": "“Do you speak Swedish?” “Yes, I do.” “Do you understand Swedish?” “No, I don’t.”"}
     },
     {
       "title": "Jo: yes to a question with inte",
       "rule": "If the question has inte in it, answer jo (not ja) to say yes.",
-      "examples": [["Har du inte bil? – Jo, det har jag.", "Don’t you have a car? – Yes, I do."], ["Kommer du inte? – Jo, det gör jag.", "Aren’t you coming? – Yes, I am."]]
+      "examples": [["Har du inte bil? – Jo, det har jag.", "Don’t you have a car? – Yes, I do."], ["Kommer du inte? – Jo, det gör jag.", "Aren’t you coming? – Yes, I am."]],
+      "fun": {"sv": "– Är du inte trött? – Jo, det är jag. Det är november.", "en": "“Aren’t you tired?” “Yes, I am. It’s November.”"}
     }
   ]
 }

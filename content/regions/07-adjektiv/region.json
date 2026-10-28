@@ -39,7 +39,11 @@
           "The children are happy."
         ]
       ],
-      "watch": "Look at the noun, not the adjective: filmen är rolig (en-word), huset är stort (ett-word)."
+      "watch": "Look at the noun, not the adjective: filmen är rolig (en-word), huset är stort (ett-word).",
+      "fun": {
+        "sv": "Filmen är rolig, spelet är roligt och skämten är roliga. Utom de här.",
+        "en": "The film is funny, the game is fun and the jokes are funny. Except these ones."
+      }
     },
     {
       "title": "The definite form: -a",
@@ -62,7 +66,11 @@
           "the old man"
         ]
       ],
-      "watch": "Double definite: den stora bilen has both den and -en."
+      "watch": "Double definite: den stora bilen has both den and -en.",
+      "fun": {
+        "sv": "Den här dyra soffan är jättefin. Katten tycker att den gamla kartongen är finare.",
+        "en": "This expensive sofa is really lovely. The cat thinks the old cardboard box is nicer."
+      }
     },
     {
       "title": "After my, your, his: -a",
@@ -85,7 +93,11 @@
           "Anna’s red jacket"
         ]
       ],
-      "watch": "No definite ending on the noun here: min stora bil, not min stora bilen."
+      "watch": "No definite ending on the noun here: min stora bil, not min stora bilen.",
+      "fun": {
+        "sv": "Min nya mobil är smartare än jag.",
+        "en": "My new phone is smarter than me."
+      }
     },
     {
       "title": "Liten: four forms",
@@ -112,7 +124,11 @@
           "my little sister"
         ]
       ],
-      "watch": "Plural is always små, also in the definite: de små barnen."
+      "watch": "Plural is always små, also in the definite: de små barnen.",
+      "fun": {
+        "sv": "Vi har ett litet hus och små rum. Den lilla katten tar ändå hela sängen.",
+        "en": "We have a small house and small rooms. The little cat still takes the whole bed."
+      }
     },
     {
       "title": "Ny → nytt, god → gott, röd → rött",
@@ -139,7 +155,12 @@
           "blue"
         ]
       ],
-      "watch": "Bra never changes: en bra bok, ett bra jobb, bra böcker."
+      "watch": "Bra never changes: en bra bok, ett bra jobb, bra böcker.",
+      "fun": {
+        "sv": "Gott nytt år! Samma gamla jag, men i ett nytt år.",
+        "en": "Happy New Year! Same old me, but in a new year.",
+        "note": "Ett år takes gott and nytt: god → gott, ny → nytt."
+      }
     },
     {
       "title": "Comparison: -are and -ast",
@@ -158,7 +179,11 @@
           "The bus is cheaper than the taxi."
         ]
       ],
-      "watch": "Never add mer to a short adjective: billigare, not mer billig."
+      "watch": "Never add mer to a short adjective: billigare, not mer billig.",
+      "fun": {
+        "sv": "Kaffe är varmt, bastun är varmare, men grannens bastu är alltid varmast.",
+        "en": "Coffee is hot, the sauna is hotter, but the neighbour’s sauna is always the hottest."
+      }
     },
     {
       "title": "Irregular comparison",
@@ -185,7 +210,11 @@
           "young – younger – youngest"
         ]
       ],
-      "watch": "Never gammalare or storare: äldre, större."
+      "watch": "Never gammalare or storare: äldre, större.",
+      "fun": {
+        "sv": "Mitt kaffe är bra, ditt kaffe är bättre, men kaffet på jobbet är bäst. Det är gratis.",
+        "en": "My coffee is good, your coffee is better, but the coffee at work is the best. It’s free."
+      }
     },
     {
       "title": "Mycket, mer, mest vs många, fler, flest",
@@ -210,7 +239,12 @@
           "Who has the most books?"
         ]
       ],
-      "watch": "Pengar looks plural but you can’t count it: mycket pengar, mer pengar."
+      "watch": "Pengar looks plural but you can’t count it: mycket pengar, mer pengar.",
+      "fun": {
+        "sv": "Jag vill ha mer tid och fler lediga dagar. Och mycket mer kaffe.",
+        "en": "I want more time and more days off. And much more coffee.",
+        "note": "Tid and kaffe can’t be counted (mer); dagar can (fler)."
+      }
     },
     {
       "title": "Denna, detta, dessa",
@@ -232,7 +266,11 @@
           "these shoes"
         ]
       ],
-      "watch": "Den här + definite noun (den här filmen), but denna + indefinite noun (denna film)."
+      "watch": "Den här + definite noun (den här filmen), but denna + indefinite noun (denna film).",
+      "fun": {
+        "sv": "Denna soffa tillhör katten. Dessa regler gäller inte för henne.",
+        "en": "This sofa belongs to the cat. These rules do not apply to her."
+      }
     }
   ]
 }

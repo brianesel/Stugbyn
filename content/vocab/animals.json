@@ -18,7 +18,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt favoritdjur? Det som sover i min säng just nu.",
+        "en": "My favourite animal? The one sleeping in my bed right now."
+      }
     },
     {
       "id": "vocab:animals:husdjur",
@@ -40,7 +44,11 @@
       },
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi skaffade ett husdjur till barnen. Nu tar jag hand om det.",
+        "en": "We got a pet for the kids. Now I take care of it."
+      }
     },
     {
       "id": "vocab:animals:hund",
@@ -58,7 +66,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Hunden tror att varje promenad är den bästa i hela livet.",
+        "en": "The dog thinks every walk is the best one of its whole life."
+      }
     },
     {
       "id": "vocab:animals:katt",
@@ -77,7 +89,11 @@
       "note": "Exception: a short en-word that takes -er: katt → katter.",
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten vill inte ha den dyra leksaken. Hon vill ha kartongen.",
+        "en": "The cat doesn’t want the expensive toy. She wants the box."
+      }
     },
     {
       "id": "vocab:animals:fisk",
@@ -96,7 +112,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Min fisk är en bra lyssnare. Den säger aldrig emot.",
+        "en": "My fish is a good listener. It never argues."
+      }
     },
     {
       "id": "vocab:animals:kanin",
@@ -114,7 +134,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Kaninen äter morötter hela dagen. Och sladdar på natten.",
+        "en": "The rabbit eats carrots all day. And cables at night."
+      }
     },
     {
       "id": "vocab:animals:fagel",
@@ -133,7 +157,11 @@
       "note": "The e drops in the plural: fågel → fåglar.",
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "En fågel sjunger utanför fönstret. Klockan fyra. Varje morgon.",
+        "en": "A bird sings outside the window. At four o’clock. Every morning."
+      }
     },
     {
       "id": "vocab:animals:hast",
@@ -151,7 +179,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag red på en häst en gång. Hästen bestämde vart vi skulle.",
+        "en": "I rode a horse once. The horse decided where we were going."
+      }
     },
     {
       "id": "vocab:animals:papegoja",
@@ -169,7 +201,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Vår papegoja säger ”hej” på svenska. Den talar bättre än jag.",
+        "en": "Our parrot says “hej” in Swedish. It speaks better than me."
+      }
     },
     {
       "id": "vocab:animals:skoldpadda",
@@ -187,7 +223,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Sköldpaddan kom sent till festen. Den gick hemifrån förra veckan.",
+        "en": "The tortoise was late for the party. It left home last week."
+      }
     },
     {
       "id": "vocab:animals:alg",
@@ -206,7 +246,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Älgen står mitt på vägen. Den har ingen brådska. Nu har inte vi det heller.",
+        "en": "The moose is standing in the middle of the road. It’s in no hurry. Now neither are we."
+      }
     },
     {
       "id": "vocab:animals:radjur",
@@ -225,7 +269,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Rådjuret äter våra blommor. Det tror att trädgården är en restaurang.",
+        "en": "The deer eats our flowers. It thinks the garden is a restaurant."
+      }
     },
     {
       "id": "vocab:animals:bjorn",
@@ -243,7 +291,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Björnen sover hela vintern. Jag förstår honom helt.",
+        "en": "The bear sleeps all winter. I completely understand him."
+      }
     },
     {
       "id": "vocab:animals:tvattbjorn",
@@ -261,7 +313,12 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Tvättbjörnen tvättar aldrig. Den heter bara så.",
+        "en": "The raccoon never does the laundry. That’s just its name.",
+        "note": "Tvättbjörn is literally ‘washing bear’."
+      }
     },
     {
       "id": "vocab:animals:rav",
@@ -280,7 +337,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Räven tittade på hönorna och sa: ”Hej, kompisar!”",
+        "en": "The fox looked at the hens and said: “Hi, buddies!”"
+      }
     },
     {
       "id": "vocab:animals:varg",
@@ -299,7 +360,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är inte rädd för vargen. Jag är rädd för måndagar.",
+        "en": "I’m not afraid of the wolf. I’m afraid of Mondays."
+      }
     },
     {
       "id": "vocab:animals:ekorre",
@@ -317,7 +382,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Ekorren gömmer nötter överallt och glömmer var. Precis som jag med nycklar.",
+        "en": "The squirrel hides nuts everywhere and forgets where. Just like me with keys."
+      }
     },
     {
       "id": "vocab:animals:ko",
@@ -335,7 +404,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Kon står i regnet och tuggar. Hon har inga problem i livet.",
+        "en": "The cow stands in the rain, chewing. She has no problems in life."
+      }
     },
     {
       "id": "vocab:animals:gris",
@@ -353,7 +426,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Grisen badar i lera och är glad. Det är nästan som ett spa.",
+        "en": "The pig bathes in mud and is happy. It’s almost like a spa."
+      }
     },
     {
       "id": "vocab:animals:far",
@@ -372,7 +449,12 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "– Får jag klappa ditt får? – Ja, det får du.",
+        "en": "“May I pet your sheep?” “Yes, you may.”",
+        "note": "Pun: får means both ‘sheep’ and ‘may’."
+      }
     },
     {
       "id": "vocab:animals:hona",
@@ -391,7 +473,11 @@
       "note": "Plural hönor; höns is the collective word for chickens.",
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Hönan la ett ägg och skrek som om hon hade vunnit på lotto.",
+        "en": "The hen laid an egg and screamed as if she had won the lottery."
+      }
     },
     {
       "id": "vocab:animals:orm",
@@ -409,7 +495,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Ormen behöver inga skor. Det är billigt.",
+        "en": "The snake doesn’t need any shoes. That’s cheap."
+      }
     },
     {
       "id": "vocab:animals:spindel",
@@ -428,7 +518,11 @@
       "note": "The e drops in the plural: spindel → spindlar.",
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Spindeln bor i hörnet. Han betalar ingen hyra, men han tar flugorna.",
+        "en": "The spider lives in the corner. He pays no rent, but he takes care of the flies."
+      }
     },
     {
       "id": "vocab:animals:odjur",
@@ -446,7 +540,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Det finns ett odjur under sängen. Det är katten, med kalla tassar.",
+        "en": "There’s a monster under the bed. It’s the cat, with cold paws."
+      }
     },
     {
       "id": "vocab:animals:valja",
@@ -457,7 +555,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "I djuraffären fick barnen välja ett djur. De valde alla.",
+        "en": "At the pet shop the kids got to choose one animal. They chose all of them."
+      }
     },
     {
       "id": "vocab:animals:foresla",
@@ -468,7 +570,11 @@
       "lesson": 9,
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag föreslog en hund. Min man föreslog en fisk. Nu har vi en katt.",
+        "en": "I suggested a dog. My husband suggested a fish. Now we have a cat."
+      }
     },
     {
       "id": "vocab:animals:gullig",
@@ -483,7 +589,11 @@
       },
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Valpen var så gullig att jag glömde att jag inte vill ha hund.",
+        "en": "The puppy was so cute that I forgot I don’t want a dog."
+      }
     },
     {
       "id": "vocab:animals:farlig",
@@ -498,7 +608,11 @@
       },
       "tags": [
         "yki-nature-weather"
-      ]
+      ],
+      "fun": {
+        "sv": "Det farligaste djuret i Finland? Myggan i juli.",
+        "en": "The most dangerous animal in Finland? The mosquito in July."
+      }
     }
   ]
 }

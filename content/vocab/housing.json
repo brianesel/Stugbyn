@@ -18,7 +18,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Min lägenhet är så liten att jag kan laga mat från sängen.",
+        "en": "My apartment is so small that I can cook from the bed."
+      }
     },
     {
       "id": "vocab:housing:tvaa",
@@ -37,7 +41,11 @@
       "note": "Also: en tvårummare.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "– Bor du i en tvåa? – Ja. Ett rum för katten och ett för hans leksaker.",
+        "en": "“Do you live in a two-room flat?” “Yes. One room for the cat and one for his toys.”"
+      }
     },
     {
       "id": "vocab:housing:trea",
@@ -56,7 +64,11 @@
       "note": "Also: en trerummare.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi flyttade till en trea. Nu har vi tre rum att städa i stället för två.",
+        "en": "We moved to a three-room flat. Now we have three rooms to clean instead of two."
+      }
     },
     {
       "id": "vocab:housing:lagenhetsvisning",
@@ -74,7 +86,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "På lägenhetsvisningen var det tjugo personer och en mycket nervös katt.",
+        "en": "At the apartment viewing there were twenty people and one very nervous cat."
+      }
     },
     {
       "id": "vocab:housing:hus",
@@ -92,7 +108,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi har ett stort hus. Katten använder hela huset, vi använder soffan.",
+        "en": "We have a big house. The cat uses the whole house, we use the sofa."
+      }
     },
     {
       "id": "vocab:housing:radhus",
@@ -110,7 +130,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "I ett radhus vet grannen alltid vad du lagar till middag.",
+        "en": "In a townhouse the neighbour always knows what you’re cooking for dinner."
+      }
     },
     {
       "id": "vocab:housing:hem",
@@ -130,7 +154,11 @@
       "note": "The m doubles in the definite forms: hemmet, hemmen.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt hem är mitt kontor nu. Katten är min chef.",
+        "en": "My home is my office now. The cat is my boss."
+      }
     },
     {
       "id": "vocab:housing:rum",
@@ -150,7 +178,12 @@
       "note": "The m doubles in the definite forms: rummet, rummen.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "– Har du rum för en gäst? – Ja, men gästen får dela rum med katten.",
+        "en": "“Do you have room for a guest?” “Yes, but the guest has to share a room with the cat.”",
+        "note": "Rum means both ‘room’ and ‘space’."
+      }
     },
     {
       "id": "vocab:housing:vardagsrum",
@@ -170,7 +203,12 @@
       "note": "The m doubles in the definite forms.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "I vardagsrummet är det vardag. Fest är det bara i köket.",
+        "en": "In the living room it’s an ordinary day. Parties only happen in the kitchen.",
+        "note": "Vardagsrum is literally ‘everyday room’ (vardag = an ordinary weekday)."
+      }
     },
     {
       "id": "vocab:housing:sovrum",
@@ -190,7 +228,12 @@
       "note": "The m doubles in the definite forms.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Det heter sovrum, men jag sover mest i soffan.",
+        "en": "It’s called the bedroom, but I mostly sleep on the sofa.",
+        "note": "Sovrum is literally ‘sleep room’."
+      }
     },
     {
       "id": "vocab:housing:badrum",
@@ -210,7 +253,12 @@
       "note": "The m doubles in the definite forms.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi har ett badrum men inget badkar. Det är egentligen ett duschrum.",
+        "en": "We have a bathroom but no bathtub. It’s really a shower room.",
+        "note": "Badrum is literally ‘bath room’."
+      }
     },
     {
       "id": "vocab:housing:kok",
@@ -228,7 +276,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Alla fester slutar i köket. Ingen vet varför.",
+        "en": "Every party ends up in the kitchen. Nobody knows why."
+      }
     },
     {
       "id": "vocab:housing:matsal",
@@ -246,7 +298,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi har en matsal, men vi äter framför tv:n.",
+        "en": "We have a dining room, but we eat in front of the TV."
+      }
     },
     {
       "id": "vocab:housing:balkong",
@@ -265,7 +321,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Min balkong är min kyl i januari.",
+        "en": "My balcony is my fridge in January."
+      }
     },
     {
       "id": "vocab:housing:bastu",
@@ -285,7 +345,11 @@
       "check": true,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Finländare har möten i bastun. Ingen har slips.",
+        "en": "Finns have meetings in the sauna. Nobody wears a tie."
+      }
     },
     {
       "id": "vocab:housing:tvattstuga",
@@ -303,7 +367,12 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Det svåraste i svenska är inte grammatiken. Det är listan i tvättstugan.",
+        "en": "The hardest thing in Swedish isn’t the grammar. It’s the list in the laundry room.",
+        "note": "Shared laundry rooms have booking lists that everyone takes very seriously."
+      }
     },
     {
       "id": "vocab:housing:hiss",
@@ -321,7 +390,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Hissen är trasig, så idag har jag gym gratis.",
+        "en": "The lift is broken, so today I get a free gym."
+      }
     },
     {
       "id": "vocab:housing:fonster",
@@ -341,7 +414,11 @@
       "note": "The e drops in the definite forms: fönstret, fönstren.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag tittar ut genom fönstret. Klockan är tre och det är redan mörkt.",
+        "en": "I look out of the window. It’s three o’clock and already dark."
+      }
     },
     {
       "id": "vocab:housing:dorr",
@@ -359,7 +436,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten vill ut. Sedan vill hon in. Sedan ut igen. Jag är kattens dörr.",
+        "en": "The cat wants out. Then she wants in. Then out again. I am the cat’s door."
+      }
     },
     {
       "id": "vocab:housing:vaning",
@@ -382,7 +463,11 @@
       },
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag bor på femte våningen. Hissen bor på första.",
+        "en": "I live on the fifth floor. The lift lives on the first."
+      }
     },
     {
       "id": "vocab:housing:ljus",
@@ -401,7 +486,12 @@
       "note": "The adjective ljus means light, bright.",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi har inget ljus i november, så vi köper ljus.",
+        "en": "We have no light in November, so we buy candles.",
+        "note": "Pun: ljus means both ‘light’ and ‘candle’."
+      }
     },
     {
       "id": "vocab:housing:kvadratmeter",
@@ -421,7 +511,11 @@
       "note": "Short: kvm. Definite plural to confirm (kvadratmetrarna / kvadratmeterna).",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Lägenheten är 30 kvadratmeter. Katten tar 29.",
+        "en": "The apartment is 30 square metres. The cat takes 29."
+      }
     },
     {
       "id": "vocab:housing:tradgard",
@@ -439,7 +533,11 @@
       "lesson": 3,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Min trädgård har två årstider: snö och myggor.",
+        "en": "My garden has two seasons: snow and mosquitoes."
+      }
     },
     {
       "id": "vocab:housing:vaxt",
@@ -457,7 +555,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Min växt lever fortfarande. Den är av plast.",
+        "en": "My plant is still alive. It’s made of plastic."
+      }
     },
     {
       "id": "vocab:housing:odla",
@@ -472,7 +574,11 @@
       },
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag odlar mina egna tomater. I affären.",
+        "en": "I grow my own tomatoes. At the shop."
+      }
     },
     {
       "id": "vocab:housing:stadsdel",
@@ -490,7 +596,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "I min stadsdel finns tre pizzerior och ingen bank. Vi vet vad som är viktigt.",
+        "en": "In my district there are three pizzerias and no bank. We know what matters."
+      }
     },
     {
       "id": "vocab:housing:tyst-omrade",
@@ -501,7 +611,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi bor i ett tyst område. Bara grannens hund vet inte det.",
+        "en": "We live in a quiet area. Only the neighbour’s dog doesn’t know that."
+      }
     },
     {
       "id": "vocab:housing:pa-gangavstand-till",
@@ -516,7 +630,11 @@
       },
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt hem ligger på gångavstånd till allt, om man har tre timmar.",
+        "en": "My home is within walking distance of everything, if you have three hours."
+      }
     },
     {
       "id": "vocab:housing:utsikt-over",
@@ -531,7 +649,11 @@
       },
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Mäklaren lovade utsikt över sjön. Man ser den från taket.",
+        "en": "The estate agent promised a view of the lake. You can see it from the roof."
+      }
     },
     {
       "id": "vocab:housing:pa-landet",
@@ -546,7 +668,11 @@
       },
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "På landet är det tyst. Bara fåglar, kor och tre miljoner myggor.",
+        "en": "In the countryside it’s quiet. Just birds, cows and three million mosquitoes."
+      }
     },
     {
       "id": "vocab:housing:i-stan",
@@ -557,7 +683,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag åker till stan för att köpa en sak och kommer hem med tio.",
+        "en": "I go into town to buy one thing and come home with ten."
+      }
     },
     {
       "id": "vocab:housing:granne",
@@ -575,7 +705,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag har känt min granne i tio år. Vi har sagt hej två gånger.",
+        "en": "I’ve known my neighbour for ten years. We’ve said hi twice."
+      }
     },
     {
       "id": "vocab:housing:pensionar",
@@ -593,7 +727,11 @@
       "lesson": 21,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Mormor är pensionär och har mer att göra än jag.",
+        "en": "Grandma is a pensioner and has more to do than I do."
+      }
     },
     {
       "id": "vocab:housing:hyra-verb",
@@ -608,7 +746,11 @@
       },
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi hyr en stuga i juli. Regnet ingår.",
+        "en": "We’re renting a cottage in July. The rain is included."
+      }
     },
     {
       "id": "vocab:housing:hyra",
@@ -627,7 +769,11 @@
       "note": "Verb: hyra (to rent).",
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Hyran går upp varje år. Min lön har inte hört om det.",
+        "en": "The rent goes up every year. My salary hasn’t heard about it."
+      }
     },
     {
       "id": "vocab:housing:flytta",
@@ -638,7 +784,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi flyttade för en månad sedan. Kartongerna bor fortfarande hos oss.",
+        "en": "We moved a month ago. The boxes still live with us."
+      }
     },
     {
       "id": "vocab:housing:mysig",
@@ -649,7 +799,11 @@
       "lesson": 13,
       "tags": [
         "yki-housing"
-      ]
+      ],
+      "fun": {
+        "sv": "I annonsen stod det ”mysig lägenhet”. Det betydde ”liten”.",
+        "en": "The ad said “cozy apartment”. It meant “small”."
+      }
     }
   ]
 }

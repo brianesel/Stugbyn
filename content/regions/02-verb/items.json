@@ -16,7 +16,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag kan prata svenska. Bara inte när någon lyssnar.",
+      "en": "I can speak Swedish. Just not when someone is listening."
+    }
   },
   {
     "id": "verb:pratar",
@@ -33,7 +37,11 @@
     "lesson": 3,
     "tags": [
       "present"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon pratar svenska varje dag. Med katten.",
+      "en": "She speaks Swedish every day. With the cat."
+    }
   },
   {
     "id": "verb:vill-dricka",
@@ -51,7 +59,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Katten vill inte dricka från skålen. Han vill dricka från kranen.",
+      "en": "The cat doesn’t want to drink from his bowl. He wants to drink from the tap."
+    }
   },
   {
     "id": "verb:dricker",
@@ -68,7 +80,11 @@
     "lesson": 3,
     "tags": [
       "present"
-    ]
+    ],
+    "fun": {
+      "sv": "Mormor dricker kaffe klockan nio på kvällen och sover som en baby.",
+      "en": "Grandma drinks coffee at nine in the evening and sleeps like a baby."
+    }
   },
   {
     "id": "verb:bor",
@@ -87,7 +103,11 @@
     "tags": [
       "present",
       "group-3"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag bor i en liten lägenhet. Katten bor i hela lägenheten.",
+      "en": "I live in a small flat. The cat lives in the whole flat."
+    }
   },
   {
     "id": "verb:ska-resa",
@@ -105,7 +125,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "I februari ska alla finländare resa till Spanien. Samtidigt.",
+      "en": "In February all Finns are going to travel to Spain. At the same time."
+    }
   },
   {
     "id": "verb:brukar-laga",
@@ -123,7 +147,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag brukar laga mat på kvällen. Brandlarmet brukar hjälpa till.",
+      "en": "I usually cook in the evening. The smoke alarm usually helps."
+    }
   },
   {
     "id": "verb:maste-jobba",
@@ -141,7 +169,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Du måste jobba imorgon, men ingen säger att du måste vara vaken.",
+      "en": "You have to work tomorrow, but nobody says you have to be awake."
+    }
   },
   {
     "id": "verb:stang",
@@ -159,7 +191,11 @@
     "lesson": 4,
     "tags": [
       "command"
-    ]
+    ],
+    "fun": {
+      "sv": "Stäng dörren! Myggorna vill också komma in.",
+      "en": "Close the door! The mosquitoes want to come in too."
+    }
   },
   {
     "id": "verb:lyssna",
@@ -176,7 +212,11 @@
     "lesson": 4,
     "tags": [
       "command"
-    ]
+    ],
+    "fun": {
+      "sv": "– Lyssna på mig! sa jag till katten. Katten gick.",
+      "en": "“Listen to me!” I said to the cat. The cat left."
+    }
   },
   {
     "id": "verb:skriv",
@@ -194,7 +234,11 @@
     "lesson": 4,
     "tags": [
       "command"
-    ]
+    ],
+    "fun": {
+      "sv": "Skriv ditt namn här. Nej, inte på bordet!",
+      "en": "Write your name here. No, not on the table!"
+    }
   },
   {
     "id": "verb:behover-inte-boka",
@@ -213,7 +257,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Du behöver inte ställa klockan. Katten väcker dig klockan fem.",
+      "en": "You don’t need to set the alarm. The cat wakes you at five."
+    }
   },
   {
     "id": "verb:behover-inte-mat",
@@ -232,7 +280,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi behöver inte ta med mat. Mormor har lagat mat för tjugo personer.",
+      "en": "We don’t need to bring food. Grandma has cooked for twenty people."
+    }
   },
   {
     "id": "verb:far-inte-roka",
@@ -251,7 +303,12 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Fåren får inte komma in i köket.",
+      "en": "The sheep aren’t allowed into the kitchen.",
+      "note": "Pun: får means both ‘sheep’ and ‘may, is allowed to’."
+    }
   },
   {
     "id": "verb:far-jag",
@@ -270,7 +327,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Får jag låna din penna? Jag ger tillbaka den. Kanske.",
+      "en": "May I borrow your pen? I’ll give it back. Maybe."
+    }
   },
   {
     "id": "verb:borde",
@@ -289,7 +350,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag borde sova. Men katten tycker att det är fest.",
+      "en": "I ought to sleep. But the cat thinks it’s party time."
+    }
   },
   {
     "id": "verb:brukar-cykla",
@@ -308,7 +373,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag brukar cykla till jobbet. Från maj till juni.",
+      "en": "I usually cycle to work. From May to June."
+    }
   },
   {
     "id": "verb:vill-bli",
@@ -327,7 +396,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Min dotter vill bli läkare. Min son vill bli katt.",
+      "en": "My daughter wants to become a doctor. My son wants to become a cat."
+    }
   },
   {
     "id": "verb:maste-stanna",
@@ -346,7 +419,11 @@
     "tags": [
       "help-verbs",
       "meaning"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag måste stanna hemma idag. Soffan behöver mig.",
+      "en": "I have to stay at home today. The sofa needs me."
+    }
   },
   {
     "id": "verb:kunde",
@@ -365,7 +442,11 @@
     "tags": [
       "help-verbs",
       "past"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag kunde inte komma igår. Katten satt på mina nycklar.",
+      "en": "I couldn’t come yesterday. The cat was sitting on my keys."
+    }
   },
   {
     "id": "verb:ville",
@@ -384,7 +465,11 @@
     "tags": [
       "help-verbs",
       "past"
-    ]
+    ],
+    "fun": {
+      "sv": "Barnen ville inte sova. Nu sover alla utom barnen.",
+      "en": "The children didn’t want to sleep. Now everyone is asleep except the children."
+    }
   },
   {
     "id": "verb:skulle-vilja",
@@ -404,7 +489,11 @@
       "help-verbs",
       "past",
       "polite"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag skulle vilja ha en kopp kaffe. Eller en hink.",
+      "en": "I would like a cup of coffee. Or a bucket."
+    }
   },
   {
     "id": "verb:type-laser",
@@ -419,7 +508,11 @@
     "lesson": 3,
     "tags": [
       "present"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon läser en bok varje vecka. Det är samma bok.",
+      "en": "She reads a book every week. It’s the same book."
+    }
   },
   {
     "id": "verb:type-kora",
@@ -435,7 +528,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "– Kan du köra bil? – Ja, men bara framåt.",
+      "en": "“Can you drive a car?” “Yes, but only forwards.”"
+    }
   },
   {
     "id": "verb:boss-ga",
@@ -452,7 +549,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag måste gå nu. Det har jag sagt i en timme.",
+      "en": "I have to go now. I’ve been saying that for an hour."
+    }
   },
   {
     "id": "verb:boss-skriva",
@@ -469,7 +570,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Vi ska skriva till läraren: ”Hunden åt läxan.” Men vi har ingen hund.",
+      "en": "We’re going to write to the teacher: “The dog ate the homework.” But we have no dog."
+    }
   },
   {
     "id": "verb:boss-dricka",
@@ -486,7 +591,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Hon vill dricka te. Katten vill dricka hennes te.",
+      "en": "She wants to drink tea. The cat wants to drink her tea."
+    }
   },
   {
     "id": "verb:boss-sova",
@@ -503,7 +612,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Barnen brukar sova länge på skoldagar. På lördagar vaknar de klockan sex.",
+      "en": "The children usually sleep late on school days. On Saturdays they wake up at six."
+    }
   },
   {
     "id": "verb:boss-borja",
@@ -520,7 +633,11 @@
     "tags": [
       "help-verbs",
       "infinitive"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag borde börja träna. Jag har redan köpt skorna.",
+      "en": "I ought to start exercising. I’ve already bought the shoes."
+    }
   },
   {
     "id": "verb:vet-svaret",
@@ -537,7 +654,11 @@
     "lesson": 11,
     "tags": [
       "vet-kanner"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag vet svaret! Vad var frågan?",
+      "en": "I know the answer! What was the question?"
+    }
   },
   {
     "id": "verb:kanner-anna",
@@ -554,7 +675,11 @@
     "lesson": 11,
     "tags": [
       "vet-kanner"
-    ]
+    ],
+    "fun": {
+      "sv": "Jag känner min granne. Vi har sagt hej två gånger på fem år.",
+      "en": "I know my neighbour. We’ve said hi twice in five years."
+    }
   },
   {
     "id": "verb:vet-stationen",
@@ -571,7 +696,11 @@
     "lesson": 11,
     "tags": [
       "vet-kanner"
-    ]
+    ],
+    "fun": {
+      "sv": "– Vet du var stationen är? – Ja. Tack för frågan.",
+      "en": "“Do you know where the station is?” “Yes. Thanks for asking.”"
+    }
   },
   {
     "id": "verb:kanner-peter",
@@ -588,6 +717,10 @@
     "lesson": 11,
     "tags": [
       "vet-kanner"
-    ]
+    ],
+    "fun": {
+      "sv": "– Känner du Peter? – Nej, men min katt känner honom. Peter har fisk.",
+      "en": "“Do you know Peter?” “No, but my cat knows him. Peter has fish.”"
+    }
   }
 ]

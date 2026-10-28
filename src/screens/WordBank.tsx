@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { AudioButton } from '../components/AudioButton';
+import { InfoTip } from '../components/InfoTip';
 import { Meter } from '../components/Meter';
 import { library } from '../content/load';
 import type { Deck } from '../content/library';
@@ -153,6 +154,7 @@ function WordList({ entries, progress }: { entries: VocabEntry[]; progress: Prog
               )}
             </span>
             <span className="en">{e.en}</span>
+            <InfoTip fun={e.fun} />
             <AudioButton text={label} itemId={e.id} />
           </li>
         );

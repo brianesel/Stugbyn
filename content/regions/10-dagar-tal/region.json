@@ -11,43 +11,50 @@
       "title": "På fredag, på fredagar, i fredags",
       "rule": "På + day = this coming day. På + day + -ar = every week on that day. I + day + -s = last week’s day (it’s over).",
       "examples": [["Vi ses på fredag.", "See you on Friday (this coming one)."], ["Jag simmar på fredagar.", "I swim on Fridays (every Friday)."], ["I fredags var jag i Åbo.", "Last Friday I was in Turku."]],
-      "watch": "Days are written with a small letter: måndag, tisdag, onsdag, torsdag, fredag, lördag, söndag."
+      "watch": "Days are written with a small letter: måndag, tisdag, onsdag, torsdag, fredag, lördag, söndag.",
+      "fun": {"sv": "I fredags sa jag: på måndag ska jag städa garaget. Det säger jag på fredagar.", "en": "Last Friday I said: on Monday I’m going to clean the garage. I say that on Fridays."}
     },
     {
       "title": "Numbers 0–12",
       "rule": "Learn the first numbers by heart. The number one is en or ett, matching the noun.",
       "examples": [["noll, en/ett, två, tre, fyra, fem, sex", "0–6"], ["sju, åtta, nio, tio, elva, tolv", "7–12"], ["en katt", "one cat"], ["ett barn", "one child"]],
-      "watch": "Counting on its own you say ett: ett, två, tre."
+      "watch": "Counting on its own you say ett: ett, två, tre.",
+      "fun": {"sv": "Jag har sex katter. Eller sju. De rör sig hela tiden.", "en": "I have six cats. Or seven. They keep moving."}
     },
     {
       "title": "Teens: -ton",
       "rule": "The numbers 13 to 19 end in -ton.",
       "examples": [["tretton, fjorton, femton", "13, 14, 15"], ["sexton, sjutton, arton, nitton", "16, 17, 18, 19"]],
-      "watch": "Look out for fjorton (14, not fyrton) and arton (18, not åtton)."
+      "watch": "Look out for fjorton (14, not fyrton) and arton (18, not åtton).",
+      "fun": {"sv": "Min son är fjorton och äter för sjutton.", "en": "My son is fourteen and eats enough for seventeen.", "note": "Swedes say äta för sju (eat for seven). A teenager needs sjutton."}
     },
     {
       "title": "Tens: -tio",
       "rule": "Most tens end in -tio. Put the small number straight after the ten, as one word.",
       "examples": [["tjugo, trettio, fyrtio, femtio", "20, 30, 40, 50"], ["sextio, sjuttio, åttio, nittio", "60, 70, 80, 90"], ["tjugoett, trettiofem", "21, 35"], ["hundra, tvåhundra, tusen", "100, 200, 1000"]],
-      "watch": "Tjugo (20) is the odd one out: it ends in -o. Don’t mix up trettio (30) and tretton (13)."
+      "watch": "Tjugo (20) is the odd one out: it ends in -o. Don’t mix up trettio (30) and tretton (13).",
+      "fun": {"sv": "Min mormor är åttiofem och går fortare än jag.", "en": "My grandma is eighty-five and walks faster than me."}
     },
     {
       "title": "Dates: den sjätte december",
       "rule": "Say dates with den + ordinal number + month. In writing you can use the digit: den 6 december.",
       "examples": [["Idag är det den sjätte december.", "Today is the sixth of December."], ["Jag fyller år den tredje maj.", "My birthday is on the third of May."], ["första, andra, tredje, fjärde, femte", "1st, 2nd, 3rd, 4th, 5th"], ["sjätte, sjunde, åttonde, nionde, tionde", "6th, 7th, 8th, 9th, 10th"]],
-      "watch": "No “of”: den 6 december, not den 6 av december."
+      "watch": "No “of”: den 6 december, not den 6 av december.",
+      "fun": {"sv": "Den första januari börjar jag ett nytt liv. Den andra januari fortsätter det gamla.", "en": "On the first of January I start a new life. On the second of January the old one carries on."}
     },
     {
       "title": "Months",
       "rule": "Months are written with a small letter. Use i for “in”: i maj.",
       "examples": [["januari, februari, mars, april, maj, juni", "January – June"], ["juli, augusti, september, oktober, november, december", "July – December"], ["Vi reser till Sverige i juli.", "We’re travelling to Sweden in July."]],
-      "watch": "Small letter mid-sentence: i juli, not i Juli."
+      "watch": "Small letter mid-sentence: i juli, not i Juli.",
+      "fun": {"sv": "I juni är det ljust hela natten. I december är det mörkt hela dagen.", "en": "In June it’s light all night. In December it’s dark all day."}
     },
     {
       "title": "The weather",
       "rule": "Weather sentences usually start with det. The sun is the exception: solen skiner.",
       "examples": [["Det regnar.", "It’s raining."], ["Det snöar.", "It’s snowing."], ["Solen skiner.", "The sun is shining."], ["Det är molnigt.", "It’s cloudy."], ["Det blåser.", "It’s windy."], ["Det är minus fem grader.", "It’s minus five degrees."]],
-      "watch": "Det blåser is a verb: no är. Det är blåsigt also works."
+      "watch": "Det blåser is a verb: no är. Det är blåsigt also works.",
+      "fun": {"sv": "Det regnar, det snöar, det blåser. Solen skiner en gång i juli.", "en": "It rains, it snows, it’s windy. The sun shines once in July."}
     }
   ]
 }

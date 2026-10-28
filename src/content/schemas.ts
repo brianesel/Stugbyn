@@ -3,6 +3,15 @@ import { z } from 'zod';
 export const Level = z.enum(['A1', 'A2', 'B1']);
 export type Level = z.infer<typeof Level>;
 
+/** A small joke, pun or funny situation using the word or rule. Shown only behind an ⓘ button. */
+export const Fun = z.object({
+  sv: z.string().min(1),
+  en: z.string().min(1),
+  /** Explains the pun or the joke, in English. */
+  note: z.string().optional(),
+});
+export type Fun = z.infer<typeof Fun>;
+
 /** Fields every content record may carry. */
 const recordBase = {
   id: z.string().min(1),
@@ -29,6 +38,7 @@ const itemBase = {
   boss: z.boolean().optional(),
   /** Language of the prompt text; English prompts (word decks) are shown in the body font. Default sv. */
   promptLang: z.enum(['sv', 'en']).optional(),
+  fun: Fun.optional(),
 };
 
 export const ChoiceItem = z.object({
@@ -115,6 +125,7 @@ export const RuleCard = z.object({
   rule: z.string().min(1),
   examples: z.array(RuleExample).min(2, 'every rule card needs at least two examples'),
   watch: z.string().optional(),
+  fun: Fun.optional(),
 });
 export type RuleCard = z.infer<typeof RuleCard>;
 
@@ -153,6 +164,7 @@ export const Noun = z.object({
   group: z.number().int().min(1).max(5),
   note: z.string().optional(),
   defPlNote: z.string().optional(),
+  fun: Fun.optional(),
   /** Skips the group/definite-plural agreement checks for listed irregulars. */
   irregular: z.boolean().optional(),
 });
@@ -192,6 +204,7 @@ export const VocabEntry = z
     note: z.string().optional(),
     /** Phrase-bank function tag, e.g. "greeting", "opinion", "complaint". */
     function: z.string().optional(),
+    fun: Fun.optional(),
   })
   .superRefine((e, ctx) => {
     if (e.pos !== 'noun' || e.draft) return;
@@ -246,6 +259,7 @@ export const Verb = z.object({
   timeEn: z.string().optional(),
   /** Skip the help-verb frame when it reads oddly (Du måste glömma …). */
   noHelp: z.boolean().optional(),
+  fun: Fun.optional(),
   note: z.string().optional(),
 });
 export type Verb = z.infer<typeof Verb>;
@@ -288,6 +302,7 @@ export const Adjective = z.object({
   defNounEn: z.string().min(1),
   compFrame: Frame.optional(),
   supFrame: Frame.optional(),
+  fun: Fun.optional(),
   irregular: z.boolean().optional(),
   note: z.string().optional(),
 });

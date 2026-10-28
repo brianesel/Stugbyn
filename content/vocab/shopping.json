@@ -9,7 +9,13 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag spenderar inte pengar. Jag investerar i choklad.",
+        "en": "I don’t spend money. I invest in chocolate."
+      }
     },
     {
       "id": "vocab:shopping:pengar",
@@ -18,11 +24,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "pengarna" },
+      "forms": {
+        "def": "pengarna"
+      },
       "note": "Plural only in Swedish: Pengarna räcker inte.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Pengar växer inte på träd. De växer inte i min plånbok heller.",
+        "en": "Money doesn’t grow on trees. It doesn’t grow in my wallet either."
+      }
     },
     {
       "id": "vocab:shopping:kopcentrum",
@@ -30,12 +44,22 @@
       "en": "shopping mall",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "köpcentrumet", "pl": "köpcentrum", "defPl": "köpcentrumen" },
+      "forms": {
+        "def": "köpcentrumet",
+        "pl": "köpcentrum",
+        "defPl": "köpcentrumen"
+      },
       "group": 5,
       "note": "Definite also köpcentret.",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Ett köpcentrum i januari: varmt, ljust och fullt av finländare som inte handlar.",
+        "en": "A shopping mall in January: warm, bright and full of Finns who aren’t shopping."
+      }
     },
     {
       "id": "vocab:shopping:rea",
@@ -44,11 +68,22 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "rean" },
+      "forms": {
+        "def": "rean"
+      },
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Skorna är på rea.", "en": "The shoes are on sale." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Skorna är på rea.",
+        "en": "The shoes are on sale."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Det var rea, så jag sparade 50 euro. Jag spenderade 200.",
+        "en": "There was a sale, so I saved 50 euros. I spent 200."
+      }
     },
     {
       "id": "vocab:shopping:rabatt",
@@ -56,11 +91,22 @@
       "en": "discount",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "rabatten", "pl": "rabatter", "defPl": "rabatterna" },
+      "forms": {
+        "def": "rabatten",
+        "pl": "rabatter",
+        "defPl": "rabatterna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag bad om rabatt i trädgårdsbutiken och fick tulpaner.",
+        "en": "I asked for a discount at the garden centre and got tulips.",
+        "note": "Pun: rabatt means both ‘discount’ and ‘flower bed’."
+      }
     },
     {
       "id": "vocab:shopping:affar",
@@ -68,11 +114,21 @@
       "en": "shop",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "affären", "pl": "affärer", "defPl": "affärerna" },
+      "forms": {
+        "def": "affären",
+        "pl": "affärer",
+        "defPl": "affärerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Affären stänger klockan nio. Jag kommer alltid fem över nio.",
+        "en": "The shop closes at nine. I always arrive at five past nine."
+      }
     },
     {
       "id": "vocab:shopping:butik",
@@ -80,11 +136,21 @@
       "en": "shop; boutique",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "butiken", "pl": "butiker", "defPl": "butikerna" },
+      "forms": {
+        "def": "butiken",
+        "pl": "butiker",
+        "defPl": "butikerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Den lilla butiken har allt. Utom det jag letar efter.",
+        "en": "The little shop has everything. Except what I’m looking for."
+      }
     },
     {
       "id": "vocab:shopping:mataffar",
@@ -92,11 +158,21 @@
       "en": "grocery store",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "mataffären", "pl": "mataffärer", "defPl": "mataffärerna" },
+      "forms": {
+        "def": "mataffären",
+        "pl": "mataffärer",
+        "defPl": "mataffärerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag går till mataffären hungrig och kommer hem med sju sorters chips.",
+        "en": "I go to the grocery store hungry and come home with seven kinds of crisps."
+      }
     },
     {
       "id": "vocab:shopping:kassa",
@@ -104,11 +180,21 @@
       "en": "checkout; till",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "kassan", "pl": "kassor", "defPl": "kassorna" },
+      "forms": {
+        "def": "kassan",
+        "pl": "kassor",
+        "defPl": "kassorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag väljer alltid fel kö i kassan. Det är min talang.",
+        "en": "I always pick the wrong queue at the checkout. It’s my talent."
+      }
     },
     {
       "id": "vocab:shopping:kopa",
@@ -117,7 +203,13 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag köper aldrig något på rea. Bara lite. Varje gång.",
+        "en": "I never buy anything on sale. Just a little. Every time."
+      }
     },
     {
       "id": "vocab:shopping:betala",
@@ -126,7 +218,13 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Kan jag betala med ett leende? – Ja, men inte för kaffet.",
+        "en": "“Can I pay with a smile?” “Yes, but not for the coffee.”"
+      }
     },
     {
       "id": "vocab:shopping:kosta",
@@ -135,8 +233,17 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Vad kostar den?", "en": "How much does it cost?" },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Vad kostar den?",
+        "en": "How much does it cost?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Det kostar ingenting att fråga. Svaret kostar 30 euro.",
+        "en": "It costs nothing to ask. The answer costs 30 euros."
+      }
     },
     {
       "id": "vocab:shopping:dyr",
@@ -145,7 +252,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Ingenting är så dyrt som en gratis katt.",
+        "en": "Nothing is as expensive as a free cat."
+      }
     },
     {
       "id": "vocab:shopping:billig",
@@ -154,7 +267,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Det billiga paraplyet höll i tio minuter. Regnet höll i tio dagar.",
+        "en": "The cheap umbrella lasted ten minutes. The rain lasted ten days."
+      }
     },
     {
       "id": "vocab:shopping:inkopslista",
@@ -162,11 +281,21 @@
       "en": "shopping list",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "inköpslistan", "pl": "inköpslistor", "defPl": "inköpslistorna" },
+      "forms": {
+        "def": "inköpslistan",
+        "pl": "inköpslistor",
+        "defPl": "inköpslistorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag skrev en inköpslista. Sedan glömde jag den hemma.",
+        "en": "I wrote a shopping list. Then I left it at home."
+      }
     },
     {
       "id": "vocab:shopping:klagomal",
@@ -174,11 +303,21 @@
       "en": "complaint",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "klagomålet", "pl": "klagomål", "defPl": "klagomålen" },
+      "forms": {
+        "def": "klagomålet",
+        "pl": "klagomål",
+        "defPl": "klagomålen"
+      },
       "group": 5,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Mitt klagomål: kaffet var för gott. Nu kan jag inte dricka mitt eget.",
+        "en": "My complaint: the coffee was too good. Now I can’t drink my own."
+      }
     },
     {
       "id": "vocab:shopping:dator",
@@ -186,11 +325,21 @@
       "en": "computer",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "datorn", "pl": "datorer", "defPl": "datorerna" },
+      "forms": {
+        "def": "datorn",
+        "pl": "datorer",
+        "defPl": "datorerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Datorn är långsam på måndagar, precis som jag.",
+        "en": "The computer is slow on Mondays, just like me."
+      }
     },
     {
       "id": "vocab:shopping:barbar-dator",
@@ -198,11 +347,22 @@
       "en": "laptop",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "bärbara datorn", "pl": "bärbara datorer", "defPl": "bärbara datorerna" },
+      "forms": {
+        "def": "bärbara datorn",
+        "pl": "bärbara datorer",
+        "defPl": "bärbara datorerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Min bärbara dator är inte så bärbar. Den väger tre kilo.",
+        "en": "My laptop isn’t very portable. It weighs three kilos.",
+        "note": "Bärbar is literally ‘carry-able’."
+      }
     },
     {
       "id": "vocab:shopping:fungerar-inte",
@@ -212,8 +372,17 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
-      "example": { "sv": "Min laddare fungerar inte.", "en": "My charger doesn’t work." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Min laddare fungerar inte.",
+        "en": "My charger doesn’t work."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Datorn fungerar inte. – Inte jag heller. Det är måndag.",
+        "en": "“The computer doesn’t work.” “Neither do I. It’s Monday.”"
+      }
     },
     {
       "id": "vocab:shopping:fel",
@@ -223,7 +392,13 @@
       "note": "Never changes form: fel färg, fel nummer.",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag har aldrig fel. En gång trodde jag att jag hade fel, men det var fel.",
+        "en": "I’m never wrong. Once I thought I was wrong, but that was wrong."
+      }
     },
     {
       "id": "vocab:shopping:laddare",
@@ -231,13 +406,23 @@
       "en": "charger",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "laddaren", "pl": "laddare", "defPl": "laddarna" },
+      "forms": {
+        "def": "laddaren",
+        "pl": "laddare",
+        "defPl": "laddarna"
+      },
       "group": 5,
       "irregular": true,
       "note": "Like lärare: laddarna in the definite plural.",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag har tio laddare hemma. Ingen passar till min mobil.",
+        "en": "I have ten chargers at home. None of them fits my phone."
+      }
     },
     {
       "id": "vocab:shopping:repa",
@@ -246,11 +431,21 @@
       "enPl": "scratches",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "repan", "pl": "repor", "defPl": "reporna" },
+      "forms": {
+        "def": "repan",
+        "pl": "repor",
+        "defPl": "reporna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Den nya mobilen fick en repa efter fem minuter. Det var ett rekord.",
+        "en": "The new phone got a scratch after five minutes. That was a record."
+      }
     },
     {
       "id": "vocab:shopping:skarm",
@@ -258,11 +453,21 @@
       "en": "screen",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "skärmen", "pl": "skärmar", "defPl": "skärmarna" },
+      "forms": {
+        "def": "skärmen",
+        "pl": "skärmar",
+        "defPl": "skärmarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag tittar på en skärm hela dagen. Sedan vilar jag med en annan skärm.",
+        "en": "I look at a screen all day. Then I relax with another screen."
+      }
     },
     {
       "id": "vocab:shopping:mobil",
@@ -270,11 +475,21 @@
       "en": "mobile phone",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "mobilen", "pl": "mobiler", "defPl": "mobilerna" },
+      "forms": {
+        "def": "mobilen",
+        "pl": "mobiler",
+        "defPl": "mobilerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "”Var är min mobil?” sa jag och lyste med mobilen.",
+        "en": "“Where’s my phone?” I said, using my phone as a torch."
+      }
     },
     {
       "id": "vocab:shopping:horlurar",
@@ -283,11 +498,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "hörlurarna" },
+      "forms": {
+        "def": "hörlurarna"
+      },
       "note": "Usually plural; one earphone is en hörlur.",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag har hörlurar på mig men ingen musik. Då pratar ingen med mig.",
+        "en": "I wear headphones but no music. That way nobody talks to me."
+      }
     },
     {
       "id": "vocab:shopping:kundtjanst",
@@ -296,10 +519,18 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "kundtjänsten" },
+      "forms": {
+        "def": "kundtjänsten"
+      },
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Kundtjänst svarar inom 20 minuter. Det har de sagt i två timmar.",
+        "en": "Customer service will answer within 20 minutes. They’ve been saying that for two hours."
+      }
     },
     {
       "id": "vocab:shopping:besviken-pa",
@@ -309,8 +540,17 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
-      "example": { "sv": "Jag är mycket besviken på servicen.", "en": "I am very disappointed in the service." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Jag är mycket besviken på servicen.",
+        "en": "I am very disappointed in the service."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Katten är besviken på mig. Jag öppnade fel burk.",
+        "en": "The cat is disappointed in me. I opened the wrong tin."
+      }
     },
     {
       "id": "vocab:shopping:marke",
@@ -318,11 +558,21 @@
       "en": "brand",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "märket", "pl": "märken", "defPl": "märkena" },
+      "forms": {
+        "def": "märket",
+        "pl": "märken",
+        "defPl": "märkena"
+      },
       "group": 4,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Min väska är av ett känt märke: ”Mammas gamla”.",
+        "en": "My bag is from a famous brand: “Mum’s old one”."
+      }
     },
     {
       "id": "vocab:shopping:laga",
@@ -331,7 +581,14 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Pappa lagar cykeln och mamma lagar mat. Båda tar tre timmar.",
+        "en": "Dad fixes the bike and Mum cooks. Both take three hours.",
+        "note": "Laga means both ‘fix’ and ‘cook’ (laga mat)."
+      }
     },
     {
       "id": "vocab:shopping:garanti",
@@ -340,11 +597,21 @@
       "enPl": "warranties",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "garantin", "pl": "garantier", "defPl": "garantierna" },
+      "forms": {
+        "def": "garantin",
+        "pl": "garantier",
+        "defPl": "garantierna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Garantin gick ut igår. Datorn visste det.",
+        "en": "The warranty ran out yesterday. The computer knew."
+      }
     },
     {
       "id": "vocab:shopping:garantin-galler-fortfarande",
@@ -354,7 +621,13 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Garantin gäller fortfarande, men bara för saker som inte är trasiga.",
+        "en": "The warranty is still valid, but only for things that aren’t broken."
+      }
     },
     {
       "id": "vocab:shopping:kvitto",
@@ -362,11 +635,21 @@
       "en": "receipt",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "kvittot", "pl": "kvitton", "defPl": "kvittona" },
+      "forms": {
+        "def": "kvittot",
+        "pl": "kvitton",
+        "defPl": "kvittona"
+      },
       "group": 4,
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Kvittot försvinner alltid samma dag som jag behöver det.",
+        "en": "The receipt always disappears the same day I need it."
+      }
     },
     {
       "id": "vocab:shopping:kvittot-ar-bifogat",
@@ -376,7 +659,13 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Kvittot är bifogat. Katten också – hon satt på skannern.",
+        "en": "The receipt is attached. So is the cat – she was sitting on the scanner."
+      }
     },
     {
       "id": "vocab:shopping:jag-vill-ha-pengarna-tillbaka",
@@ -386,7 +675,13 @@
       "function": "complaint",
       "level": "A2",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Jag vill ha pengarna tillbaka! – För vad? – För min sommar.",
+        "en": "“I want my money back!” “For what?” “For my summer.”"
+      }
     },
     {
       "id": "vocab:shopping:jag-skriver-eftersom",
@@ -396,8 +691,17 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
-      "example": { "sv": "Jag skriver eftersom min dator inte fungerar.", "en": "I’m writing because my computer doesn’t work." },
-      "tags": ["yki-shopping"]
+      "example": {
+        "sv": "Jag skriver eftersom min dator inte fungerar.",
+        "en": "I’m writing because my computer doesn’t work."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Jag skriver eftersom jag inte vågar ringa.",
+        "en": "I’m writing because I don’t dare to call."
+      }
     },
     {
       "id": "vocab:shopping:tack-pa-forhand",
@@ -407,7 +711,13 @@
       "function": "closing",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Tack på förhand för att du diskar. Jag har redan gått.",
+        "en": "Thanks in advance for doing the dishes. I’ve already left."
+      }
     },
     {
       "id": "vocab:shopping:vanliga-halsningar",
@@ -417,7 +727,13 @@
       "function": "closing",
       "level": "A1",
       "lesson": 14,
-      "tags": ["yki-shopping"]
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Mejlet var argt, men det slutade med ”Vänliga hälsningar”.",
+        "en": "The email was angry, but it ended with “Kind regards”."
+      }
     }
   ]
 }

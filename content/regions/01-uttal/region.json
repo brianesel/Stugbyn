@@ -11,53 +11,62 @@
       "title": "Nine vowels",
       "rule": "Swedish has nine vowels. A, o, u and å are hard vowels. E, i, y, ä and ö are soft (front) vowels, and they change how g, k and sk sound before them.",
       "examples": [["glas", "glass"], ["sol", "sun"], ["hus", "house"], ["båt", "boat"], ["vit", "white"], ["ny", "new"], ["söt", "sweet"]],
-      "watch": "Mouth tips: for y, make the mouth for u but say i. For ö, make the mouth for o but say e."
+      "watch": "Mouth tips: for y, make the mouth for u but say i. For ö, make the mouth for o but say e.",
+      "fun": {"sv": "Svenska har nio vokaler. Jag kan säga sju av dem.", "en": "Swedish has nine vowels. I can pronounce seven of them.", "note": "For most English speakers the hard ones are y and u."}
     },
     {
       "title": "Long and short vowels",
       "rule": "A vowel before one consonant is long. A vowel before a double consonant (or two consonants) is short. Long vowel, short consonant; short vowel, long consonant.",
       "examples": [["tak", "tack", "roof – thank you"], ["väg", "vägg", "road – wall"], ["glas", "glass", "glass – ice cream"], ["ful", "full", "ugly – full"]],
-      "watch": "The length changes the meaning: tak is a roof, tack is thank you."
+      "watch": "The length changes the meaning: tak is a roof, tack is thank you.",
+      "fun": {"sv": "– Ett glas, tack! – Glas eller glass? – Ja, gärna båda.", "en": "“A glass, please!” “A glass or an ice cream?” “Yes, both please.”", "note": "Glas (a glass) has a long a; glass (ice cream) has a short a before the double s."}
     },
     {
       "title": "Soft g",
       "rule": "G before a soft vowel (e, i, y, ä, ö) sounds like j. Before a hard vowel (a, o, u, å) it stays hard.",
       "examples": [["gäst", "guest"], ["göra", "to do"], ["ge", "to give"], ["gata", "street"], ["gul", "yellow"]],
-      "watch": "This happens in the stressed syllable, usually at the start of the word. In endings the g stays hard: dagen, vägen."
+      "watch": "This happens in the stressed syllable, usually at the start of the word. In endings the g stays hard: dagen, vägen.",
+      "fun": {"sv": "Gästen gillar att gå, men aldrig hem.", "en": "The guest likes walking, but never home.", "note": "Gäst and gillar start with a j sound (soft vowel after g); gå keeps a hard g."}
     },
     {
       "title": "Soft k",
       "rule": "K before a soft vowel (e, i, y, ä, ö) sounds like tj, a soft “ch” sound. Before a hard vowel it stays hard.",
       "examples": [["köpa", "to buy"], ["kök", "kitchen"], ["kyrka", "church"], ["katt", "cat"], ["ko", "cow"]],
-      "watch": "A few common words break the rule: kille (guy) has a hard k."
+      "watch": "A few common words break the rule: kille (guy) has a hard k.",
+      "fun": {"sv": "Vi köper ett nytt kök, men katten gillar bara kartongen.", "en": "We buy a new kitchen, but the cat only likes the cardboard box.", "note": "Köper and kök start with the soft tj sound; katten and kartongen keep a hard k."}
     },
     {
       "title": "Soft sk",
       "rule": "Sk before a soft vowel (e, i, y, ä, ö) sounds like sh. Before a hard vowel it stays sk.",
-      "examples": [["sked", "spoon"], ["skön", "comfortable"], ["skicka", "to send"], ["skola", "school"], ["skåp", "cupboard"]]
+      "examples": [["sked", "spoon"], ["skön", "comfortable"], ["skicka", "to send"], ["skola", "school"], ["skåp", "cupboard"]],
+      "fun": {"sv": "Skon är snygg men inte skön.", "en": "The shoe looks nice but isn’t comfortable.", "note": "Sko keeps a hard sk before o; skön starts with a sh sound before ö."}
     },
     {
       "title": "Tj, sj, skj: always soft",
       "rule": "Tj always sounds like tj. Sj, skj and stj always sound like sh, whatever vowel comes after.",
       "examples": [["tjugo", "twenty"], ["tjej", "girl"], ["sju", "seven"], ["sjuk", "ill"], ["skjorta", "shirt"], ["stjärna", "star"]],
-      "watch": "Words ending in -tion also have the sh sound: station, lektion."
+      "watch": "Words ending in -tion also have the sh sound: station, lektion.",
+      "fun": {"sv": "Tjugo tjejer sjunger vid sjön. Fiskarna flyttar.", "en": "Twenty girls are singing by the lake. The fish move out.", "note": "Tj is always tj and sj is always sh, even before u and ö."}
     },
     {
       "title": "Rs and rt",
       "rule": "R + s blends into one sh sound. R + t (and r + d, r + n, r + l) blend into one sound with the tongue curled back.",
       "examples": [["kurs", "course"], ["först", "first"], ["mars", "March"], ["kort", "card"], ["svart", "black"]],
-      "watch": "In Finland Swedish the r and the s are often said separately, so you will hear both."
+      "watch": "In Finland Swedish the r and the s are often said separately, so you will hear both.",
+      "fun": {"sv": "Kursen i svenska är kort. Kaffepausen är längre.", "en": "The Swedish course is short. The coffee break is longer.", "note": "Rs in kursen is one sh sound; rt in kort is one sound with the tongue curled back."}
     },
     {
       "title": "Hj, dj, lj, gj: just j",
       "rule": "At the start of a word, the h, d, l or g in hj, dj, lj and gj is silent. The word starts with a j sound.",
-      "examples": [["hjälp", "help"], ["hjärta", "heart"], ["djur", "animal"], ["ljus", "light"], ["gjorde", "did"]]
+      "examples": [["hjälp", "help"], ["hjärta", "heart"], ["djur", "animal"], ["ljus", "light"], ["gjorde", "did"]],
+      "fun": {"sv": "Mitt hjärta säger ja, men min plånbok ropar på hjälp.", "en": "My heart says yes, but my wallet is calling for help.", "note": "In hjärta and hjälp the h is silent: both start with a plain j sound."}
     },
     {
       "title": "Stress: kaffe or kafé?",
       "rule": "Most Swedish words are stressed on the first syllable. Many words from French are stressed on the last syllable, often a syllable with é.",
       "examples": [["kaffe", "coffee"], ["kafé", "café"], ["idé", "idea"], ["restaurang", "restaurant"]],
-      "watch": "Kaffe (KAF-fe) is the drink, kafé (ka-FÉ) is the place."
+      "watch": "Kaffe (KAF-fe) is the drink, kafé (ka-FÉ) is the place.",
+      "fun": {"sv": "Jag beställde ett kafé. Servitören gav mig nycklarna.", "en": "I ordered a café. The waiter gave me the keys.", "note": "Stress changes the word: KAFfe is coffee, kaFÉ is a café."}
     }
   ]
 }

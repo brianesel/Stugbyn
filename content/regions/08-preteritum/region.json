@@ -11,43 +11,50 @@
       "title": "When? Past time markers",
       "rule": "Use the past tense (preteritum) for something that happened at a finished time in the past. These words tell you the time is over.",
       "examples": [["igår", "yesterday"], ["i förrgår", "the day before yesterday"], ["förra veckan", "last week"], ["i måndags", "last Monday"], ["för två år sedan", "two years ago"]],
-      "watch": "If the sentence starts with the time word, the verb still comes second: Igår jobbade jag hemma."
+      "watch": "If the sentence starts with the time word, the verb still comes second: Igår jobbade jag hemma.",
+      "fun": {"sv": "I förrgår glömde jag mitt lösenord. Igår glömde jag det nya.", "en": "The day before yesterday I forgot my password. Yesterday I forgot the new one."}
     },
     {
       "title": "Group I: -ar → -ade",
       "rule": "Verbs whose present tense ends in -ar add -de to the present stem: -ar becomes -ade.",
       "examples": [["jobbar", "jobbade", "work → worked"], ["pratar", "pratade", "talk → talked"], ["lagar", "lagade", "cook, fix → cooked, fixed"], ["Igår lagade jag mat.", "Yesterday I cooked."]],
-      "watch": "This is the biggest group. Most new verbs go here."
+      "watch": "This is the biggest group. Most new verbs go here.",
+      "fun": {"sv": "Jag pratade svenska i affären. Kassören svarade på engelska.", "en": "I spoke Swedish in the shop. The cashier answered in English."}
     },
     {
       "title": "Group II: -er → +de",
       "rule": "Verbs whose present tense ends in -er drop the -er and add -de.",
       "examples": [["stänger", "stängde", "close → closed"], ["ringer", "ringde", "call → called"], ["hör", "hörde", "hear → heard"], ["Mamma ringde i söndags.", "Mum called last Sunday."]],
-      "watch": "Hör has no -er in the present, but it is still Group II: hörde."
+      "watch": "Hör has no -er in the present, but it is still Group II: hörde.",
+      "fun": {"sv": "Väckarklockan ringde. Jag stängde av den. Sen ringde chefen.", "en": "The alarm clock rang. I turned it off. Then my boss called."}
     },
     {
       "title": "Group II: PocKeTS + X → +te",
       "rule": "If the stem ends in p, k, t, s or x (PocKeTS + X), Group II verbs add -te instead of -de.",
       "examples": [["köper", "köpte", "buy → bought"], ["tänker", "tänkte", "think → thought"], ["läser", "läste", "read → read"], ["reser", "reste", "travel → travelled"], ["Jag köpte en ny jacka.", "I bought a new jacket."]],
-      "watch": "Never köpade or läsde: p and s give -te."
+      "watch": "Never köpade or läsde: p and s give -te.",
+      "fun": {"sv": "Jag köpte en dyr jacka. Sen tänkte jag.", "en": "I bought an expensive jacket. Then I thought."}
     },
     {
       "title": "Group III: short verbs → +dde",
       "rule": "Short verbs that end in a vowel add -dde.",
       "examples": [["bor", "bodde", "live → lived"], ["tror", "trodde", "believe → believed"], ["mår", "mådde", "feel → felt"], ["För fem år sedan bodde vi i Tammerfors.", "Five years ago we lived in Tampere."]],
-      "watch": "Two d’s: bodde, not bode."
+      "watch": "Two d’s: bodde, not bode.",
+      "fun": {"sv": "Jag trodde att det var fredag. Det var tisdag.", "en": "I thought it was Friday. It was Tuesday."}
     },
     {
       "title": "Group IV: irregular verbs (1)",
       "rule": "Irregular verbs often change their vowel and get no ending. Learn them by heart.",
       "examples": [["är", "var", "am, is, are → was, were"], ["har", "hade", "have → had"], ["går", "gick", "go, walk → went"], ["gör", "gjorde", "do → did"], ["ser", "såg", "see → saw"]],
-      "watch": "Gjorde is spelled with gj, but the g is silent."
+      "watch": "Gjorde is spelled with gj, but the g is silent.",
+      "fun": {"sv": "Jag hade en plan. Den var bra. Sen var det måndag.", "en": "I had a plan. It was a good one. Then it was Monday."}
     },
     {
       "title": "Group IV: irregular verbs (2)",
       "rule": "More of the most common irregular verbs.",
       "examples": [["äter", "åt", "eat → ate"], ["dricker", "drack", "drink → drank"], ["skriver", "skrev", "write → wrote"], ["kommer", "kom", "come → came"], ["säger", "sa", "say → said"]],
-      "watch": "Sa is also written sade, but it is pronounced sa."
+      "watch": "Sa is also written sade, but it is pronounced sa.",
+      "fun": {"sv": "Katten åt min fisk och drack min mjölk. Sen sov den på min stol.", "en": "The cat ate my fish and drank my milk. Then it slept on my chair."}
     }
   ]
 }

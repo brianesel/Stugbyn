@@ -15,7 +15,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vad finns i lådan? – Ingenting. – Nu är jag ännu mer nyfiken.",
+        "en": "“What’s in the box?” “Nothing.” “Now I’m even more curious.”"
+      }
     },
     {
       "id": "vocab:personality:arlig",
@@ -26,7 +30,12 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "– Är du alltid ärlig? – Ja. – Gillar du min mössa? – Nu är jag artig.",
+        "en": "“Are you always honest?” “Yes.” “Do you like my hat?” “Now I’m being polite.”",
+        "note": "Ärlig (honest) and artig (polite) look almost the same."
+      }
     },
     {
       "id": "vocab:personality:artig",
@@ -37,7 +46,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Han är så artig att han säger förlåt till dörren.",
+        "en": "He’s so polite that he says sorry to the door."
+      }
     },
     {
       "id": "vocab:personality:talmodig",
@@ -48,7 +61,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är tålmodig. Jag har väntat på våren sedan oktober.",
+        "en": "I’m patient. I’ve been waiting for spring since October."
+      }
     },
     {
       "id": "vocab:personality:gralsjuk",
@@ -59,7 +76,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Vår papegoja är grälsjuk. Den har lärt sig ”nej” på tre språk.",
+        "en": "Our parrot is quarrelsome. It has learned “no” in three languages."
+      }
     },
     {
       "id": "vocab:personality:social",
@@ -70,7 +91,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är väldigt social. På internet.",
+        "en": "I’m very social. On the internet."
+      }
     },
     {
       "id": "vocab:personality:tystlaten",
@@ -81,7 +106,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min finska kollega är tystlåten. Igår sa han två ord. Vi firade.",
+        "en": "My Finnish colleague is quiet. Yesterday he said two words. We celebrated."
+      }
     },
     {
       "id": "vocab:personality:generos",
@@ -92,7 +121,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten är generös. Hon ger mig sina leksaker klockan fem på morgonen.",
+        "en": "The cat is generous. She gives me her toys at five in the morning."
+      }
     },
     {
       "id": "vocab:personality:snal",
@@ -103,7 +136,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Han är så snål att han tar med sig eget kaffe till kaféet.",
+        "en": "He’s so stingy that he brings his own coffee to the café."
+      }
     },
     {
       "id": "vocab:personality:likasinnad",
@@ -114,7 +151,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Vi är likasinnade: vi älskar kaffe och hatar måndagar.",
+        "en": "We’re like-minded: we love coffee and hate Mondays."
+      }
     },
     {
       "id": "vocab:personality:omtanksam",
@@ -125,7 +166,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten är omtänksam. Hon väcker mig så att jag inte missar frukosten. Hennes frukost.",
+        "en": "The cat is caring. She wakes me up so I don’t miss breakfast. Her breakfast."
+      }
     },
     {
       "id": "vocab:personality:karleksfull",
@@ -136,7 +181,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Vår hund är kärleksfull mot alla, särskilt mot den som har korv.",
+        "en": "Our dog is loving towards everyone, especially whoever has a sausage."
+      }
     },
     {
       "id": "vocab:personality:palitlig",
@@ -147,7 +196,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Bussen är pålitlig. Den är alltid tio minuter sen.",
+        "en": "The bus is reliable. It’s always ten minutes late."
+      }
     },
     {
       "id": "vocab:personality:opalitlig",
@@ -158,7 +211,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Väderappen är opålitlig. Den säger sol, och sedan snöar det.",
+        "en": "The weather app is unreliable. It says sun, and then it snows."
+      }
     },
     {
       "id": "vocab:personality:snall",
@@ -173,7 +230,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Var snäll mot katten. Hon vet var du sover.",
+        "en": "Be kind to the cat. She knows where you sleep."
+      }
     },
     {
       "id": "vocab:personality:passionerad",
@@ -184,7 +245,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Han är passionerad – för bastu, korv och tystnad.",
+        "en": "He’s passionate – about sauna, sausage and silence."
+      }
     },
     {
       "id": "vocab:personality:beslutsam",
@@ -195,7 +260,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är mycket beslutsam. Jag har bestämt mig för att bestämma mig imorgon.",
+        "en": "I’m very determined. I’ve decided to decide tomorrow."
+      }
     },
     {
       "id": "vocab:personality:lojal",
@@ -206,7 +275,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är lojal mot min frisör. Vi har varit tillsammans i tolv år.",
+        "en": "I’m loyal to my hairdresser. We’ve been together for twelve years."
+      }
     },
     {
       "id": "vocab:personality:intelligent",
@@ -217,7 +290,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Vår katt är intelligent. Hon förstår ”mat” men aldrig ”nej”.",
+        "en": "Our cat is intelligent. She understands “food” but never “no”."
+      }
     },
     {
       "id": "vocab:personality:dum",
@@ -228,7 +305,11 @@
       "lesson": 5,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Det finns inga dumma frågor. Men jag hittar alltid en.",
+        "en": "There are no stupid questions. But I always find one."
+      }
     },
     {
       "id": "vocab:personality:arg",
@@ -239,7 +320,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är inte arg. Jag är bara hungrig.",
+        "en": "I’m not angry. I’m just hungry."
+      }
     },
     {
       "id": "vocab:personality:glad",
@@ -250,7 +335,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag blir glad av kaffe, sol och fredag. I Finland får kaffe räcka.",
+        "en": "Coffee, sun and Fridays make me happy. In Finland, coffee will have to do."
+      }
     },
     {
       "id": "vocab:personality:trott",
@@ -261,7 +350,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är så trött att jag hällde kaffe i flingorna.",
+        "en": "I’m so tired that I poured coffee on my cereal."
+      }
     },
     {
       "id": "vocab:personality:mysig",
@@ -272,7 +365,11 @@
       "lesson": 7,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Morfar är mysig, som en gammal tröja.",
+        "en": "Grandad is cosy, like an old jumper."
+      }
     },
     {
       "id": "vocab:personality:svartsjuk",
@@ -283,7 +380,12 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten är svartsjuk på min dator. Hon sitter alltid på tangentbordet.",
+        "en": "The cat is jealous of my computer. She always sits on the keyboard.",
+        "note": "Svartsjuk is literally ‘black-sick’."
+      }
     },
     {
       "id": "vocab:personality:strang",
@@ -294,7 +396,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Farmor är sträng: ingen kaka före middagen. Sedan ger hon mig tre.",
+        "en": "Grandma is strict: no cake before dinner. Then she gives me three."
+      }
     },
     {
       "id": "vocab:personality:arbetsam",
@@ -305,7 +411,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Myrorna är arbetsamma. Min katt är inte en myra.",
+        "en": "Ants are hard-working. My cat is not an ant."
+      }
     },
     {
       "id": "vocab:personality:vanlig",
@@ -316,7 +426,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min granne är så vänlig att hon hälsar på katten först.",
+        "en": "My neighbour is so friendly that she says hello to the cat first."
+      }
     },
     {
       "id": "vocab:personality:slarvig",
@@ -327,7 +441,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är inte slarvig. Mina nycklar gömmer sig bara.",
+        "en": "I’m not careless. My keys just hide."
+      }
     },
     {
       "id": "vocab:personality:prydlig",
@@ -338,7 +456,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Mitt skrivbord är prydligt en dag per år: när mamma kommer.",
+        "en": "My desk is tidy one day a year: when Mum visits."
+      }
     },
     {
       "id": "vocab:personality:forsiktig",
@@ -349,7 +471,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag är försiktig. Jag har mössa på mig från oktober till maj.",
+        "en": "I’m careful. I wear a hat from October to May."
+      }
     },
     {
       "id": "vocab:personality:lugn",
@@ -360,7 +486,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Var lugn, det är bara måndag. Det går över.",
+        "en": "Stay calm, it’s only Monday. It’ll pass."
+      }
     },
     {
       "id": "vocab:personality:rolig",
@@ -371,7 +501,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "”Grammatik är rolig”, sa ingen någonsin.",
+        "en": "“Grammar is fun,” said nobody ever."
+      }
     },
     {
       "id": "vocab:personality:trakig",
@@ -382,7 +516,11 @@
       "lesson": 17,
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Mötet var så tråkigt att även kaffet somnade.",
+        "en": "The meeting was so boring that even the coffee fell asleep."
+      }
     },
     {
       "id": "vocab:personality:egenskap",
@@ -405,7 +543,11 @@
       },
       "tags": [
         "yki-relationships"
-      ]
+      ],
+      "fun": {
+        "sv": "Min bästa egenskap? Jag kan sova överallt. Även på möten.",
+        "en": "My best trait? I can sleep anywhere. Even in meetings."
+      }
     }
   ]
 }

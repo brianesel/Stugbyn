@@ -139,6 +139,7 @@ export function buildLibrary(raw: RawContent): BuildResult {
         group: e.group,
         note: e.note || undefined,
         irregular: e.irregular,
+        fun: e.fun,
         level: e.level,
         lesson: e.lesson,
         tags: e.tags,

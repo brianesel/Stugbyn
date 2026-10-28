@@ -15,7 +15,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Vad gör du på fritiden? – Jag letar efter min fritid.",
+        "en": "“What do you do in your free time?” “I look for my free time.”"
+      }
     },
     {
       "id": "vocab:time:pa-helgen",
@@ -26,7 +30,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "På helgen vilar jag. På måndagen vilar jag från helgen.",
+        "en": "At the weekend I rest. On Monday I rest from the weekend."
+      }
     },
     {
       "id": "vocab:time:pa-morgonen",
@@ -37,7 +45,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "På morgonen är jag ingen människa. Jag är en kopp kaffe.",
+        "en": "In the morning I’m not a person. I’m a cup of coffee."
+      }
     },
     {
       "id": "vocab:time:pa-eftermiddagen",
@@ -48,7 +60,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "På eftermiddagen sover katten. På förmiddagen också.",
+        "en": "In the afternoon the cat sleeps. In the morning too."
+      }
     },
     {
       "id": "vocab:time:pa-kvallen",
@@ -59,7 +75,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "På kvällen är jag full av energi. Precis när jag ska sova.",
+        "en": "In the evening I’m full of energy. Just when I should sleep."
+      }
     },
     {
       "id": "vocab:time:da-och-da",
@@ -70,7 +90,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag läser svenska då och då. Och glömmer den hela tiden.",
+        "en": "I study Swedish from time to time. And forget it all the time."
+      }
     },
     {
       "id": "vocab:time:alltid",
@@ -81,7 +105,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Bussen kommer alltid i tid. Utom när jag väntar på den.",
+        "en": "The bus is always on time. Except when I’m waiting for it."
+      }
     },
     {
       "id": "vocab:time:ofta",
@@ -92,7 +120,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Hur ofta städar du? – Lika ofta som mamma kommer på besök.",
+        "en": "“How often do you clean?” “As often as Mum comes to visit.”"
+      }
     },
     {
       "id": "vocab:time:ibland",
@@ -103,7 +135,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Ibland bestämmer jag hemma. När katten sover.",
+        "en": "Sometimes I’m in charge at home. When the cat is asleep."
+      }
     },
     {
       "id": "vocab:time:sallan",
@@ -114,7 +150,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Solen skiner sällan i november. Den har semester.",
+        "en": "The sun rarely shines in November. It’s on holiday."
+      }
     },
     {
       "id": "vocab:time:aldrig",
@@ -129,7 +169,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag säger aldrig ”aldrig”. Nästan aldrig.",
+        "en": "I never say “never”. Almost never."
+      }
     },
     {
       "id": "vocab:time:igar",
@@ -141,7 +185,11 @@
       "note": "Also written i går.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Igår lärde jag mig tio nya ord. Idag kommer jag ihåg ett.",
+        "en": "Yesterday I learned ten new words. Today I remember one."
+      }
     },
     {
       "id": "vocab:time:idag",
@@ -153,7 +201,11 @@
       "note": "Also written i dag.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Idag ska jag vara effektiv. Efter kaffet. Och efter det andra kaffet.",
+        "en": "Today I’ll be productive. After my coffee. And after the second coffee."
+      }
     },
     {
       "id": "vocab:time:imorgon",
@@ -165,7 +217,11 @@
       "note": "Also written i morgon.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Imorgon börjar jag träna. Det har jag sagt sedan 2019.",
+        "en": "Tomorrow I’ll start working out. I’ve been saying that since 2019."
+      }
     },
     {
       "id": "vocab:time:imorse",
@@ -177,7 +233,11 @@
       "note": "Also written i morse. Only about this morning that has passed.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Imorse var det mörkt. Ikväll är det också mörkt. Välkommen till december!",
+        "en": "This morning it was dark. This evening it’s dark too. Welcome to December!"
+      }
     },
     {
       "id": "vocab:time:ikvall",
@@ -189,7 +249,11 @@
       "note": "Also written i kväll.",
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Ikväll har jag stora planer: soffan, filten och katten.",
+        "en": "Tonight I have big plans: the sofa, the blanket and the cat."
+      }
     },
     {
       "id": "vocab:time:forra-veckan",
@@ -200,7 +264,11 @@
       "lesson": 6,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Förra veckan köpte jag ett gymkort. Sedan dess har jag tittat på det två gånger.",
+        "en": "Last week I bought a gym card. Since then I’ve looked at it twice."
+      }
     },
     {
       "id": "vocab:time:forra-aret",
@@ -211,7 +279,11 @@
       "lesson": 6,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Förra året lovade jag att lära mig svenska. I år lovar jag igen.",
+        "en": "Last year I promised to learn Swedish. This year I’m promising again."
+      }
     },
     {
       "id": "vocab:time:nasta-vecka",
@@ -222,7 +294,11 @@
       "lesson": 6,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Nästa vecka ska jag bli organiserad. Jag har skrivit det på en lapp någonstans.",
+        "en": "Next week I’ll get organised. I’ve written it on a note somewhere."
+      }
     },
     {
       "id": "vocab:time:nasta-ar",
@@ -233,7 +309,11 @@
       "lesson": 6,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Nästa år blir jag yngre, sa mormor. – Hur då? – Jag slutar räkna.",
+        "en": "“Next year I’ll get younger,” said Grandma. “How?” “I’ll stop counting.”"
+      }
     },
     {
       "id": "vocab:time:for-sedan",
@@ -248,7 +328,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag vattnade blomman för två veckor sedan. Den har inte förlåtit mig.",
+        "en": "I watered the plant two weeks ago. It hasn’t forgiven me."
+      }
     },
     {
       "id": "vocab:time:snart",
@@ -259,7 +343,11 @@
       "lesson": 11,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Skylten säger ”snart”. Det har den sagt i tjugo minuter.",
+        "en": "The sign says “soon”. It has been saying that for twenty minutes."
+      }
     },
     {
       "id": "vocab:time:sent",
@@ -270,7 +358,11 @@
       "lesson": 11,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag kommer aldrig sent. Jag kommer bara lite efter de andra.",
+        "en": "I’m never late. I just arrive a little after the others."
+      }
     },
     {
       "id": "vocab:time:tidigt",
@@ -281,7 +373,11 @@
       "lesson": 11,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Jag går upp tidigt varje dag. Sedan lägger jag mig igen.",
+        "en": "I get up early every day. Then I go back to bed."
+      }
     },
     {
       "id": "vocab:time:redan",
@@ -292,7 +388,11 @@
       "lesson": 16,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Är det redan fredag? – Nej, det är tisdag. – Varför är veckan så lång?",
+        "en": "“Is it Friday already?” “No, it’s Tuesday.” “Why is the week so long?”"
+      }
     },
     {
       "id": "vocab:time:annu-inte",
@@ -303,7 +403,11 @@
       "lesson": 16,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Kan du svenska? – Ännu inte. Men jag kan säga ”ännu inte”.",
+        "en": "“Do you speak Swedish?” “Not yet. But I can say ‘not yet’.”"
+      }
     },
     {
       "id": "vocab:time:kanske",
@@ -314,7 +418,11 @@
       "lesson": 16,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "– Kommer du på festen? – Kanske. – Alltså nej?",
+        "en": "“Are you coming to the party?” “Maybe.” “So, no?”"
+      }
     },
     {
       "id": "vocab:time:just-nu",
@@ -325,7 +433,11 @@
       "lesson": 16,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Just nu är jag upptagen. Katten sover på mig.",
+        "en": "Right now I’m busy. The cat is sleeping on me."
+      }
     },
     {
       "id": "vocab:time:hela-tiden",
@@ -336,7 +448,11 @@
       "lesson": 16,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Katten vill ut hela tiden. Och in. Och ut igen.",
+        "en": "The cat wants to go out all the time. And in. And out again."
+      }
     },
     {
       "id": "vocab:time:timme",
@@ -354,7 +470,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Bastun blir varm på en timme. Jag blir varm på en minut.",
+        "en": "The sauna gets hot in an hour. I get hot in a minute."
+      }
     },
     {
       "id": "vocab:time:minut",
@@ -372,7 +492,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "”Bara en minut”, sa jag. Det var för en timme sedan.",
+        "en": "“Just a minute,” I said. That was an hour ago."
+      }
     },
     {
       "id": "vocab:time:dag",
@@ -390,7 +514,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "En bra dag börjar med kaffe. En dålig dag också, men med mer kaffe.",
+        "en": "A good day starts with coffee. A bad day too, but with more coffee."
+      }
     },
     {
       "id": "vocab:time:vecka",
@@ -408,7 +536,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Veckan har sju dagar. Måndagen känns som tre.",
+        "en": "The week has seven days. Monday feels like three."
+      }
     },
     {
       "id": "vocab:time:manad",
@@ -426,7 +558,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Februari är den kortaste månaden. Men den känns längst.",
+        "en": "February is the shortest month. But it feels the longest."
+      }
     },
     {
       "id": "vocab:time:ar",
@@ -444,7 +580,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Ett år i Finland har fyra årstider: snart vinter, vinter, fortfarande vinter och juli.",
+        "en": "A year in Finland has four seasons: almost winter, winter, still winter and July."
+      }
     },
     {
       "id": "vocab:time:helg",
@@ -462,7 +602,11 @@
       "lesson": 4,
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Helgen går fort. Måndagen går inte alls.",
+        "en": "The weekend goes fast. Monday doesn’t go at all."
+      }
     },
     {
       "id": "vocab:time:klockan-fem",
@@ -477,7 +621,11 @@
       },
       "tags": [
         "yki-free-time"
-      ]
+      ],
+      "fun": {
+        "sv": "Klockan fem är jag ledig. Klockan fem och en minut ligger jag i soffan.",
+        "en": "At five o’clock I’m off work. At one minute past five I’m lying on the sofa."
+      }
     }
   ]
 }
