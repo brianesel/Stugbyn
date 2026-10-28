@@ -110,4 +110,4 @@ Choices made where SPEC.md is silent or where reality differed. Newest phase at 
 
 **Validator.** Jokes are checked for missing å/ä/ö like other Swedish text. Real words that look like typos (vantar = mittens, bar) go in content/allowed-words.json.
 
-**Bundle.** Content data now has its own chunk (~150 kB gzipped, precached). The warning limit is raised to 800 kB for that data chunk only in spirit; code chunks stay small.
+**Bundle.** Content data now has its own chunk (~150 kB gzipped, precached for offline use). Vite’s size-warning limit is raised to 800 kB because of that data chunk; the code chunks stay well under 500 kB.
