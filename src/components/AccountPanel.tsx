@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useAccount } from '../store/account';
+import { isIos, isStandalone } from './InstallHint';
 
 const STATUS_TEXT = {
   off: '',
@@ -24,6 +25,8 @@ export function AccountPanel() {
   const [email, setEmail] = useState('');
   const [code, setCode] = useState('');
   const [busy, setBusy] = useState(false);
+  // In an installed iPhone app, email links open in Safari, so only the code can sign the app in.
+  const codeOnly = isIos() && isStandalone();
 
   if (!a.configured) {
     return (
@@ -96,7 +99,14 @@ export function AccountPanel() {
           }}
         >
           <p style={{ margin: 0 }}>
-            We sent an email to <strong>{a.pendingEmail}</strong>. Tap the link in it, or type the 6-digit code here.
+            We sent an email to <strong>{a.pendingEmail}</strong>.{' '}
+            {codeOnly ? (
+              <>
+                Type the <strong>code</strong> from the email here. Don’t tap the link: on iPhone it opens Safari, not this app.
+              </>
+            ) : (
+              'Tap the link in it, or type the code here.'
+            )}
           </p>
           <div className="field">
             <label htmlFor="code">Code from the email</label>
@@ -107,7 +117,9 @@ export function AccountPanel() {
               autoComplete="one-time-code"
               value={code}
               onChange={(e) => setCode(e.target.value.replace(/\D/g, '').slice(0, 8))}
+              autoFocus
             />
+            <span className="small muted">No code in the email? It may be in another email from Supabase, or the email settings need the code added (see DEPLOY.md, step 4).</span>
           </div>
           {a.error && (
             <p role="alert" className="small" style={{ margin: 0, color: 'var(--bad)' }}>
@@ -154,7 +166,7 @@ export function AccountPanel() {
             </p>
           )}
           <button type="submit" className="btn btn-primary" disabled={busy || !email.includes('@')}>
-            Email me a sign-in link
+            {codeOnly ? 'Email me a sign-in code' : 'Email me a sign-in link'}
           </button>
           <p className="small muted" style={{ margin: 0 }}>
             Stored: your email and your learning progress (answers, XP, streak, settings), in the EU. Voice recordings never leave
