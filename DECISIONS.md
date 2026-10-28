@@ -111,3 +111,7 @@ Choices made where SPEC.md is silent or where reality differed. Newest phase at 
 **Validator.** Jokes are checked for missing å/ä/ö like other Swedish text. Real words that look like typos (vantar = mittens, bar) go in content/allowed-words.json.
 
 **Bundle.** Content data now has its own chunk (~150 kB gzipped, precached for offline use). Vite’s size-warning limit is raised to 800 kB because of that data chunk; the code chunks stay well under 500 kB.
+
+## Signing in inside the installed iPhone app (2026-10-28)
+
+iOS opens email links in Safari, never in a home-screen web app, and the two keep separate storage, so tapping the sign-in link signs Safari in, not the app. A 6-digit code would solve it, but Supabase’s built-in email service doesn’t allow editing templates (adding `{{ .Token }}` needs custom SMTP). Instead the learner copies the link (press and hold → Copy Link) and pastes it in Settings → Account; the app reads the one-time token hash from the link and calls `verifyOtp({ token_hash, type })`. Safe-link wrappers are unwrapped, and a link already opened in a browser (with `#access_token`) also works via `setSession`. The code field stays available behind “The email has a code instead”, for when custom SMTP is set up later.

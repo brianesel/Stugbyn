@@ -11,7 +11,7 @@ About 20 minutes, done once. You’ll create two free accounts: **Supabase** (lo
 3. **Authentication → URL Configuration**
    - **Site URL:** your app’s address, e.g. `https://stugbyn.example.eu` (you get it in step 2; come back and fill it in).
    - **Redirect URLs:** add your app’s address followed by `/**`, and `http://localhost:5173/**` for local testing.
-4. **Authentication → Emails (templates).** Open **Magic Link** and **Confirm signup**, and add the code to each so you can sign in on a phone by typing it (handy when the email opens in another browser than the installed app):
+4. **Optional, needs custom SMTP — Authentication → Emails (templates).** Supabase only lets you edit templates once your own SMTP is connected. Without it, the iPhone app signs in by pasting the link (press and hold the link in the email → Copy Link → paste in Settings → Account). Open **Magic Link** and **Confirm signup**, and add the code to each so you can sign in on a phone by typing it (handy when the email opens in another browser than the installed app):
 
    ```html
    <h2>Sign in to Stugbyn</h2>

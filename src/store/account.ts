@@ -1,6 +1,7 @@
 import { create } from 'zustand';
 import { library } from '../content/load';
 import { supabase } from '../sync/client';
+import { parseSignInLink } from '../sync/link';
 import { mergeWithRemote, sameProgress } from '../sync/merge';
 import { deleteRemote, fetchRemote, pushRemote } from '../sync/remote';
 import { useProgress } from './progress';
@@ -19,6 +20,8 @@ type AccountStore = {
   init(): Promise<void>;
   sendLink(email: string): Promise<void>;
   verifyCode(code: string): Promise<void>;
+  /** Signs in from a sign-in link pasted from the email (the installed iPhone app can’t open links itself). */
+  signInWithLink(text: string): Promise<void>;
   cancelLogin(): void;
   signOut(): Promise<void>;
   syncNow(): Promise<void>;
@@ -117,6 +120,28 @@ export const useAccount = create<AccountStore>((setState, getState) => {
       const { data, error } = await supabase.auth.verifyOtp({ email, token: code.trim(), type: 'email' });
       if (error) {
         setState({ error: message(error) });
+        throw error;
+      }
+      signedIn(data.user);
+    },
+
+    async signInWithLink(text) {
+      if (!supabase) return;
+      setState({ error: null });
+      const link = parseSignInLink(text);
+      if (!link) {
+        const msg = 'That doesn’t look like the sign-in link. In the email, press and hold the link, choose Copy Link, then paste it here.';
+        setState({ error: msg });
+        throw new Error(msg);
+      }
+      const { data, error } =
+        link.kind === 'token'
+          ? await supabase.auth.verifyOtp({ token_hash: link.tokenHash, type: link.type })
+          : await supabase.auth.setSession({ access_token: link.accessToken, refresh_token: link.refreshToken });
+      if (error) {
+        const expired = /expired|invalid|not found/i.test(error.message);
+        const msg = expired ? 'This link has already been used or has expired. Request a new one and paste it without tapping it.' : message(error);
+        setState({ error: msg });
         throw error;
       }
       signedIn(data.user);

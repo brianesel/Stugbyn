@@ -24,6 +24,8 @@ export function AccountPanel() {
   const a = useAccount();
   const [email, setEmail] = useState('');
   const [code, setCode] = useState('');
+  const [link, setLink] = useState('');
+  const canReadClipboard = typeof navigator !== 'undefined' && Boolean(navigator.clipboard?.readText);
   const [busy, setBusy] = useState(false);
   // In an installed iPhone app, email links open in Safari, so only the code can sign the app in.
   const codeOnly = isIos() && isStandalone();
@@ -90,51 +92,107 @@ export function AccountPanel() {
           </button>
         </>
       ) : a.pendingEmail ? (
-        <form
-          className="stack"
-          style={{ gap: 10 }}
-          onSubmit={(e) => {
-            e.preventDefault();
-            void run(() => a.verifyCode(code));
-          }}
-        >
+        <div className="stack" style={{ gap: 12 }}>
           <p style={{ margin: 0 }}>
-            We sent an email to <strong>{a.pendingEmail}</strong>.{' '}
-            {codeOnly ? (
-              <>
-                Type the <strong>code</strong> from the email here. Don’t tap the link: on iPhone it opens Safari, not this app.
-              </>
-            ) : (
-              'Tap the link in it, or type the code here.'
-            )}
+            We sent an email to <strong>{a.pendingEmail}</strong>.
           </p>
-          <div className="field">
-            <label htmlFor="code">Code from the email</label>
-            <input
-              id="code"
-              className="text-input"
-              inputMode="numeric"
-              autoComplete="one-time-code"
-              value={code}
-              onChange={(e) => setCode(e.target.value.replace(/\D/g, '').slice(0, 8))}
-              autoFocus
-            />
-            <span className="small muted">No code in the email? It may be in another email from Supabase, or the email settings need the code added (see DEPLOY.md, step 4).</span>
-          </div>
+          {codeOnly ? (
+            <ol className="small" style={{ margin: 0, paddingLeft: 20 }}>
+              <li>
+                In the email, <strong>press and hold</strong> the sign-in link (don’t tap it: that opens Safari, not this app).
+              </li>
+              <li>
+                Choose <strong>Copy Link</strong>.
+              </li>
+              <li>Come back here and paste it below.</li>
+            </ol>
+          ) : (
+            <p className="small muted" style={{ margin: 0 }}>
+              Tap the link in the email, or copy the link and paste it below.
+            </p>
+          )}
+          <form
+            className="stack"
+            style={{ gap: 10 }}
+            onSubmit={(e) => {
+              e.preventDefault();
+              void run(() => a.signInWithLink(link));
+            }}
+          >
+            <div className="field">
+              <label htmlFor="signin-link">Sign-in link from the email</label>
+              <input
+                id="signin-link"
+                className="text-input"
+                style={{ fontSize: '1rem', fontWeight: 400 }}
+                inputMode="url"
+                autoComplete="off"
+                autoCapitalize="off"
+                autoCorrect="off"
+                spellCheck={false}
+                placeholder="https://…supabase.co/auth/v1/verify?…"
+                value={link}
+                onChange={(e) => setLink(e.target.value)}
+              />
+            </div>
+            <div className="btn-row">
+              {canReadClipboard && (
+                <button
+                  type="button"
+                  className="btn"
+                  onClick={async () => {
+                    try {
+                      const text = await navigator.clipboard.readText();
+                      setLink(text);
+                      if (text) void run(() => a.signInWithLink(text));
+                    } catch {
+                      /* clipboard refused: the learner can paste into the field instead */
+                    }
+                  }}
+                >
+                  Paste and sign in
+                </button>
+              )}
+              <button type="submit" className="btn btn-primary" disabled={busy || !link.trim()}>
+                Sign in
+              </button>
+            </div>
+          </form>
           {a.error && (
             <p role="alert" className="small" style={{ margin: 0, color: 'var(--bad)' }}>
               {a.error}
             </p>
           )}
-          <div className="btn-row">
-            <button type="submit" className="btn btn-primary" disabled={busy || code.length < 6}>
-              Sign in
-            </button>
-            <button type="button" className="btn" onClick={a.cancelLogin}>
-              Use another email
-            </button>
-          </div>
-        </form>
+          <details className="small">
+            <summary>The email has a code instead</summary>
+            <form
+              className="stack"
+              style={{ gap: 10, marginTop: 8 }}
+              onSubmit={(e) => {
+                e.preventDefault();
+                void run(() => a.verifyCode(code));
+              }}
+            >
+              <div className="field">
+                <label htmlFor="code">Code from the email</label>
+                <input
+                  id="code"
+                  className="text-input"
+                  inputMode="numeric"
+                  autoComplete="one-time-code"
+                  value={code}
+                  onChange={(e) => setCode(e.target.value.replace(/\D/g, '').slice(0, 8))}
+                />
+              </div>
+              <button type="submit" className="btn" disabled={busy || code.length < 6}>
+                Sign in with the code
+              </button>
+            </form>
+          </details>
+          <button type="button" className="btn" onClick={a.cancelLogin}>
+            Use another email
+          </button>
+        </div>
       ) : (
         <form
           className="stack"
@@ -166,7 +224,7 @@ export function AccountPanel() {
             </p>
           )}
           <button type="submit" className="btn btn-primary" disabled={busy || !email.includes('@')}>
-            {codeOnly ? 'Email me a sign-in code' : 'Email me a sign-in link'}
+            Email me a sign-in link
           </button>
           <p className="small muted" style={{ margin: 0 }}>
             Stored: your email and your learning progress (answers, XP, streak, settings), in the EU. Voice recordings never leave
