@@ -25,6 +25,22 @@ Which class lesson taught what, and where it lives in the app. Source: the class
 | 19 | 21 Oct | School memories; subjunctions att, när, om, eftersom, för att; inte before the verb in subordinate clauses | Bisatser |
 | 20 | 23 Oct | Trots att; work and work–life balance | Bisatser |
 | 21 | 26 Oct | Remote vs office work; å ena sidan / å andra sidan; restaurant; housing (rooms, en tvåa, på gångavstånd, utsikt över) | Bisatser, Substantiv (housing nouns) |
-| 22 | — | Speaking: your ideal home (prepared at lesson 21) | Exam Hall speaking (Phase 5) |
+| 22 | 28 Oct | Environment (koldioxid, sopsortera, återvinna, närproducerad); YKI exam structure; opinion text structure; town vs countryside pros and cons; därför / annars / till exempel + verb second | Word bank: Miljö, Stad och land, Fraser för YKI; Bisatser |
+| 23 | 30 Oct | Opinion texts (å ena sidan, personligen, föredrar … framför …); dialogue tasks (present yourself, answer yes/no + explain + suggest, end the call); informal message and formal email structure | Bisatser; Word bank: Fraser för YKI; Exam Hall writing (Phase 5) |
+
+## YKI intermediate test, as taught in lesson 22
+
+| Part | Time | Tasks |
+| --- | --- | --- |
+| Listening (passive) | 40 min | Each recording heard twice; multiple choice, true/false, open answers |
+| Reading (passive) | 60 min | 6 texts; multiple choice, true/false, open answers |
+| Speaking (active) | 25 min | 1 story about yourself (1 min prep, 1 min 30 s to speak); 2 dialogues (15 s to read the instructions, 10–20 s per answer); 5 situations to react to (20 s prep, 25 s to speak); 1 opinion, option A or B (1 min 30 s prep, 2 min to speak) |
+| Writing (active) | 55 min | 1 short informal text (50–80 words); 1 short formal text (50–80 words); 1 opinion text, option A or B (100–150 words) |
+
+Valid combinations: writing + listening or speaking; speaking + reading or writing.
+
+**Opinion text:** intro (Många tycker att … Jag håller (inte) med. Enligt mig är …), body (Å ena sidan … Å andra sidan …, Några av fördelarna är … En nackdel är …), end (Till slut …). **Informal message:** greeting, ask how they are, react to their news or say why you write, suggest meeting with time and place, give your own news, informal ending. **Formal email:** Från / Till / Skickat / Ärende, Hej, Jag skriver angående …, background and a clear question (Skulle ni kunna …?), Tack på förhand / Jag ser fram emot ert svar, Vänliga hälsningar + contact details. **Dialogue:** present yourself, answer yes (svara jakande) or no + explain + suggest (svara nekande), end the conversation (Tack för hjälpen, Då säger vi så, Det ska jag göra, Låter bra, Jag ser fram emot det).
+
+**Personal-interest themes** (not from class): Klättring, Matlagning, Programmering, Spel och gaming.
 
 **Vocabulary** from every lesson lives in the Word bank (`content/vocab/*.json`, 17 themes). **Not in the app yet:** formal writing practice and speaking tasks (Phase 5: Exam Hall).

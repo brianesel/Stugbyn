@@ -1,0 +1,923 @@
+{
+  "theme": "yki-phrases",
+  "title": "Fraser för YKI",
+  "entries": [
+    {
+      "id": "vocab:yki-phrases:manga-tycker-att",
+      "sv": "Många tycker att …",
+      "en": "Many people think that …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Många tycker att det är dyrt att bo i Helsingfors.",
+        "en": "Many people think it’s expensive to live in Helsinki."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Många tycker att katter är lata. Katterna tycker ingenting. De sover.",
+        "en": "Many people think cats are lazy. The cats don’t think anything. They’re asleep."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:manga-sager-att",
+      "sv": "Många säger att …",
+      "en": "Many people say that …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Många säger att svenska är ett lätt språk.",
+        "en": "Many people say Swedish is an easy language."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Många säger att svenska är lätt. De har inte försökt säga ”sju sjösjuka sjömän”.",
+        "en": "Many people say Swedish is easy. They haven’t tried saying “sju sjösjuka sjömän”.",
+        "note": "A classic Swedish tongue-twister (‘seven seasick sailors’) full of the tricky sj-sound."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-haller-med",
+      "sv": "Jag håller med.",
+      "en": "I agree.",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "– Vi behöver fler bussar på kvällen. – Jag håller med.",
+        "en": "“We need more buses in the evening.” “I agree.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Du pratar för mycket. – Jag håller med. Och dessutom …",
+        "en": "“You talk too much.” “I agree. And moreover …”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-haller-inte-med",
+      "sv": "Jag håller inte med.",
+      "en": "I don’t agree.",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "– Det är bättre att bo i stan. – Jag håller inte med. På landet är det lugnare.",
+        "en": "“It’s better to live in town.” “I don’t agree. It’s calmer in the countryside.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Svenska är lätt! – Jag håller inte med. – Men du svarade ju på svenska!",
+        "en": "“Swedish is easy!” “I don’t agree.” “But you answered in Swedish!”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:enligt-mig-ar",
+      "sv": "Enligt mig är …",
+      "en": "In my opinion … is …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Enligt mig är …).",
+      "example": {
+        "sv": "Enligt mig är livet på landet lugnt.",
+        "en": "In my opinion life in the countryside is peaceful."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Enligt mig är kaffe en grönsak. Det kommer ju från bönor.",
+        "en": "In my opinion coffee is a vegetable. It comes from beans, after all."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:a-ena-sidan",
+      "sv": "Å ena sidan …",
+      "en": "On the one hand …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Å ena sidan är …).",
+      "example": {
+        "sv": "Å ena sidan är staden rolig, å andra sidan är den dyr.",
+        "en": "On the one hand the city is fun, on the other hand it’s expensive."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Å ena sidan vill jag börja springa. Å andra sidan har jag en soffa.",
+        "en": "On the one hand I want to start running. On the other hand I have a sofa."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:a-andra-sidan",
+      "sv": "Å andra sidan …",
+      "en": "On the other hand …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Å andra sidan behöver vi …).",
+      "example": {
+        "sv": "Bilen är dyr. Å andra sidan behöver vi den varje dag.",
+        "en": "The car is expensive. On the other hand we need it every day."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Det är mörkt i december. Å andra sidan syns inte dammet.",
+        "en": "It’s dark in December. On the other hand you can’t see the dust."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:nagra-av-fordelarna-ar-att",
+      "sv": "Några av fördelarna är att …",
+      "en": "Some of the advantages are that …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Några av fördelarna är att hyran är låg och att det finns en park nära.",
+        "en": "Some of the advantages are that the rent is low and that there’s a park nearby."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Några av fördelarna med en katt är att den aldrig pratar om jobbet.",
+        "en": "Some of the advantages of a cat are that it never talks about work."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:en-nackdel-ar-att",
+      "sv": "En nackdel är att …",
+      "en": "A disadvantage is that …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "En nackdel är att man måste byta buss två gånger.",
+        "en": "A disadvantage is that you have to change buses twice."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Stugan är perfekt. En nackdel är att myggorna också tycker det.",
+        "en": "The cottage is perfect. A disadvantage is that the mosquitoes think so too."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:till-exempel",
+      "sv": "Till exempel …",
+      "en": "For example …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it when it starts the sentence (Till exempel kan man …).",
+      "example": {
+        "sv": "Det finns mycket att göra här. Till exempel kan man åka skidor på vintern.",
+        "en": "There’s a lot to do here. For example, you can go skiing in winter."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag är bra på svenska. Till exempel kan jag säga ”fika” perfekt.",
+        "en": "I’m good at Swedish. For example, I can say “fika” perfectly."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:darfor",
+      "sv": "Därför …",
+      "en": "Therefore … / That’s why …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Därför måste man …).",
+      "example": {
+        "sv": "Det går ingen buss till byn. Därför måste man ha en bil.",
+        "en": "There’s no bus to the village. That’s why you need a car."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Katten vaknade klockan fem. Därför vaknade jag också klockan fem.",
+        "en": "The cat woke up at five. That’s why I woke up at five too."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:annars",
+      "sv": "Annars …",
+      "en": "Otherwise …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Annars får man …).",
+      "example": {
+        "sv": "Man måste boka tid tidigt. Annars får man vänta länge.",
+        "en": "You have to book an appointment early. Otherwise you have to wait a long time."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Läs mejlet från chefen idag. Annars skickar hon ett till. Och ett till.",
+        "en": "Read the email from the boss today. Otherwise she’ll send another one. And another one."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:dessutom",
+      "sv": "Dessutom …",
+      "en": "Moreover … / Besides …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Dessutom ligger den …).",
+      "example": {
+        "sv": "Lägenheten är stor. Dessutom ligger den nära stationen.",
+        "en": "The flat is big. Moreover, it’s close to the station."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Min katt är söt. Dessutom äter hon min frukost.",
+        "en": "My cat is cute. Besides, she eats my breakfast."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:personligen-foredrar-jag",
+      "sv": "Personligen föredrar jag …",
+      "en": "Personally, I prefer …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: föredrar comes before jag because the sentence starts with Personligen.",
+      "example": {
+        "sv": "Personligen föredrar jag att bo i en liten stad.",
+        "en": "Personally, I prefer living in a small town."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Många gillar att springa. Personligen föredrar jag att titta på när andra springer.",
+        "en": "Many people like running. Personally, I prefer watching others run."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-foredrar-framfor",
+      "sv": "Jag föredrar … framför …",
+      "en": "I prefer … to …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag föredrar tåg framför flyg.",
+        "en": "I prefer trains to planes."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag föredrar sommar framför vinter. Myggorna föredrar mig framför alla andra.",
+        "en": "I prefer summer to winter. The mosquitoes prefer me to everyone else."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:till-slut",
+      "sv": "Till slut …",
+      "en": "Finally … / In the end …",
+      "pos": "phrase",
+      "function": "opinion",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Inversion: the verb comes right after it (Till slut vill jag …).",
+      "example": {
+        "sv": "Till slut vill jag säga att det finns både fördelar och nackdelar.",
+        "en": "Finally, I want to say that there are both advantages and disadvantages."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag letade efter nycklarna i en timme. Till slut hittade katten dem.",
+        "en": "I looked for the keys for an hour. In the end the cat found them."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:hej-det-ar",
+      "sv": "Hej, det är …",
+      "en": "Hi, it’s … (on the phone)",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 23,
+      "note": "Informal: how you say who is calling on the phone.",
+      "example": {
+        "sv": "– Hej, det är Maria. Har du tid att prata?",
+        "en": "“Hi, it’s Maria. Do you have time to talk?”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Hej, det är mamma. – Jag vet. Det står på skärmen.",
+        "en": "“Hi, it’s Mum.” “I know. It says so on the screen.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:hej-jag-heter",
+      "sv": "Hej, jag heter …",
+      "en": "Hi, my name is …",
+      "pos": "phrase",
+      "function": "small-talk",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "Hej, jag heter Ali. Jag ringer om lägenheten.",
+        "en": "Hi, my name is Ali. I’m calling about the flat."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Hej, jag heter Tom och jag ringer om din katt. Den har flyttat in hos mig.",
+        "en": "Hi, my name is Tom and I’m calling about your cat. It has moved in with me."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:ja-det-gar-bra",
+      "sv": "Ja, det går bra.",
+      "en": "Yes, that’s fine.",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 23,
+      "note": "Svara jakande: a simple way to answer yes.",
+      "example": {
+        "sv": "– Kan vi ses klockan tre? – Ja, det går bra.",
+        "en": "“Can we meet at three?” “Yes, that’s fine.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Går det bra om katten sover i din säng? – Ja, det går bra. Det gör hon redan.",
+        "en": "“Is it OK if the cat sleeps in your bed?” “Yes, that’s fine. She already does.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:tyvarr-kan-jag-inte-men-vad-sags-om",
+      "sv": "Tyvärr kan jag inte …, men vad sägs om …?",
+      "en": "Unfortunately I can’t …, but how about …?",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A2",
+      "lesson": 23,
+      "note": "Svara nekande: say no, explain and suggest something else.",
+      "example": {
+        "sv": "– Kan du komma på fredag? – Tyvärr kan jag inte på fredag, men vad sägs om lördag?",
+        "en": "“Can you come on Friday?” “Unfortunately I can’t on Friday, but how about Saturday?”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Tyvärr kan jag inte på måndag. Eller tisdag. Vad sägs om juli?",
+        "en": "Unfortunately I can’t on Monday. Or Tuesday. How about July?"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:tack-for-det",
+      "sv": "Tack för det.",
+      "en": "Thanks for that.",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "– Här är nyckeln till lägenheten. – Tack för det.",
+        "en": "“Here’s the key to the flat.” “Thanks for that.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Här är räkningen. – Eh … tack för det.",
+        "en": "“Here’s the bill.” “Er … thanks for that.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:tack-for-hjalpen",
+      "sv": "Tack för hjälpen.",
+      "en": "Thanks for the help.",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "Tack för hjälpen med flytten igår!",
+        "en": "Thanks for the help with the move yesterday!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Jag har ätit upp allt, så du behöver inte diska. – Tack för hjälpen.",
+        "en": "“I’ve eaten everything, so you don’t need to do the dishes.” “Thanks for the help.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:da-sager-vi-sa",
+      "sv": "Då säger vi så.",
+      "en": "It’s a deal, then.",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A2",
+      "lesson": 23,
+      "note": "Literally ‘then we say so’.",
+      "example": {
+        "sv": "– Vi ses vid stationen klockan sex? – Ja, då säger vi så.",
+        "en": "“See you at the station at six?” “Yes, it’s a deal, then.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Du lagar mat och jag äter. – Då säger vi så.",
+        "en": "“You cook and I eat.” “It’s a deal, then.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:det-ska-jag-gora",
+      "sv": "Det ska jag göra.",
+      "en": "I’ll do that.",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "– Kan du ringa mig när du är framme? – Ja, det ska jag göra.",
+        "en": "“Can you call me when you get there?” “Yes, I’ll do that.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Glöm inte att köpa mjölk. – Det ska jag göra. – Vad sa jag? – Ingen aning.",
+        "en": "“Don’t forget to buy milk.” “I’ll do that.” “What did I say?” “No idea.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:later-bra",
+      "sv": "Låter bra.",
+      "en": "Sounds good.",
+      "pos": "phrase",
+      "function": "agreeing",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "– Ska vi fika efter jobbet? – Låter bra!",
+        "en": "“Shall we have coffee after work?” “Sounds good!”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Ska vi städa i helgen? – Låter bra. Nästa helg, alltså.",
+        "en": "“Shall we clean at the weekend?” “Sounds good. Next weekend, I mean.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-ser-fram-emot-det",
+      "sv": "Jag ser fram emot det.",
+      "en": "I’m looking forward to it.",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "– Vi ses på festen på lördag! – Jag ser fram emot det.",
+        "en": "“See you at the party on Saturday!” “I’m looking forward to it.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Imorgon har vi ett möte klockan åtta. – Jag ser fram emot det. Inte.",
+        "en": "“Tomorrow we have a meeting at eight.” “I’m looking forward to it. Not.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vi-hors",
+      "sv": "Vi hörs!",
+      "en": "Talk soon!",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "Okej, jag ringer dig i morgon. Vi hörs!",
+        "en": "OK, I’ll call you tomorrow. Talk soon!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Vi hörs! sa grannen. Och det gjorde vi. Väggarna är tunna.",
+        "en": "“Talk soon!” said the neighbour. And we did hear each other. The walls are thin.",
+        "note": "Pun: höras means ‘to be in touch’ but literally ‘to hear each other’."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:hur-ar-det-med-dig",
+      "sv": "Hur är det med dig?",
+      "en": "How are you? / How about you?",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "Hej Sanna! Hur är det med dig? Här är allt bra.",
+        "en": "Hi Sanna! How are you? All is well here."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Hur är det med dig? – Bra, men min kaffekopp är tom. Det är kris.",
+        "en": "“How are you?” “Fine, but my coffee cup is empty. It’s a crisis.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vad-roligt-att",
+      "sv": "Vad roligt att …!",
+      "en": "How nice that …!",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Vad roligt att du har fått ett nytt jobb!",
+        "en": "How nice that you’ve got a new job!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Vad roligt att du kommer på besök! Dammsugaren står i hallen.",
+        "en": "How nice that you’re coming to visit! The vacuum cleaner is in the hall."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vad-kul-att",
+      "sv": "Vad kul att …!",
+      "en": "How great that …!",
+      "pos": "phrase",
+      "function": "greeting",
+      "level": "A2",
+      "lesson": 23,
+      "note": "More informal than Vad roligt att …!",
+      "example": {
+        "sv": "Vad kul att vi ska ses i helgen!",
+        "en": "How great that we’re meeting at the weekend!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Vad kul att du har lärt dig svenska! Nu kan du klaga på vädret på två språk.",
+        "en": "How great that you’ve learned Swedish! Now you can complain about the weather in two languages."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vad-sags-om",
+      "sv": "Vad sägs om …?",
+      "en": "How about …? / What about …?",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Vad sägs om en promenad i parken på söndag?",
+        "en": "How about a walk in the park on Sunday?"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Vad sägs om att gå till gymmet? – Vad sägs om att inte göra det?",
+        "en": "“How about going to the gym?” “How about not doing that?”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-har-mycket-att-beratta",
+      "sv": "Jag har mycket att berätta.",
+      "en": "I have a lot to tell you.",
+      "pos": "phrase",
+      "function": "story",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Ring mig i kväll! Jag har mycket att berätta.",
+        "en": "Call me tonight! I have a lot to tell you."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Ring mig! Jag har mycket att berätta. Katten har lärt sig öppna kylskåpet.",
+        "en": "Call me! I have a lot to tell you. The cat has learned to open the fridge."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:hoppas-vi-ses-snart",
+      "sv": "Hoppas vi ses snart!",
+      "en": "Hope to see you soon!",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "Tack för ett trevligt kort. Hoppas vi ses snart!",
+        "en": "Thanks for a lovely card. Hope to see you soon!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Hoppas vi ses snart! Helst när det är ljust ute, alltså i maj.",
+        "en": "Hope to see you soon! Preferably when it’s light outside, so in May."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:kram",
+      "sv": "Kram,",
+      "en": "Hugs, (informal sign-off)",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A1",
+      "lesson": 23,
+      "note": "Only for friends and family, never in a formal email.",
+      "example": {
+        "sv": "Hoppas vi ses snart! Kram, Emma",
+        "en": "Hope to see you soon! Hugs, Emma"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Mitt mejl till chefen slutade med ”Kram”. Nu är vi mycket goda vänner.",
+        "en": "My email to the boss ended with “Hugs”. Now we’re very good friends."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-skulle-ocksa-vilja-ha",
+      "sv": "Jag skulle också vilja ha …",
+      "en": "I would also like (to have) …",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Kakan var jättegod! Jag skulle också vilja ha receptet.",
+        "en": "The cake was delicious! I would also like the recipe."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag skulle vilja ha en kaffe. Jag skulle också vilja ha en till.",
+        "en": "I would like a coffee. I would also like another one."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:arende",
+      "sv": "Ärende: …",
+      "en": "Subject: … (email subject line)",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Ärende: Trasig diskmaskin i lägenhet 12",
+        "en": "Subject: Broken dishwasher in flat 12"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Ärende: Inget ärende. Jag ville bara säga hej.",
+        "en": "Subject: No subject. I just wanted to say hi."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-skriver-angaende",
+      "sv": "Jag skriver angående …",
+      "en": "I’m writing regarding …",
+      "pos": "phrase",
+      "function": "complaint",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag skriver angående min beställning från den 3 maj.",
+        "en": "I’m writing regarding my order from 3 May."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag skriver angående min granne. Han övar trumpet klockan tre på natten.",
+        "en": "I’m writing regarding my neighbour. He practises the trumpet at three in the morning."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-skriver-for-att-fraga-om",
+      "sv": "Jag skriver för att fråga om …",
+      "en": "I’m writing to ask about …",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag skriver för att fråga om det finns lediga platser på kursen.",
+        "en": "I’m writing to ask whether there are any free places on the course."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag skriver för att fråga om ni har hittat min mössa. Den är grön och lite ledsen.",
+        "en": "I’m writing to ask whether you’ve found my hat. It’s green and a bit sad."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-hoppas-att-ni-kan-hjalpa-mig-med",
+      "sv": "Jag hoppas att ni kan hjälpa mig med …",
+      "en": "I hope you can help me with …",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag hoppas att ni kan hjälpa mig med det här problemet.",
+        "en": "I hope you can help me with this problem."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag hoppas att ni kan hjälpa mig med min dator. Den säger bara ”nej”.",
+        "en": "I hope you can help me with my computer. It only says “no”."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-bifogar",
+      "sv": "Jag bifogar …",
+      "en": "I attach … / Please find attached …",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag bifogar en kopia av kvittot.",
+        "en": "I attach a copy of the receipt."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Jag bifogar filen. – Vilken fil? – Okej, nu bifogar jag filen.",
+        "en": "“I attach the file.” “What file?” “OK, now I’m attaching the file.”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:skulle-ni-kunna",
+      "sv": "Skulle ni kunna …?",
+      "en": "Could you …? (polite)",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Skulle ni kunna skicka en ny faktura?",
+        "en": "Could you send a new invoice?"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Skulle ni kunna flytta solen lite närmare Finland i januari?",
+        "en": "Could you move the sun a little closer to Finland in January?"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-skulle-vilja-veta",
+      "sv": "Jag skulle vilja veta …",
+      "en": "I would like to know …",
+      "pos": "phrase",
+      "function": "request",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag skulle vilja veta när kursen börjar.",
+        "en": "I would like to know when the course starts."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag skulle vilja veta varför katten sover i kartongen och inte i sin nya säng.",
+        "en": "I would like to know why the cat sleeps in the box and not in its new bed."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-ser-fram-emot-ert-svar",
+      "sv": "Jag ser fram emot ert svar.",
+      "en": "I look forward to your reply.",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Tack för hjälpen. Jag ser fram emot ert svar.",
+        "en": "Thank you for your help. I look forward to your reply."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag ser fram emot ert svar. Det här är mitt tredje mejl sedan i mars.",
+        "en": "I look forward to your reply. This is my third email since March."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:tack-pa-forhand",
+      "sv": "Tack på förhand",
+      "en": "Thanks in advance",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag hoppas att ni kan hjälpa mig snart. Tack på förhand!",
+        "en": "I hope you can help me soon. Thanks in advance!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Kära tomten, jag vill ha sol i januari. Tack på förhand!",
+        "en": "Dear Santa, I’d like sunshine in January. Thanks in advance!"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vanliga-halsningar",
+      "sv": "Vänliga hälsningar",
+      "en": "Kind regards",
+      "pos": "phrase",
+      "function": "closing",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag ser fram emot ert svar. Vänliga hälsningar, Anna Virtanen",
+        "en": "I look forward to your reply. Kind regards, Anna Virtanen"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Ett sms till mamma: ”Kommer hem klockan sex. Vänliga hälsningar, din son.”",
+        "en": "A text to Mum: “Home at six. Kind regards, your son.”"
+      }
+    }
+  ]
+}

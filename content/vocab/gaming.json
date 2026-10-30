@@ -1,0 +1,827 @@
+{
+  "theme": "gaming",
+  "title": "Spel och gaming",
+  "entries": [
+    {
+      "id": "vocab:gaming:spela",
+      "sv": "spela",
+      "en": "play (games)",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi spelar online med kompisar på fredagar.",
+        "en": "We play online with friends on Fridays."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Bara en match till, sa jag. Nu är klockan tre på natten.",
+        "en": "Just one more match, I said. Now it’s three in the morning."
+      }
+    },
+    {
+      "id": "vocab:gaming:spel",
+      "sv": "spel",
+      "en": "game",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "spelet",
+        "pl": "spel",
+        "defPl": "spelen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Vilket spel spelar du just nu?",
+        "en": "Which game are you playing right now?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har hundra spel och spelar alltid samma.",
+        "en": "I have a hundred games and always play the same one."
+      }
+    },
+    {
+      "id": "vocab:gaming:datorspel",
+      "sv": "datorspel",
+      "en": "computer game",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "datorspelet",
+        "pl": "datorspel",
+        "defPl": "datorspelen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Många datorspel finns på svenska också.",
+        "en": "Many computer games are available in Swedish too."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mamma säger att datorspel är slöseri med tid. Hon har spelat patiens i trettio år.",
+        "en": "Mum says computer games are a waste of time. She’s been playing solitaire for thirty years."
+      }
+    },
+    {
+      "id": "vocab:gaming:tv-spel",
+      "sv": "tv-spel",
+      "en": "video game (console)",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "tv-spelet",
+        "pl": "tv-spel",
+        "defPl": "tv-spelen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Barnen spelar tv-spel i vardagsrummet.",
+        "en": "The kids are playing video games in the living room."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mitt första tv-spel är äldre än min kollega.",
+        "en": "My first video game is older than my colleague."
+      }
+    },
+    {
+      "id": "vocab:gaming:konsol",
+      "sv": "konsol",
+      "en": "console",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "konsolen",
+        "pl": "konsoler",
+        "defPl": "konsolerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Han fick en ny konsol i julklapp.",
+        "en": "He got a new console for Christmas."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min konsol är nyare än min soffa, mitt bord och min säng.",
+        "en": "My console is newer than my sofa, my table and my bed."
+      }
+    },
+    {
+      "id": "vocab:gaming:dator",
+      "sv": "dator",
+      "en": "computer",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "datorn",
+        "pl": "datorer",
+        "defPl": "datorerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "note": "Definite: datorn (not datoren).",
+      "example": {
+        "sv": "Min dator är för gammal för nya spel.",
+        "en": "My computer is too old for new games."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min dator låter som ett flygplan när jag spelar.",
+        "en": "My computer sounds like a plane when I play."
+      }
+    },
+    {
+      "id": "vocab:gaming:spelare",
+      "sv": "spelare",
+      "en": "player",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "spelaren",
+        "pl": "spelare",
+        "defPl": "spelarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "note": "Like lärare: spelare – spelarna.",
+      "example": {
+        "sv": "Laget behöver en spelare till.",
+        "en": "The team needs one more player."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Den bästa spelaren i laget är tolv år och måste sova klockan nio.",
+        "en": "The best player on the team is twelve and has to go to bed at nine."
+      }
+    },
+    {
+      "id": "vocab:gaming:niva",
+      "sv": "nivå",
+      "en": "level",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "nivån",
+        "pl": "nivåer",
+        "defPl": "nivåerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Jag kommer inte förbi nivå fem.",
+        "en": "I can’t get past level five."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I spelet är jag på nivå 80. I svenska är jag på nivå A2.",
+        "en": "In the game I’m on level 80. In Swedish I’m on level A2."
+      }
+    },
+    {
+      "id": "vocab:gaming:vinna",
+      "sv": "vinna",
+      "en": "win",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vårt lag vann igår kväll.",
+        "en": "Our team won last night."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag vann! Okej, ingen annan spelade, men jag vann.",
+        "en": "I won! OK, nobody else was playing, but I won."
+      }
+    },
+    {
+      "id": "vocab:gaming:forlora",
+      "sv": "förlora",
+      "en": "lose",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi förlorade tre matcher i rad.",
+        "en": "We lost three matches in a row."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Vi förlorade inte. Vi lärde oss något. Tio gånger.",
+        "en": "We didn’t lose. We learned something. Ten times."
+      }
+    },
+    {
+      "id": "vocab:gaming:lag",
+      "sv": "lag",
+      "en": "team",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "laget",
+        "pl": "lag",
+        "defPl": "lagen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Vi är fem spelare i laget.",
+        "en": "There are five players on the team."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I vårt lag finns det bara en lag: ingen fuskar.",
+        "en": "In our team there’s only one law: nobody cheats.",
+        "note": "Pun: ett lag is a team, en lag is a law."
+      }
+    },
+    {
+      "id": "vocab:gaming:motstandare",
+      "sv": "motståndare",
+      "en": "opponent",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "motståndaren",
+        "pl": "motståndare",
+        "defPl": "motståndarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "B1",
+      "note": "Like lärare: motståndare – motståndarna.",
+      "example": {
+        "sv": "Motståndarna var mycket bättre än vi.",
+        "en": "The opponents were much better than us."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min värsta motståndare är klockan. Den säger alltid att jag ska sova.",
+        "en": "My worst opponent is the clock. It always says I should go to sleep."
+      }
+    },
+    {
+      "id": "vocab:gaming:fiende",
+      "sv": "fiende",
+      "en": "enemy",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "fienden",
+        "pl": "fiender",
+        "defPl": "fienderna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Fienden kommer från vänster!",
+        "en": "The enemy is coming from the left!"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Den farligaste fienden i spelet? Batteriet i handkontrollen.",
+        "en": "The most dangerous enemy in the game? The battery in the controller."
+      }
+    },
+    {
+      "id": "vocab:gaming:uppdrag",
+      "sv": "uppdrag",
+      "en": "mission, quest",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "uppdraget",
+        "pl": "uppdrag",
+        "defPl": "uppdragen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Vi klarade uppdraget på andra försöket.",
+        "en": "We completed the mission on the second try."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Dagens svåraste uppdrag: diska. Belöning: noll poäng.",
+        "en": "Today’s hardest mission: do the dishes. Reward: zero points."
+      }
+    },
+    {
+      "id": "vocab:gaming:karta",
+      "sv": "karta",
+      "en": "map",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kartan",
+        "pl": "kartor",
+        "defPl": "kartorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Titta på kartan, vi är här.",
+        "en": "Look at the map, we’re here."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I spelet hittar jag överallt utan karta. I köpcentret går jag vilse.",
+        "en": "In the game I find my way everywhere without a map. In the shopping centre I get lost."
+      }
+    },
+    {
+      "id": "vocab:gaming:ladda-ner",
+      "sv": "ladda ner",
+      "en": "download",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Also: ladda ned.",
+      "example": {
+        "sv": "Det tar en timme att ladda ner spelet.",
+        "en": "It takes an hour to download the game."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Spelet laddas ner. Jag har hunnit laga mat, diska och lära mig svenska.",
+        "en": "The game is downloading. I’ve had time to cook, do the dishes and learn Swedish."
+      }
+    },
+    {
+      "id": "vocab:gaming:uppdatera",
+      "sv": "uppdatera",
+      "en": "update",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Du måste uppdatera spelet innan du kan spela.",
+        "en": "You have to update the game before you can play."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Äntligen fredag! Jag startar spelet. Det måste uppdateras i två timmar.",
+        "en": "Finally Friday! I start the game. It needs to update for two hours."
+      }
+    },
+    {
+      "id": "vocab:gaming:spara",
+      "sv": "spara",
+      "en": "save",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Glöm inte att spara innan du stänger av.",
+        "en": "Don’t forget to save before you switch off."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I spelet sparar jag hela tiden. Pengar sparar jag aldrig.",
+        "en": "In the game I save all the time. Money I never save.",
+        "note": "Spara means both saving a game and saving money."
+      }
+    },
+    {
+      "id": "vocab:gaming:handkontroll",
+      "sv": "handkontroll",
+      "en": "controller, gamepad",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "handkontrollen",
+        "pl": "handkontroller",
+        "defPl": "handkontrollerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "note": "Also just: en kontroll.",
+      "example": {
+        "sv": "Var är min handkontroll?",
+        "en": "Where’s my controller?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Katten satt på handkontrollen och klarade nivån.",
+        "en": "The cat sat on the controller and beat the level."
+      }
+    },
+    {
+      "id": "vocab:gaming:tangentbord",
+      "sv": "tangentbord",
+      "en": "keyboard",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "tangentbordet",
+        "pl": "tangentbord",
+        "defPl": "tangentborden"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Jag spelar bättre med tangentbord och mus.",
+        "en": "I play better with a keyboard and mouse."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Katten gick på tangentbordet och skrev bättre svenska än jag.",
+        "en": "The cat walked across the keyboard and wrote better Swedish than me."
+      }
+    },
+    {
+      "id": "vocab:gaming:mus",
+      "sv": "mus",
+      "en": "mouse",
+      "enPl": "mice",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "musen",
+        "pl": "möss",
+        "defPl": "mössen"
+      },
+      "group": 3,
+      "irregular": true,
+      "level": "A2",
+      "note": "Irregular plural, as for the animal: en mus – möss.",
+      "example": {
+        "sv": "Jag behöver en ny mus till datorn.",
+        "en": "I need a new mouse for the computer."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Katten jagar musen. Den på skrivbordet.",
+        "en": "The cat is chasing the mouse. The one on the desk."
+      }
+    },
+    {
+      "id": "vocab:gaming:headset",
+      "sv": "headset",
+      "en": "headset",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "headsetet",
+        "pl": "headset",
+        "defPl": "headseten"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Sätt på dig headsetet så att vi kan prata.",
+        "en": "Put your headset on so we can talk."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Med headsetet på hör jag kompisar i Sverige, men inte min sambo i köket.",
+        "en": "With my headset on I can hear friends in Sweden, but not my partner in the kitchen."
+      }
+    },
+    {
+      "id": "vocab:gaming:horlurar",
+      "sv": "hörlurar",
+      "en": "headphones",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "hörlurarna"
+      },
+      "level": "A2",
+      "note": "Usually plural (a pair); one earpiece: en hörlur.",
+      "example": {
+        "sv": "Jag har glömt mina hörlurar hemma.",
+        "en": "I’ve left my headphones at home."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mina hörlurar är så bra att jag inte hör när mamma ringer.",
+        "en": "My headphones are so good that I don’t hear when Mum calls."
+      }
+    },
+    {
+      "id": "vocab:gaming:pa-natet",
+      "sv": "på nätet",
+      "en": "online",
+      "pos": "phrase",
+      "level": "A2",
+      "note": "Also just: online.",
+      "example": {
+        "sv": "Vi spelar på nätet nästan varje kväll.",
+        "en": "We play online almost every evening."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Vi har spelat ihop på nätet i fem år, men vi har aldrig träffats.",
+        "en": "We’ve played together online for five years, but we’ve never met."
+      }
+    },
+    {
+      "id": "vocab:gaming:poang",
+      "sv": "poäng",
+      "en": "point (score)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "poängen",
+        "pl": "poäng",
+        "defPl": "poängen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "note": "En-word with no plural ending: en poäng – poäng.",
+      "example": {
+        "sv": "Hur många poäng har du?",
+        "en": "How many points do you have?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Vad är poängen med spelet? – Att få poäng.",
+        "en": "“What’s the point of the game?” “To get points.”",
+        "note": "Pun: poäng means both ‘points’ and ‘the point’ (meaning)."
+      }
+    },
+    {
+      "id": "vocab:gaming:rekord",
+      "sv": "rekord",
+      "en": "record, high score",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "rekordet",
+        "pl": "rekord",
+        "defPl": "rekorden"
+      },
+      "group": 5,
+      "level": "A2",
+      "note": "slå rekord = beat a record",
+      "example": {
+        "sv": "Hon slog sitt eget rekord igår.",
+        "en": "She beat her own record yesterday."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Nytt rekord: tre timmar utan telefonen. Jag spelade på datorn.",
+        "en": "New record: three hours without my phone. I was playing on the computer."
+      }
+    },
+    {
+      "id": "vocab:gaming:fuska",
+      "sv": "fuska",
+      "en": "cheat",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Det är tråkigt att spela mot någon som fuskar.",
+        "en": "It’s boring to play against someone who cheats."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Fuskar du? – Nej, jag har bara läst lite på nätet.",
+        "en": "“Are you cheating?” “No, I’ve just read a bit online.”"
+      }
+    },
+    {
+      "id": "vocab:gaming:bugg",
+      "sv": "bugg",
+      "en": "bug (software)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "buggen",
+        "pl": "buggar",
+        "defPl": "buggarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Spelet har en bugg i sista nivån.",
+        "en": "The game has a bug in the last level."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Spelet har så många buggar att min figur dansar bugg.",
+        "en": "The game has so many bugs that my character is dancing the bugg.",
+        "note": "Bugg is also a Swedish swing dance."
+      }
+    },
+    {
+      "id": "vocab:gaming:lagga",
+      "sv": "lagga",
+      "en": "lag",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Colloquial: det laggar = it’s lagging.",
+      "check": true,
+      "example": {
+        "sv": "Spelet laggar när alla är online.",
+        "en": "The game lags when everyone is online."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Internet laggar. Min hjärna laggar också, men bara på måndagar.",
+        "en": "The internet is lagging. My brain lags too, but only on Mondays."
+      }
+    },
+    {
+      "id": "vocab:gaming:streama",
+      "sv": "streama",
+      "en": "stream",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Also: strömma.",
+      "example": {
+        "sv": "Hon streamar när hon spelar på kvällarna.",
+        "en": "She streams when she plays in the evenings."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag streamar mina spel. Mina tittare: mamma och katten.",
+        "en": "I stream my games. My viewers: Mum and the cat."
+      }
+    },
+    {
+      "id": "vocab:gaming:turnering",
+      "sv": "turnering",
+      "en": "tournament",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "turneringen",
+        "pl": "turneringar",
+        "defPl": "turneringarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Vårt lag är med i en turnering i helgen.",
+        "en": "Our team is in a tournament this weekend."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Vi kom tvåa i turneringen. Det var två lag.",
+        "en": "We came second in the tournament. There were two teams."
+      }
+    },
+    {
+      "id": "vocab:gaming:liv",
+      "sv": "liv",
+      "en": "life",
+      "enPl": "lives",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "livet",
+        "pl": "liv",
+        "defPl": "liven"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Jag har bara ett liv kvar.",
+        "en": "I only have one life left."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I spelet har jag nio liv, precis som katten.",
+        "en": "In the game I have nine lives, just like the cat."
+      }
+    },
+    {
+      "id": "vocab:gaming:do",
+      "sv": "dö",
+      "en": "die",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Jag dog tre gånger på samma ställe.",
+        "en": "I died three times in the same spot."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag dog igen. Spelet frågade: ”Försök igen?” Ja, tyvärr.",
+        "en": "I died again. The game asked: “Try again?” Yes, unfortunately."
+      }
+    },
+    {
+      "id": "vocab:gaming:borja-om",
+      "sv": "börja om",
+      "en": "start over, restart",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi måste börja om från början.",
+        "en": "We have to start over from the beginning."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Om livet var ett spel skulle jag börja om varje måndag.",
+        "en": "If life were a game, I’d restart every Monday."
+      }
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "theme": "climbing",
+  "title": "Klättring",
+  "entries": [
+    {
+      "id": "vocab:climbing:klattra",
+      "sv": "klättra",
+      "en": "climb",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi klättrar i hallen två gånger i veckan.",
+        "en": "We climb at the gym twice a week."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Katten klättrar gratis på gardinerna. Jag betalar tjugo euro i hallen.",
+        "en": "The cat climbs the curtains for free. I pay twenty euros at the gym."
+      }
+    },
+    {
+      "id": "vocab:climbing:klattring",
+      "sv": "klättring",
+      "en": "climbing (the sport)",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "klättringen"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Klättring är bra träning för hela kroppen.",
+        "en": "Climbing is good exercise for the whole body."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Klättring är min terapi. Mina fingrar håller inte med.",
+        "en": "Climbing is my therapy. My fingers don’t agree."
+      }
+    },
+    {
+      "id": "vocab:climbing:klattrare",
+      "sv": "klättrare",
+      "en": "climber",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klättraren",
+        "pl": "klättrare",
+        "defPl": "klättrarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "note": "Like lärare: klättrare – klättrarna.",
+      "example": {
+        "sv": "Hon är en duktig klättrare.",
+        "en": "She’s a skilled climber."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Två klättrare på fika pratar bara om grepp. Kaffet blir kallt.",
+        "en": "Two climbers having coffee talk only about holds. The coffee goes cold."
+      }
+    },
+    {
+      "id": "vocab:climbing:klatterhall",
+      "sv": "klätterhall",
+      "en": "climbing gym",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klätterhallen",
+        "pl": "klätterhallar",
+        "defPl": "klätterhallarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Klätterhallen ligger nära mitt jobb.",
+        "en": "The climbing gym is close to my work."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Klätterhallen är mitt andra hem. Där är väggarna roligare.",
+        "en": "The climbing gym is my second home. The walls are more fun there."
+      }
+    },
+    {
+      "id": "vocab:climbing:bouldering",
+      "sv": "bouldering",
+      "en": "bouldering",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "boulderingen"
+      },
+      "level": "A2",
+      "note": "Loanword; also heard as boulder or bouldring. Gender and definite form unconfirmed.",
+      "check": true,
+      "example": {
+        "sv": "Bouldering är populärt i Helsingfors.",
+        "en": "Bouldering is popular in Helsinki."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Bouldering: två meter upp, två meter ner. Hela kvällen.",
+        "en": "Bouldering: two metres up, two metres down. All evening."
+      }
+    },
+    {
+      "id": "vocab:climbing:boulda",
+      "sv": "boulda",
+      "en": "boulder (climb without a rope)",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Colloquial loanword.",
+      "check": true,
+      "example": {
+        "sv": "Ska vi boulda efter jobbet?",
+        "en": "Shall we go bouldering after work?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Ska vi boulda ikväll? – Mina fingrar säger nej, men jag säger ja.",
+        "en": "“Shall we boulder tonight?” “My fingers say no, but I say yes.”"
+      }
+    },
+    {
+      "id": "vocab:climbing:vagg",
+      "sv": "vägg",
+      "en": "wall",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "väggen",
+        "pl": "väggar",
+        "defPl": "väggarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Den nya väggen i klätterhallen är väldigt brant.",
+        "en": "The new wall at the climbing gym is very steep."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag hittade vägen till väggen, men inte vägen upp.",
+        "en": "I found the way to the wall, but not the way up.",
+        "note": "Väg (way, road) and vägg (wall) differ by one g – and the length of the vowel."
+      }
+    },
+    {
+      "id": "vocab:climbing:grepp",
+      "sv": "grepp",
+      "en": "hold, grip",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "greppet",
+        "pl": "grepp",
+        "defPl": "greppen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Det här greppet är väldigt litet.",
+        "en": "This hold is really small."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "På väggen hittar jag alla grepp. I svensk grammatik hittar jag inga.",
+        "en": "On the wall I find every hold. In Swedish grammar I find none.",
+        "note": "Grepp is also a grasp (understanding): ha grepp om något = have a grasp of something."
+      }
+    },
+    {
+      "id": "vocab:climbing:led",
+      "sv": "led",
+      "en": "route (climbing)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "leden",
+        "pl": "leder",
+        "defPl": "lederna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Den gula leden är min favorit.",
+        "en": "The yellow route is my favourite."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Efter tre svåra leder gör alla mina leder ont.",
+        "en": "After three hard routes all my joints hurt.",
+        "note": "En led is both a climbing route and a joint (knee, finger) – same plural, leder."
+      }
+    },
+    {
+      "id": "vocab:climbing:rep",
+      "sv": "rep",
+      "en": "rope",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "repet",
+        "pl": "rep",
+        "defPl": "repen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Kontrollera alltid repet innan du börjar klättra.",
+        "en": "Always check the rope before you start climbing."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Repet är det enda i mitt liv som alltid håller.",
+        "en": "The rope is the only thing in my life that always holds."
+      }
+    },
+    {
+      "id": "vocab:climbing:sele",
+      "sv": "sele",
+      "en": "harness",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "selen",
+        "pl": "selar",
+        "defPl": "selarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Sätt på dig selen och kontrollera knuten.",
+        "en": "Put on your harness and check the knot."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min katt har också en sele. Den klättrar inte, den protesterar.",
+        "en": "My cat has a harness too. It doesn’t climb, it protests."
+      }
+    },
+    {
+      "id": "vocab:climbing:klattersko",
+      "sv": "klättersko",
+      "en": "climbing shoe",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klätterskon",
+        "pl": "klätterskor",
+        "defPl": "klätterskorna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Mina nya klätterskor gör ont i fötterna.",
+        "en": "My new climbing shoes hurt my feet."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Klätterskor ska sitta tajt. Mina sitter så tajt att jag går som en pingvin.",
+        "en": "Climbing shoes should fit tight. Mine are so tight that I walk like a penguin."
+      }
+    },
+    {
+      "id": "vocab:climbing:krita",
+      "sv": "krita",
+      "en": "chalk",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "kritan"
+      },
+      "level": "A2",
+      "note": "Also: magnesium. A stick of chalk is countable: en krita – kritor.",
+      "example": {
+        "sv": "Hon tar lite krita på händerna före varje försök.",
+        "en": "She puts a little chalk on her hands before every attempt."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Efter klättringen har jag krita i håret, på telefonen och i kaffet.",
+        "en": "After climbing I have chalk in my hair, on my phone and in my coffee."
+      }
+    },
+    {
+      "id": "vocab:climbing:sakra",
+      "sv": "säkra",
+      "en": "belay",
+      "pos": "verb",
+      "level": "B1",
+      "example": {
+        "sv": "Kan du säkra mig på nästa led?",
+        "en": "Can you belay me on the next route?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Säkrar du mig? – Ja! Jag ska bara svara på ett sms först.",
+        "en": "“Are you belaying me?” “Yes! I’ll just answer a text first.”"
+      }
+    },
+    {
+      "id": "vocab:climbing:sakrare",
+      "sv": "säkrare",
+      "en": "belayer",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "säkraren",
+        "pl": "säkrare",
+        "defPl": "säkrarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "B1",
+      "note": "Like lärare: säkrare – säkrarna.",
+      "example": {
+        "sv": "En säkrare måste alltid vara uppmärksam.",
+        "en": "A belayer always has to pay attention."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "En bra säkrare gör klättringen säkrare.",
+        "en": "A good belayer makes climbing safer.",
+        "note": "Pun: säkrare is both ‘belayer’ and ‘safer’ (comparative of säker)."
+      }
+    },
+    {
+      "id": "vocab:climbing:karbinhake",
+      "sv": "karbinhake",
+      "en": "carabiner",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "karbinhaken",
+        "pl": "karbinhakar",
+        "defPl": "karbinhakarna"
+      },
+      "group": 2,
+      "level": "B1",
+      "example": {
+        "sv": "Hon hänger karbinhaken på selen.",
+        "en": "She hangs the carabiner on her harness."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har tolv karbinhakar och ingen aning om vad de flesta gör.",
+        "en": "I have twelve carabiners and no idea what most of them do."
+      }
+    },
+    {
+      "id": "vocab:climbing:falla",
+      "sv": "falla",
+      "en": "fall",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Han föll från väggen men landade mjukt på mattan.",
+        "en": "He fell off the wall but landed softly on the mat."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag faller inte. Jag testar mattan.",
+        "en": "I’m not falling. I’m testing the mat."
+      }
+    },
+    {
+      "id": "vocab:climbing:ramla",
+      "sv": "ramla",
+      "en": "fall (over, off), tumble",
+      "pos": "verb",
+      "level": "A2",
+      "note": "More everyday than falla.",
+      "example": {
+        "sv": "Han ramlade på isen utanför hallen.",
+        "en": "He slipped and fell on the ice outside the gym."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag ramlade inte. Jag tog bara den snabba vägen ner.",
+        "en": "I didn’t fall. I just took the quick way down."
+      }
+    },
+    {
+      "id": "vocab:climbing:topp",
+      "sv": "topp",
+      "en": "top",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "toppen",
+        "pl": "toppar",
+        "defPl": "topparna"
+      },
+      "group": 2,
+      "level": "A2",
+      "note": "nå toppen = reach the top",
+      "example": {
+        "sv": "Vi nådde toppen efter tre timmar.",
+        "en": "We reached the top after three hours."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Nådde du toppen? – Ja, toppen!",
+        "en": "“Did you reach the top?” “Yes, great!”",
+        "note": "Toppen means ‘the top’, but also ‘great!’."
+      }
+    },
+    {
+      "id": "vocab:climbing:vaga",
+      "sv": "våga",
+      "en": "dare",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Hon vågade inte hoppa till nästa grepp.",
+        "en": "She didn’t dare jump to the next hold."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag vågar klättra tio meter upp, men jag vågar inte svara i telefon.",
+        "en": "I dare climb ten metres up, but I don’t dare answer the phone."
+      }
+    },
+    {
+      "id": "vocab:climbing:hojdradd",
+      "sv": "höjdrädd",
+      "en": "afraid of heights",
+      "pos": "adjective",
+      "level": "B1",
+      "example": {
+        "sv": "Min bror är höjdrädd, så han klättrar inte.",
+        "en": "My brother is afraid of heights, so he doesn’t climb."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag är inte höjdrädd. Jag är rädd för att landa.",
+        "en": "I’m not afraid of heights. I’m afraid of landing."
+      }
+    },
+    {
+      "id": "vocab:climbing:stark",
+      "sv": "stark",
+      "en": "strong",
+      "pos": "adjective",
+      "level": "A2",
+      "example": {
+        "sv": "Man behöver inte vara stark för att börja klättra.",
+        "en": "You don’t need to be strong to start climbing."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mina fingrar är starka. Resten av mig är på väg.",
+        "en": "My fingers are strong. The rest of me is on its way."
+      }
+    },
+    {
+      "id": "vocab:climbing:finger",
+      "sv": "finger",
+      "en": "finger",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "fingret",
+        "pl": "fingrar",
+        "defPl": "fingrarna"
+      },
+      "group": 2,
+      "irregular": true,
+      "level": "A2",
+      "note": "Ett-word with an -ar plural; the e drops: fingret, fingrar. starka fingrar = strong fingers.",
+      "example": {
+        "sv": "Efter klättringen gör mina fingrar ont.",
+        "en": "After climbing my fingers hurt."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Klättrare räknar inte på fingrarna. De tejpar dem.",
+        "en": "Climbers don’t count on their fingers. They tape them."
+      }
+    },
+    {
+      "id": "vocab:climbing:skada",
+      "sv": "skada",
+      "en": "injury",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "skadan",
+        "pl": "skador",
+        "defPl": "skadorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Han har en skada i axeln och kan inte klättra.",
+        "en": "He has a shoulder injury and can’t climb."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Klättrare pratar om sina skador som andra pratar om vädret.",
+        "en": "Climbers talk about their injuries the way others talk about the weather."
+      }
+    },
+    {
+      "id": "vocab:climbing:stretcha",
+      "sv": "stretcha",
+      "en": "stretch",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Glöm inte att stretcha efter träningen.",
+        "en": "Don’t forget to stretch after training."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Katten stretchar tio gånger om dagen. Därför har den aldrig ont i ryggen.",
+        "en": "The cat stretches ten times a day. That’s why its back never hurts."
+      }
+    },
+    {
+      "id": "vocab:climbing:varma-upp",
+      "sv": "värma upp",
+      "en": "warm up",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi värmer upp på lätta leder först.",
+        "en": "We warm up on easy routes first."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag värmer upp i tjugo minuter. Sedan är jag för trött för att klättra.",
+        "en": "I warm up for twenty minutes. Then I’m too tired to climb."
+      }
+    },
+    {
+      "id": "vocab:climbing:nyborjare",
+      "sv": "nybörjare",
+      "en": "beginner",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "nybörjaren",
+        "pl": "nybörjare",
+        "defPl": "nybörjarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "note": "Like lärare: nybörjare – nybörjarna.",
+      "example": {
+        "sv": "Klätterhallen har en kurs för nybörjare.",
+        "en": "The climbing gym has a course for beginners."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har varit nybörjare i tre år. Det är min specialitet.",
+        "en": "I’ve been a beginner for three years. It’s my speciality."
+      }
+    },
+    {
+      "id": "vocab:climbing:svar",
+      "sv": "svår",
+      "en": "difficult, hard",
+      "pos": "adjective",
+      "level": "A2",
+      "example": {
+        "sv": "Den här leden är för svår för mig.",
+        "en": "This route is too hard for me."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Ingen led är för svår. Jag är bara för kort.",
+        "en": "No route is too hard. I’m just too short."
+      }
+    },
+    {
+      "id": "vocab:climbing:latt",
+      "sv": "lätt",
+      "en": "easy",
+      "pos": "adjective",
+      "level": "A2",
+      "example": {
+        "sv": "Vi börjar med en lätt led.",
+        "en": "We start with an easy route."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Är leden lätt? – Ja, för min kompis. Han är tolv.",
+        "en": "“Is the route easy?” “Yes, for my friend. He’s twelve.”"
+      }
+    },
+    {
+      "id": "vocab:climbing:klippa",
+      "sv": "klippa",
+      "en": "cliff, rock face",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klippan",
+        "pl": "klippor",
+        "defPl": "klipporna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Det finns fina klippor nära Helsingfors.",
+        "en": "There are nice cliffs near Helsinki."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Jag ska klippa mig, sa jag. Min klätterkompis frågade: ”Vilken klippa?”",
+        "en": "“I’m going to get my hair cut,” I said. My climbing buddy asked: “Which cliff?”",
+        "note": "Pun: en klippa is a cliff, but klippa sig means to get a haircut."
+      }
+    },
+    {
+      "id": "vocab:climbing:utomhus",
+      "sv": "utomhus",
+      "en": "outdoors",
+      "pos": "adverb",
+      "level": "A2",
+      "example": {
+        "sv": "På sommaren klättrar vi utomhus.",
+        "en": "In summer we climb outdoors."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Utomhus finns det inga färgade grepp. Bara myggor.",
+        "en": "Outdoors there are no coloured holds. Just mosquitoes."
+      }
+    },
+    {
+      "id": "vocab:climbing:inomhus",
+      "sv": "inomhus",
+      "en": "indoors",
+      "pos": "adverb",
+      "level": "A2",
+      "example": {
+        "sv": "På vintern klättrar vi inomhus.",
+        "en": "In winter we climb indoors."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I Finland är ”inomhus” en årstid.",
+        "en": "In Finland, “indoors” is a season."
+      }
+    },
+    {
+      "id": "vocab:climbing:klatterkompis",
+      "sv": "klätterkompis",
+      "en": "climbing buddy",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klätterkompisen",
+        "pl": "klätterkompisar",
+        "defPl": "klätterkompisarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "note": "kompis = friend (informal)",
+      "example": {
+        "sv": "Min klätterkompis och jag träffas varje tisdag.",
+        "en": "My climbing buddy and I meet every Tuesday."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "En klätterkompis litar du på med ditt liv. Men inte med din kaka.",
+        "en": "You trust a climbing buddy with your life. But not with your cake."
+      }
+    },
+    {
+      "id": "vocab:climbing:ge-upp",
+      "sv": "ge upp",
+      "en": "give up",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Ge inte upp, du är nästan uppe!",
+        "en": "Don’t give up, you’re almost at the top!"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag ger aldrig upp. Jag tar bara en paus på fyra veckor.",
+        "en": "I never give up. I just take a four-week break."
+      }
+    },
+    {
+      "id": "vocab:climbing:forsoka-igen",
+      "sv": "försöka igen",
+      "en": "try again",
+      "pos": "phrase",
+      "level": "A2",
+      "example": {
+        "sv": "Vila lite och försök igen.",
+        "en": "Rest a bit and try again."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag försökte igen. Och igen. Nu känner väggen igen mig.",
+        "en": "I tried again. And again. Now the wall recognises me.",
+        "note": "Känna igen means ‘to recognise’ – the igen from ‘again’ sneaks in."
+      }
+    }
+  ]
+}

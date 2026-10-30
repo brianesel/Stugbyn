@@ -1,0 +1,781 @@
+{
+  "theme": "cooking",
+  "title": "Matlagning",
+  "entries": [
+    {
+      "id": "vocab:cooking:recept",
+      "sv": "recept",
+      "en": "recipe",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "receptet",
+        "pl": "recept",
+        "defPl": "recepten"
+      },
+      "group": 5,
+      "level": "A2",
+      "note": "Also: a prescription from the doctor.",
+      "example": {
+        "sv": "Jag hittade ett bra recept på nätet.",
+        "en": "I found a good recipe online."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Har du ett recept? – Från läkaren eller från mormor?",
+        "en": "“Do you have a recipe?” “From the doctor or from Grandma?”",
+        "note": "Pun: recept means both ‘recipe’ and ‘prescription’."
+      }
+    },
+    {
+      "id": "vocab:cooking:ingrediens",
+      "sv": "ingrediens",
+      "en": "ingredient",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "ingrediensen",
+        "pl": "ingredienser",
+        "defPl": "ingredienserna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Du behöver bara fem ingredienser.",
+        "en": "You only need five ingredients."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Den viktigaste ingrediensen är kaffe. För kocken.",
+        "en": "The most important ingredient is coffee. For the cook."
+      }
+    },
+    {
+      "id": "vocab:cooking:koka",
+      "sv": "koka",
+      "en": "boil",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Also: make (coffee) – koka kaffe.",
+      "example": {
+        "sv": "Vattnet kokar. Nu kan du lägga i pastan.",
+        "en": "The water’s boiling. Now you can put the pasta in."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag kokade äggen i femton minuter. Nu är de hårda som stenar.",
+        "en": "I boiled the eggs for fifteen minutes. Now they’re as hard as stones."
+      }
+    },
+    {
+      "id": "vocab:cooking:steka",
+      "sv": "steka",
+      "en": "fry",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Hon steker fisk i smör.",
+        "en": "She fries fish in butter."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag steker bacon. Brandvarnaren sjunger med.",
+        "en": "I’m frying bacon. The smoke alarm is singing along."
+      }
+    },
+    {
+      "id": "vocab:cooking:baka",
+      "sv": "baka",
+      "en": "bake",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi bakar bröd varje söndag.",
+        "en": "We bake bread every Sunday."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag bakade surdegsbröd i tre dagar. Sedan köpte jag ett i affären.",
+        "en": "I baked sourdough bread for three days. Then I bought one at the shop."
+      }
+    },
+    {
+      "id": "vocab:cooking:grilla",
+      "sv": "grilla",
+      "en": "grill, barbecue",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "På sommaren grillar vi ofta korv.",
+        "en": "In summer we often grill sausages."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I Finland grillar vi korv i juli. Och i snön i januari.",
+        "en": "In Finland we grill sausages in July. And in the snow in January."
+      }
+    },
+    {
+      "id": "vocab:cooking:skara",
+      "sv": "skära",
+      "en": "cut",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Kan du skära tomaterna i små bitar?",
+        "en": "Can you cut the tomatoes into small pieces?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag skär löken och gråter. Löken gråter inte.",
+        "en": "I cut the onion and cry. The onion doesn’t cry."
+      }
+    },
+    {
+      "id": "vocab:cooking:hacka",
+      "sv": "hacka",
+      "en": "chop",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Hacka vitlöken fint.",
+        "en": "Chop the garlic finely."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Hackar du? – Ja, lök. Inte banken.",
+        "en": "“Are you hacking?” “Yes, onions. Not the bank.”",
+        "note": "Pun: hacka means ‘chop’ and also ‘hack’ (into a computer)."
+      }
+    },
+    {
+      "id": "vocab:cooking:riva",
+      "sv": "riva",
+      "en": "grate",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Also: tear down (riva ett hus).",
+      "example": {
+        "sv": "Jag river morötter till salladen.",
+        "en": "I’m grating carrots for the salad."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Kan du riva osten? – Ja, men den är inget hus.",
+        "en": "“Can you grate the cheese?” “Yes, but it isn’t a house.”",
+        "note": "Riva means ‘grate’ and also ‘tear down’ (riva ett hus)."
+      }
+    },
+    {
+      "id": "vocab:cooking:blanda",
+      "sv": "blanda",
+      "en": "mix",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Blanda mjöl, socker och ägg i en skål.",
+        "en": "Mix flour, sugar and eggs in a bowl."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag blandar svenska och finska. Det blir ett nytt språk.",
+        "en": "I mix Swedish and Finnish. It turns into a new language."
+      }
+    },
+    {
+      "id": "vocab:cooking:rora-om",
+      "sv": "röra om",
+      "en": "stir",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Rör om i gröten ibland.",
+        "en": "Stir the porridge now and then."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "”Rör om hela tiden”, sa receptet. Nu har jag rört om i en timme.",
+        "en": "“Stir constantly,” said the recipe. I’ve now been stirring for an hour."
+      }
+    },
+    {
+      "id": "vocab:cooking:smaka-av",
+      "sv": "smaka av",
+      "en": "season to taste",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Smaka av med lite peppar.",
+        "en": "Season to taste with a little pepper."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag smakade av soppan tio gånger. Nu finns det ingen soppa kvar.",
+        "en": "I tasted the soup ten times. Now there’s no soup left."
+      }
+    },
+    {
+      "id": "vocab:cooking:krydda-verb",
+      "sv": "krydda",
+      "en": "season (with spices)",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Han kryddar köttet med paprika.",
+        "en": "He seasons the meat with paprika."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mormor kryddar maten med kärlek. Och med mycket smör.",
+        "en": "Grandma seasons the food with love. And with a lot of butter."
+      }
+    },
+    {
+      "id": "vocab:cooking:krydda",
+      "sv": "krydda",
+      "en": "spice",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kryddan",
+        "pl": "kryddor",
+        "defPl": "kryddorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Vilka kryddor har du i köket?",
+        "en": "What spices do you have in the kitchen?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har trettio kryddor. Jag använder bara peppar.",
+        "en": "I have thirty spices. I only use pepper."
+      }
+    },
+    {
+      "id": "vocab:cooking:salta",
+      "sv": "salta",
+      "en": "salt (add salt)",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Glöm inte att salta vattnet.",
+        "en": "Don’t forget to salt the water."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag saltade soppan. Sedan saltade min sambo den. Nu är det havsvatten.",
+        "en": "I salted the soup. Then my partner salted it. Now it’s seawater."
+      }
+    },
+    {
+      "id": "vocab:cooking:kastrull",
+      "sv": "kastrull",
+      "en": "saucepan",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "kastrullen",
+        "pl": "kastruller",
+        "defPl": "kastrullerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Koka potatisen i en stor kastrull.",
+        "en": "Boil the potatoes in a big saucepan."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag lagade mat i tjugo minuter och diskade kastruller i en timme.",
+        "en": "I cooked for twenty minutes and washed saucepans for an hour."
+      }
+    },
+    {
+      "id": "vocab:cooking:stekpanna",
+      "sv": "stekpanna",
+      "en": "frying pan",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "stekpannan",
+        "pl": "stekpannor",
+        "defPl": "stekpannorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Stekpannan är varm nu.",
+        "en": "The frying pan is hot now."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min stekpanna är min bästa vän. Den är alltid varm.",
+        "en": "My frying pan is my best friend. It’s always warm."
+      }
+    },
+    {
+      "id": "vocab:cooking:ugn",
+      "sv": "ugn",
+      "en": "oven",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "ugnen",
+        "pl": "ugnar",
+        "defPl": "ugnarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Ställ in ugnen på 200 grader.",
+        "en": "Set the oven to 200 degrees."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Vår ugn har två lägen: rå och bränd.",
+        "en": "Our oven has two settings: raw and burnt."
+      }
+    },
+    {
+      "id": "vocab:cooking:spis",
+      "sv": "spis",
+      "en": "stove, hob",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "spisen",
+        "pl": "spisar",
+        "defPl": "spisarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Det står en kastrull på spisen.",
+        "en": "There’s a saucepan on the stove."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har kollat spisen tre gånger. Den är fortfarande avstängd.",
+        "en": "I’ve checked the stove three times. It’s still off."
+      }
+    },
+    {
+      "id": "vocab:cooking:kniv",
+      "sv": "kniv",
+      "en": "knife",
+      "pos": "noun",
+      "enPl": "knives",
+      "gender": "en",
+      "forms": {
+        "def": "kniven",
+        "pl": "knivar",
+        "defPl": "knivarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Den här kniven är väldigt vass.",
+        "en": "This knife is very sharp."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min kniv är så slö att den bara kan skära smör.",
+        "en": "My knife is so blunt that it can only cut butter."
+      }
+    },
+    {
+      "id": "vocab:cooking:skarbrada",
+      "sv": "skärbräda",
+      "en": "chopping board",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "skärbrädan",
+        "pl": "skärbrädor",
+        "defPl": "skärbrädorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Lägg brödet på skärbrädan.",
+        "en": "Put the bread on the chopping board."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Katten tycker att skärbrädan är hans säng.",
+        "en": "The cat thinks the chopping board is his bed."
+      }
+    },
+    {
+      "id": "vocab:cooking:skal",
+      "sv": "skål",
+      "en": "bowl",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "skålen",
+        "pl": "skålar",
+        "defPl": "skålarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "note": "Skål! = Cheers!",
+      "example": {
+        "sv": "Ta en stor skål till salladen.",
+        "en": "Get a big bowl for the salad."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Skål! sa han och lyfte en skål med gröt.",
+        "en": "“Cheers!” he said, raising a bowl of porridge.",
+        "note": "Pun: skål means ‘bowl’, and Skål! means ‘Cheers!’."
+      }
+    },
+    {
+      "id": "vocab:cooking:sked",
+      "sv": "sked",
+      "en": "spoon",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "skeden",
+        "pl": "skedar",
+        "defPl": "skedarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Barnen äter soppa med sked.",
+        "en": "The children eat soup with a spoon."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "I diskmaskinen finns tjugo skedar. I lådan finns inga.",
+        "en": "There are twenty spoons in the dishwasher. In the drawer there are none."
+      }
+    },
+    {
+      "id": "vocab:cooking:gaffel",
+      "sv": "gaffel",
+      "en": "fork",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "gaffeln",
+        "pl": "gafflar",
+        "defPl": "gafflarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Var ligger gafflarna?",
+        "en": "Where are the forks?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Han äter spaghetti med gaffel, sked och mycket tålamod.",
+        "en": "He eats spaghetti with a fork, a spoon and a lot of patience."
+      }
+    },
+    {
+      "id": "vocab:cooking:matsked",
+      "sv": "matsked",
+      "en": "tablespoon",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "matskeden",
+        "pl": "matskedar",
+        "defPl": "matskedarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Ta två matskedar olja.",
+        "en": "Take two tablespoons of oil."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mormor mäter aldrig. Hennes matsked är ”lagom”.",
+        "en": "Grandma never measures. Her tablespoon is “just right”.",
+        "note": "Lagom = not too much, not too little."
+      }
+    },
+    {
+      "id": "vocab:cooking:tesked",
+      "sv": "tesked",
+      "en": "teaspoon",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "teskeden",
+        "pl": "teskedar",
+        "defPl": "teskedarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Lägg i en tesked socker.",
+        "en": "Add a teaspoon of sugar."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Receptet sa en tesked chili. Jag läste en matsked. Nu gråter hela familjen.",
+        "en": "The recipe said a teaspoon of chili. I read a tablespoon. Now the whole family is crying."
+      }
+    },
+    {
+      "id": "vocab:cooking:het",
+      "sv": "het",
+      "en": "hot (very hot)",
+      "pos": "adjective",
+      "level": "A2",
+      "note": "Neuter: hett. Spicy food is usually called stark mat.",
+      "example": {
+        "sv": "Akta dig, pannan är het!",
+        "en": "Careful, the pan is hot!"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Soppan är het. Kaffet är hett. Och jag är bara trött.",
+        "en": "The soup is hot. The coffee is hot. And I’m just tired."
+      }
+    },
+    {
+      "id": "vocab:cooking:branna-vid",
+      "sv": "bränna vid",
+      "en": "burn (food in the pan)",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Riset har bränt vid igen.",
+        "en": "The rice has burnt again."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag fixade en bugg på fem minuter. Under tiden brände såsen vid.",
+        "en": "I fixed a bug in five minutes. Meanwhile the sauce burnt."
+      }
+    },
+    {
+      "id": "vocab:cooking:portion",
+      "sv": "portion",
+      "en": "portion, serving",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "portionen",
+        "pl": "portioner",
+        "defPl": "portionerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Receptet räcker till fyra portioner.",
+        "en": "The recipe makes four portions."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Receptet är för fyra portioner. Eller för en programmerare på natten.",
+        "en": "The recipe is for four portions. Or for one programmer at night."
+      }
+    },
+    {
+      "id": "vocab:cooking:rester",
+      "sv": "rester",
+      "en": "leftovers",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "resterna"
+      },
+      "level": "A2",
+      "note": "Plural in this sense. Singular en rest = a remainder.",
+      "example": {
+        "sv": "Vi äter rester till lunch idag.",
+        "en": "We’re eating leftovers for lunch today."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Middagen tar en timme att laga. Resterna räcker i fyra dagar.",
+        "en": "Dinner takes an hour to cook. The leftovers last four days."
+      }
+    },
+    {
+      "id": "vocab:cooking:diska",
+      "sv": "diska",
+      "en": "do the dishes",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vem diskar ikväll?",
+        "en": "Who’s doing the dishes tonight?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Jag lagade maten, så du diskar. – Okej. Varför har du använt sju kastruller?",
+        "en": "“I cooked, so you do the dishes.” “Okay. Why have you used seven saucepans?”"
+      }
+    },
+    {
+      "id": "vocab:cooking:forbereda",
+      "sv": "förbereda",
+      "en": "prepare",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "På söndagar förbereder jag mat för hela veckan.",
+        "en": "On Sundays I prepare food for the whole week."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag förberedde allt: ingredienser, kastruller, musik. Sedan beställde vi pizza.",
+        "en": "I prepared everything: ingredients, saucepans, music. Then we ordered pizza."
+      }
+    },
+    {
+      "id": "vocab:cooking:forklade",
+      "sv": "förkläde",
+      "en": "apron",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "förklädet",
+        "pl": "förkläden",
+        "defPl": "förklädena"
+      },
+      "group": 4,
+      "level": "A2",
+      "example": {
+        "sv": "Hon tar på sig förklädet innan hon börjar laga mat.",
+        "en": "She puts on her apron before she starts cooking."
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Med förkläde ser jag ut som en riktig kock. Maten håller inte med.",
+        "en": "In an apron I look like a real chef. The food doesn’t agree."
+      }
+    },
+    {
+      "id": "vocab:cooking:varma-upp",
+      "sv": "värma upp",
+      "en": "heat up, reheat",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Kan du värma upp soppan i mikron?",
+        "en": "Can you heat up the soup in the microwave?"
+      },
+      "tags": [
+        "yki-free-time",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag värmde upp kaffet tre gånger. Jag drack det kallt ändå.",
+        "en": "I reheated the coffee three times. I drank it cold anyway."
+      }
+    }
+  ]
+}

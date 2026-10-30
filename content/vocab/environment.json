@@ -1,0 +1,612 @@
+{
+  "theme": "environment",
+  "title": "Miljö",
+  "entries": [
+    {
+      "id": "vocab:environment:slappa-ut-koldioxid",
+      "sv": "släppa ut koldioxid",
+      "en": "emit carbon dioxide",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Bilar och flygplan släpper ut mycket koldioxid.",
+        "en": "Cars and planes emit a lot of carbon dioxide."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "– Släpper din bil ut mycket koldioxid? – Nej, den står mest i garaget.",
+        "en": "“Does your car emit a lot of carbon dioxide?” “No, it mostly stays in the garage.”"
+      }
+    },
+    {
+      "id": "vocab:environment:koldioxid",
+      "sv": "koldioxid",
+      "en": "carbon dioxide",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "koldioxiden"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Träd tar upp koldioxid.",
+        "en": "Trees absorb carbon dioxide."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag andas ut koldioxid hela dagen. Mest när jag suckar över svenska verb.",
+        "en": "I breathe out carbon dioxide all day. Mostly when I sigh over Swedish verbs."
+      }
+    },
+    {
+      "id": "vocab:environment:skada-miljon",
+      "sv": "skada miljön",
+      "en": "harm the environment",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Plast i havet skadar miljön.",
+        "en": "Plastic in the sea harms the environment."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "– Skadar det miljön om jag inte städar? – Nej, bara min mamma.",
+        "en": "“Does it harm the environment if I don’t clean?” “No, only my mum.”"
+      }
+    },
+    {
+      "id": "vocab:environment:skydda-miljon",
+      "sv": "skydda miljön",
+      "en": "protect the environment",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi måste skydda miljön för våra barn.",
+        "en": "We must protect the environment for our children."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag skyddar miljön. Jag cyklar till jobbet – när det inte regnar, snöar eller blåser.",
+        "en": "I protect the environment. I cycle to work – when it isn’t raining, snowing or windy."
+      }
+    },
+    {
+      "id": "vocab:environment:miljo",
+      "sv": "miljö",
+      "en": "environment",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "miljön"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "note": "Uncountable in this sense. As ‘setting, surroundings’ it is countable: en miljö, miljöer.",
+      "example": {
+        "sv": "Det är viktigt att tänka på miljön.",
+        "en": "It’s important to think about the environment."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Min katt tänker också på miljön. Hon sover tjugo timmar om dagen och använder ingen el.",
+        "en": "My cat thinks about the environment too. She sleeps twenty hours a day and uses no electricity."
+      }
+    },
+    {
+      "id": "vocab:environment:klimatforandring",
+      "sv": "klimatförändring",
+      "en": "climate change",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klimatförändringen",
+        "pl": "klimatförändringar",
+        "defPl": "klimatförändringarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 22,
+      "note": "Usually plural: klimatförändringar = climate change.",
+      "example": {
+        "sv": "Klimatförändringarna påverkar hela världen.",
+        "en": "Climate change affects the whole world."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Klimatförändringar i Finland: nu har vi bara åtta månader vinter.",
+        "en": "Climate change in Finland: now we only have eight months of winter."
+      }
+    },
+    {
+      "id": "vocab:environment:sopsortera",
+      "sv": "sopsortera",
+      "en": "sort the rubbish (for recycling)",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "I vårt hus sopsorterar alla.",
+        "en": "Everyone in our building sorts their rubbish."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag sopsorterar så noga att jag behöver en karta till soprummet.",
+        "en": "I sort my rubbish so carefully that I need a map to the bin room."
+      }
+    },
+    {
+      "id": "vocab:environment:sopor",
+      "sv": "sopor",
+      "en": "rubbish, garbage",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "soporna"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "note": "Plural only: sopor, soporna.",
+      "example": {
+        "sv": "Kan du gå ut med soporna?",
+        "en": "Can you take out the rubbish?"
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "– Kan du gå ut med soporna? – Visst. Vart ska vi gå?",
+        "en": "“Can you take the rubbish out?” “Sure. Where are we going?”",
+        "note": "Gå ut med soporna literally means ‘go out with the rubbish’."
+      }
+    },
+    {
+      "id": "vocab:environment:soptunna",
+      "sv": "soptunna",
+      "en": "rubbish bin",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "soptunnan",
+        "pl": "soptunnor",
+        "defPl": "soptunnorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Soptunnan står på gården.",
+        "en": "The rubbish bin is in the yard."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Vår soptunna är full igen. Den äter mer än katten.",
+        "en": "Our bin is full again. It eats more than the cat."
+      }
+    },
+    {
+      "id": "vocab:environment:atervinna",
+      "sv": "återvinna",
+      "en": "recycle",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Man kan återvinna glas och metall.",
+        "en": "You can recycle glass and metal."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag återvinner allt. Även gamla skämt.",
+        "en": "I recycle everything. Even old jokes."
+      }
+    },
+    {
+      "id": "vocab:environment:atervinning",
+      "sv": "återvinning",
+      "en": "recycling",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "återvinningen"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Återvinning är viktigt i Finland.",
+        "en": "Recycling is important in Finland."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Återvinning hos oss: lillebror får storebrors gamla kläder.",
+        "en": "Recycling at our house: little brother gets big brother’s old clothes."
+      }
+    },
+    {
+      "id": "vocab:environment:narproducerad",
+      "sv": "närproducerad",
+      "en": "locally produced",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi köper gärna närproducerad mat.",
+        "en": "We like to buy locally produced food."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Den här honungen är närproducerad. Bina bor i grannens trädgård.",
+        "en": "This honey is locally produced. The bees live in the neighbour’s garden."
+      }
+    },
+    {
+      "id": "vocab:environment:miljopaverkan",
+      "sv": "miljöpåverkan",
+      "en": "environmental impact",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "miljöpåverkan"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "note": "Same form in the definite: miljöpåverkan.",
+      "example": {
+        "sv": "Flyget har en stor miljöpåverkan.",
+        "en": "Flying has a big environmental impact."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Min största miljöpåverkan? Allt papper jag använder till mina svenska läxor.",
+        "en": "My biggest environmental impact? All the paper I use for my Swedish homework."
+      }
+    },
+    {
+      "id": "vocab:environment:miljovanlig",
+      "sv": "miljövänlig",
+      "en": "environmentally friendly",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Tåget är ett miljövänligt sätt att resa.",
+        "en": "The train is an environmentally friendly way to travel."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Min bil är väldigt miljövänlig. Den har inte startat sedan januari.",
+        "en": "My car is very environmentally friendly. It hasn’t started since January."
+      }
+    },
+    {
+      "id": "vocab:environment:plast",
+      "sv": "plast",
+      "en": "plastic",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "plasten"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi sorterar plast och papper.",
+        "en": "We sort plastic and paper."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Allt i kylskåpet är i plast. Utom gurkan. Nej, den också.",
+        "en": "Everything in the fridge is in plastic. Except the cucumber. No, that too."
+      }
+    },
+    {
+      "id": "vocab:environment:pase",
+      "sv": "påse",
+      "en": "bag",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "påsen",
+        "pl": "påsar",
+        "defPl": "påsarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Vill du ha en påse?",
+        "en": "Would you like a bag?"
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag tog med en egen påse till affären. Sedan köpte jag tre påsar till.",
+        "en": "I brought my own bag to the shop. Then I bought three more bags."
+      }
+    },
+    {
+      "id": "vocab:environment:flaska",
+      "sv": "flaska",
+      "en": "bottle",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "flaskan",
+        "pl": "flaskor",
+        "defPl": "flaskorna"
+      },
+      "group": 1,
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Hon köper en flaska vatten.",
+        "en": "She buys a bottle of water."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag köpte vatten i flaska. Sedan såg jag att kranvattnet är gratis.",
+        "en": "I bought bottled water. Then I saw that tap water is free."
+      }
+    },
+    {
+      "id": "vocab:environment:pantflaska",
+      "sv": "pantflaska",
+      "en": "deposit bottle",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "pantflaskan",
+        "pl": "pantflaskor",
+        "defPl": "pantflaskorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi lämnar pantflaskorna i affären.",
+        "en": "We return the deposit bottles at the shop."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Mina pantflaskor är min pensionsplan.",
+        "en": "My deposit bottles are my pension plan."
+      }
+    },
+    {
+      "id": "vocab:environment:panta",
+      "sv": "panta",
+      "en": "return bottles and cans for the deposit",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Glöm inte att panta burkarna!",
+        "en": "Don’t forget to return the cans for the deposit!"
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag pantade hundra burkar och fick femton euro. Nu är jag rik.",
+        "en": "I returned a hundred cans and got fifteen euros. Now I’m rich."
+      }
+    },
+    {
+      "id": "vocab:environment:el",
+      "sv": "el",
+      "en": "electricity",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "elen"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Elen är dyr på vintern.",
+        "en": "Electricity is expensive in winter."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Vi hade ingen el i två timmar. Plötsligt pratade hela familjen med varandra.",
+        "en": "We had no electricity for two hours. Suddenly the whole family was talking to each other."
+      }
+    },
+    {
+      "id": "vocab:environment:spara-energi",
+      "sv": "spara energi",
+      "en": "save energy",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi sparar energi när vi släcker lampan.",
+        "en": "We save energy when we turn off the light."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag sparar energi. Därför ligger jag på soffan hela söndagen.",
+        "en": "I’m saving energy. That’s why I lie on the sofa all Sunday.",
+        "note": "Energi is both electricity and your own personal energy."
+      }
+    },
+    {
+      "id": "vocab:environment:kollektivtrafik",
+      "sv": "kollektivtrafik",
+      "en": "public transport",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "kollektivtrafiken"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Det är bättre för miljön att åka kollektivtrafik.",
+        "en": "It’s better for the environment to use public transport."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag åker kollektivtrafik för miljöns skull. Och för att jag inte hittar parkering.",
+        "en": "I use public transport for the sake of the environment. And because I can’t find parking."
+      }
+    },
+    {
+      "id": "vocab:environment:cykla",
+      "sv": "cykla",
+      "en": "cycle, ride a bike",
+      "pos": "verb",
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Barnen cyklar till skolan.",
+        "en": "The children cycle to school."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag cyklar året runt. På vintern mest i sidled.",
+        "en": "I cycle all year round. In winter, mostly sideways."
+      }
+    },
+    {
+      "id": "vocab:environment:ekologisk",
+      "sv": "ekologisk",
+      "en": "organic",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi köper ekologiska bananer.",
+        "en": "We buy organic bananas."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "– Är äpplet ekologiskt? – Ja, det finns en mask i det. Han bor där.",
+        "en": "“Is the apple organic?” “Yes, there’s a worm in it. He lives there.”"
+      }
+    },
+    {
+      "id": "vocab:environment:slanga",
+      "sv": "slänga",
+      "en": "throw away",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Släng inte batterier i soporna!",
+        "en": "Don’t throw batteries in the rubbish!"
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Jag slänger aldrig gamla kläder. Jag väntar på att åttiotalet ska komma tillbaka.",
+        "en": "I never throw away old clothes. I’m waiting for the eighties to come back."
+      }
+    },
+    {
+      "id": "vocab:environment:natur",
+      "sv": "natur",
+      "en": "nature",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "naturen"
+      },
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Vi är ofta ute i naturen på helgen.",
+        "en": "We’re often out in nature at the weekend."
+      },
+      "tags": [
+        "yki-nature-weather",
+        "yki-society"
+      ],
+      "fun": {
+        "sv": "Finländare älskar naturen. Särskilt när det inte finns några andra människor där.",
+        "en": "Finns love nature. Especially when there are no other people there."
+      }
+    }
+  ]
+}

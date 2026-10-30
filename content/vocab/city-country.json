@@ -1,0 +1,803 @@
+{
+  "theme": "city-country",
+  "title": "Stad och land",
+  "entries": [
+    {
+      "id": "vocab:city-country:lugn-och-ro",
+      "sv": "lugn och ro",
+      "en": "peace and quiet",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "På landet har man lugn och ro.",
+        "en": "In the countryside you have peace and quiet."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Jag åkte till landet för lugn och ro. Grannens tupp hade andra planer.",
+        "en": "I went to the countryside for peace and quiet. The neighbour’s rooster had other plans."
+      }
+    },
+    {
+      "id": "vocab:city-country:frisk-luft",
+      "sv": "frisk luft",
+      "en": "fresh air",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Barnen behöver frisk luft.",
+        "en": "The children need fresh air."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Frisk luft är gratis på landet. Myggorna kostar extra.",
+        "en": "Fresh air is free in the countryside. The mosquitoes cost extra."
+      }
+    },
+    {
+      "id": "vocab:city-country:fordel",
+      "sv": "fördel",
+      "en": "advantage, pro",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "fördelen",
+        "pl": "fördelar",
+        "defPl": "fördelarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "En fördel med landet är den friska luften.",
+        "en": "One advantage of the countryside is the fresh air."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Fördelen med vintern i Finland: inga myggor. Nackdelen: allt annat.",
+        "en": "The advantage of winter in Finland: no mosquitoes. The disadvantage: everything else."
+      }
+    },
+    {
+      "id": "vocab:city-country:nackdel",
+      "sv": "nackdel",
+      "en": "disadvantage, con",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "nackdelen",
+        "pl": "nackdelar",
+        "defPl": "nackdelarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "En nackdel med stan är bullret.",
+        "en": "One disadvantage of the city is the noise."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Nackdelen med att bo nära jobbet: chefen vet var jag bor.",
+        "en": "The downside of living near work: the boss knows where I live."
+      }
+    },
+    {
+      "id": "vocab:city-country:pa-landet",
+      "sv": "på landet",
+      "en": "in the countryside",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Mina morföräldrar bor på landet.",
+        "en": "My grandparents live in the countryside."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "På landet känner alla alla. Även korna vet vad du heter.",
+        "en": "In the countryside everybody knows everybody. Even the cows know your name."
+      }
+    },
+    {
+      "id": "vocab:city-country:by",
+      "sv": "by",
+      "en": "village",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "byn",
+        "pl": "byar",
+        "defPl": "byarna"
+      },
+      "group": 2,
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "De bor i en liten by i Österbotten.",
+        "en": "They live in a small village in Ostrobothnia."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Min by är så liten att alla vet när jag har köpt glass.",
+        "en": "My village is so small that everybody knows when I’ve bought ice cream."
+      }
+    },
+    {
+      "id": "vocab:city-country:storstad",
+      "sv": "storstad",
+      "en": "big city",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "storstaden",
+        "pl": "storstäder",
+        "defPl": "storstäderna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Många unga vill bo i en storstad.",
+        "en": "Many young people want to live in a big city."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "I storstaden har alla bråttom. Även duvorna.",
+        "en": "In the big city everyone is in a hurry. Even the pigeons."
+      }
+    },
+    {
+      "id": "vocab:city-country:stadsliv",
+      "sv": "stadsliv",
+      "en": "city life",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "stadslivet"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Hon gillar stadslivet med kaféer och restauranger.",
+        "en": "She likes city life with its cafés and restaurants."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Stadsliv: tio kaféer runt hörnet, men ingen tid att dricka kaffe.",
+        "en": "City life: ten cafés round the corner, but no time to drink coffee."
+      }
+    },
+    {
+      "id": "vocab:city-country:vanlig",
+      "sv": "vänlig",
+      "en": "friendly, kind",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Grannarna är mycket vänliga.",
+        "en": "The neighbours are very friendly."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Folk på landet är så vänliga. Till och med älgen hälsade.",
+        "en": "People in the countryside are so friendly. Even the elk said hello."
+      }
+    },
+    {
+      "id": "vocab:city-country:trafik",
+      "sv": "trafik",
+      "en": "traffic",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "trafiken"
+      },
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Det är mycket trafik på morgonen.",
+        "en": "There’s a lot of traffic in the morning."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Trafiken i min by: en traktor och två katter.",
+        "en": "The traffic in my village: one tractor and two cats."
+      }
+    },
+    {
+      "id": "vocab:city-country:tung-trafik",
+      "sv": "tung trafik",
+      "en": "heavy vehicles (lorries, buses)",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 22,
+      "note": "Means traffic of heavy vehicles. For ‘a lot of traffic’ say mycket trafik.",
+      "example": {
+        "sv": "Gatan är stängd för tung trafik.",
+        "en": "The street is closed to heavy vehicles."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Tung trafik på landet: en traktor med en stor höbal.",
+        "en": "Heavy traffic in the countryside: a tractor with a big hay bale."
+      }
+    },
+    {
+      "id": "vocab:city-country:kollektivtrafik",
+      "sv": "kollektivtrafik",
+      "en": "public transport",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "kollektivtrafiken"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Kollektivtrafiken i stan är bra.",
+        "en": "Public transport in the city is good."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Kollektivtrafiken på landet heter ”Pappa, kan du köra mig?”",
+        "en": "Public transport in the countryside is called “Dad, can you drive me?”"
+      }
+    },
+    {
+      "id": "vocab:city-country:stress",
+      "sv": "stress",
+      "en": "stress",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "stressen"
+      },
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Många har mycket stress i storstaden.",
+        "en": "Many people have a lot of stress in the big city."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Ingen stress på landet. Bussen går bara två gånger om dagen.",
+        "en": "No stress in the countryside. The bus only runs twice a day."
+      }
+    },
+    {
+      "id": "vocab:city-country:stressig",
+      "sv": "stressig",
+      "en": "stressful",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Livet i storstaden kan vara stressigt.",
+        "en": "Life in the big city can be stressful."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Min semester var så stressig att jag behöver semester.",
+        "en": "My holiday was so stressful that I need a holiday."
+      }
+    },
+    {
+      "id": "vocab:city-country:boende",
+      "sv": "boende",
+      "en": "accommodation, housing",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "boendet",
+        "pl": "boenden",
+        "defPl": "boendena"
+      },
+      "group": 4,
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Det är svårt att hitta ett billigt boende i stan.",
+        "en": "It’s hard to find cheap accommodation in the city."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Mitt boende i stan är så litet att mina vinterkläder bor hos mamma.",
+        "en": "My place in the city is so small that my winter clothes live at my mum’s."
+      }
+    },
+    {
+      "id": "vocab:city-country:arbetsmojlighet",
+      "sv": "arbetsmöjlighet",
+      "en": "job opportunity",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "arbetsmöjligheten",
+        "pl": "arbetsmöjligheter",
+        "defPl": "arbetsmöjligheterna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 22,
+      "note": "Usually plural: arbetsmöjligheter.",
+      "example": {
+        "sv": "I stan finns det fler arbetsmöjligheter.",
+        "en": "There are more job opportunities in the city."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Arbetsmöjligheter i min by: bärplockare, svampplockare eller kattvakt.",
+        "en": "Job opportunities in my village: berry picker, mushroom picker or cat sitter."
+      }
+    },
+    {
+      "id": "vocab:city-country:vilda-djur",
+      "sv": "vilda djur",
+      "en": "wild animals",
+      "pos": "phrase",
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "I skogen finns det många vilda djur.",
+        "en": "There are many wild animals in the forest."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Vilda djur i stan: en mås som stjäl din glass.",
+        "en": "Wild animals in the city: a seagull that steals your ice cream."
+      }
+    },
+    {
+      "id": "vocab:city-country:trygg",
+      "sv": "trygg",
+      "en": "safe, secure",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Jag känner mig trygg i mitt område.",
+        "en": "I feel safe in my area."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Vår by är så trygg att grannen lämnar nyckeln i dörren. Och kaffe på bordet.",
+        "en": "Our village is so safe that the neighbour leaves the key in the door. And coffee on the table."
+      }
+    },
+    {
+      "id": "vocab:city-country:dyr",
+      "sv": "dyr",
+      "en": "expensive",
+      "pos": "adjective",
+      "level": "A1",
+      "lesson": 22,
+      "example": {
+        "sv": "Det är dyrt att bo i stan.",
+        "en": "It’s expensive to live in the city."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Lägenheterna i stan är så dyra att även mössen hyr i andra hand.",
+        "en": "Flats in the city are so expensive that even the mice sublet."
+      }
+    },
+    {
+      "id": "vocab:city-country:bekvam",
+      "sv": "bekväm",
+      "en": "comfortable, convenient",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 22,
+      "example": {
+        "sv": "Det är bekvämt att ha affären nära.",
+        "en": "It’s convenient to have the shop nearby."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Katten har alltid den bekvämaste platsen i huset. Min stol.",
+        "en": "The cat always has the most comfortable spot in the house. My chair."
+      }
+    },
+    {
+      "id": "vocab:city-country:myndighet",
+      "sv": "myndighet",
+      "en": "authority, government agency",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "myndigheten",
+        "pl": "myndigheter",
+        "defPl": "myndigheterna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Man kan kontakta myndigheten på nätet.",
+        "en": "You can contact the agency online."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Jag ringde en myndighet. Efter en timme i kö fick jag prata med en robot.",
+        "en": "I called a government agency. After an hour in the queue I got to talk to a robot."
+      }
+    },
+    {
+      "id": "vocab:city-country:kulturliv",
+      "sv": "kulturliv",
+      "en": "cultural life",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "kulturlivet"
+      },
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Helsingfors har ett rikt kulturliv.",
+        "en": "Helsinki has a rich cultural life."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Kulturlivet i min by: en konsert om året och grannens karaoke varje fredag.",
+        "en": "The cultural life in my village: one concert a year and the neighbour’s karaoke every Friday."
+      }
+    },
+    {
+      "id": "vocab:city-country:museum",
+      "sv": "museum",
+      "en": "museum",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "museet",
+        "pl": "museer",
+        "defPl": "museerna"
+      },
+      "group": 3,
+      "irregular": true,
+      "level": "A1",
+      "lesson": 23,
+      "note": "Irregular: ett museum, museet, museer, museerna.",
+      "example": {
+        "sv": "Vi besökte ett museum i Stockholm.",
+        "en": "We visited a museum in Stockholm."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Min mormors kök är som ett museum. Ingenting har flyttats sedan 1975.",
+        "en": "My grandma’s kitchen is like a museum. Nothing has been moved since 1975."
+      }
+    },
+    {
+      "id": "vocab:city-country:festival",
+      "sv": "festival",
+      "en": "festival",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "festivalen",
+        "pl": "festivaler",
+        "defPl": "festivalerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "lesson": 23,
+      "example": {
+        "sv": "På sommaren finns det många festivaler i stan.",
+        "en": "In summer there are many festivals in the city."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Vi åkte på festival. Det regnade i tre dagar, men musiken var bra.",
+        "en": "We went to a festival. It rained for three days, but the music was good."
+      }
+    },
+    {
+      "id": "vocab:city-country:nattliv",
+      "sv": "nattliv",
+      "en": "nightlife",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "nattlivet"
+      },
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Stockholm har ett bra nattliv.",
+        "en": "Stockholm has good nightlife."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Nattlivet på landet: ugglor, rävar och en granne som inte kan sova.",
+        "en": "Nightlife in the countryside: owls, foxes and a neighbour who can’t sleep."
+      }
+    },
+    {
+      "id": "vocab:city-country:infrastruktur",
+      "sv": "infrastruktur",
+      "en": "infrastructure",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "infrastrukturen"
+      },
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Byn behöver bättre infrastruktur, till exempel vägar och internet.",
+        "en": "The village needs better infrastructure, for example roads and internet."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Infrastrukturen vid vår stuga: en brunn, ett utedass och lite wifi bakom bastun.",
+        "en": "The infrastructure at our cottage: a well, an outhouse and a bit of wifi behind the sauna."
+      }
+    },
+    {
+      "id": "vocab:city-country:fororening",
+      "sv": "förorening",
+      "en": "pollution",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "föroreningen",
+        "pl": "föroreningar",
+        "defPl": "föroreningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 23,
+      "note": "Often plural: föroreningar.",
+      "example": {
+        "sv": "Föroreningarna i luften är ett problem i storstäder.",
+        "en": "Air pollution is a problem in big cities."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Den enda föroreningen på landet är grannens musik.",
+        "en": "The only pollution in the countryside is the neighbour’s music."
+      }
+    },
+    {
+      "id": "vocab:city-country:buller",
+      "sv": "buller",
+      "en": "noise",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "bullret"
+      },
+      "level": "A2",
+      "lesson": 23,
+      "note": "The e drops in the definite: bullret.",
+      "example": {
+        "sv": "Bullret från vägen stör oss på natten.",
+        "en": "The noise from the road disturbs us at night."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Jag flyttade till landet för att slippa bullret. Nu väcker fåglarna mig klockan fyra.",
+        "en": "I moved to the countryside to escape the noise. Now the birds wake me at four."
+      }
+    },
+    {
+      "id": "vocab:city-country:importerad",
+      "sv": "importerad",
+      "en": "imported",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Många frukter i affären är importerade.",
+        "en": "Many fruits in the shop are imported."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Mina tomater är importerade. Från grannens växthus.",
+        "en": "My tomatoes are imported. From the neighbour’s greenhouse."
+      }
+    },
+    {
+      "id": "vocab:city-country:parkeringsplats",
+      "sv": "parkeringsplats",
+      "en": "parking space",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "parkeringsplatsen",
+        "pl": "parkeringsplatser",
+        "defPl": "parkeringsplatserna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Det är svårt att hitta en parkeringsplats i centrum.",
+        "en": "It’s hard to find a parking space in the centre."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Jag hittade en parkeringsplats i centrum! Nu vågar jag aldrig flytta bilen.",
+        "en": "I found a parking space in the centre! Now I never dare move the car."
+      }
+    },
+    {
+      "id": "vocab:city-country:byggnad",
+      "sv": "byggnad",
+      "en": "building",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "byggnaden",
+        "pl": "byggnader",
+        "defPl": "byggnaderna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Det finns många höga byggnader i centrum.",
+        "en": "There are many tall buildings in the centre."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Den högsta byggnaden i min by är grannens bastu.",
+        "en": "The tallest building in my village is the neighbour’s sauna."
+      }
+    },
+    {
+      "id": "vocab:city-country:effektiv",
+      "sv": "effektiv",
+      "en": "efficient",
+      "pos": "adjective",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Kollektivtrafiken i Helsingfors är effektiv.",
+        "en": "Public transport in Helsinki is efficient."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Jag är mycket effektiv. Jag kan sitta i möte och tänka på lunch samtidigt.",
+        "en": "I’m very efficient. I can sit in a meeting and think about lunch at the same time."
+      }
+    },
+    {
+      "id": "vocab:city-country:sociala-medier",
+      "sv": "sociala medier",
+      "en": "social media",
+      "pos": "phrase",
+      "level": "A2",
+      "lesson": 23,
+      "example": {
+        "sv": "Hon läser nyheter på sociala medier.",
+        "en": "She reads the news on social media."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "På sociala medier bor alla i en stuga vid en sjö.",
+        "en": "On social media everybody lives in a cottage by a lake."
+      }
+    },
+    {
+      "id": "vocab:city-country:foredra",
+      "sv": "föredra",
+      "en": "prefer",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 23,
+      "note": "Present tense: föredrar.",
+      "example": {
+        "sv": "Min fru föredrar stan, men jag föredrar landet.",
+        "en": "My wife prefers the city, but I prefer the countryside."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Jag föredrar landet. Katten föredrar soffan.",
+        "en": "I prefer the countryside. The cat prefers the sofa."
+      }
+    },
+    {
+      "id": "vocab:city-country:trivas",
+      "sv": "trivas",
+      "en": "feel at home, be happy (somewhere)",
+      "pos": "verb",
+      "level": "A2",
+      "lesson": 23,
+      "note": "Present tense: trivs. Trivs du här? = Do you like it here?",
+      "example": {
+        "sv": "Vi trivs väldigt bra i vår nya lägenhet.",
+        "en": "We’re very happy in our new flat."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "– Trivs katten i nya lägenheten? – Ja, hon har redan tagit min säng.",
+        "en": "“Is the cat happy in the new flat?” “Yes, she’s already taken my bed.”"
+      }
+    }
+  ]
+}

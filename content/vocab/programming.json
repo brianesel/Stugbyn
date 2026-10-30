@@ -1,0 +1,828 @@
+{
+  "theme": "programming",
+  "title": "Programmering",
+  "entries": [
+    {
+      "id": "vocab:programming:programmera",
+      "sv": "programmera",
+      "en": "program, write software",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Hon lärde sig programmera på universitetet.",
+        "en": "She learned to program at university."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag programmerar på kvällen och felsöker hela natten.",
+        "en": "I program in the evening and debug all night."
+      }
+    },
+    {
+      "id": "vocab:programming:kod",
+      "sv": "kod",
+      "en": "code",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "koden"
+      },
+      "level": "A2",
+      "note": "Uncountable in this sense: skriva kod. (En kod = a code, e.g. a PIN.)",
+      "example": {
+        "sv": "Jag skriver kod nästan varje kväll.",
+        "en": "I write code almost every evening."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Koden fungerade igår. Ingen har ändrat något. Idag fungerar den inte.",
+        "en": "The code worked yesterday. Nobody has changed anything. Today it doesn’t work."
+      }
+    },
+    {
+      "id": "vocab:programming:koda",
+      "sv": "koda",
+      "en": "code, write code",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi kodade en liten app i helgen.",
+        "en": "We coded a small app at the weekend."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag kodar på kvällen och kokar kaffe på natten.",
+        "en": "I code in the evening and make coffee at night.",
+        "note": "Koda (code) and koka (boil, make coffee) differ by just one letter."
+      }
+    },
+    {
+      "id": "vocab:programming:program",
+      "sv": "program",
+      "en": "program, piece of software",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "programmet",
+        "pl": "program",
+        "defPl": "programmen"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "note": "Double m in the definite forms: programmet, programmen.",
+      "example": {
+        "sv": "Det här programmet är gratis.",
+        "en": "This program is free."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mitt program har tre användare: jag, min mamma och min katt.",
+        "en": "My program has three users: me, my mum and my cat."
+      }
+    },
+    {
+      "id": "vocab:programming:app",
+      "sv": "app",
+      "en": "app",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "appen",
+        "pl": "appar",
+        "defPl": "apparna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Jag laddade ner en app för bussbiljetter.",
+        "en": "I downloaded an app for bus tickets."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag bygger en app som påminner mig om att sova. Jag bygger den på natten.",
+        "en": "I’m building an app that reminds me to sleep. I build it at night."
+      }
+    },
+    {
+      "id": "vocab:programming:webbsida",
+      "sv": "webbsida",
+      "en": "web page, website",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "webbsidan",
+        "pl": "webbsidor",
+        "defPl": "webbsidorna"
+      },
+      "group": 1,
+      "level": "A2",
+      "example": {
+        "sv": "Restaurangen har en ny webbsida.",
+        "en": "The restaurant has a new website."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Min webbsida är snabb, snygg och har en besökare: jag.",
+        "en": "My website is fast, good-looking and has one visitor: me."
+      }
+    },
+    {
+      "id": "vocab:programming:tangentbord",
+      "sv": "tangentbord",
+      "en": "keyboard",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "tangentbordet",
+        "pl": "tangentbord",
+        "defPl": "tangentborden"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Jag köpte ett nytt tangentbord till datorn.",
+        "en": "I bought a new keyboard for the computer."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mitt finska tangentbord har å, ä och ö. Det är redo för svenska. Inte jag.",
+        "en": "My Finnish keyboard has å, ä and ö. It’s ready for Swedish. I’m not."
+      }
+    },
+    {
+      "id": "vocab:programming:server",
+      "sv": "server",
+      "en": "server",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "servern",
+        "pl": "servrar",
+        "defPl": "servrarna"
+      },
+      "group": 2,
+      "level": "B1",
+      "example": {
+        "sv": "Servern är nere just nu.",
+        "en": "The server is down right now."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Servrar kraschar aldrig på måndagar. Bara på fredagar klockan fyra.",
+        "en": "Servers never crash on Mondays. Only on Fridays at four o’clock."
+      }
+    },
+    {
+      "id": "vocab:programming:databas",
+      "sv": "databas",
+      "en": "database",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "databasen",
+        "pl": "databaser",
+        "defPl": "databaserna"
+      },
+      "group": 3,
+      "level": "B1",
+      "example": {
+        "sv": "Alla användare sparas i en databas.",
+        "en": "All users are saved in a database."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag gjorde en databas för mina kryddor. Jag använder fortfarande bara peppar.",
+        "en": "I made a database for my spices. I still only use pepper."
+      }
+    },
+    {
+      "id": "vocab:programming:fil",
+      "sv": "fil",
+      "en": "file",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "filen",
+        "pl": "filer",
+        "defPl": "filerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Spara filen på skrivbordet.",
+        "en": "Save the file on the desktop."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Var är filen? – I kylskåpet, bredvid mjölken.",
+        "en": "“Where’s the file?” “In the fridge, next to the milk.”",
+        "note": "Pun: fil is also short for filmjölk, a Swedish soured milk."
+      }
+    },
+    {
+      "id": "vocab:programming:mapp",
+      "sv": "mapp",
+      "en": "folder",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "mappen",
+        "pl": "mappar",
+        "defPl": "mapparna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Alla bilder ligger i en mapp som heter Semester.",
+        "en": "All the pictures are in a folder called Holiday."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har en mapp som heter ”Sortera senare”. Den är från 2019.",
+        "en": "I have a folder called “Sort later”. It’s from 2019."
+      }
+    },
+    {
+      "id": "vocab:programming:bugg",
+      "sv": "bugg",
+      "en": "bug (in software)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "buggen",
+        "pl": "buggar",
+        "defPl": "buggarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "note": "Also: ett fel (an error).",
+      "example": {
+        "sv": "Vi hittade en bugg i appen.",
+        "en": "We found a bug in the app."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag fixade en bugg och skapade två nya. Det kallas utveckling.",
+        "en": "I fixed one bug and created two new ones. That’s called development.",
+        "note": "Utveckling means both ‘development’ and ‘progress’."
+      }
+    },
+    {
+      "id": "vocab:programming:fixa",
+      "sv": "fixa",
+      "en": "fix, sort out",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Informal. Also: laga (repair).",
+      "example": {
+        "sv": "Kan du fixa min dator?",
+        "en": "Can you fix my computer?"
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Kan du fixa skrivaren? – Nej. Ingen kan fixa skrivaren.",
+        "en": "“Can you fix the printer?” “No. Nobody can fix the printer.”"
+      }
+    },
+    {
+      "id": "vocab:programming:testa",
+      "sv": "testa",
+      "en": "test, try",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Testa appen innan du laddar upp den.",
+        "en": "Test the app before you upload it."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag testar alltid min kod. Ibland innan användarna gör det.",
+        "en": "I always test my code. Sometimes before the users do."
+      }
+    },
+    {
+      "id": "vocab:programming:test",
+      "sv": "test",
+      "en": "test",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "testet",
+        "pl": "test",
+        "defPl": "testen"
+      },
+      "group": 5,
+      "level": "A2",
+      "note": "Plural also: tester.",
+      "example": {
+        "sv": "Testet tar bara två sekunder.",
+        "en": "The test only takes two seconds."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Alla test är gröna! Ingen vet varför.",
+        "en": "All the tests are green! Nobody knows why."
+      }
+    },
+    {
+      "id": "vocab:programming:bygga",
+      "sv": "bygga",
+      "en": "build",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Vi bygger en ny webbsida till föreningen.",
+        "en": "We’re building a new website for the club."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag bygger appar på kvällen och IKEA-möbler på helgen. Det blir alltid delar över.",
+        "en": "I build apps in the evening and IKEA furniture at the weekend. There are always parts left over."
+      }
+    },
+    {
+      "id": "vocab:programming:skapa",
+      "sv": "skapa",
+      "en": "create",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Skapa ett nytt konto med din e-post.",
+        "en": "Create a new account with your email."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag skapade en app för att spara tid. Den tog sex månader att bygga.",
+        "en": "I created an app to save time. It took six months to build."
+      }
+    },
+    {
+      "id": "vocab:programming:projekt",
+      "sv": "projekt",
+      "en": "project",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "projektet",
+        "pl": "projekt",
+        "defPl": "projekten"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Projektet blir klart i december.",
+        "en": "The project will be finished in December."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Projektet är nittio procent klart. Det har det varit i ett år.",
+        "en": "The project is ninety percent done. It has been for a year."
+      }
+    },
+    {
+      "id": "vocab:programming:sidoprojekt",
+      "sv": "sidoprojekt",
+      "en": "side project",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "sidoprojektet",
+        "pl": "sidoprojekt",
+        "defPl": "sidoprojekten"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Han har ett sidoprojekt på helgerna.",
+        "en": "He has a side project at weekends."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag har fem sidoprojekt. Inget är klart, men alla har ett namn.",
+        "en": "I have five side projects. None is finished, but they all have a name."
+      }
+    },
+    {
+      "id": "vocab:programming:funktion",
+      "sv": "funktion",
+      "en": "function, feature",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "funktionen",
+        "pl": "funktioner",
+        "defPl": "funktionerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Funktionen räknar ut priset.",
+        "en": "The function calculates the price."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Funktionen heter gorAllt(). Den gör ingenting.",
+        "en": "The function is called doEverything(). It does nothing.",
+        "note": "gorAllt = gör allt (do everything), without the ö."
+      }
+    },
+    {
+      "id": "vocab:programming:losning",
+      "sv": "lösning",
+      "en": "solution",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "lösningen",
+        "pl": "lösningar",
+        "defPl": "lösningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Vi hittade en enkel lösning.",
+        "en": "We found a simple solution."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag letade efter lösningen i fem timmar. Den kom när jag lagade mat.",
+        "en": "I searched for the solution for five hours. It came while I was cooking."
+      }
+    },
+    {
+      "id": "vocab:programming:problem",
+      "sv": "problem",
+      "en": "problem",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "problemet",
+        "pl": "problem",
+        "defPl": "problemen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Det är inget problem.",
+        "en": "It’s no problem."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Problemet satt inte i koden. Problemet satt framför datorn.",
+        "en": "The problem wasn’t in the code. The problem was sitting in front of the computer.",
+        "note": "Sitta i = ‘lie in, be caused by’; sitta framför = ‘sit in front of’."
+      }
+    },
+    {
+      "id": "vocab:programming:losa",
+      "sv": "lösa",
+      "en": "solve",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Hon löste problemet på tio minuter.",
+        "en": "She solved the problem in ten minutes."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag löser problem som jag själv har skapat. Det kallas programmering.",
+        "en": "I solve problems that I created myself. It’s called programming."
+      }
+    },
+    {
+      "id": "vocab:programming:installera",
+      "sv": "installera",
+      "en": "install",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Du måste installera programmet först.",
+        "en": "You have to install the program first."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Installera uppdateringen? Senare. Senare. Senare. Okej då.",
+        "en": "Install the update? Later. Later. Later. Oh, all right then."
+      }
+    },
+    {
+      "id": "vocab:programming:spara",
+      "sv": "spara",
+      "en": "save",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Also: save money or time (spara pengar).",
+      "example": {
+        "sv": "Glöm inte att spara dokumentet.",
+        "en": "Don’t forget to save the document."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Datorn kraschade. Jag sparade senast i tisdags.",
+        "en": "The computer crashed. I last saved on Tuesday."
+      }
+    },
+    {
+      "id": "vocab:programming:ladda-upp",
+      "sv": "ladda upp",
+      "en": "upload",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Opposite: ladda ner (download).",
+      "example": {
+        "sv": "Jag laddade upp bilderna igår.",
+        "en": "I uploaded the pictures yesterday."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Laddar upp … 99 % … 99 % … 99 %",
+        "en": "Uploading… 99%… 99%… 99%"
+      }
+    },
+    {
+      "id": "vocab:programming:kora",
+      "sv": "köra",
+      "en": "run (a program)",
+      "pos": "verb",
+      "level": "A2",
+      "note": "Also: drive.",
+      "example": {
+        "sv": "Kör programmet en gång till.",
+        "en": "Run the program one more time."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Kör du? – Ja, koden. Inte bilen.",
+        "en": "“Are you driving?” “Yes, the code. Not the car.”",
+        "note": "Pun: köra means ‘drive’ and also ‘run’ (a program)."
+      }
+    },
+    {
+      "id": "vocab:programming:krascha",
+      "sv": "krascha",
+      "en": "crash",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Appen kraschar när man trycker på knappen.",
+        "en": "The app crashes when you press the button."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Appen kraschade under demon. Den har bra tajming.",
+        "en": "The app crashed during the demo. It has good timing."
+      }
+    },
+    {
+      "id": "vocab:programming:losenord",
+      "sv": "lösenord",
+      "en": "password",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "lösenordet",
+        "pl": "lösenord",
+        "defPl": "lösenorden"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Ditt lösenord måste ha minst tolv tecken.",
+        "en": "Your password must have at least twelve characters."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Mitt lösenord är ”fel”. Datorn säger alltid: ”Ditt lösenord är fel.”",
+        "en": "My password is “wrong”. The computer always says: “Your password is wrong.”",
+        "note": "Fel = wrong."
+      }
+    },
+    {
+      "id": "vocab:programming:saker",
+      "sv": "säker",
+      "en": "safe, secure; sure",
+      "pos": "adjective",
+      "level": "A2",
+      "note": "Neuter: säkert.",
+      "example": {
+        "sv": "Är det här lösenordet säkert?",
+        "en": "Is this password secure?"
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "– Är du säker på att koden är säker? – Nej.",
+        "en": "“Are you sure the code is secure?” “No.”",
+        "note": "Säker means both ‘sure’ and ‘safe, secure’."
+      }
+    },
+    {
+      "id": "vocab:programming:anvandare",
+      "sv": "användare",
+      "en": "user",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "användaren",
+        "pl": "användare",
+        "defPl": "användarna"
+      },
+      "group": 5,
+      "irregular": true,
+      "level": "A2",
+      "example": {
+        "sv": "Appen har nu hundra användare.",
+        "en": "The app now has a hundred users."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Användaren gjorde något som ingen trodde var möjligt.",
+        "en": "The user did something nobody thought was possible."
+      }
+    },
+    {
+      "id": "vocab:programming:anvandarnamn",
+      "sv": "användarnamn",
+      "en": "username",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "användarnamnet",
+        "pl": "användarnamn",
+        "defPl": "användarnamnen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Skriv ditt användarnamn och lösenord.",
+        "en": "Enter your username and password."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Alla bra användarnamn är tagna. Nu heter jag kaffe_kod_1987.",
+        "en": "All the good usernames are taken. Now I’m called coffee_code_1987."
+      }
+    },
+    {
+      "id": "vocab:programming:version",
+      "sv": "version",
+      "en": "version",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "versionen",
+        "pl": "versioner",
+        "defPl": "versionerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Den nya versionen kommer nästa vecka.",
+        "en": "The new version is coming next week."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Version 1.0 hade tre buggar. Version 2.0 har tio, men den är snyggare.",
+        "en": "Version 1.0 had three bugs. Version 2.0 has ten, but it looks nicer."
+      }
+    },
+    {
+      "id": "vocab:programming:uppdatera",
+      "sv": "uppdatera",
+      "en": "update",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Du måste uppdatera appen.",
+        "en": "You have to update the app."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag ska bara uppdatera datorn. Vi ses om tre timmar.",
+        "en": "I’ll just update the computer. See you in three hours."
+      }
+    },
+    {
+      "id": "vocab:programming:logga-in",
+      "sv": "logga in",
+      "en": "log in",
+      "pos": "verb",
+      "level": "A2",
+      "example": {
+        "sv": "Jag kan inte logga in i appen.",
+        "en": "I can’t log in to the app."
+      },
+      "tags": [
+        "yki-work-study",
+        "hobby"
+      ],
+      "fun": {
+        "sv": "Jag loggade in. Sedan glömde jag varför.",
+        "en": "I logged in. Then I forgot why."
+      }
+    }
+  ]
+}
