@@ -13,6 +13,7 @@
       "note": "Plural only: kläder, kläderna.",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Barnen behöver nya kläder till vintern.", "en": "The kids need new clothes for the winter." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag har massor av kläder men ingenting att ta på mig.",
@@ -30,6 +31,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Hon har en röd klänning på festen.", "en": "She’s wearing a red dress at the party." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Klänningen var på rea. Nu har jag tre.",
@@ -46,6 +48,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Min dotter vill ha en kort kjol.", "en": "My daughter wants a short skirt." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Det är minus tjugo. Jag har kjol och tre par strumpbyxor.",
@@ -62,6 +65,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Ta av dig skorna i hallen, tack.", "en": "Please take your shoes off in the hall." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Min sko har ett hål. Nu vet jag när det regnar.",
@@ -78,6 +82,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "När det regnar har jag stövlar på mig.", "en": "When it rains, I wear boots." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Mina stövlar är vattentäta. Vattnet som kom in stannar där.",
@@ -94,6 +99,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Var är mina blå strumpor?", "en": "Where are my blue socks?" },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Tvättmaskinen äter strumpor. Jag har tolv strumpor och inga par.",
@@ -110,6 +116,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Det är kallt ute. Ta på dig jackan!", "en": "It’s cold outside. Put your jacket on!" },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag har en vinterjacka, en vårjacka och en höstjacka. Alla är svarta.",
@@ -126,6 +133,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Han har en vit skjorta på jobbet.", "en": "He wears a white shirt at work." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag strök skjortan. Bara framsidan. Ingen ser ryggen på videomötet.",
@@ -142,6 +150,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Jag köpte en varm tröja på rea.", "en": "I bought a warm sweater in the sale." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Mormor stickade en tröja till mig. Den går ner till knäna.",
@@ -159,6 +168,7 @@
       "note": "Plural word: ett par byxor = a pair of trousers.",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Byxorna är för långa.", "en": "The trousers are too long." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag hittade tjugo euro i mina gamla byxor. Årets bästa dag!",
@@ -176,6 +186,7 @@
       "note": "Plural word: ett par jeans.",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Erik har alltid jeans på jobbet.", "en": "Erik always wears jeans at work." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jeans passar till allt: jobbet, festen och soffan.",
@@ -192,6 +203,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Har du plånboken i väskan?", "en": "Do you have your wallet in your bag?" },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Min väska är full av saker. Jag hittar aldrig det jag letar efter.",
@@ -208,6 +220,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "På vintern behöver barnen mössa och vantar.", "en": "In winter the children need hats and mittens." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Min mössa är ful men varm. I januari bryr sig ingen.",
@@ -224,6 +237,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Jag har tappat en handske.", "en": "I’ve lost a glove." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag har tre vänsterhandskar och ingen högerhandske.",
@@ -241,6 +255,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Pappa har en lång grå halsduk.", "en": "Dad has a long grey scarf." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Min halsduk är fyra meter lång. Mormor kunde inte sluta sticka.",
@@ -257,6 +272,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Min bror har kostym på bröllopet.", "en": "My brother is wearing a suit at the wedding." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Han har kostym på kontoret och pyjamas på mötena hemifrån.",
@@ -273,6 +289,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Han har en blå kavaj och jeans.", "en": "He’s wearing a blue blazer and jeans." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag har kavaj och slips på videomötet. Och mjukisbyxor under bordet.",
@@ -290,6 +307,7 @@
       "note": "Plural only.",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Glöm inte badkläderna när vi åker till stranden!", "en": "Don’t forget your swimwear when we go to the beach!" },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag packade badkläder till semestern. Vi åkte till Lappland i januari.",
@@ -306,6 +324,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Hon köpte en ny baddräkt till sommaren.", "en": "She bought a new swimsuit for the summer." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Min baddräkt har varit i sjön en gång. Sjön var fyra grader.",
@@ -323,6 +342,7 @@
       "note": "Plural also bikinis.",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Lisa tar med sig en bikini på semestern.", "en": "Lisa is taking a bikini on holiday." },
       "tags": ["yki-shopping"],
       "check": true,
       "fun": {
@@ -341,6 +361,7 @@
       "note": "Plural only: ett par glasögon = a pair of glasses.",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Jag hittar inte mina glasögon.", "en": "I can’t find my glasses." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "– Var är mina glasögon? – På ditt huvud.",
@@ -389,6 +410,7 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Det är kallt, så jag tar en tjock tröja.", "en": "It’s cold, so I’ll take a thick sweater." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Jag har en tjock tröja, tjocka strumpor och tjocka gardiner. Det är februari.",
@@ -402,6 +424,7 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
+      "example": { "sv": "Jackan är för tunn för vintern.", "en": "The jacket is too thin for winter." },
       "tags": ["yki-shopping"],
       "fun": {
         "sv": "Min jacka är för tunn för Finland. Den är perfekt för Spanien. Jag bor i Finland.",

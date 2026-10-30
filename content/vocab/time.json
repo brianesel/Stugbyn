@@ -28,6 +28,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "På helgen åker vi till stugan.",
+        "en": "At the weekend we go to the cottage."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -43,6 +47,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Hon dricker alltid kaffe på morgonen.",
+        "en": "She always drinks coffee in the morning."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -58,6 +66,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Barnen leker ute på eftermiddagen.",
+        "en": "The children play outside in the afternoon."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -73,6 +85,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vad gör ni på kvällen?",
+        "en": "What do you do in the evening?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -88,6 +104,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vi går på bio då och då.",
+        "en": "We go to the cinema from time to time."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -103,6 +123,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Min pappa kommer alltid i tid.",
+        "en": "My dad is always on time."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -118,6 +142,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Det regnar ofta i november.",
+        "en": "It often rains in November."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -133,6 +161,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Ibland cyklar jag till jobbet.",
+        "en": "Sometimes I cycle to work."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -148,6 +180,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vi äter sällan ute.",
+        "en": "We rarely eat out."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -182,6 +218,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Igår var det väldigt kallt.",
+        "en": "Yesterday it was very cold."
+      },
       "note": "Also written i går.",
       "tags": [
         "yki-free-time"
@@ -198,6 +238,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Vad ska vi äta idag?",
+        "en": "What shall we eat today?"
+      },
       "note": "Also written i dag.",
       "tags": [
         "yki-free-time"
@@ -214,6 +258,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Imorgon har jag ett möte klockan nio.",
+        "en": "Tomorrow I have a meeting at nine."
+      },
       "note": "Also written i morgon.",
       "tags": [
         "yki-free-time"
@@ -230,6 +278,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Bussen var sen imorse.",
+        "en": "The bus was late this morning."
+      },
       "note": "Also written i morse. Only about this morning that has passed.",
       "tags": [
         "yki-free-time"
@@ -246,6 +298,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Ska vi titta på en film ikväll?",
+        "en": "Shall we watch a film tonight?"
+      },
       "note": "Also written i kväll.",
       "tags": [
         "yki-free-time"
@@ -262,6 +318,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Förra veckan var jag sjuk.",
+        "en": "Last week I was ill."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -277,6 +337,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Vi flyttade till Helsingfors förra året.",
+        "en": "We moved to Helsinki last year."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -292,6 +356,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Nästa vecka börjar kursen.",
+        "en": "The course starts next week."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -307,6 +375,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 6,
+      "example": {
+        "sv": "Nästa år vill hon studera i Sverige.",
+        "en": "Next year she wants to study in Sweden."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -341,6 +413,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 11,
+      "example": {
+        "sv": "Skynda dig, tåget går snart!",
+        "en": "Hurry up, the train leaves soon!"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -356,6 +432,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 11,
+      "example": {
+        "sv": "Han kom hem sent igår kväll.",
+        "en": "He came home late last night."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -371,6 +451,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 11,
+      "example": {
+        "sv": "Jag stiger upp tidigt på vardagarna.",
+        "en": "I get up early on weekdays."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -386,6 +470,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 16,
+      "example": {
+        "sv": "Har du redan ätit?",
+        "en": "Have you already eaten?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -401,6 +489,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 16,
+      "example": {
+        "sv": "– Har du läst boken? – Nej, ännu inte.",
+        "en": "“Have you read the book?” “No, not yet.”"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -416,6 +508,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 16,
+      "example": {
+        "sv": "Hon kommer kanske imorgon.",
+        "en": "Maybe she’ll come tomorrow."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -431,6 +527,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 16,
+      "example": {
+        "sv": "Hon kan inte prata just nu.",
+        "en": "She can’t talk right now."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -446,6 +546,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 16,
+      "example": {
+        "sv": "Telefonen ringer hela tiden.",
+        "en": "The phone rings all the time."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -468,6 +572,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Resan tar två timmar.",
+        "en": "The journey takes two hours."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -490,6 +598,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Bussen kommer om fem minuter.",
+        "en": "The bus comes in five minutes."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -512,6 +624,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Dagarna är korta på vintern.",
+        "en": "The days are short in winter."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -534,6 +650,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Jag jobbar fyra dagar i veckan.",
+        "en": "I work four days a week."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -556,6 +676,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Hyran betalas en gång i månaden.",
+        "en": "The rent is paid once a month."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -578,6 +702,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vi har bott i Finland i tre år.",
+        "en": "We’ve lived in Finland for three years."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -600,6 +728,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vad ska du göra i helgen?",
+        "en": "What are you doing this weekend?"
+      },
       "tags": [
         "yki-free-time"
       ],

@@ -16,6 +16,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi bor i en lägenhet i centrum.",
+        "en": "We live in an apartment in the city centre."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -39,6 +43,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "Also: en tvårummare.",
+      "example": {
+        "sv": "Jag hyr en tvåa på femtio kvadratmeter.",
+        "en": "I rent a two-room flat of fifty square metres."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -62,6 +70,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "Also: en trerummare.",
+      "example": {
+        "sv": "Familjen flyttade till en större trea.",
+        "en": "The family moved to a bigger three-room flat."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -84,6 +96,10 @@
       "group": 2,
       "level": "A2",
       "lesson": 13,
+      "example": {
+        "sv": "Lägenhetsvisningen är på söndag klockan tolv.",
+        "en": "The apartment viewing is on Sunday at twelve."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -106,6 +122,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Mina föräldrar har ett hus på landet.",
+        "en": "My parents have a house in the countryside."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -128,6 +148,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "De bor i ett radhus med en liten trädgård.",
+        "en": "They live in a townhouse with a small garden."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -152,6 +176,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "The m doubles in the definite forms: hemmet, hemmen.",
+      "example": {
+        "sv": "Välkommen till vårt nya hem!",
+        "en": "Welcome to our new home!"
+      },
       "tags": [
         "yki-housing"
       ],
@@ -176,6 +204,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "The m doubles in the definite forms: rummet, rummen.",
+      "example": {
+        "sv": "Lägenheten har tre rum och kök.",
+        "en": "The apartment has three rooms and a kitchen."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -201,6 +233,10 @@
       "level": "A1",
       "lesson": 21,
       "note": "The m doubles in the definite forms.",
+      "example": {
+        "sv": "Vi tittar på tv i vardagsrummet.",
+        "en": "We watch TV in the living room."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -226,6 +262,10 @@
       "level": "A1",
       "lesson": 21,
       "note": "The m doubles in the definite forms.",
+      "example": {
+        "sv": "Sovrummet är litet men ljust.",
+        "en": "The bedroom is small but bright."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -251,6 +291,10 @@
       "level": "A1",
       "lesson": 21,
       "note": "The m doubles in the definite forms.",
+      "example": {
+        "sv": "Badrummet har både dusch och badkar.",
+        "en": "The bathroom has both a shower and a bathtub."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -274,6 +318,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Mamma lagar mat i köket.",
+        "en": "Mum is cooking in the kitchen."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -296,6 +344,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Eleverna äter lunch i matsalen.",
+        "en": "The pupils eat lunch in the dining room."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -319,6 +371,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "På sommaren dricker vi kaffe på balkongen.",
+        "en": "In the summer we drink coffee on the balcony."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -343,6 +399,10 @@
       "lesson": 13,
       "note": "Plural to confirm (bastur / bastuar).",
       "check": true,
+      "example": {
+        "sv": "På lördagar går vi alltid i bastun.",
+        "en": "On Saturdays we always go to the sauna."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -365,6 +425,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Tvättstugan finns i källaren.",
+        "en": "The laundry room is in the basement."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -388,6 +452,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Hissen är trasig, så vi tar trappan.",
+        "en": "The lift is broken, so we take the stairs."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -412,6 +480,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "The e drops in the definite forms: fönstret, fönstren.",
+      "example": {
+        "sv": "Kan du öppna fönstret, tack?",
+        "en": "Can you open the window, please?"
+      },
       "tags": [
         "yki-housing"
       ],
@@ -434,6 +506,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Glöm inte att låsa dörren!",
+        "en": "Don’t forget to lock the door!"
+      },
       "tags": [
         "yki-housing"
       ],
@@ -484,6 +560,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "The adjective ljus means light, bright.",
+      "example": {
+        "sv": "Vi tänder ljus när det är mörkt ute.",
+        "en": "We light candles when it’s dark outside."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -509,6 +589,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "Short: kvm. Definite plural to confirm (kvadratmetrarna / kvadratmeterna).",
+      "example": {
+        "sv": "Huset är 120 kvadratmeter stort.",
+        "en": "The house is 120 square metres."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -531,6 +615,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 3,
+      "example": {
+        "sv": "Barnen leker i trädgården.",
+        "en": "The children are playing in the garden."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -553,6 +641,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Jag vattnar växterna varje söndag.",
+        "en": "I water the plants every Sunday."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -594,6 +686,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi bor i en lugn stadsdel nära centrum.",
+        "en": "We live in a quiet district near the centre."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -609,6 +705,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi vill bo i ett tyst område.",
+        "en": "We want to live in a quiet area."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -681,6 +781,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Ska vi träffas i stan på lördag?",
+        "en": "Shall we meet in town on Saturday?"
+      },
       "tags": [
         "yki-housing"
       ],
@@ -703,6 +807,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Våra grannar är mycket trevliga.",
+        "en": "Our neighbours are very nice."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -725,6 +833,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Hans pappa har varit pensionär sedan i fjol.",
+        "en": "His dad has been a pensioner since last year."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -767,6 +879,10 @@
       "level": "A1",
       "lesson": 13,
       "note": "Verb: hyra (to rent).",
+      "example": {
+        "sv": "Hyran är 800 euro i månaden.",
+        "en": "The rent is 800 euros a month."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -782,6 +898,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Vi flyttade till Helsingfors förra året.",
+        "en": "We moved to Helsinki last year."
+      },
       "tags": [
         "yki-housing"
       ],
@@ -797,6 +917,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 13,
+      "example": {
+        "sv": "Kaféet på hörnet är litet och mysigt.",
+        "en": "The café on the corner is small and cozy."
+      },
       "tags": [
         "yki-housing"
       ],

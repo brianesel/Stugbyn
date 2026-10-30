@@ -28,6 +28,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Min kusin bor i Sverige.",
+        "en": "My cousin lives in Sweden."
+      },
       "tags": [
         "yki-society"
       ],
@@ -44,6 +48,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Finland har en lång gräns mot Ryssland.",
+        "en": "Finland has a long border with Russia."
+      },
       "tags": [
         "yki-society"
       ],
@@ -59,6 +67,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Priya kommer från Indien.",
+        "en": "Priya comes from India."
+      },
       "tags": [
         "yki-society"
       ],
@@ -74,6 +86,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Mina föräldrar kommer från Iran.",
+        "en": "My parents come from Iran."
+      },
       "tags": [
         "yki-society"
       ],
@@ -89,6 +105,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Vi åkte till Mexiko i julas.",
+        "en": "We went to Mexico last Christmas."
+      },
       "tags": [
         "yki-society"
       ],
@@ -105,6 +125,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Det är varmt i Egypten nästan hela året.",
+        "en": "It’s warm in Egypt almost all year."
+      },
       "tags": [
         "yki-society"
       ],
@@ -121,6 +145,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Hon har bott i USA i två år.",
+        "en": "She has lived in the USA for two years."
+      },
       "tags": [
         "yki-society"
       ],
@@ -136,6 +164,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Min chef kommer från Tyskland.",
+        "en": "My boss is from Germany."
+      },
       "tags": [
         "yki-society"
       ],
@@ -151,6 +183,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Många finländare reser till Turkiet på semester.",
+        "en": "Many Finns travel to Turkey on holiday."
+      },
       "tags": [
         "yki-society"
       ],
@@ -166,6 +202,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "I somras var vi i Grekland.",
+        "en": "Last summer we were in Greece."
+      },
       "tags": [
         "yki-society"
       ],
@@ -181,6 +221,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Mormor flyger till Spanien varje vinter.",
+        "en": "Grandma flies to Spain every winter."
+      },
       "tags": [
         "yki-society"
       ],
@@ -196,6 +240,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Ali har familj i Pakistan.",
+        "en": "Ali has family in Pakistan."
+      },
       "tags": [
         "yki-society"
       ],
@@ -211,6 +259,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Linh flyttade från Vietnam till Finland.",
+        "en": "Linh moved from Vietnam to Finland."
+      },
       "tags": [
         "yki-society"
       ],
@@ -227,6 +279,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Norge ligger väster om Sverige.",
+        "en": "Norway is west of Sweden."
+      },
       "tags": [
         "yki-society"
       ],
@@ -242,6 +298,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Köpenhamn är huvudstaden i Danmark.",
+        "en": "Copenhagen is the capital of Denmark."
+      },
       "tags": [
         "yki-society"
       ],
@@ -257,6 +317,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Min son studerar i England.",
+        "en": "My son is studying in England."
+      },
       "tags": [
         "yki-society"
       ],
@@ -272,6 +336,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Många saker i affären kommer från Kina.",
+        "en": "Many things in the shop come from China."
+      },
       "tags": [
         "yki-society"
       ],
@@ -287,6 +355,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Barnen talar finska i skolan.",
+        "en": "The children speak Finnish at school."
+      },
       "tags": [
         "yki-society"
       ],
@@ -322,6 +394,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Min granne talar ryska och finska.",
+        "en": "My neighbour speaks Russian and Finnish."
+      },
       "tags": [
         "yki-society"
       ],
@@ -337,6 +413,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Raj talar hindi med sin mamma.",
+        "en": "Raj speaks Hindi with his mum."
+      },
       "tags": [
         "yki-society"
       ],
@@ -353,6 +433,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "I Pakistan talar många urdu.",
+        "en": "Many people in Pakistan speak Urdu."
+      },
       "tags": [
         "yki-society"
       ],
@@ -368,6 +452,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Talar du engelska?",
+        "en": "Do you speak English?"
+      },
       "tags": [
         "yki-society"
       ],
@@ -383,6 +471,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Jag vill lära mig spanska.",
+        "en": "I want to learn Spanish."
+      },
       "tags": [
         "yki-society"
       ],
@@ -398,6 +490,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Sara läser en bok på persiska.",
+        "en": "Sara is reading a book in Persian."
+      },
       "tags": [
         "yki-society"
       ],
@@ -414,6 +510,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Ahmed talar arabiska hemma.",
+        "en": "Ahmed speaks Arabic at home."
+      },
       "tags": [
         "yki-society"
       ],
@@ -430,6 +530,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Hon pratar vietnamesiska med sina föräldrar.",
+        "en": "She speaks Vietnamese with her parents."
+      },
       "tags": [
         "yki-society"
       ],
@@ -445,6 +549,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Vi läste tyska i skolan.",
+        "en": "We studied German at school."
+      },
       "tags": [
         "yki-society"
       ],
@@ -460,6 +568,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Vi tittar på en svensk film.",
+        "en": "We’re watching a Swedish film."
+      },
       "tags": [
         "yki-society"
       ],
@@ -476,6 +588,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Bastun är en finsk tradition.",
+        "en": "The sauna is a Finnish tradition."
+      },
       "tags": [
         "yki-society"
       ],
@@ -491,6 +607,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Han kör en tysk bil.",
+        "en": "He drives a German car."
+      },
       "tags": [
         "yki-society"
       ],
@@ -515,6 +635,10 @@
       "level": "A1",
       "lesson": 1,
       "note": "Vowel change: land → länder.",
+      "example": {
+        "sv": "Hur många länder har du besökt?",
+        "en": "How many countries have you visited?"
+      },
       "tags": [
         "yki-society"
       ],

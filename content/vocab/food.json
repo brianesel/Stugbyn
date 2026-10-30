@@ -148,6 +148,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Vi äter lunch klockan tolv.",
+        "en": "We have lunch at twelve o’clock."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -218,6 +222,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Vill du ha te eller kaffe?",
+        "en": "Would you like tea or coffee?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -238,6 +246,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Kan du köpa bröd på vägen hem?",
+        "en": "Can you buy bread on the way home?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -260,6 +272,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Barnen äter frukt efter skolan.",
+        "en": "The children eat fruit after school."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -280,6 +296,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "På morgonen äter jag gröt med bär.",
+        "en": "In the morning I eat porridge with berries."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -300,6 +320,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Smöret står i kylskåpet.",
+        "en": "The butter is in the fridge."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -320,6 +344,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Han dricker te med honung.",
+        "en": "He drinks tea with honey."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -340,6 +368,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Vi äter pannkakor med sylt.",
+        "en": "We’re eating pancakes with jam."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -356,6 +388,10 @@
       "note": "A dish name, used like a plural noun: Vi äter fattiga riddare.",
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Till efterrätt gör mormor fattiga riddare.",
+        "en": "For dessert Grandma makes French toast."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -377,6 +413,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Vi behöver mer mjöl till bullarna.",
+        "en": "We need more flour for the buns."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -399,6 +439,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "I september plockar vi svamp i skogen.",
+        "en": "In September we pick mushrooms in the forest."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -421,6 +465,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Barnen grillar korv vid sjön.",
+        "en": "The kids are grilling sausages by the lake."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -441,6 +489,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Min syster äter inte kött.",
+        "en": "My sister doesn’t eat meat."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -464,6 +516,10 @@
       "note": "As food it is uncountable: Jag äter kyckling.",
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "I kväll blir det kyckling och ris.",
+        "en": "Tonight we’re having chicken and rice."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -484,6 +540,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Många äter ärtsoppa med fläsk på torsdagar.",
+        "en": "Many people eat pea soup with pork on Thursdays."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -504,6 +564,10 @@
       },
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Ett kilo nötkött kostar ganska mycket.",
+        "en": "A kilo of beef costs quite a lot."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -527,6 +591,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Hon har ett äpple i väskan.",
+        "en": "She has an apple in her bag."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -549,6 +617,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kan jag få en apelsin?",
+        "en": "Can I have an orange?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -571,6 +643,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Bananerna är fortfarande gröna.",
+        "en": "The bananas are still green."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -594,6 +670,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Det finns mycket bär i skogen i augusti.",
+        "en": "There are lots of berries in the forest in August."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -617,6 +697,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vi plockade fem liter blåbär.",
+        "en": "We picked five litres of blueberries."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -640,6 +724,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Jordgubbarna från torget är söta.",
+        "en": "The strawberries from the market are sweet."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -663,6 +751,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Barnen äter hallon direkt från busken.",
+        "en": "The children eat raspberries straight from the bush."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -686,6 +778,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vi äter köttbullar med lingon.",
+        "en": "We eat meatballs with lingonberries."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -709,6 +805,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Körsbären är dyra i år.",
+        "en": "Cherries are expensive this year."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -731,6 +831,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vill du ha några druvor?",
+        "en": "Would you like some grapes?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -754,6 +858,10 @@
       "note": "Plural also ananas.",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Han köper en ananas i affären.",
+        "en": "He buys a pineapple at the shop."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -777,6 +885,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "På sommaren äter vi mycket vattenmelon.",
+        "en": "In summer we eat a lot of watermelon."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -800,6 +912,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Persikorna är mjuka och goda.",
+        "en": "The peaches are soft and tasty."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -822,6 +938,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Hon äter torkade aprikoser till frukost.",
+        "en": "She eats dried apricots for breakfast."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -871,6 +991,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Jag skär tomaterna till salladen.",
+        "en": "I’m cutting the tomatoes for the salad."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -894,6 +1018,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vi äter kokt potatis till fisken.",
+        "en": "We’re having boiled potatoes with the fish."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -916,6 +1044,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Hacka löken och stek den i smör.",
+        "en": "Chop the onion and fry it in butter."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -936,6 +1068,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Den här soppan har mycket vitlök.",
+        "en": "This soup has a lot of garlic."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -960,6 +1096,10 @@
       "note": "Vowel change in the plural: morot → morötter.",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Min son äter gärna morötter.",
+        "en": "My son likes eating carrots."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -980,6 +1120,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kålen är billig på hösten.",
+        "en": "Cabbage is cheap in the autumn."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1000,6 +1144,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vi gör soppa på blomkål.",
+        "en": "We’re making cauliflower soup."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1023,6 +1171,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kan du skiva gurkan?",
+        "en": "Can you slice the cucumber?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1045,6 +1197,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Till maten äter vi en grön sallad.",
+        "en": "With the meal we have a green salad."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1065,6 +1221,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Efter middagen äter vi lite choklad.",
+        "en": "After dinner we have a little chocolate."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1087,6 +1247,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Barnen vill ha glass när det är varmt.",
+        "en": "The children want ice cream when it’s hot."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1110,6 +1274,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Får jag ta en kaka till?",
+        "en": "Can I have another cookie?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1132,6 +1300,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vi köper en tårta till mammas födelsedag.",
+        "en": "We’re buying a cake for Mum’s birthday."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1152,6 +1324,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Barnen får godis på lördagar.",
+        "en": "The kids get sweets on Saturdays."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1172,6 +1348,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kan jag få ett glas vatten?",
+        "en": "Can I have a glass of water?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1192,6 +1372,10 @@
       },
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vill du ha rött eller vitt vin?",
+        "en": "Would you like red or white wine?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1213,6 +1397,10 @@
       "note": "Also en öl (ölen).",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Han beställer en öl på restaurangen.",
+        "en": "He orders a beer at the restaurant."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1262,6 +1450,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kan du öppna burken åt mig?",
+        "en": "Can you open the jar for me?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -1284,6 +1476,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vill du ha en påse?",
+        "en": "Would you like a bag?"
+      },
       "tags": [
         "yki-shopping"
       ],

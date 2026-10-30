@@ -16,6 +16,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Det finns tjugo elever i klassen.",
+        "en": "There are twenty pupils in the class."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -39,6 +43,10 @@
       "irregular": true,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Läraren pratar långsamt och tydligt.",
+        "en": "The teacher speaks slowly and clearly."
+      },
       "note": "Group 5: en lärare → två lärare, de lärarna.",
       "tags": [
         "yki-work-study"
@@ -62,6 +70,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Skolan börjar klockan åtta.",
+        "en": "School starts at eight o’clock."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -84,6 +96,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vi har två lektioner i svenska idag.",
+        "en": "We have two Swedish lessons today."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -107,6 +123,10 @@
       "irregular": true,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Klassrummet ligger på andra våningen.",
+        "en": "The classroom is on the second floor."
+      },
       "note": "Like rum: klassrummet, klassrummen (double m).",
       "tags": [
         "yki-work-study"
@@ -156,6 +176,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "På fredag har vi prov i matte.",
+        "en": "On Friday we have a maths test."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -171,6 +195,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Hon pluggade mycket och klarade provet.",
+        "en": "She studied a lot and passed the exam."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -194,6 +222,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Han fick bra betyg i alla ämnen.",
+        "en": "He got good grades in all subjects."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -242,6 +274,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Vår son går på förskola.",
+        "en": "Our son goes to preschool."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -264,6 +300,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Jag hämtar barnen från dagis klockan fyra.",
+        "en": "I pick the kids up from daycare at four."
+      },
       "note": "Everyday word for förskola.",
       "tags": [
         "yki-work-study"
@@ -287,6 +327,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Barnen går i grundskolan i nio år.",
+        "en": "Children go to primary school for nine years."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -309,6 +353,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Min syster går på gymnasiet.",
+        "en": "My sister is at upper secondary school."
+      },
       "note": "Gymnasium drops -um: gymnasiet, gymnasier. Often just “gymnasiet”.",
       "tags": [
         "yki-work-study"
@@ -333,6 +381,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Han studerar ekonomi på en högskola.",
+        "en": "He studies economics at a university college."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -357,6 +409,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Hon vill studera på universitetet i Åbo.",
+        "en": "She wants to study at the university in Turku."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -372,6 +428,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 18,
+      "example": {
+        "sv": "Min dotter tar studenten i juni.",
+        "en": "My daughter graduates from upper secondary school in June."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -388,6 +448,10 @@
       "pos": "phrase",
       "level": "A2",
       "lesson": 18,
+      "example": {
+        "sv": "Han tog examen förra året.",
+        "en": "He graduated last year."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -410,6 +474,10 @@
       "group": 5,
       "level": "A2",
       "lesson": 18,
+      "example": {
+        "sv": "Efter gymnasiet tog hon ett sabbatsår.",
+        "en": "After upper secondary school she took a gap year."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -432,6 +500,10 @@
       "group": 2,
       "level": "A2",
       "lesson": 18,
+      "example": {
+        "sv": "Min bror var en riktig plugghäst.",
+        "en": "My brother was a real swot."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -448,6 +520,10 @@
       "pos": "verb",
       "level": "A2",
       "lesson": 18,
+      "example": {
+        "sv": "Det är fel att mobba andra.",
+        "en": "It’s wrong to bully others."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -525,6 +601,10 @@
       },
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Matte är mitt favoritämne.",
+        "en": "Maths is my favourite subject."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -545,6 +625,10 @@
       },
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Vi läser fysik två gånger i veckan.",
+        "en": "We study physics twice a week."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -565,6 +649,10 @@
       },
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Provet i kemi var svårt.",
+        "en": "The chemistry test was hard."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -586,6 +674,10 @@
       },
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Han är intresserad av historia.",
+        "en": "He’s interested in history."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -609,6 +701,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Hur många språk talar du?",
+        "en": "How many languages do you speak?"
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -631,6 +727,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Terminen slutar i december.",
+        "en": "The term ends in December."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -653,6 +753,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Jag träffade en gammal skolkamrat på stan.",
+        "en": "I met an old schoolmate in town."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -668,6 +772,10 @@
       "pos": "verb",
       "level": "A2",
       "lesson": 19,
+      "example": {
+        "sv": "Han skolkade från lektionen i morse.",
+        "en": "He skipped class this morning."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -683,6 +791,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Kan du förklara det en gång till?",
+        "en": "Can you explain it once more?"
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -698,6 +810,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 19,
+      "example": {
+        "sv": "Vår lärare är sträng men rättvis.",
+        "en": "Our teacher is strict but fair."
+      },
       "tags": [
         "yki-work-study"
       ],

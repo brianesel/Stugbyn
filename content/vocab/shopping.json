@@ -9,6 +9,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vi spenderar för mycket pengar på mat.",
+        "en": "We spend too much money on food."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -26,6 +30,10 @@
       "countable": false,
       "forms": {
         "def": "pengarna"
+      },
+      "example": {
+        "sv": "Jag har inte så mycket pengar just nu.",
+        "en": "I don’t have much money right now."
       },
       "note": "Plural only in Swedish: Pengarna räcker inte.",
       "level": "A1",
@@ -50,6 +58,10 @@
         "defPl": "köpcentrumen"
       },
       "group": 5,
+      "example": {
+        "sv": "Köpcentrumet är öppet till klockan nio.",
+        "en": "The shopping mall is open until nine o’clock."
+      },
       "note": "Definite also köpcentret.",
       "level": "A1",
       "lesson": 10,
@@ -99,6 +111,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Studenter får tio procent rabatt.",
+        "en": "Students get a ten per cent discount."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -122,6 +138,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Affären stänger klockan sex.",
+        "en": "The shop closes at six."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -144,6 +164,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Det finns många små butiker i centrum.",
+        "en": "There are lots of small shops in the centre."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -166,6 +190,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kan du gå till mataffären efter jobbet?",
+        "en": "Can you go to the grocery store after work?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -188,6 +216,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Det var lång kö till kassan.",
+        "en": "There was a long queue at the checkout."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -203,6 +235,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Igår köpte vi en ny soffa.",
+        "en": "Yesterday we bought a new sofa."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -218,6 +254,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kan jag betala med kort?",
+        "en": "Can I pay by card?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -252,6 +292,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Kaffe har blivit dyrt.",
+        "en": "Coffee has become expensive."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -267,6 +311,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Skorna var billiga på rea.",
+        "en": "The shoes were cheap in the sale."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -289,6 +337,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Har du skrivit en inköpslista?",
+        "en": "Have you written a shopping list?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -311,6 +363,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Hon skickade ett klagomål till företaget.",
+        "en": "She sent a complaint to the company."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -333,6 +389,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Datorn är för långsam.",
+        "en": "The computer is too slow."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -355,6 +415,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Jag tar med min bärbara dator till jobbet.",
+        "en": "I take my laptop to work."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -389,6 +453,10 @@
       "sv": "fel",
       "en": "wrong",
       "pos": "adjective",
+      "example": {
+        "sv": "Tyvärr fick jag fel storlek.",
+        "en": "Unfortunately I got the wrong size."
+      },
       "note": "Never changes form: fel färg, fel nummer.",
       "level": "A1",
       "lesson": 14,
@@ -413,6 +481,10 @@
       },
       "group": 5,
       "irregular": true,
+      "example": {
+        "sv": "Jag har glömt laddaren hemma.",
+        "en": "I’ve left the charger at home."
+      },
       "note": "Like lärare: laddarna in the definite plural.",
       "level": "A1",
       "lesson": 14,
@@ -439,6 +511,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Det finns en repa på skärmen.",
+        "en": "There’s a scratch on the screen."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -461,6 +537,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Skärmen på min mobil är trasig.",
+        "en": "The screen on my phone is broken."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -483,6 +563,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Har du sett min mobil?",
+        "en": "Have you seen my phone?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -500,6 +584,10 @@
       "countable": false,
       "forms": {
         "def": "hörlurarna"
+      },
+      "example": {
+        "sv": "Han lyssnar på musik med hörlurar på bussen.",
+        "en": "He listens to music with headphones on the bus."
       },
       "note": "Usually plural; one earphone is en hörlur.",
       "level": "A1",
@@ -524,6 +612,10 @@
       },
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Jag ringde kundtjänst i morse.",
+        "en": "I called customer service this morning."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -566,6 +658,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Vilket märke är din telefon?",
+        "en": "What brand is your phone?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -581,6 +677,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Kan ni laga min cykel?",
+        "en": "Can you fix my bike?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -605,6 +705,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Datorn har två års garanti.",
+        "en": "The computer has a two-year warranty."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -621,6 +725,10 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Jag köpte den i fjol, så garantin gäller fortfarande.",
+        "en": "I bought it last year, so the warranty is still valid."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -643,6 +751,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Spara kvittot om du vill byta.",
+        "en": "Keep the receipt if you want to exchange it."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -659,6 +771,10 @@
       "function": "complaint",
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Hörlurarna fungerar inte. Kvittot är bifogat.",
+        "en": "The headphones don’t work. The receipt is attached."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -675,6 +791,10 @@
       "function": "complaint",
       "level": "A2",
       "lesson": 14,
+      "example": {
+        "sv": "Skorna gick sönder direkt. Jag vill ha pengarna tillbaka.",
+        "en": "The shoes broke right away. I want my money back."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -711,6 +831,10 @@
       "function": "closing",
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Skicka gärna kvittot till mig. Tack på förhand!",
+        "en": "Please send me the receipt. Thank you in advance!"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -727,6 +851,10 @@
       "function": "closing",
       "level": "A1",
       "lesson": 14,
+      "example": {
+        "sv": "Hoppas vi ses snart. Vänliga hälsningar, Anna",
+        "en": "Hope to see you soon. Kind regards, Anna"
+      },
       "tags": [
         "yki-shopping"
       ],

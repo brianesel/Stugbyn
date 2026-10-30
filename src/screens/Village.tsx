@@ -90,8 +90,8 @@ export function Village() {
           <div>
             <h2 style={{ marginBottom: 2 }}>Word bank</h2>
             <p className="muted small" style={{ margin: 0 }}>
-              {library.decks.reduce((n, d) => n + d.entries.length, 0)} words in {library.decks.length} themes from class. Search, listen
-              and practise each theme as a deck.
+              {library.decks.reduce((n, d) => n + d.entries.length, 0)} words in {library.decks.length} themes from class. Learn them with
+              flashcards, search, listen and practise each theme as a deck.
             </p>
           </div>
         </a>

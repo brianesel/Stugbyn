@@ -1111,3 +1111,94 @@ select {
   border-top: 1px solid var(--line);
   padding-top: 4px;
 }
+
+/* Flashcards */
+.flashcard {
+  perspective: 1200px;
+  min-height: 340px;
+}
+.fc-inner {
+  /* Both faces share one grid cell, so the card grows to fit the longer side (no clipping of the ⓘ popover). */
+  display: grid;
+  min-height: 340px;
+  transition: transform 450ms ease;
+  transform-style: preserve-3d;
+}
+.flashcard.flipped .fc-inner {
+  transform: rotateY(180deg);
+}
+.fc-face {
+  grid-area: 1 / 1;
+  position: relative;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  border: 2px solid var(--line);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.fc-front {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font: inherit;
+  color: var(--ink);
+  cursor: pointer;
+  border-color: var(--ochre);
+}
+.fc-back {
+  transform: rotateY(180deg);
+  border-color: var(--lake);
+}
+.fc-pos {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.fc-word {
+  font-family: var(--font-head);
+  font-size: 2.6rem;
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+.fc-word.english {
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 2rem;
+}
+.fc-word.small-word {
+  font-size: 1.8rem;
+}
+.fc-row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.fc-en {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+.fc-forms {
+  color: var(--muted);
+}
+.fc-example {
+  margin-top: 4px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: var(--surface-2);
+  border-left: 4px solid var(--ochre);
+}
+.fc-example [lang='sv'] {
+  font-weight: 700;
+}
+@media (prefers-reduced-motion: reduce) {
+  .fc-inner {
+    transition: none;
+  }
+}

@@ -14,6 +14,10 @@
       },
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vad gör du på fritiden?",
+        "en": "What do you do in your free time?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -37,6 +41,10 @@
       "level": "A1",
       "lesson": 4,
       "note": "The e drops in the plural: semestrar.",
+      "example": {
+        "sv": "Vi ska åka till Spanien på semester i juli.",
+        "en": "We’re going to Spain on holiday in July."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -52,6 +60,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "På lördag vill barnen åka till havet.",
+        "en": "On Saturday the kids want to go to the sea."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -67,6 +79,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Efter jobbet vilar jag en stund på soffan.",
+        "en": "After work I rest for a while on the sofa."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -82,6 +98,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vi badade i sjön varje dag i somras.",
+        "en": "We swam in the lake every day last summer."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -116,6 +136,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Ska vi fika klockan tre?",
+        "en": "Shall we have a coffee break at three?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -138,6 +162,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Vi har fika på jobbet klockan två.",
+        "en": "We have a coffee break at work at two."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -153,6 +181,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Det regnar, så vi stannar hemma i dag.",
+        "en": "It’s raining, so we’re staying at home today."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -168,6 +200,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Barnen leker i parken efter skolan.",
+        "en": "The children play in the park after school."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -229,6 +265,10 @@
       "group": 3,
       "level": "A2",
       "lesson": 4,
+      "example": {
+        "sv": "Min syster går en matlagningskurs på tisdagar.",
+        "en": "My sister takes a cooking class on Tuesdays."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -244,6 +284,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Filmen var mycket spännande.",
+        "en": "The film was very exciting."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -266,6 +310,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Vilka intressen har du?",
+        "en": "What interests do you have?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -289,6 +337,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Min hobby är att spela gitarr.",
+        "en": "My hobby is playing the guitar."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -328,6 +380,10 @@
       },
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Hon lyssnar på musik på bussen.",
+        "en": "She listens to music on the bus."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -348,6 +404,10 @@
       },
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Anna är intresserad av modern konst.",
+        "en": "Anna is interested in modern art."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -363,6 +423,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Min mormor målar tavlor på sommaren.",
+        "en": "My grandmother paints pictures in the summer."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -378,6 +442,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Barnen ritade en katt och ett hus.",
+        "en": "The children drew a cat and a house."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -393,6 +461,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Vi sjunger i en kör varje torsdag.",
+        "en": "We sing in a choir every Thursday."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -408,6 +480,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Vill du dansa med mig?",
+        "en": "Do you want to dance with me?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -423,6 +499,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Vi reser till Stockholm med båt.",
+        "en": "We’re travelling to Stockholm by boat."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -438,6 +518,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Pappa läser tidningen vid frukosten.",
+        "en": "Dad reads the newspaper at breakfast."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -453,6 +537,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "På hösten vandrar vi i Lappland.",
+        "en": "In the autumn we hike in Lapland."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -475,6 +563,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Vandringen tog fem timmar.",
+        "en": "The hike took five hours."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -519,6 +611,10 @@
       },
       "level": "A2",
       "lesson": 5,
+      "example": {
+        "sv": "Fotografering är min stora hobby.",
+        "en": "Photography is my big hobby."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -562,6 +658,10 @@
       "level": "A1",
       "lesson": 5,
       "note": "Double m: gymmet, gymmen.",
+      "example": {
+        "sv": "Han går till gymmet tre gånger i veckan.",
+        "en": "He goes to the gym three times a week."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -584,6 +684,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Ska vi se en film i kväll?",
+        "en": "Shall we watch a film tonight?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -606,6 +710,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Min bror spelar datorspel hela helgen.",
+        "en": "My brother plays video games all weekend."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -629,6 +737,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Festen börjar klockan åtta på lördag.",
+        "en": "The party starts at eight on Saturday."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -644,6 +756,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Vi firade hennes födelsedag på restaurang.",
+        "en": "We celebrated her birthday at a restaurant."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -666,6 +782,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "I somras var vi på en festival i Åbo.",
+        "en": "Last summer we went to a festival in Turku."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -689,6 +809,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Jag lånar böcker på biblioteket.",
+        "en": "I borrow books from the library."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -712,6 +836,10 @@
       "level": "A1",
       "lesson": 5,
       "note": "The e drops in the plural: teatrar.",
+      "example": {
+        "sv": "Vi gick på teater i lördags.",
+        "en": "We went to the theatre last Saturday."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -727,6 +855,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Varje kväll promenerar hon med hunden.",
+        "en": "Every evening she goes for a walk with the dog."
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -742,6 +874,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Ska vi gå ut och äta i kväll?",
+        "en": "Shall we go out to eat tonight?"
+      },
       "tags": [
         "yki-free-time"
       ],
@@ -776,6 +912,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 5,
+      "example": {
+        "sv": "Kan ditt barn simma?",
+        "en": "Can your child swim?"
+      },
       "tags": [
         "yki-free-time"
       ],

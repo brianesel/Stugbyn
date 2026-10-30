@@ -89,6 +89,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Jag dricker kaffe och äter en smörgås.",
+        "en": "I drink coffee and eat a sandwich."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -104,6 +108,10 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Jag talar lite svenska.",
+        "en": "I speak a little Swedish."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -120,6 +128,10 @@
       "function": "greeting",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Hej, hur är det? – Bra, tack!",
+        "en": "“Hi, how are you?” “Good, thanks!”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -136,6 +148,10 @@
       "function": "greeting",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Tjena! Hur är läget? – Det är lugnt.",
+        "en": "“Hey! How’s it going?” “All good.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -152,6 +168,10 @@
       "function": "greeting",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Hur mår du i dag? – Jag mår bättre, tack.",
+        "en": "“How are you feeling today?” “I’m feeling better, thanks.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -188,6 +208,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Hur är det? – Det är bra, tack.",
+        "en": "“How are you?” “I’m good, thanks.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -204,6 +228,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Vi ses klockan sex. – Toppen!",
+        "en": "“See you at six.” “Great!”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -220,6 +248,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Kan du ringa mig i morgon? – Okej, jag ringer.",
+        "en": "“Can you call me tomorrow?” “Okay, I’ll call.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -236,6 +268,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Hur var filmen? – Så där.",
+        "en": "“How was the film?” “So-so.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -252,6 +288,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "– Hur mår du? – Ganska dåligt, jag är förkyld.",
+        "en": "“How are you feeling?” “Quite bad, I have a cold.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -268,6 +308,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Jag är trött, så jag går och lägger mig nu.",
+        "en": "I’m tired, so I’m going to bed now."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -284,6 +328,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 12,
+      "example": {
+        "sv": "– Jag är sjuk i dag. – Åh nej, krya på dig!",
+        "en": "“I’m sick today.” “Oh no, get well soon!”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -299,6 +347,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "– Vill du ha kaffe? – Ja, gärna.",
+        "en": "“Would you like some coffee?” “Yes, please.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -315,6 +367,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "– Är du hungrig? – Nej, inte än.",
+        "en": "“Are you hungry?” “No, not yet.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -330,6 +386,10 @@
       "pos": "other",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Tack för hjälpen i går!",
+        "en": "Thanks for your help yesterday!"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -347,6 +407,10 @@
       "function": "request",
       "level": "A1",
       "lesson": 3,
+      "example": {
+        "sv": "Ursäkta, var ligger stationen?",
+        "en": "Excuse me, where is the station?"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -363,6 +427,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 3,
+      "example": {
+        "sv": "Förlåt att jag är sen!",
+        "en": "Sorry I’m late!"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -379,6 +447,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Herregud, klockan är redan tio!",
+        "en": "Oh my goodness, it’s already ten o’clock!"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -395,6 +467,10 @@
       "function": "agreeing",
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "– Ska vi äta pizza i kväll? – Det låter bra!",
+        "en": "“Shall we have pizza tonight?” “That sounds good!”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -411,6 +487,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 7,
+      "example": {
+        "sv": "Oroa dig inte, jag hjälper dig.",
+        "en": "Don’t worry, I’ll help you."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -447,6 +527,10 @@
       "function": "agreeing",
       "level": "A1",
       "lesson": 17,
+      "example": {
+        "sv": "– Bussen är alltid sen. – Jag håller med.",
+        "en": "“The bus is always late.” “I agree.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -463,6 +547,10 @@
       "function": "agreeing",
       "level": "A1",
       "lesson": 17,
+      "example": {
+        "sv": "Jag håller inte med dig om det.",
+        "en": "I don’t agree with you on that."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -479,6 +567,10 @@
       "function": "agreeing",
       "level": "A1",
       "lesson": 17,
+      "example": {
+        "sv": "Jag håller delvis med, men det är dyrt.",
+        "en": "I partly agree, but it’s expensive."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -495,6 +587,10 @@
       "function": "opinion",
       "level": "A1",
       "lesson": 17,
+      "example": {
+        "sv": "Enligt mig är vintern för lång i Finland.",
+        "en": "In my opinion the winter in Finland is too long."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -511,6 +607,10 @@
       "function": "opinion",
       "level": "A1",
       "lesson": 17,
+      "example": {
+        "sv": "– Kommer du på fredag? – Det beror på vädret.",
+        "en": "“Are you coming on Friday?” “It depends on the weather.”"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -547,6 +647,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 12,
+      "example": {
+        "sv": "Förresten, har du sett min nyckel?",
+        "en": "By the way, have you seen my key?"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -563,6 +667,10 @@
       "function": "closing",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Hej då, vi ses i morgon!",
+        "en": "Bye, see you tomorrow!"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -579,6 +687,10 @@
       "function": "closing",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Vi ses på måndag!",
+        "en": "See you on Monday!"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -595,6 +707,10 @@
       "function": "closing",
       "level": "A1",
       "lesson": 1,
+      "example": {
+        "sv": "Tack så mycket för blommorna!",
+        "en": "Thank you very much for the flowers!"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -611,6 +727,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 3,
+      "example": {
+        "sv": "– Varsågod, här är din biljett. – Tack!",
+        "en": "“Here you are, this is your ticket.” “Thanks!”"
+      },
       "tags": [
         "yki-relationships"
       ],

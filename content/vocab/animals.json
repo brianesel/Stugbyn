@@ -16,6 +16,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Finns det många vilda djur i skogen?",
+        "en": "Are there many wild animals in the forest?"
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -64,6 +68,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Vi går ut med hunden varje kväll.",
+        "en": "We walk the dog every evening."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -87,6 +95,10 @@
       "level": "A1",
       "lesson": 9,
       "note": "Exception: a short en-word that takes -er: katt → katter.",
+      "example": {
+        "sv": "Min syster har två katter.",
+        "en": "My sister has two cats."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -110,6 +122,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Barnen tittar på fiskarna i sjön.",
+        "en": "The children are looking at the fish in the lake."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -132,6 +148,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Hon har en vit kanin hemma.",
+        "en": "She has a white rabbit at home."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -155,6 +175,10 @@
       "level": "A1",
       "lesson": 9,
       "note": "The e drops in the plural: fågel → fåglar.",
+      "example": {
+        "sv": "På morgonen sjunger fåglarna i trädet.",
+        "en": "In the morning the birds sing in the tree."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -177,6 +201,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Anna rider på sin häst på lördagar.",
+        "en": "Anna rides her horse on Saturdays."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -199,6 +227,10 @@
       "group": 1,
       "level": "A2",
       "lesson": 9,
+      "example": {
+        "sv": "Papegojan kan säga några ord.",
+        "en": "The parrot can say a few words."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -221,6 +253,10 @@
       "group": 1,
       "level": "A2",
       "lesson": 9,
+      "example": {
+        "sv": "Sköldpaddan äter sallad och går långsamt.",
+        "en": "The tortoise eats lettuce and walks slowly."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -244,6 +280,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Vi såg en älg vid vägen i går.",
+        "en": "We saw a moose by the road yesterday."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -267,6 +307,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Två rådjur står i trädgården.",
+        "en": "Two deer are standing in the garden."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -289,6 +333,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Det finns björnar i östra Finland.",
+        "en": "There are bears in eastern Finland."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -311,6 +359,10 @@
       "group": 2,
       "level": "A2",
       "lesson": 9,
+      "example": {
+        "sv": "Har du sett en tvättbjörn i verkligheten?",
+        "en": "Have you ever seen a raccoon in real life?"
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -335,6 +387,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "En räv sprang över gatan i natt.",
+        "en": "A fox ran across the street last night."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -358,6 +414,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Det finns inte många vargar i Finland.",
+        "en": "There aren’t many wolves in Finland."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -380,6 +440,10 @@
       "group": 2,
       "level": "A2",
       "lesson": 9,
+      "example": {
+        "sv": "En ekorre springer upp i trädet.",
+        "en": "A squirrel runs up the tree."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -402,6 +466,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Korna står ute på sommaren.",
+        "en": "The cows are outside in the summer."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -424,6 +492,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Min farfar hade grisar på gården.",
+        "en": "My grandfather had pigs on the farm."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -447,6 +519,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Vi såg många får på Åland.",
+        "en": "We saw lots of sheep on Åland."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -471,6 +547,10 @@
       "level": "A1",
       "lesson": 9,
       "note": "Plural hönor; höns is the collective word for chickens.",
+      "example": {
+        "sv": "Hönorna lägger ägg varje dag.",
+        "en": "The hens lay eggs every day."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -493,6 +573,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Jag är rädd för ormar.",
+        "en": "I’m afraid of snakes."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -516,6 +600,10 @@
       "level": "A1",
       "lesson": 9,
       "note": "The e drops in the plural: spindel → spindlar.",
+      "example": {
+        "sv": "Det sitter en stor spindel på väggen.",
+        "en": "There’s a big spider on the wall."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -538,6 +626,10 @@
       "group": 5,
       "level": "A2",
       "lesson": 9,
+      "example": {
+        "sv": "Barnen läser en bok om ett odjur i sjön.",
+        "en": "The children are reading a book about a monster in the lake."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -553,6 +645,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 9,
+      "example": {
+        "sv": "Du får välja en film i kväll.",
+        "en": "You get to choose a film tonight."
+      },
       "tags": [
         "yki-nature-weather"
       ],
@@ -568,6 +664,10 @@
       "pos": "verb",
       "level": "A2",
       "lesson": 9,
+      "example": {
+        "sv": "Jag föreslår att vi tar bussen.",
+        "en": "I suggest we take the bus."
+      },
       "tags": [
         "yki-nature-weather"
       ],

@@ -16,6 +16,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Jag ska träffa en vän efter jobbet.",
+        "en": "I’m meeting a friend after work."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -38,6 +42,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Emmas pojkvän kommer från Tammerfors.",
+        "en": "Emma’s boyfriend is from Tampere."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -60,6 +68,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Han bor med sin flickvän i Åbo.",
+        "en": "He lives with his girlfriend in Turku."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -108,6 +120,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Min särbo bor i Stockholm, och jag bor i Helsingfors.",
+        "en": "My partner lives in Stockholm, and I live in Helsinki."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -153,6 +169,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Irregular: en man, mannen, män, männen.",
+      "example": {
+        "sv": "Min man lagar mat i kväll.",
+        "en": "My husband is cooking tonight."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -177,6 +197,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Hans fru arbetar på sjukhuset.",
+        "en": "His wife works at the hospital."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -200,6 +224,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Han kom till festen med sin maka.",
+        "en": "He came to the party with his wife."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -222,6 +250,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Hennes make heter Mikael.",
+        "en": "Her husband’s name is Mikael."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -273,6 +305,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Vowel change: son → söner.",
+      "example": {
+        "sv": "Vår son börjar skolan i höst.",
+        "en": "Our son starts school this autumn."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -296,6 +332,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Vowel change: dotter → döttrar.",
+      "example": {
+        "sv": "De har två döttrar och en son.",
+        "en": "They have two daughters and a son."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -319,6 +359,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Definite singular is brodern (also brorn in speech); plural bröder.",
+      "example": {
+        "sv": "Min bror är två år äldre än jag.",
+        "en": "My brother is two years older than me."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -341,6 +385,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Har du några systrar?",
+        "en": "Do you have any sisters?"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -382,6 +430,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Är du gift eller singel?",
+        "en": "Are you married or single?"
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -397,6 +449,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Mina föräldrar är skilda.",
+        "en": "My parents are divorced."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -412,6 +468,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "De skilde sig för fem år sedan.",
+        "en": "They got divorced five years ago."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -427,6 +487,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Lisa gjorde slut med sin pojkvän i går.",
+        "en": "Lisa broke up with her boyfriend yesterday."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -450,6 +514,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Plural föräldrar, föräldrarna.",
+      "example": {
+        "sv": "Föräldrarna hämtar barnen på dagis.",
+        "en": "The parents pick the children up from daycare."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -472,6 +540,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Mamma ringer mig varje söndag.",
+        "en": "Mum calls me every Sunday."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -494,6 +566,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 2,
+      "example": {
+        "sv": "Min pappa jobbar som busschaufför.",
+        "en": "My dad works as a bus driver."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -517,6 +593,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Definite also farmorn in speech.",
+      "example": {
+        "sv": "Vi hälsar på farmor på julafton.",
+        "en": "We visit Grandma on Christmas Eve."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -540,6 +620,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Definite also farfarn in speech.",
+      "example": {
+        "sv": "Farfar är åttio år gammal.",
+        "en": "Grandpa is eighty years old."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -563,6 +647,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Definite also mormorn in speech.",
+      "example": {
+        "sv": "Mormor bakar bullar med barnen.",
+        "en": "Grandma bakes buns with the children."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -586,6 +674,10 @@
       "level": "A1",
       "lesson": 2,
       "note": "Definite also morfarn in speech.",
+      "example": {
+        "sv": "Min morfar bor på landet.",
+        "en": "My grandfather lives in the countryside."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -601,6 +693,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Som ensamstående förälder har hon mycket att göra.",
+        "en": "As a single parent, she has a lot to do."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -651,6 +747,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Jag är ensambarn, så jag har inga syskon.",
+        "en": "I’m an only child, so I don’t have any siblings."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -666,6 +766,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Anna och Johan gifte sig i somras.",
+        "en": "Anna and Johan got married last summer."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -688,6 +792,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Mina kusiner bor i Sverige.",
+        "en": "My cousins live in Sweden."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -703,6 +811,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "De är barnfria och reser mycket.",
+        "en": "They’re child-free and travel a lot."
+      },
       "tags": [
         "yki-relationships"
       ],
@@ -725,6 +837,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 10,
+      "example": {
+        "sv": "Vår granne har en stor hund.",
+        "en": "Our neighbour has a big dog."
+      },
       "tags": [
         "yki-relationships"
       ],

@@ -9,6 +9,7 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Sväng vänster efter bron.", "en": "Turn left after the bridge." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "GPS:en säger ”vänster”. Min man säger ”höger”. Vi kör rakt fram.",
@@ -22,6 +23,7 @@
       "pos": "adverb",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "I Finland kör man på höger sida.", "en": "In Finland, people drive on the right." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Jag vet var höger är: där klockan inte är.",
@@ -35,6 +37,7 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Apoteket ligger till vänster om banken.", "en": "The pharmacy is to the left of the bank." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Till vänster ser ni en sjö. Till höger ser ni … också en sjö. Välkommen till Finland!",
@@ -48,6 +51,7 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "– Var är toaletten? – Första dörren till höger.", "en": "“Where’s the toilet?” “First door on the right.”" },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Toaletten ligger till höger. Kön börjar till vänster.",
@@ -75,6 +79,7 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Gå rakt fram till trafikljusen.", "en": "Go straight ahead to the traffic lights." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "”Gå rakt fram”, sa mannen. Sedan pekade han till höger.",
@@ -105,6 +110,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Bussen stannar efter korsningen.", "en": "The bus stops after the crossroads." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Fyra finländare i en korsning: alla väntar, ingen kör.",
@@ -121,6 +127,7 @@
       "group": 4,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Barnen går över gatan vid övergångsstället.", "en": "The children cross the street at the pedestrian crossing." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Vid övergångsstället väntar alla på den gröna gubben. Även ankorna.",
@@ -134,6 +141,7 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Titta åt båda hållen innan du korsar gatan.", "en": "Look both ways before you cross the street." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Varför korsade hönan gatan? Det var rea på andra sidan.",
@@ -181,6 +189,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Bussen kommer om fem minuter.", "en": "The bus is coming in five minutes." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Bussen kom i tid! Jag blev så glad att jag glömde att gå på.",
@@ -197,6 +206,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Vi åker tunnelbana till centrum.", "en": "We take the metro to the city centre." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Tunnelbanan i Helsingfors är inte lång. Men den är vår.",
@@ -214,6 +224,7 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Tåget till Åbo går klockan åtta.", "en": "The train to Turku leaves at eight." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Tåget är försenat på grund av löv på spåret. Och snö. Och måndag.",
@@ -230,6 +241,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Min bror åker spårvagn till skolan.", "en": "My brother takes the tram to school." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Spårvagnen har inga stora drömmar. Den följer bara spåret.",
@@ -246,6 +258,7 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Många åker pendeltåg till jobbet.", "en": "Many people take the commuter train to work." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "På pendeltåget sover alla. Ingen vet var de ska gå av.",
@@ -262,6 +275,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Anna väntar på bussen vid hållplatsen.", "en": "Anna is waiting for the bus at the stop." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Vid hållplatsen står fem personer, två meter mellan varje. Det är finsk kö.",
@@ -278,6 +292,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Hur långt är det till stationen?", "en": "How far is it to the station?" },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Jag var på stationen i tid. Det var inte tåget.",
@@ -305,6 +320,7 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Vi går på bussen vid torget.", "en": "We get on the bus at the square." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Gå på bussen, inte på mina fötter, tack!",
@@ -365,6 +381,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Vi bor på en lugn gata i centrum.", "en": "We live on a quiet street in the centre." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Gatan heter Storgatan. Den är inte stor.",
@@ -381,6 +398,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Kan du visa mig vägen till biblioteket?", "en": "Can you show me the way to the library?" },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "GPS:en säger att det finns en väg här. Jag ser bara en vägg.",
@@ -398,6 +416,7 @@
       "group": 1,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Har du en karta över staden?", "en": "Do you have a map of the city?" },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Jag har en karta, en app och en kompass. Jag är fortfarande vilse.",
@@ -414,6 +433,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Min cykel står utanför huset.", "en": "My bike is outside the house." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Min cykel står ute hela vintern. Den är finsk nu.",
@@ -430,6 +450,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Pappa tvättar bilen på lördag.", "en": "Dad’s washing the car on Saturday." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Min bil är gammal. Den startar bara när den vill. Precis som jag på morgonen.",
@@ -446,6 +467,7 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Flygplanet landar i Helsingfors klockan tio.", "en": "The plane lands in Helsinki at ten." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Jag gillar flygplan. Mest när de står stilla på flygplatsen.",
@@ -462,6 +484,7 @@
       "group": 3,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "En biljett till Tammerfors, tack.", "en": "One ticket to Tampere, please." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Jag köpte en biljett i appen. Nu behöver jag en app för att hitta biljetten.",
@@ -478,6 +501,7 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Jag laddar mitt metrokort varje månad.", "en": "I top up my metro card every month." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Mitt metrokort ligger i min andra jacka. Min andra jacka är hemma.",
@@ -494,6 +518,7 @@
       "group": 5,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "Min syster har inte körkort.", "en": "My sister doesn’t have a driving licence." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Med körkort kan jag köra bil. Utan kaffe kan jag inte köra någonting.",
@@ -524,6 +549,7 @@
       "group": 2,
       "level": "A1",
       "lesson": 14,
+      "example": { "sv": "På sommaren badar vi i sjön.", "en": "In summer we swim in the lake." },
       "tags": ["yki-travel"],
       "fun": {
         "sv": "Finland har fler sjöar än jag kan räkna. Och jag kan räkna till hundra på svenska!",

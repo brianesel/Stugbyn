@@ -8,6 +8,7 @@ import { RulesScreen } from './screens/Rules';
 import { Settings } from './screens/Settings';
 import { Village } from './screens/Village';
 import { WordBank } from './screens/WordBank';
+import { Flashcards } from './screens/Flashcards';
 import { useAccount } from './store/account';
 import { useProgress } from './store/progress';
 
@@ -61,6 +62,8 @@ function Screen({ route }: { route: ReturnType<typeof parseHash> }) {
       return <Settings />;
     case 'words':
       return <WordBank theme={route.theme} />;
+    case 'cards':
+      return <Flashcards key={route.theme ?? 'all'} theme={route.theme} />;
     default:
       return <NotFound />;
   }

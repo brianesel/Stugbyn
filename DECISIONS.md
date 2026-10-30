@@ -115,3 +115,11 @@ Choices made where SPEC.md is silent or where reality differed. Newest phase at 
 ## Signing in inside the installed iPhone app (2026-10-28)
 
 iOS opens email links in Safari, never in a home-screen web app, and the two keep separate storage, so tapping the sign-in link signs Safari in, not the app. A 6-digit code would solve it, but Supabase’s built-in email service doesn’t allow editing templates (adding `{{ .Token }}` needs custom SMTP). Instead the learner copies the link (press and hold → Copy Link) and pastes it in Settings → Account; the app reads the one-time token hash from the link and calls `verifyOtp({ token_hash, type })`. Safe-link wrappers are unwrapped, and a link already opened in a browser (with `#access_token`) also works via `setSession`. The code field stays available behind “The email has a code instead”, for when custom SMTP is set up later.
+
+## Flashcards (2026-10-30)
+
+**One card per vocab word**, stored in progress as `<entry id>:card` with the same Leitner boxes as everything else. A round takes up to 15 cards: due cards first (oldest first), then new words in file order, which is the order they were taught. “Again” brings a card back once, three cards later; only the first rating moves the box. “Got it” gives +5 XP.
+
+**The card.** Front: the Swedish (with en/ett) and an audio button; an “EN first” toggle (remembered per device) shows English on the front instead. Back: Swedish with audio and the ⓘ joke, English, the word’s forms (noun forms from the entry, verb and adjective forms from the grammar tables) and an example sentence with audio. Every vocab word now has a plain example sentence (532 added, all reviewed), separate from the jokes. The two faces share one CSS grid cell so the card grows to fit and never clips the ⓘ popover; the flip animation is off with reduced motion.
+
+**Where.** Each Word bank theme has a Flashcards button showing new and due counts, and the Word bank start page has one for all themes (new words ordered by lesson). Card progress counts towards each word’s progress dot. Flashcards are not mixed into the daily review, which stays exercise-based.

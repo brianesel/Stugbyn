@@ -141,3 +141,17 @@ describe('InfoTip', () => {
     expect(container).toBeEmptyDOMElement();
   });
 });
+
+describe('Flashcards screen', () => {
+  it('flips a card to show the English, forms and example, then rates it', async () => {
+    const { Flashcards } = await import('../screens/Flashcards');
+    render(<Flashcards theme="food" />);
+    expect(screen.getByText('en ost')).toHaveAttribute('lang', 'sv');
+    fireEvent.click(screen.getByRole('button', { name: 'Show answer' }));
+    expect(screen.getByText('cheese')).toBeInTheDocument();
+    expect(screen.getByText('osten · ostar · ostarna')).toBeInTheDocument();
+    expect(screen.getByText('Jag gillar inte ost.')).toHaveAttribute('lang', 'sv');
+    fireEvent.click(screen.getByRole('button', { name: /Got it/ }));
+    expect(screen.getByRole('button', { name: 'Show answer' })).toBeInTheDocument();
+  });
+});

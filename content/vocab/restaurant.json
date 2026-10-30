@@ -16,6 +16,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi äter på en italiensk restaurang ikväll.",
+        "en": "We’re eating at an Italian restaurant tonight."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -38,6 +42,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Servitören kom med vattnet direkt.",
+        "en": "The waiter brought the water straight away."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -61,6 +69,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Min syster jobbar som servitris på ett kafé.",
+        "en": "My sister works as a waitress at a café."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -83,6 +95,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Kan vi få ett bord för fyra?",
+        "en": "Can we have a table for four?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -124,6 +140,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Kan jag få se menyn, tack?",
+        "en": "Could I see the menu, please?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -139,6 +159,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi har redan beställt maten.",
+        "en": "We’ve already ordered the food."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -194,6 +218,10 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "– Vill du ha bröd? – Nej tack, jag tål inte gluten.",
+        "en": "“Would you like some bread?” “No thanks, I’m gluten intolerant.”"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -210,6 +238,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Min dotter är glutenintolerant.",
+        "en": "My daughter is gluten intolerant."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -311,6 +343,10 @@
       "function": "request",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "– Något mer? – Nej, notan, tack.",
+        "en": "“Anything else?” “No, the bill, please.”"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -333,6 +369,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi delar på notan.",
+        "en": "We’ll split the bill."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -355,6 +395,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vill du ha kvittot?",
+        "en": "Do you want the receipt?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -378,6 +422,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Jag måste betala räkningarna idag.",
+        "en": "I have to pay the bills today."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -400,6 +448,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Fakturan kom med posten igår.",
+        "en": "The invoice came in the post yesterday."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -420,6 +472,10 @@
       },
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "I Finland ger man inte så mycket dricks.",
+        "en": "In Finland people don’t tip very much."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -436,6 +492,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Maten var god, så vi gav dricks.",
+        "en": "The food was good, so we gave a tip."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -460,6 +520,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vilken maträtt rekommenderar du?",
+        "en": "Which dish do you recommend?"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -482,6 +546,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Som förrätt tar jag soppan.",
+        "en": "For the starter I’ll have the soup."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -504,6 +572,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Huvudrätten var fisk med potatis.",
+        "en": "The main course was fish with potatoes."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -552,6 +624,10 @@
       "group": 2,
       "level": "A2",
       "lesson": 21,
+      "example": {
+        "sv": "Kocken lagar all mat själv.",
+        "en": "The chef cooks all the food himself."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -568,6 +644,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Tack, middagen var utsökt!",
+        "en": "Thanks, dinner was delicious!"
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -603,6 +683,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Servicen var tyvärr väldigt långsam.",
+        "en": "Unfortunately the service was very slow."
+      },
       "tags": [
         "yki-shopping"
       ],
@@ -643,6 +727,10 @@
       "function": "small-talk",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Maten är klar. Smaklig måltid!",
+        "en": "The food is ready. Enjoy your meal!"
+      },
       "tags": [
         "yki-shopping"
       ],

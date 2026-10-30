@@ -6,6 +6,7 @@ import { library } from '../content/load';
 import type { Deck } from '../content/library';
 import { deckLabel } from '../content/generators/vocab';
 import type { VocabEntry } from '../content/schemas';
+import { cardId, countCards } from '../engine/flashcards';
 import { mastery, type ProgressMap } from '../engine/srs';
 import { useProgress } from '../store/progress';
 import { poolFor } from '../store/session';
@@ -13,11 +14,13 @@ import { poolFor } from '../store/session';
 /** Item ids practising each vocab entry (its deck items share the entry id as prefix). */
 const itemsByEntry = new Map<string, string[]>();
 for (const d of library.decks) {
-  for (const e of d.entries) itemsByEntry.set(e.id, d.items.filter((i) => i.id.startsWith(`${e.id}:`)).map((i) => i.id));
+  for (const e of d.entries) {
+    itemsByEntry.set(e.id, [...d.items.filter((i) => i.id.startsWith(`${e.id}:`)).map((i) => i.id), cardId(e.id)]);
+  }
 }
 
 /** Other forms to show under the word: noun forms from the entry, verb and adjective forms from the grammar tables. */
-function forms(e: VocabEntry): string {
+export function forms(e: VocabEntry): string {
   if (e.pos === 'noun' && e.forms) return [e.forms.def, e.forms.pl, e.forms.defPl].filter(Boolean).join(' · ');
   if (e.pos === 'verb') {
     const v = library.verbs?.verbs.find((x) => x.inf === e.sv);
@@ -85,7 +88,10 @@ export function WordBank({ theme }: { theme: string | null }) {
       ) : deck ? (
         <DeckView deck={deck} progress={progress} />
       ) : (
-        <DeckGrid progress={progress} />
+        <>
+          <CardsButton entryIds={library.decks.flatMap((d) => d.entries.map((e) => e.id))} href="#/cards" label="Flashcards · all themes" progress={progress} />
+          <DeckGrid progress={progress} />
+        </>
       )}
     </div>
   );
@@ -124,12 +130,25 @@ function DeckView({ deck, progress }: { deck: Deck; progress: ProgressMap }) {
           <span>{Math.round(mastery(ids, progress) * 100)}%</span>
         </div>
         <Meter value={mastery(ids, progress)} label={`${deck.title} progress`} />
-        <a className="btn btn-primary btn-block" href={`#/play/practice/${encodeURIComponent(deck.id)}`}>
+        <CardsButton entryIds={deck.entries.map((e) => e.id)} href={`#/cards/${encodeURIComponent(deck.theme)}`} label="Flashcards" progress={progress} primary />
+        <a className="btn btn-block" href={`#/play/practice/${encodeURIComponent(deck.id)}`}>
           Practise this deck · 10 items
         </a>
       </div>
       <WordList entries={deck.entries} progress={progress} />
     </>
+  );
+}
+
+/** Link to a flashcard round, with how many new and due cards are waiting. */
+function CardsButton({ entryIds, href, label, progress, primary }: { entryIds: string[]; href: string; label: string; progress: ProgressMap; primary?: boolean }) {
+  const { due, fresh } = countCards(entryIds, progress, Date.now());
+  const parts = [fresh && `${fresh} new`, due && `${due} due`].filter(Boolean).join(', ');
+  return (
+    <a className={`btn btn-block${primary ? ' btn-primary' : ''}`} href={href}>
+      {label}
+      {parts ? ` · ${parts}` : ''}
+    </a>
   );
 }
 

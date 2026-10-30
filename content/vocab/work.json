@@ -42,6 +42,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Arbetet börjar klockan åtta.",
+        "en": "Work starts at eight."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -76,6 +80,10 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Min mamma arbetar på ett sjukhus.",
+        "en": "My mum works at a hospital."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -99,6 +107,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Han arbetar på ett stort företag.",
+        "en": "He works for a big company."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -121,6 +133,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Kontoret ligger i centrum.",
+        "en": "The office is in the city centre."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -183,6 +199,10 @@
       "level": "A1",
       "lesson": 4,
       "note": "Group 5: en lärare → två lärare, de lärarna.",
+      "example": {
+        "sv": "Vår lärare heter Maria.",
+        "en": "Our teacher’s name is Maria."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -207,6 +227,10 @@
       "level": "A1",
       "lesson": 4,
       "note": "Group 5: en läkare → två läkare, de läkarna.",
+      "example": {
+        "sv": "Jag har en tid hos läkaren i morgon.",
+        "en": "I have an appointment with the doctor tomorrow."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -229,6 +253,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Min bror är ingenjör och bygger broar.",
+        "en": "My brother is an engineer and builds bridges."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -251,6 +279,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Servitören kommer med maten.",
+        "en": "The waiter brings the food."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -274,6 +306,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Hon jobbar som servitris på ett kafé.",
+        "en": "She works as a waitress at a café."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -296,6 +332,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "De behöver en bra advokat.",
+        "en": "They need a good lawyer."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -318,6 +358,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Anna är sjuksköterska och jobbar på natten.",
+        "en": "Anna is a nurse and works nights."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -342,6 +386,10 @@
       "level": "A1",
       "lesson": 4,
       "note": "Exception: chef looks like Group 2 but takes -er: chefer.",
+      "example": {
+        "sv": "Min chef är snäll och lyssnar.",
+        "en": "My boss is kind and listens."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -365,6 +413,10 @@
       "irregular": true,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Det finns många programmerare i Helsingfors.",
+        "en": "There are lots of programmers in Helsinki."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -387,6 +439,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Hennes pappa är musiker och spelar gitarr.",
+        "en": "Her dad is a musician and plays the guitar."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -410,6 +466,10 @@
       "irregular": true,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Målaren målar vårt kök i dag.",
+        "en": "The painter is painting our kitchen today."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -432,6 +492,10 @@
       "group": 5,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Politikerna pratar mycket om skolan.",
+        "en": "The politicians talk a lot about schools."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -454,6 +518,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "En arkitekt ritade vårt hus.",
+        "en": "An architect designed our house."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -476,6 +544,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Min granne är entreprenör och har ett eget kafé.",
+        "en": "My neighbour is an entrepreneur and has her own café."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -498,6 +570,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Konstnären målar vackra bilder av havet.",
+        "en": "The artist paints beautiful pictures of the sea."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -521,6 +597,10 @@
       "irregular": true,
       "level": "A1",
       "lesson": 4,
+      "example": {
+        "sv": "Hon är forskare på universitetet.",
+        "en": "She’s a researcher at the university."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -555,6 +635,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 20,
+      "example": {
+        "sv": "På fredagar jobbar jag på distans.",
+        "en": "On Fridays I work remotely."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -577,6 +661,10 @@
       "group": 1,
       "level": "A1",
       "lesson": 20,
+      "example": {
+        "sv": "Jag äter lunch med mina kollegor.",
+        "en": "I have lunch with my colleagues."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -600,6 +688,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 20,
+      "example": {
+        "sv": "Vi får lön en gång i månaden.",
+        "en": "We get paid once a month."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -623,6 +715,10 @@
       "irregular": true,
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Min arbetsgivare betalar för kursen.",
+        "en": "My employer is paying for the course."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -648,6 +744,10 @@
       "lesson": 20,
       "note": "Adjective used as a noun: en anställd, den anställda (or anställde), två anställda, de anställda.",
       "check": true,
+      "example": {
+        "sv": "Företaget har femtio anställda.",
+        "en": "The company has fifty employees."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -668,6 +768,10 @@
       },
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Hon har ansvar för tio personer.",
+        "en": "She’s responsible for ten people."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -731,6 +835,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 20,
+      "example": {
+        "sv": "Jag måste jobba över i kväll.",
+        "en": "I have to work overtime tonight."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -746,6 +854,10 @@
       "pos": "adjective",
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Min kollega är mammaledig i ett år.",
+        "en": "My colleague is on maternity leave for a year."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -762,6 +874,10 @@
       "pos": "adjective",
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Mikko är pappaledig hela våren.",
+        "en": "Mikko is on paternity leave all spring."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -777,6 +893,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 20,
+      "example": {
+        "sv": "Han har varit arbetslös i tre månader.",
+        "en": "He’s been unemployed for three months."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -792,6 +912,10 @@
       "pos": "verb",
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Lisa sa upp sig från jobbet i går.",
+        "en": "Lisa quit her job yesterday."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -807,6 +931,10 @@
       "pos": "phrase",
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Min syster vill starta eget.",
+        "en": "My sister wants to start her own business."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -822,6 +950,10 @@
       "pos": "adjective",
       "level": "A2",
       "lesson": 20,
+      "example": {
+        "sv": "Det är ett välbetalt jobb.",
+        "en": "It’s a well-paid job."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -856,6 +988,10 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 20,
+      "example": {
+        "sv": "Det är ett tryggt jobb med fast lön.",
+        "en": "It’s a secure job with a fixed salary."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -878,6 +1014,10 @@
       "group": 3,
       "level": "A2",
       "lesson": 21,
+      "example": {
+        "sv": "Vi har en bra arbetsmiljö på kontoret.",
+        "en": "We have a good working environment at the office."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -900,6 +1040,10 @@
       "group": 3,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Min första uppgift i dag är att läsa alla mejl.",
+        "en": "My first task today is to read all my emails."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -915,6 +1059,10 @@
       "pos": "adjective",
       "level": "A2",
       "lesson": 21,
+      "example": {
+        "sv": "Hon jobbade för mycket och blev utbränd.",
+        "en": "She worked too much and burnt out."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -938,6 +1086,10 @@
       "group": 2,
       "level": "A2",
       "lesson": 21,
+      "example": {
+        "sv": "Efter operationen fick han två veckors sjukskrivning.",
+        "en": "After the operation he got two weeks’ sick leave."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -953,6 +1105,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Många studenter vill tjäna pengar på sommaren.",
+        "en": "Many students want to earn money in the summer."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -987,6 +1143,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Vi kan spara tid om vi tar bilen.",
+        "en": "We can save time if we take the car."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -1009,6 +1169,10 @@
       "group": 4,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Mötet börjar klockan nio.",
+        "en": "The meeting starts at nine."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -1031,6 +1195,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "En stor fördel är att jag kan jobba hemma.",
+        "en": "A big advantage is that I can work from home."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -1053,6 +1221,10 @@
       "group": 2,
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Nackdelen är att resan tar en timme.",
+        "en": "The downside is that the journey takes an hour."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -1068,6 +1240,10 @@
       "pos": "phrase",
       "level": "A1",
       "lesson": 21,
+      "example": {
+        "sv": "Min pappa vill byta jobb nästa år.",
+        "en": "My dad wants to change jobs next year."
+      },
       "tags": [
         "yki-work-study"
       ],
@@ -1090,6 +1266,10 @@
       "group": 3,
       "level": "A2",
       "lesson": 21,
+      "example": {
+        "sv": "Har du erfarenhet av kundservice?",
+        "en": "Do you have experience in customer service?"
+      },
       "tags": [
         "yki-work-study"
       ],
