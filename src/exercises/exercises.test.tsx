@@ -155,3 +155,20 @@ describe('Flashcards screen', () => {
     expect(screen.getByRole('button', { name: 'Show answer' })).toBeInTheDocument();
   });
 });
+
+describe('UpdateBar', () => {
+  it('appears when a new version is ready and calls update', async () => {
+    const { UpdateBar } = await import('../components/UpdateBar');
+    const { usePwaUpdate } = await import('../pwa');
+    const update = vi.fn();
+    usePwaUpdate.setState({ needRefresh: false, update });
+    const { rerender } = render(<UpdateBar />);
+    expect(screen.queryByText(/new version/)).toBeNull();
+    usePwaUpdate.setState({ needRefresh: true });
+    rerender(<UpdateBar />);
+    fireEvent.click(screen.getByRole('button', { name: 'Update' }));
+    expect(update).toHaveBeenCalled();
+    fireEvent.click(screen.getByRole('button', { name: 'Later' }));
+    expect(screen.queryByText(/new version/)).toBeNull();
+  });
+});

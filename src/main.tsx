@@ -4,10 +4,10 @@ import '@fontsource/atkinson-hyperlegible/700.css';
 import './styles.css';
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { registerSW } from 'virtual:pwa-register';
+import { startPwaUpdates } from './pwa';
 import { App } from './App';
 
-registerSW({ immediate: true });
+startPwaUpdates();
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

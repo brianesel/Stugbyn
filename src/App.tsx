@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { TopBar } from './components/TopBar';
+import { UpdateBar } from './components/UpdateBar';
 import { parseHash, useHash } from './router';
 import { Game } from './screens/Game';
 import { NotFound, RegionScreen } from './screens/Region';
@@ -42,6 +43,7 @@ export function App() {
     <div className="app">
       <TopBar />
       <main className="main">{loaded ? <Screen route={route} /> : null}</main>
+      <UpdateBar />
     </div>
   );
 }

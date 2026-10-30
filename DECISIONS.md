@@ -127,3 +127,7 @@ iOS opens email links in Safari, never in a home-screen web app, and the two kee
 ## Lessons 22–23 and personal-interest themes (2026-10-30)
 
 New Word bank themes: Miljö, Stad och land and Fraser för YKI (the teacher’s opinion-text, dialogue and email phrases, tagged by function) from lessons 22–23, and four personal-interest themes the learner asked for: Klättring, Matlagning, Programmering, Spel och gaming (no lesson number, level A2, a few B1). Every word has an example sentence and an ⓘ joke; all were reviewed. Colloquial loanwords whose forms aren’t certain (bouldering, boulda, lagga) stay hidden with `"check": true`. Bisatser gained a rule card on adverb-first inversion (därför, annars, dessutom, till exempel, personligen, enligt mig) and one on föredrar … framför …, with 11 items. CURRICULUM.md records the YKI exam structure as taught in lesson 22, which the Exam Hall (Phase 5) should follow.
+
+## App updates on iPhone (2026-10-30)
+
+The service worker now uses `registerType: 'prompt'`. An installed iPhone app usually resumes instead of relaunching, so it kept running the old version. The app now checks for a new version whenever it comes back into view (and hourly), downloads it in the background, and shows a bar: “A new version of Stugbyn is ready. Update / Later”. Update reloads into the new version; Later lets a round finish first. Tested end to end by serving a newer build underneath a running app.
