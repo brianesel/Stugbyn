@@ -2,59 +2,307 @@
   "id": "preteritum",
   "name": "Preteritum",
   "subtitle": "Past tense: groups I–IV and PocKeTS + X",
-  "lessons": [6, 7],
+  "lessons": [
+    6,
+    7
+  ],
   "colour": "falu",
   "order": 8,
-  "generators": ["verbs-past"],
+  "generators": [
+    "verbs-past"
+  ],
   "ruleCards": [
     {
       "title": "When? Past time markers",
       "rule": "Use the past tense (preteritum) for something that happened at a finished time in the past. These words tell you the time is over.",
-      "examples": [["igår", "yesterday"], ["i förrgår", "the day before yesterday"], ["förra veckan", "last week"], ["i måndags", "last Monday"], ["för två år sedan", "two years ago"]],
+      "examples": [
+        [
+          "igår",
+          "yesterday"
+        ],
+        [
+          "i förrgår",
+          "the day before yesterday"
+        ],
+        [
+          "förra veckan",
+          "last week"
+        ],
+        [
+          "i måndags",
+          "last Monday"
+        ],
+        [
+          "för två år sedan",
+          "two years ago"
+        ]
+      ],
       "watch": "If the sentence starts with the time word, the verb still comes second: Igår jobbade jag hemma.",
-      "fun": {"sv": "I förrgår glömde jag mitt lösenord. Igår glömde jag det nya.", "en": "The day before yesterday I forgot my password. Yesterday I forgot the new one."}
+      "fun": {
+        "sv": "I förrgår glömde jag mitt lösenord. Igår glömde jag det nya.",
+        "en": "The day before yesterday I forgot my password. Yesterday I forgot the new one."
+      }
+    },
+    {
+      "title": "Which group is a new verb?",
+      "rule": "Ask in this order.\n1. No -a at the end (bo, tro, sy)? Group III.\n2. Ends in -era (studera, reparera)? Group I.\n3. A new or borrowed verb (googla, mejla, chatta)? Group I.\n4. Otherwise check the present tense: -ar means Group I, -er means Group II or IV.\nIf you have to guess, guess Group I: about two in three verbs are there.",
+      "examples": [
+        [
+          "studera",
+          "studerar",
+          "study (I: ends in -era)"
+        ],
+        [
+          "googla",
+          "googlar",
+          "google (I: a new verb)"
+        ],
+        [
+          "tro",
+          "tror",
+          "believe (III: no -a)"
+        ],
+        [
+          "läsa",
+          "läser",
+          "read (II: present in -er)"
+        ]
+      ],
+      "watch": "A few short verbs are irregular, so Group IV, not III: gå, stå, se, få, ge. Group II and IV look the same in the present; only the past shows it. A vowel change and no -de/-te (skriva → skrev) means Group IV.",
+      "fun": {
+        "sv": "Jag googlar vilken grupp googla är. Svaret: grupp I, som nästan alla nya verb.",
+        "en": "I google which group googla is. The answer: Group I, like almost all new verbs.",
+        "note": "Borrowed verbs go to Group I: googla, googlar, googlade, googlat."
+      }
     },
     {
       "title": "Group I: -ar → -ade",
       "rule": "Verbs whose present tense ends in -ar add -de to the present stem: -ar becomes -ade.",
-      "examples": [["jobbar", "jobbade", "work → worked"], ["pratar", "pratade", "talk → talked"], ["lagar", "lagade", "cook, fix → cooked, fixed"], ["Igår lagade jag mat.", "Yesterday I cooked."]],
+      "examples": [
+        [
+          "jobbar",
+          "jobbade",
+          "work → worked"
+        ],
+        [
+          "pratar",
+          "pratade",
+          "talk → talked"
+        ],
+        [
+          "lagar",
+          "lagade",
+          "cook, fix → cooked, fixed"
+        ],
+        [
+          "Igår lagade jag mat.",
+          "Yesterday I cooked."
+        ]
+      ],
       "watch": "This is the biggest group. Most new verbs go here.",
-      "fun": {"sv": "Jag pratade svenska i affären. Kassören svarade på engelska.", "en": "I spoke Swedish in the shop. The cashier answered in English."}
+      "fun": {
+        "sv": "Jag pratade svenska i affären. Kassören svarade på engelska.",
+        "en": "I spoke Swedish in the shop. The cashier answered in English."
+      }
     },
     {
       "title": "Group II: -er → +de",
       "rule": "Verbs whose present tense ends in -er drop the -er and add -de.",
-      "examples": [["stänger", "stängde", "close → closed"], ["ringer", "ringde", "call → called"], ["hör", "hörde", "hear → heard"], ["Mamma ringde i söndags.", "Mum called last Sunday."]],
+      "examples": [
+        [
+          "stänger",
+          "stängde",
+          "close → closed"
+        ],
+        [
+          "ringer",
+          "ringde",
+          "call → called"
+        ],
+        [
+          "hör",
+          "hörde",
+          "hear → heard"
+        ],
+        [
+          "Mamma ringde i söndags.",
+          "Mum called last Sunday."
+        ]
+      ],
       "watch": "Hör has no -er in the present, but it is still Group II: hörde.",
-      "fun": {"sv": "Väckarklockan ringde. Jag stängde av den. Sen ringde chefen.", "en": "The alarm clock rang. I turned it off. Then my boss called."}
+      "fun": {
+        "sv": "Väckarklockan ringde. Jag stängde av den. Sen ringde chefen.",
+        "en": "The alarm clock rang. I turned it off. Then my boss called."
+      }
     },
     {
       "title": "Group II: PocKeTS + X → +te",
       "rule": "If the stem ends in p, k, t, s or x (PocKeTS + X), Group II verbs add -te instead of -de.",
-      "examples": [["köper", "köpte", "buy → bought"], ["tänker", "tänkte", "think → thought"], ["läser", "läste", "read → read"], ["reser", "reste", "travel → travelled"], ["Jag köpte en ny jacka.", "I bought a new jacket."]],
+      "examples": [
+        [
+          "köper",
+          "köpte",
+          "buy → bought"
+        ],
+        [
+          "tänker",
+          "tänkte",
+          "think → thought"
+        ],
+        [
+          "läser",
+          "läste",
+          "read → read"
+        ],
+        [
+          "reser",
+          "reste",
+          "travel → travelled"
+        ],
+        [
+          "Jag köpte en ny jacka.",
+          "I bought a new jacket."
+        ]
+      ],
       "watch": "Never köpade or läsde: p and s give -te.",
-      "fun": {"sv": "Jag köpte en dyr jacka. Sen tänkte jag.", "en": "I bought an expensive jacket. Then I thought."}
+      "fun": {
+        "sv": "Jag köpte en dyr jacka. Sen tänkte jag.",
+        "en": "I bought an expensive jacket. Then I thought."
+      }
     },
     {
       "title": "Group III: short verbs → +dde",
       "rule": "Short verbs that end in a vowel add -dde.",
-      "examples": [["bor", "bodde", "live → lived"], ["tror", "trodde", "believe → believed"], ["mår", "mådde", "feel → felt"], ["För fem år sedan bodde vi i Tammerfors.", "Five years ago we lived in Tampere."]],
+      "examples": [
+        [
+          "bor",
+          "bodde",
+          "live → lived"
+        ],
+        [
+          "tror",
+          "trodde",
+          "believe → believed"
+        ],
+        [
+          "mår",
+          "mådde",
+          "feel → felt"
+        ],
+        [
+          "För fem år sedan bodde vi i Tammerfors.",
+          "Five years ago we lived in Tampere."
+        ]
+      ],
       "watch": "Two d’s: bodde, not bode.",
-      "fun": {"sv": "Jag trodde att det var fredag. Det var tisdag.", "en": "I thought it was Friday. It was Tuesday."}
+      "fun": {
+        "sv": "Jag trodde att det var fredag. Det var tisdag.",
+        "en": "I thought it was Friday. It was Tuesday."
+      }
     },
     {
       "title": "Group IV: irregular verbs (1)",
       "rule": "Irregular verbs often change their vowel and get no ending. Learn them by heart.",
-      "examples": [["är", "var", "am, is, are → was, were"], ["har", "hade", "have → had"], ["går", "gick", "go, walk → went"], ["gör", "gjorde", "do → did"], ["ser", "såg", "see → saw"]],
+      "examples": [
+        [
+          "är",
+          "var",
+          "am, is, are → was, were"
+        ],
+        [
+          "har",
+          "hade",
+          "have → had"
+        ],
+        [
+          "går",
+          "gick",
+          "go, walk → went"
+        ],
+        [
+          "gör",
+          "gjorde",
+          "do → did"
+        ],
+        [
+          "ser",
+          "såg",
+          "see → saw"
+        ]
+      ],
       "watch": "Gjorde is spelled with gj, but the g is silent.",
-      "fun": {"sv": "Jag hade en plan. Den var bra. Sen var det måndag.", "en": "I had a plan. It was a good one. Then it was Monday."}
+      "fun": {
+        "sv": "Jag hade en plan. Den var bra. Sen var det måndag.",
+        "en": "I had a plan. It was a good one. Then it was Monday."
+      }
     },
     {
       "title": "Group IV: irregular verbs (2)",
       "rule": "More of the most common irregular verbs.",
-      "examples": [["äter", "åt", "eat → ate"], ["dricker", "drack", "drink → drank"], ["skriver", "skrev", "write → wrote"], ["kommer", "kom", "come → came"], ["säger", "sa", "say → said"]],
+      "examples": [
+        [
+          "äter",
+          "åt",
+          "eat → ate"
+        ],
+        [
+          "dricker",
+          "drack",
+          "drink → drank"
+        ],
+        [
+          "skriver",
+          "skrev",
+          "write → wrote"
+        ],
+        [
+          "kommer",
+          "kom",
+          "come → came"
+        ],
+        [
+          "säger",
+          "sa",
+          "say → said"
+        ]
+      ],
       "watch": "Sa is also written sade, but it is pronounced sa.",
-      "fun": {"sv": "Katten åt min fisk och drack min mjölk. Sen sov den på min stol.", "en": "The cat ate my fish and drank my milk. Then it slept on my chair."}
+      "fun": {
+        "sv": "Katten åt min fisk och drack min mjölk. Sen sov den på min stol.",
+        "en": "The cat ate my fish and drank my milk. Then it slept on my chair."
+      }
+    },
+    {
+      "title": "Group IV sound patterns",
+      "rule": "Many Group IV verbs change their vowel in the same pattern. Learn one verb per pattern, and the others are easier to remember.",
+      "examples": [
+        [
+          "skriva, skrev",
+          "skrivit",
+          "write. i – e – i, also: bita, kliva"
+        ],
+        [
+          "dricka, drack",
+          "druckit",
+          "drink. i – a – u, also: springa, vinna"
+        ],
+        [
+          "flyga, flög",
+          "flugit",
+          "fly. y – ö – u, also: frysa, ljuga"
+        ],
+        [
+          "bjuda, bjöd",
+          "bjudit",
+          "invite, offer. ju – ö – u, also: sjunga (sjöng, sjungit)"
+        ]
+      ],
+      "watch": "The patterns only work for verbs that are already Group IV. Titta looks like skriva but is Group I: tittade, tittat.",
+      "fun": {
+        "sv": "Jag klev upp, jag föll ner, jag har klivit upp igen. Väggen vann i dag.",
+        "en": "I climbed up, I fell down, I have climbed up again. The wall won today.",
+        "note": "Kliva (to climb, step) follows i – e – i: kliva, klev, klivit. Vinna follows i – a – u: vann, vunnit."
+      }
     }
   ]
 }

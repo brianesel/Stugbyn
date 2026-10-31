@@ -43,6 +43,34 @@
       }
     },
     {
+      "title": "En or ett? Clues from the ending",
+      "rule": "Some endings tell you the gender. En-words: -ing, -het, -tion, -are, -ör, -ism, and most words in -a. Ett-words: -um, -eri, -ande, -ende, -em, -ment.",
+      "examples": [
+        [
+          "en tidning, en möjlighet",
+          "a newspaper, a possibility"
+        ],
+        [
+          "en station, en lärare",
+          "a station, a teacher"
+        ],
+        [
+          "ett museum, ett bageri",
+          "a museum, a bakery"
+        ],
+        [
+          "ett meddelande, ett problem",
+          "a message, a problem"
+        ]
+      ],
+      "watch": "Three body words in -a are ett-words: ett öga, ett öra, ett hjärta. People in -ande are en-words: en studerande.",
+      "fun": {
+        "sv": "Ett bageri säljer bröd, ett museum säljer biljetter och en programmerare säljer buggar som funktioner.",
+        "en": "A bakery sells bread, a museum sells tickets and a programmer sells bugs as features.",
+        "note": "Bageri (-eri) and museum (-um) are ett-words; programmerare (-are) is an en-word."
+      }
+    },
+    {
       "title": "The definite form",
       "rule": "Swedish puts “the” at the end of the word. En-words add -en or -n, ett-words add -et or -t.",
       "examples": [
@@ -243,6 +271,43 @@
       "fun": {
         "sv": "Ett barn, två barn, tre barn. Ordet ändras inte, men ljudnivån gör det.",
         "en": "One child, two children, three children. The word doesn’t change, but the noise level does."
+      }
+    },
+    {
+      "title": "Which plural group? A checklist",
+      "rule": "Go down the list and stop at the first yes.\n1. Ett-word ending in a vowel: Group 4 (-n).\n2. Other ett-word: Group 5 (no ending).\n3. En-word ending in -a: Group 1 (-or).\n4. En-word for a person in -are or -er: Group 5.\n5. En-word in -e, -el, -en, -er, -ing or -dom: Group 2 (-ar).\n6. En-word in -het or -tion, a borrowed word or one stressed at the end: Group 3 (-er).\n7. Other vowel at the end: Group 3 (-r).\n8. Short one-syllable en-word: usually Group 2 (-ar).",
+      "examples": [
+        [
+          "en flicka",
+          "flickor",
+          "girl (Group 1)"
+        ],
+        [
+          "en pojke",
+          "pojkar",
+          "boy (Group 2)"
+        ],
+        [
+          "en station",
+          "stationer",
+          "station (Group 3)"
+        ],
+        [
+          "ett äpple",
+          "äpplen",
+          "apple (Group 4)"
+        ],
+        [
+          "ett hus",
+          "hus",
+          "house (Group 5)"
+        ]
+      ],
+      "watch": "Ett-words stressed at the end take -er: ett kafé → kaféer, ett bageri → bagerier. Ett-words in -um drop it: ett museum → museer. Short words like katt and sak are Group 3 exceptions.",
+      "fun": {
+        "sv": "En bugg, två buggar, tre buggar … och det är bara fredag eftermiddag.",
+        "en": "One bug, two bugs, three bugs … and it’s only Friday afternoon.",
+        "note": "Bugg is a short one-syllable en-word, so it goes to Group 2: buggar."
       }
     },
     {

@@ -163,6 +163,43 @@
       }
     },
     {
+      "title": "Spelling changes: svart, känt, öppna",
+      "rule": "Ending in -t already: no extra t (svart → svart). Consonant + d: the d becomes t (känd → känt). Ending in -en, -el or -er: the e drops before -a (öppen → öppna, enkel → enkla, vacker → vackra), and -en becomes -et for ett-words (öppet).",
+      "examples": [
+        [
+          "en svart katt",
+          "ett svart hus",
+          "black"
+        ],
+        [
+          "en känd låt",
+          "ett känt band",
+          "famous"
+        ],
+        [
+          "en öppen dörr",
+          "ett öppet fönster",
+          "open"
+        ],
+        [
+          "en vacker dag",
+          "två vackra dagar",
+          "beautiful"
+        ],
+        [
+          "en gammal bil",
+          "två gamla bilar",
+          "old"
+        ]
+      ],
+      "watch": "Some adjectives never change: bra, gratis, rosa, lila, extra.",
+      "fun": {
+        "sv": "Ett öppet kylskåp, två öppna ögon och noll bra idéer till middag.",
+        "en": "An open fridge, two open eyes and zero good ideas for dinner.",
+        "note": "Öppen → öppet (ett kylskåp) → öppna (plural). Bra never changes."
+      }
+    },
+    {
       "title": "Comparison: -are and -ast",
       "rule": "Most adjectives add -are for “more” and -ast for “most”. Use än for “than”.",
       "examples": [
@@ -214,6 +251,37 @@
       "fun": {
         "sv": "Mitt kaffe är bra, ditt kaffe är bättre, men kaffet på jobbet är bäst. Det är gratis.",
         "en": "My coffee is good, your coffee is better, but the coffee at work is the best. It’s free."
+      }
+    },
+    {
+      "title": "Mer and mest: long adjectives",
+      "rule": "Long adjectives use mer and mest instead of -are and -ast. Always for adjectives in -isk, and for words in -ad, -ande or -ende.",
+      "examples": [
+        [
+          "praktisk",
+          "mer praktisk, mest praktisk",
+          "practical"
+        ],
+        [
+          "intresserad",
+          "mer intresserad, mest intresserad",
+          "interested"
+        ],
+        [
+          "spännande",
+          "mer spännande, mest spännande",
+          "exciting"
+        ],
+        [
+          "Det här spelet är mer spännande än filmen.",
+          "This game is more exciting than the film."
+        ]
+      ],
+      "watch": "Short adjectives never take mer: billigare, not mer billig. Adjectives in -isk never take -are: mer praktisk, not praktiskare.",
+      "fun": {
+        "sv": "Klättring är mer spännande än tv-spel. Men tv-spel är snällare mot fingrarna.",
+        "en": "Climbing is more exciting than video games. But video games are kinder to your fingers.",
+        "note": "Spännande is long, so mer spännande. Snäll is short, so snällare."
       }
     },
     {

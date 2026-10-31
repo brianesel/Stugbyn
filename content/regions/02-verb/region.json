@@ -71,6 +71,70 @@
       }
     },
     {
+      "title": "Which group is a new verb?",
+      "rule": "Ask in this order.\n1. No -a at the end (bo, tro, sy)? Group III.\n2. Ends in -era (studera, reparera)? Group I.\n3. A new or borrowed verb (googla, mejla, chatta)? Group I.\n4. Otherwise check the present tense: -ar means Group I, -er means Group II or IV.\nIf you have to guess, guess Group I: about two in three verbs are there.",
+      "examples": [
+        [
+          "studera",
+          "studerar",
+          "study (I: ends in -era)"
+        ],
+        [
+          "googla",
+          "googlar",
+          "google (I: a new verb)"
+        ],
+        [
+          "tro",
+          "tror",
+          "believe (III: no -a)"
+        ],
+        [
+          "läsa",
+          "läser",
+          "read (II: present in -er)"
+        ]
+      ],
+      "watch": "A few short verbs are irregular, so Group IV, not III: gå, stå, se, få, ge. Group II and IV look the same in the present; only the past shows it. A vowel change and no -de/-te (skriva → skrev) means Group IV.",
+      "fun": {
+        "sv": "Jag googlar vilken grupp googla är. Svaret: grupp I, som nästan alla nya verb.",
+        "en": "I google which group googla is. The answer: Group I, like almost all new verbs.",
+        "note": "Borrowed verbs go to Group I: googla, googlar, googlade, googlat."
+      }
+    },
+    {
+      "title": "The dictionary trick: four forms",
+      "rule": "Dictionaries and word lists give a verb in four forms: infinitive, present, past, supine. The present tells you Group I or not. The past tells you Group II or IV.",
+      "examples": [
+        [
+          "laga, lagar",
+          "lagade, lagat",
+          "cook, fix (I: -ar, -ade)"
+        ],
+        [
+          "köpa, köper",
+          "köpte, köpt",
+          "buy (II: -er, -te)"
+        ],
+        [
+          "stänga, stänger",
+          "stängde, stängt",
+          "close (II: -er, -de)"
+        ],
+        [
+          "skriva, skriver",
+          "skrev, skrivit",
+          "write (IV: new vowel, no ending)"
+        ]
+      ],
+      "watch": "When you write down a new verb, write all four forms, not just the infinitive. Then you never have to guess again.",
+      "fun": {
+        "sv": "Ordboken säger: köpa, köper, köpte, köpt. Min plånbok säger: aj, aj, aj, aj.",
+        "en": "The dictionary says: buy, buys, bought, bought. My wallet says: ouch, ouch, ouch, ouch.",
+        "note": "Four forms, four ouches. Köpa is Group II, and p gives -te: köpte."
+      }
+    },
+    {
       "title": "Infinitive: -a",
       "rule": "The infinitive is the dictionary form. It usually ends in -a. Use it after a help verb and after att.",
       "examples": [

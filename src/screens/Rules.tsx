@@ -50,7 +50,7 @@ export function RulesScreen({ id }: { id: string }) {
               <h2>{c.title}</h2>
               <InfoTip fun={c.fun} />
             </div>
-            <p style={{ margin: 0 }}>{c.rule}</p>
+            <p style={{ margin: 0, whiteSpace: 'pre-line' }}>{c.rule}</p>
             <ul className="examples">
               {c.examples.map((ex) => {
                 const sv = ex.slice(0, -1);

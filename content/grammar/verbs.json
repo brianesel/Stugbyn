@@ -1,9 +1,9 @@
 {
   "groups": {
-    "1": { "label": "Group I", "rule": "Infinitive ends in -a, present in -ar. Past +de, supine +t: jobba → jobbade, jobbat." },
+    "1": { "label": "Group I", "rule": "Present in -ar. Verbs in -era and new verbs (googla, mejla) are always here. Past +de, supine +t: jobba → jobbade, jobbat." },
     "2": { "label": "Group II", "rule": "Present ends in -er. Past +de, or +te after p, k, t, s, x (PocKeTS + X): stängde, köpte. Supine -t: stängt, köpt." },
-    "3": { "label": "Group III", "rule": "Short verbs ending in a vowel. Past +dde, supine +tt: bo → bodde, bott." },
-    "4": { "label": "Group IV", "rule": "Irregular: the vowel often changes. Learn the forms by heart: skriva → skrev, skrivit." }
+    "3": { "label": "Group III", "rule": "Short verbs with no -a at the end (bo, tro, må). Past +dde, supine +tt: bo → bodde, bott." },
+    "4": { "label": "Group IV", "rule": "Irregular: present usually in -er, but the past changes the vowel and has no -de/-te. Learn the forms by heart: skriva → skrev, skrivit." }
   },
   "frames": {
     "help": [
