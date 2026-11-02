@@ -7,7 +7,7 @@ import { deckLabel } from '../content/generators/vocab';
 import type { VocabEntry } from '../content/schemas';
 import { CARD_XP, cardId, cardsDone, countCards, pickCards, rateCard, startCards, type CardQueue } from '../engine/flashcards';
 import { useProgress } from '../store/progress';
-import { forms } from './WordBank';
+import { forms, FormsLine } from './WordBank';
 
 const REVERSE_KEY = 'stugbyn:cards-english-first';
 
@@ -190,11 +190,7 @@ export function Flashcards({ theme }: { theme: string | null }) {
                   <InfoTip fun={entry.fun} />
                 </div>
                 <span className="fc-en">{entry.en}</span>
-                {f && (
-                  <span className="fc-forms" lang="sv">
-                    {f}
-                  </span>
-                )}
+                <FormsLine forms={f} className="fc-forms" />
                 {entry.example && (
                   <div className="fc-example">
                     <div className="fc-row">

@@ -1006,6 +1006,11 @@ select {
   font-size: 0.8rem;
   color: var(--muted);
 }
+.form-label {
+  font-size: 0.7rem;
+  font-style: italic;
+  opacity: 0.8;
+}
 .word .en {
   margin-left: auto;
   text-align: right;

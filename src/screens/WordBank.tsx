@@ -19,18 +19,38 @@ for (const d of library.decks) {
   }
 }
 
-/** Other forms to show under the word: noun forms from the entry, verb and adjective forms from the grammar tables. */
-export function forms(e: VocabEntry): string {
-  if (e.pos === 'noun' && e.forms) return [e.forms.def, e.forms.pl, e.forms.defPl].filter(Boolean).join(' · ');
+export type WordForm = { label: string; sv: string };
+
+/** Other forms to show under the word, each with a short English label: noun forms from the entry, verb and adjective forms from the grammar tables. */
+export function forms(e: VocabEntry): WordForm[] {
+  const list = (pairs: [string, string | null | undefined][]) =>
+    pairs.filter((p): p is [string, string] => Boolean(p[1])).map(([label, sv]) => ({ label, sv }));
+  if (e.pos === 'noun' && e.forms) return list([['the', e.forms.def], ['plural', e.forms.pl], ['the plural', e.forms.defPl]]);
   if (e.pos === 'verb') {
     const v = library.verbs?.verbs.find((x) => x.inf === e.sv);
-    if (v) return [v.pres, v.past, v.sup].join(' · ');
+    if (v) return list([['present', v.pres], ['past', v.past], ['har', v.sup]]);
   }
   if (e.pos === 'adjective') {
     const a = library.adjectives?.adjectives.find((x) => x.base === e.sv);
-    if (a) return [a.t, a.a, a.comp, a.sup].filter(Boolean).join(' · ');
+    if (a) return list([['ett', a.t], ['plural, the', a.a], ['more', a.comp], ['most', a.sup]]);
   }
-  return '';
+  return [];
+}
+
+/** The forms line: “the säkraren · plural säkrare · the plural säkrarna”. */
+export function FormsLine({ forms, className }: { forms: WordForm[]; className: string }) {
+  if (forms.length === 0) return null;
+  return (
+    <span className={className}>
+      {forms.map((f, i) => (
+        <span key={f.label} className="form">
+          {i > 0 && ' · '}
+          <span className="form-label">{f.label}</span>{' '}
+          <span lang="sv">{f.sv}</span>
+        </span>
+      ))}
+    </span>
+  );
 }
 
 /** 0 = new, 1 = learning, 2 = known (box 3+ on average). */
@@ -166,11 +186,7 @@ function WordList({ entries, progress }: { entries: VocabEntry[]; progress: Prog
               <span className="sv" lang="sv">
                 {label}
               </span>
-              {f && (
-                <span className="forms" lang="sv">
-                  {f}
-                </span>
-              )}
+              <FormsLine forms={f} className="forms" />
             </span>
             <span className="en">{e.en}</span>
             <InfoTip fun={e.fun} />

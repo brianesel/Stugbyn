@@ -161,7 +161,8 @@ describe('Flashcards screen', () => {
     expect(screen.getByText('en ost')).toHaveAttribute('lang', 'sv');
     fireEvent.click(screen.getByRole('button', { name: 'Show answer' }));
     expect(screen.getByText('cheese')).toBeInTheDocument();
-    expect(screen.getByText('osten · ostar · ostarna')).toBeInTheDocument();
+    const formsLine = document.querySelector('.fc-forms');
+    expect(formsLine?.textContent).toBe('the osten · plural ostar · the plural ostarna');
     expect(screen.getByText('Jag gillar inte ost.')).toHaveAttribute('lang', 'sv');
     fireEvent.click(screen.getByRole('button', { name: /Got it/ }));
     expect(screen.getByRole('button', { name: 'Show answer' })).toBeInTheDocument();
