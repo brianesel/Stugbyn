@@ -23,9 +23,17 @@ describe('verb generator', () => {
   });
 
   it('keeps verbs without an object out of sentence frames', () => {
-    const items = generateVerbItems(sampleVerbs, 'past').filter((i) => i.id.endsWith(':tycka'));
+    const items = generateVerbItems(sampleVerbs, 'past').filter((i) => i.id.endsWith(':tycka') && i.kind !== 'houses');
     expect(items.map((i) => ('prompt' in i ? i.prompt : ''))).toEqual(['tycka → ___', 'tycka → ___']);
     expect(generateVerbItems(sampleVerbs, 'present').some((i) => i.id.endsWith(':tycka'))).toBe(false);
+  });
+
+  it('sorts every verb into its group, with a reason from its own forms', () => {
+    const houses = generateVerbItems(verbs, 'past').filter((i) => i.kind === 'houses');
+    expect(houses).toHaveLength(verbs.verbs.filter((v) => !v.retired && !v.draft && !v.check).length);
+    const kopa = houses.find((i) => i.id === 'verbs:houses:köpa');
+    expect(kopa && kopa.kind === 'houses' && [kopa.prompt, kopa.answer, kopa.houses?.length]).toEqual(['köpa, köper, köpte', 2, 4]);
+    expect(kopa?.explain).toContain('-te');
   });
 
   it('accepts alternative forms in typed items', () => {

@@ -49,11 +49,17 @@ export const ChoiceItem = z.object({
   options: z.array(z.string().min(1)).min(2).max(4),
 });
 
+/** One sorting house: a short name (“I”, “Perfekt”) and an optional line under it (an ending, an example form). */
+export const House = z.object({ name: z.string().min(1), sub: z.string().optional() });
+export type House = z.infer<typeof House>;
+
 export const HousesItem = z.object({
   ...itemBase,
   kind: z.literal('houses'),
   prompt: z.string().min(1),
   answer: z.number().int().min(1).max(5),
+  /** Custom houses to sort into; without them the five noun plural groups are used. */
+  houses: z.array(House).min(2).max(5).optional(),
 });
 
 export const TypeItem = z.object({
@@ -106,6 +112,9 @@ export const Item = z
   .superRefine((item, ctx) => {
     if (item.kind === 'listen' && !item.audio && !item.say) {
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: 'listen items need audio or say' });
+    }
+    if (item.kind === 'houses' && item.houses && item.answer > item.houses.length) {
+      ctx.addIssue({ code: z.ZodIssueCode.custom, message: `answer ${item.answer} but only ${item.houses.length} houses` });
     }
   });
 export type Item = z.infer<typeof Item>;

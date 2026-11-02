@@ -625,5 +625,368 @@
       "sv": "Han har alltid haft bra betyg. Hans lillasyster har alltid haft hans gamla böcker.",
       "en": "He has always had good grades. His little sister has always had his old books."
     }
+  },
+  {
+    "id": "perfekt:sort-tense:i-morgon",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "I morgon ___ vi till Tammerfors.",
+    "hint": "åka: to go, travel",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "åker"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "åkte"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har åkt"
+      }
+    ],
+    "explain": "I morgon is the future. Presens + a future time word is enough: I morgon åker vi.",
+    "say": "I morgon åker vi till Tammerfors.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:nufortiden",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Nuförtiden ___ jag kaffe varje morgon.",
+    "hint": "dricka: to drink",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "dricker"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "drack"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har druckit"
+      }
+    ],
+    "explain": "Nuförtiden (these days) and varje morgon describe a habit now, so presens: dricker.",
+    "say": "Nuförtiden dricker jag kaffe varje morgon.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:just-nu",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Just nu ___ barnen i parken.",
+    "hint": "leka: to play",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "leker"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "lekte"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har lekt"
+      }
+    ],
+    "explain": "Just nu means right now, so presens: leker.",
+    "say": "Just nu leker barnen i parken.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:nasta-vecka",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Nästa vecka ___ min semester.",
+    "hint": "börja: to start",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "börjar"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "började"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har börjat"
+      }
+    ],
+    "explain": "Nästa vecka is the future. Presens + a future time word: börjar.",
+    "say": "Nästa vecka börjar min semester.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:igar",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Igår ___ jag pizza.",
+    "hint": "äta: to eat",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "äter"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "åt"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har ätit"
+      }
+    ],
+    "explain": "Igår is a finished time, so preteritum: åt. Never har with igår.",
+    "say": "Igår åt jag pizza.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ],
+    "fun": {
+      "sv": "Igår åt jag pizza. Idag äter jag pizza. I morgon? Vi får se.",
+      "en": "Yesterday I ate pizza. Today I’m eating pizza. Tomorrow? We’ll see.",
+      "note": "Three time words, three tenses: igår → åt, idag → äter, i morgon → (probably) äter."
+    }
+  },
+  {
+    "id": "perfekt:sort-tense:for-sedan",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "För två år sedan ___ vi en lägenhet.",
+    "hint": "köpa: to buy",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "köper"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "köpte"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har köpt"
+      }
+    ],
+    "explain": "För två år sedan (two years ago) is a finished time, so preteritum: köpte.",
+    "say": "För två år sedan köpte vi en lägenhet.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:i-mandags",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "I måndags ___ jag på gymmet.",
+    "hint": "vara: to be",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "är"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "var"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har varit"
+      }
+    ],
+    "explain": "I måndags (last Monday) is a finished time, so preteritum: var.",
+    "say": "I måndags var jag på gymmet.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:nar-jag-var-liten",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "När jag var liten ___ jag mycket tv-spel.",
+    "hint": "spela: to play",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "spelar"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "spelade"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har spelat"
+      }
+    ],
+    "explain": "När jag var liten is a finished part of your life, so preteritum: spelade.",
+    "say": "När jag var liten spelade jag mycket tv-spel.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ],
+    "fun": {
+      "sv": "När jag var liten spelade jag mycket tv-spel. Nu är jag stor och spelar ännu mer.",
+      "en": "When I was little I played a lot of video games. Now I’m grown up and play even more.",
+      "note": "Spelade (finished time: när jag var liten) vs spelar (now)."
+    }
+  },
+  {
+    "id": "perfekt:sort-tense:tre-ar-nu",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Vi ___ här i tre år nu.",
+    "hint": "bo: to live",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "bor"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "bodde"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har bott"
+      }
+    ],
+    "explain": "I tre år nu: it started in the past and is still true, so perfekt: har bott.",
+    "say": "Vi har bott här i tre år nu.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:tva-ar-nu",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Jag ___ svenska i två år nu.",
+    "hint": "läsa: to study, read",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "läser"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "läste"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har läst"
+      }
+    ],
+    "explain": "I två år nu: started in the past, still going on, so perfekt: har läst.",
+    "say": "Jag har läst svenska i två år nu.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:fortfarande",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Hon ___ på sjukhuset i fem år och trivs fortfarande.",
+    "hint": "jobba: to work",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "jobbar"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "jobbade"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har jobbat"
+      }
+    ],
+    "explain": "I fem år + trivs fortfarande: she still works there, so perfekt: har jobbat.",
+    "say": "Hon har jobbat på sjukhuset i fem år och trivs fortfarande.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ]
+  },
+  {
+    "id": "perfekt:sort-tense:sedan-i-morse",
+    "kind": "houses",
+    "ask": "Which tense fits? Look at the time word.",
+    "prompt": "Jag ___ med den här buggen sedan i morse.",
+    "hint": "kämpa: to struggle, fight",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "Presens",
+        "sub": "kämpar"
+      },
+      {
+        "name": "Preteritum",
+        "sub": "kämpade"
+      },
+      {
+        "name": "Perfekt",
+        "sub": "har kämpat"
+      }
+    ],
+    "explain": "Sedan i morse (since this morning) and it’s still going on, so perfekt: har kämpat.",
+    "say": "Jag har kämpat med den här buggen sedan i morse.",
+    "level": "A2",
+    "lesson": 17,
+    "tags": [
+      "sort-tense"
+    ],
+    "fun": {
+      "sv": "Jag har kämpat med den här buggen sedan i morse. Buggen har inte kämpat alls.",
+      "en": "I’ve been fighting this bug since this morning. The bug hasn’t been fighting at all.",
+      "note": "Har kämpat: started this morning, still true now."
+    }
   }
 ]

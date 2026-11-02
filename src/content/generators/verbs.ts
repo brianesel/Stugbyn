@@ -3,6 +3,31 @@ import { fill, fillGap, stableIndex, uniq } from './template';
 
 export type VerbDrill = 'present' | 'past' | 'perfect';
 
+const VERB_HOUSES = [
+  { name: 'I', sub: '-ar, -ade' },
+  { name: 'II', sub: '-er, -de/-te' },
+  { name: 'III', sub: '-r, -dde' },
+  { name: 'IV', sub: 'new vowel' },
+];
+
+/** Why a verb is in its group, read off its own forms. */
+function groupReason(v: Verb): string {
+  switch (v.group) {
+    case 1:
+      return `${v.pres} ends in -ar and ${v.past} in -ade: Group I. The supine is ${v.sup}.`;
+    case 2:
+      return v.past.endsWith('te')
+        ? `${v.pres} ends in -er and ${v.past} adds -te (PocKeTS + X): Group II. The supine is ${v.sup}.`
+        : `${v.pres} ends in -${v.pres.endsWith('er') ? 'er' : 'r'} and ${v.past} adds -de: Group II. The supine is ${v.sup}.`;
+    case 3:
+      return `${v.inf} has no -a at the end and ${v.past} ends in -dde: Group III. The supine is ${v.sup}.`;
+    default:
+      return /[dt]e$/.test(v.past)
+        ? `${v.past} doesn’t follow a regular pattern: Group IV, learn it by heart. The supine is ${v.sup}.`
+        : `${v.past} changes the vowel and has no -de or -te: Group IV. The supine is ${v.sup}.`;
+  }
+}
+
 /**
  * Verb items in sentence frames. Distractors are the verb’s own other forms
  * (infinitive, present, past, supine), so every wrong option is real Swedish.
@@ -87,6 +112,19 @@ export function generateVerbItems(table: VerbTable, drill: VerbDrill): Item[] {
       add('pres', v.pres, [], pick(table.frames.present, v), '', fill(table.explain.present, vars), 'Pick the right verb form.', 'Type the missing verb.');
     }
     if (drill === 'past') {
+      items.push({
+        ...base,
+        id: `verbs:houses:${v.inf}`,
+        kind: 'houses',
+        ask: 'Which verb group?',
+        prompt: `${v.inf}, ${v.pres}, ${v.past}`,
+        hint: `${v.en}, ${v.en3}, ${v.enPast}`,
+        answer: v.group,
+        houses: VERB_HOUSES,
+        explain: groupReason(v),
+        say: `${v.inf}, ${v.pres}, ${v.past}, ${v.sup}`,
+        tags: tags('group'),
+      });
       add(
         'past',
         v.past,

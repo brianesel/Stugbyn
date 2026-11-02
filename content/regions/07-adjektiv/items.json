@@ -802,5 +802,469 @@
       "en": "I like this restaurant. The queue is longer than the menu.",
       "note": "After den här the noun takes the definite ending: den här restaurangen."
     }
+  },
+  {
+    "id": "adjektiv:sort-comparison:billig",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "billig",
+    "hint": "cheap",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Short and regular: billig, billigare, billigast.",
+    "say": "billig, billigare, billigast",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:varm",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "varm",
+    "hint": "warm",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Short and regular: varm, varmare, varmast.",
+    "say": "varm, varmare, varmast",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:snabb",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "snabb",
+    "hint": "fast",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Short and regular: snabb, snabbare, snabbast.",
+    "say": "snabb, snabbare, snabbast",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:rolig",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "rolig",
+    "hint": "fun",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Adjectives in -ig are regular: rolig, roligare, roligast.",
+    "say": "rolig, roligare, roligast",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:dyr",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "dyr",
+    "hint": "expensive",
+    "answer": 1,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Short and regular: dyr, dyrare, dyrast.",
+    "say": "dyr, dyrare, dyrast",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:praktisk",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "praktisk",
+    "hint": "practical",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Adjectives in -isk always take mer and mest: mer praktisk.",
+    "say": "praktisk, mer praktisk, mest praktisk",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:typisk",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "typisk",
+    "hint": "typical",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Adjectives in -isk always take mer and mest: mer typisk.",
+    "say": "typisk, mer typisk, mest typisk",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:spännande",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "spännande",
+    "hint": "exciting",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Words in -ande take mer and mest: mer spännande.",
+    "say": "spännande, mer spännande, mest spännande",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:intresserad",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "intresserad",
+    "hint": "interested",
+    "answer": 2,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Words in -ad take mer and mest: mer intresserad.",
+    "say": "intresserad, mer intresserad, mest intresserad",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:bra",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "bra",
+    "hint": "good",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "Irregular: bra, bättre, bäst.",
+    "say": "bra, bättre, bäst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:stor",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "stor",
+    "hint": "big",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "The vowel changes: stor, större, störst. Never storare.",
+    "say": "stor, större, störst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:gammal",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "gammal",
+    "hint": "old",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "A new word: gammal, äldre, äldst. Never gammalare.",
+    "say": "gammal, äldre, äldst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:liten",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "liten",
+    "hint": "small",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "A new word: liten, mindre, minst.",
+    "say": "liten, mindre, minst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:ung",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "ung",
+    "hint": "young",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "The vowel changes: ung, yngre, yngst.",
+    "say": "ung, yngre, yngst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:lang",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "lång",
+    "hint": "long, tall",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "The vowel changes: lång, längre, längst.",
+    "say": "lång, längre, längst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
+  },
+  {
+    "id": "adjektiv:sort-comparison:dalig",
+    "kind": "houses",
+    "ask": "How does it compare?",
+    "prompt": "dålig",
+    "hint": "bad",
+    "answer": 3,
+    "houses": [
+      {
+        "name": "-are",
+        "sub": "-ast"
+      },
+      {
+        "name": "mer",
+        "sub": "mest"
+      },
+      {
+        "name": "Irregular",
+        "sub": "new form"
+      }
+    ],
+    "explain": "A new word: dålig, sämre, sämst (also dåligare in everyday speech).",
+    "say": "dålig, sämre, sämst",
+    "level": "A2",
+    "lesson": 12,
+    "tags": [
+      "sort-comparison"
+    ]
   }
 ]

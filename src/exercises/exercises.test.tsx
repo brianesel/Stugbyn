@@ -47,6 +47,18 @@ describe('HousesExercise', () => {
     fireEvent.click(screen.getByRole('button', { name: /Group 2: -ar/ }));
     expect(onAnswer).toHaveBeenCalledWith(2);
   });
+  it('uses the item’s own houses when it has them', () => {
+    const onAnswer = vi.fn();
+    const item: HousesItem = {
+      ...houses,
+      prompt: 'Igår ___ jag pizza.',
+      houses: [{ name: 'Presens', sub: 'äter' }, { name: 'Preteritum', sub: 'åt' }, { name: 'Perfekt', sub: 'har ätit' }],
+    };
+    render(<HousesExercise item={item} result={null} onAnswer={onAnswer} />);
+    expect(screen.getAllByRole('button')).toHaveLength(3);
+    fireEvent.click(screen.getByRole('button', { name: /Preteritum: åt/ }));
+    expect(onAnswer).toHaveBeenCalledWith(2);
+  });
 });
 
 describe('TypeExercise', () => {

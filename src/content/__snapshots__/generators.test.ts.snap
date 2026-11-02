@@ -653,6 +653,45 @@ exports[`verb generator > matches the snapshot for three sample rows 1`] = `
 {
   "past": [
     {
+      "answer": 2,
+      "ask": "Which verb group?",
+      "explain": "köper ends in -er and köpte adds -te (PocKeTS + X): Group II. The supine is köpt.",
+      "fun": {
+        "en": "I bought an expensive bed for the cat. The cat sleeps in the box.",
+        "sv": "Jag köpte en dyr säng till katten. Katten sover i kartongen.",
+      },
+      "hint": "buy, buys, bought",
+      "houses": [
+        {
+          "name": "I",
+          "sub": "-ar, -ade",
+        },
+        {
+          "name": "II",
+          "sub": "-er, -de/-te",
+        },
+        {
+          "name": "III",
+          "sub": "-r, -dde",
+        },
+        {
+          "name": "IV",
+          "sub": "new vowel",
+        },
+      ],
+      "id": "verbs:houses:köpa",
+      "kind": "houses",
+      "lesson": 6,
+      "level": "A1",
+      "prompt": "köpa, köper, köpte",
+      "say": "köpa, köper, köpte, köpt",
+      "tags": [
+        "verbs",
+        "group",
+        "group-2",
+      ],
+    },
+    {
       "answer": "köpte",
       "ask": "Pick the past form.",
       "explain": "Group II: +de, or +te after p, k, t, s, x (PocKeTS + X): köpa → köpte.",
@@ -699,6 +738,45 @@ exports[`verb generator > matches the snapshot for three sample rows 1`] = `
       "tags": [
         "verbs",
         "past",
+        "group-2",
+      ],
+    },
+    {
+      "answer": 2,
+      "ask": "Which verb group?",
+      "explain": "tycker ends in -er and tyckte adds -te (PocKeTS + X): Group II. The supine is tyckt.",
+      "fun": {
+        "en": "I used to think ten degrees was cold. Now it’s shorts weather.",
+        "sv": "Förr tyckte jag att tio grader var kallt. Nu är det shortsväder.",
+      },
+      "hint": "think (have an opinion), thinks, thought",
+      "houses": [
+        {
+          "name": "I",
+          "sub": "-ar, -ade",
+        },
+        {
+          "name": "II",
+          "sub": "-er, -de/-te",
+        },
+        {
+          "name": "III",
+          "sub": "-r, -dde",
+        },
+        {
+          "name": "IV",
+          "sub": "new vowel",
+        },
+      ],
+      "id": "verbs:houses:tycka",
+      "kind": "houses",
+      "lesson": 6,
+      "level": "A1",
+      "prompt": "tycka, tycker, tyckte",
+      "say": "tycka, tycker, tyckte, tyckt",
+      "tags": [
+        "verbs",
+        "group",
         "group-2",
       ],
     },
@@ -750,6 +828,45 @@ exports[`verb generator > matches the snapshot for three sample rows 1`] = `
         "verbs",
         "past",
         "group-2",
+      ],
+    },
+    {
+      "answer": 3,
+      "ask": "Which verb group?",
+      "explain": "bo has no -a at the end and bodde ends in -dde: Group III. The supine is bott.",
+      "fun": {
+        "en": "I’ve lived here for five years. The neighbour has said hello twice.",
+        "sv": "Jag har bott här i fem år. Grannen har sagt hej två gånger.",
+      },
+      "hint": "live, lives, lived",
+      "houses": [
+        {
+          "name": "I",
+          "sub": "-ar, -ade",
+        },
+        {
+          "name": "II",
+          "sub": "-er, -de/-te",
+        },
+        {
+          "name": "III",
+          "sub": "-r, -dde",
+        },
+        {
+          "name": "IV",
+          "sub": "new vowel",
+        },
+      ],
+      "id": "verbs:houses:bo",
+      "kind": "houses",
+      "lesson": 6,
+      "level": "A1",
+      "prompt": "bo, bor, bodde",
+      "say": "bo, bor, bodde, bott",
+      "tags": [
+        "verbs",
+        "group",
+        "group-3",
       ],
     },
     {
