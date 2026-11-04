@@ -42,6 +42,14 @@ describe('writing helper API', () => {
     expect(params.model).toBe('claude-opus-5-5');
     expect(params.fallbacks).toBe('default');
     expect(params.system[1].text).toContain('klättra – climb');
+    expect(params.system[1].text).toContain('Tone: informal');
+  });
+
+  it('passes the chosen tone to the model', async () => {
+    const { deps, stream } = fakeDeps(['Hej']);
+    await (await handleAssistant(post({ ...body, tone: 'formal' }, 'good'), {}, deps)).text();
+    const params = stream.mock.calls[0][0] as ReturnType<typeof buildParams>;
+    expect(params.system[1].text).toContain('Tone: formal');
   });
 
   it('rejects requests without a valid sign-in', async () => {

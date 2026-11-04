@@ -17,6 +17,22 @@ function recentTurns(msgs: Msg[]): Msg[] {
   return first < 0 ? [] : last.slice(first);
 }
 
+type Tone = 'fun' | 'informal' | 'formal';
+const TONES: { id: Tone; label: string }[] = [
+  { id: 'fun', label: 'Fun' },
+  { id: 'informal', label: 'Informal' },
+  { id: 'formal', label: 'Formal' },
+];
+const TONE_KEY = 'stugbyn:helper-tone';
+function savedTone(): Tone {
+  try {
+    const t = localStorage.getItem(TONE_KEY);
+    return t === 'fun' || t === 'formal' || t === 'informal' ? t : 'informal';
+  } catch {
+    return 'informal';
+  }
+}
+
 const QUICK = [
   { label: 'Write a short text with my words', text: 'Write a short text (4–6 sentences) for me, using the words I have practised. Add the English translation.' },
   { label: '5 example sentences', text: 'Give me 5 example sentences with words and grammar from here, each with an English translation.' },
@@ -44,6 +60,15 @@ export function Helper({ ctx }: { ctx: string | null }) {
   const context = useMemo(() => buildContext(key, progress), [key]);
   const [msgs, setMsgs] = useState<Msg[]>(() => conversations.get(key) ?? []);
   const [text, setText] = useState('');
+  const [tone, setTone] = useState<Tone>(savedTone);
+  const pickTone = (t: Tone) => {
+    setTone(t);
+    try {
+      localStorage.setItem(TONE_KEY, t);
+    } catch {
+      // Private mode: the choice just isn’t remembered.
+    }
+  };
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const end = useRef<HTMLDivElement>(null);
@@ -70,7 +95,7 @@ export function Helper({ ctx }: { ctx: string | null }) {
       const res = await fetch('/api/assistant', {
         method: 'POST',
         headers: { 'content-type': 'application/json', authorization: `Bearer ${token}` },
-        body: JSON.stringify({ messages: recentTurns(next), context }),
+        body: JSON.stringify({ messages: recentTurns(next), context, tone }),
       });
       if (!res.ok || !res.body) {
         const body = (await res.json().catch(() => null)) as { error?: string } | null;
@@ -153,6 +178,17 @@ export function Helper({ ctx }: { ctx: string | null }) {
               )}
             </p>
           )}
+
+          <div className="tone-row">
+            <span className="small muted">Tone</span>
+            <div className="chips" role="group" aria-label="Tone">
+              {TONES.map((t) => (
+                <button key={t.id} type="button" className="chip" aria-pressed={tone === t.id} onClick={() => pickTone(t.id)}>
+                  {t.label}
+                </button>
+              ))}
+            </div>
+          </div>
 
           <div className="chips" role="group" aria-label="Quick requests">
             {QUICK.map((q) => (

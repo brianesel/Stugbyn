@@ -1305,3 +1305,8 @@ select {
   opacity: 0.55;
   cursor: default;
 }
+.tone-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

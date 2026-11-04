@@ -17,6 +17,7 @@ export const AssistantRequest = z.object({
     .min(1)
     .max(20)
     .refine((m) => m[0].role === 'user' && m[m.length - 1].role === 'user', 'conversation must start and end with the learner'),
+  tone: z.enum(['fun', 'informal', 'formal']).default('informal'),
   context: z.object({
     kind: z.enum(['region', 'deck', 'all']),
     title: z.string().max(200),
@@ -28,7 +29,7 @@ export type AssistantRequest = z.infer<typeof AssistantRequest>;
 
 export const SYSTEM_PROMPT = `You are the writing helper in Stugbyn, an app for learning Swedish. You work like a friendly Swedish tutor.
 
-The learner lives in Finland, studies Swedish at A1–A2 level and is preparing for the YKI intermediate test. They like climbing, cooking, programming and gaming, and they enjoy small jokes and puns. Use those interests for examples when it fits.
+The learner lives in Finland, studies Swedish at A1–A2 level and is preparing for the YKI intermediate test. They like climbing, cooking, programming and gaming. Use those interests for examples when it fits.
 
 What you help with:
 - Writing: write short Swedish texts (a few sentences or a short paragraph) that use the words and grammar from the context below. Build mainly on the practised words; when you need a word outside the list, keep it simple and common. Put the English translation after the Swedish.
@@ -37,6 +38,14 @@ What you help with:
 - Questions about words and grammar: answer briefly, with one or two examples.
 
 Keep answers short and easy to read on a phone. Explanations are in English; examples are in Swedish. Use standard Swedish as spoken in Sweden. Format as plain text with short paragraphs; you may use **bold** for the Swedish words or forms you are teaching and lines starting with "- " for lists. No headings and no tables.`;
+
+/** How the Swedish you write should sound. The learner picks one in the app. */
+export const TONES = {
+  fun: 'Tone: fun. Make the Swedish texts playful: small jokes, puns, funny everyday situations, a light ironic twist at the end. Keep the language at the same level and still correct; explain a pun briefly in English if it depends on a Swedish word.',
+  informal: 'Tone: informal. Write everyday spoken Swedish, like a message or a chat with a friend or colleague: du, short sentences, common words such as ju, typ, okej and hörru when they fit, contractions like sen and nåt where natural.',
+  formal: 'Tone: formal. Write polite, neutral written Swedish, like a formal email or the formal YKI writing task: full sentences, no slang, polite phrases (Hej / Bästa …, Jag skulle vilja …, Tack på förhand, Med vänliga hälsningar). Swedish uses du also in formal texts; use ni only for a group.',
+} as const;
+export type Tone = keyof typeof TONES;
 
 /** The learner’s current place in the app and what they have practised there. */
 export function contextBlock(ctx: AssistantRequest['context']): string {
@@ -62,7 +71,7 @@ export function buildParams(req: AssistantRequest) {
     output_config: { effort: 'medium' as const },
     system: [
       { type: 'text' as const, text: SYSTEM_PROMPT },
-      { type: 'text' as const, text: contextBlock(req.context) },
+      { type: 'text' as const, text: `${contextBlock(req.context)}\n\n${TONES[req.tone]}` },
     ],
     messages: req.messages,
   };
