@@ -6,7 +6,9 @@
     3,
     4,
     11,
-    13
+    13,
+    24,
+    25
   ],
   "colour": "ochre",
   "order": 2,
@@ -306,6 +308,33 @@
         "sv": "Jag känner min granne, men jag vet inte vad han heter.",
         "en": "I know my neighbour, but I don’t know his name.",
         "note": "Känner for the person, vet for the fact (his name)."
+      }
+    },
+    {
+      "title": "Particle verbs: ser ut, kommer ihåg",
+      "rule": "Some verbs come with a small word (a particle) that changes the meaning: se ut (look), komma ihåg (remember), känna igen (recognise), bjuda in (invite), ta hand om (take care of). Say the particle with stress. Inte and other adverbs go between the verb and the particle.",
+      "examples": [
+        [
+          "Du ser trött ut.",
+          "You look tired."
+        ],
+        [
+          "Jag kommer inte ihåg hans namn.",
+          "I don’t remember his name."
+        ],
+        [
+          "Min telefon kände inte igen ditt nummer.",
+          "My phone didn’t recognise your number."
+        ],
+        [
+          "Vi måste ta hand om vår hälsa.",
+          "We must take care of our health."
+        ]
+      ],
+      "watch": "After ser … ut the adjective agrees with the subject: du ser trött ut, ni ser trötta ut, huset ser nytt ut.",
+      "fun": {
+        "sv": "Jag kommer inte ihåg var jag lade lappen med saker jag inte får glömma.",
+        "en": "I don’t remember where I put the note with things I mustn’t forget."
       }
     }
   ]

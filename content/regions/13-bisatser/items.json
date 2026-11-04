@@ -1516,5 +1516,36 @@
     "tags": [
       "sort-linker"
     ]
+  },
+  {
+    "id": "bisatser:att-inte-nagot-problem",
+    "kind": "order",
+    "sentence": "Jag tycker att det inte är något problem.",
+    "accept": [],
+    "en": "I think it’s no problem.",
+    "explain": "In the att-clause inte comes before the verb: att det inte är. Inte + något replaces inget here.",
+    "level": "A2",
+    "lesson": 25,
+    "tags": [
+      "bisats-inte"
+    ]
+  },
+  {
+    "id": "bisatser:eftersom-inte-tid",
+    "kind": "choice",
+    "ask": "Pick the right word order.",
+    "prompt": "Tyvärr kan jag inte komma, eftersom jag ___ tid.",
+    "hint": "Unfortunately I can’t come, because I don’t have time.",
+    "answer": "inte har",
+    "options": [
+      "inte har",
+      "har inte"
+    ],
+    "explain": "After eftersom: subject, inte, verb: eftersom jag inte har tid.",
+    "level": "A2",
+    "lesson": 24,
+    "tags": [
+      "bisats-inte"
+    ]
   }
 ]

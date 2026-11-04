@@ -27,6 +27,8 @@ Which class lesson taught what, and where it lives in the app. Source: the class
 | 21 | 26 Oct | Remote vs office work; å ena sidan / å andra sidan; restaurant; housing (rooms, en tvåa, på gångavstånd, utsikt över) | Bisatser, Substantiv (housing nouns) |
 | 22 | 28 Oct | Environment (koldioxid, sopsortera, återvinna, närproducerad); YKI exam structure; opinion text structure; town vs countryside pros and cons; därför / annars / till exempel + verb second | Word bank: Miljö, Stad och land, Fraser för YKI; Bisatser |
 | 23 | 30 Oct | Opinion texts (å ena sidan, personligen, föredrar … framför …); dialogue tasks (present yourself, answer yes/no + explain + suggest, end the call); informal message and formal email structure | Bisatser; Word bank: Fraser för YKI; Exam Hall writing (Phase 5) |
+| 24 | 2 Nov | Dialogues: visiting a friend (guest and host phrases), declining an invitation, offering a lift; reacting to good and bad news; phone call about a new job | Word bank: Fraser för YKI, Känslor och relationer, Boende; Verb (particle verbs) |
+| 25 | 4 Nov | Dialogues: comforting a friend after a break-up, dress code for a company party, giving advice (problems and solutions); describing an object (size, colour, brand, material); jo to a negative question | Word bank: Fraser för YKI, Känslor och relationer, Hälsa, Kläder, Beskriva saker; Verb, Bisatser |
 
 ## YKI intermediate test, as taught in lesson 22
 
@@ -43,4 +45,4 @@ Valid combinations: writing + listening or speaking; speaking + reading or writi
 
 **Personal-interest themes** (not from class): Klättring, Matlagning, Programmering, Spel och gaming. **Beskriva saker** (colours, size and shape, materials, how things feel) supports describing pictures and objects in YKI speaking and writing.
 
-**Vocabulary** from every lesson lives in the Word bank (`content/vocab/*.json`, 17 themes). **Not in the app yet:** formal writing practice and speaking tasks (Phase 5: Exam Hall).
+**Vocabulary** from every lesson lives in the Word bank (`content/vocab/*.json`, 26 themes). **Not in the app yet:** formal writing practice and speaking tasks (Phase 5: Exam Hall).

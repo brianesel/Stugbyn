@@ -722,5 +722,150 @@
       "sv": "– Känner du Peter? – Nej, men min katt känner honom. Peter har fisk.",
       "en": "“Do you know Peter?” “No, but my cat knows him. Peter has fish.”"
     }
+  },
+  {
+    "id": "verb:ser-ut:du",
+    "kind": "choice",
+    "ask": "Pick the right form.",
+    "prompt": "Du ser ___ ut. Sov du dåligt?",
+    "hint": "You look tired. Did you sleep badly?",
+    "answer": "trött",
+    "options": [
+      "trött",
+      "trötta"
+    ],
+    "explain": "Du is one person, so the base form: du ser trött ut.",
+    "lesson": 25,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ]
+  },
+  {
+    "id": "verb:ser-ut:ni",
+    "kind": "choice",
+    "ask": "Pick the right form.",
+    "prompt": "Ni ser ___ ut. Har ni sovit?",
+    "hint": "You (all) look tired. Have you slept?",
+    "answer": "trötta",
+    "options": [
+      "trött",
+      "trötta"
+    ],
+    "explain": "Ni is plural, so the adjective takes -a: ni ser trötta ut.",
+    "lesson": 25,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ]
+  },
+  {
+    "id": "verb:ser-ut:huset",
+    "kind": "choice",
+    "ask": "Pick the right form.",
+    "prompt": "Huset ser ___ ut.",
+    "hint": "The house looks new.",
+    "answer": "nytt",
+    "options": [
+      "ny",
+      "nytt",
+      "nya"
+    ],
+    "explain": "Huset is an ett-word, so ny → nytt: huset ser nytt ut.",
+    "lesson": 25,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ]
+  },
+  {
+    "id": "verb:kommer-ihag:inte",
+    "kind": "choice",
+    "ask": "Where does inte go?",
+    "prompt": "Jag kommer ___ hans namn.",
+    "hint": "I don’t remember his name.",
+    "answer": "inte ihåg",
+    "options": [
+      "inte ihåg",
+      "ihåg inte"
+    ],
+    "explain": "Inte goes between the verb and the particle: kommer inte ihåg.",
+    "lesson": 24,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ]
+  },
+  {
+    "id": "verb:kanna-igen:inte",
+    "kind": "choice",
+    "ask": "Where does inte go?",
+    "prompt": "Min telefon kände ___ ditt nummer.",
+    "hint": "My phone didn’t recognise your number.",
+    "answer": "inte igen",
+    "options": [
+      "inte igen",
+      "igen inte"
+    ],
+    "explain": "Inte goes between the verb and the particle: kände inte igen.",
+    "lesson": 24,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ]
+  },
+  {
+    "id": "verb:order:kommer-ihag",
+    "kind": "order",
+    "sentence": "Jag kommer inte ihåg när du flyttade hit.",
+    "accept": [],
+    "en": "I don’t remember when you moved here.",
+    "lesson": 24,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ],
+    "explain": "Inte goes between the verb and the particle: kommer inte ihåg."
+  },
+  {
+    "id": "verb:order:ser-blek-ut",
+    "kind": "order",
+    "sentence": "Du ser blek ut i dag.",
+    "accept": [
+      "I dag ser du blek ut."
+    ],
+    "en": "You look pale today.",
+    "lesson": 25,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ],
+    "explain": "Ser … ut wraps around the adjective: ser blek ut."
+  },
+  {
+    "id": "verb:order:ta-hand-om",
+    "kind": "order",
+    "sentence": "Vi måste ta hand om vår hälsa.",
+    "accept": [],
+    "en": "We must take care of our health.",
+    "lesson": 25,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ],
+    "explain": "Ta hand om stays together after the help verb: måste ta hand om."
+  },
+  {
+    "id": "verb:order:bjod-in",
+    "kind": "order",
+    "sentence": "Hon bjöd in oss på middag.",
+    "accept": [],
+    "en": "She invited us to dinner.",
+    "lesson": 24,
+    "level": "A2",
+    "tags": [
+      "particle-verbs"
+    ],
+    "explain": "The particle in comes right after the verb: bjöd in oss."
   }
 ]

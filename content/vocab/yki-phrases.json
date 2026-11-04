@@ -918,6 +918,732 @@
         "sv": "Ett sms till mamma: ”Kommer hem klockan sex. Vänliga hälsningar, din son.”",
         "en": "A text to Mum: “Home at six. Kind regards, your son.”"
       }
+    },
+    {
+      "id": "vocab:yki-phrases:ursakta-att-jag-ar-sen",
+      "sv": "Ursäkta att jag är sen.",
+      "en": "Sorry I’m late.",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Hej! Ursäkta att jag är sen, bussen kom inte.",
+        "en": "Hi! Sorry I’m late, the bus didn’t come."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Ursäkta att jag är sen. Jag var i tid, men vid fel dörr.",
+        "en": "Sorry I’m late. I was on time, but at the wrong door."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:ingen-fara",
+      "sv": "Ingen fara!",
+      "en": "No worries! Never mind!",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "– Förlåt, jag glömde kakan. – Ingen fara!",
+        "en": "“Sorry, I forgot the cake.” “No worries!”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Jag spillde kaffe på din matta. – Ingen fara! … Vilken matta?",
+        "en": "“I spilled coffee on your rug.” “No worries! … Which rug?”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:kom-in",
+      "sv": "Kom in!",
+      "en": "Come in!",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Hej, kom in! Du kan hänga jackan här.",
+        "en": "Hi, come in! You can hang your jacket here."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Kom in, kom in! Ta av dig skorna. Vi är i Finland.",
+        "en": "Come in, come in! Take your shoes off. We’re in Finland."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:satt-dig",
+      "sv": "Sätt dig!",
+      "en": "Sit down! Have a seat!",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Sätt dig i soffan, så hämtar jag kaffe.",
+        "en": "Have a seat on the sofa and I’ll get some coffee."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Sätt dig! Inte där, där sitter katten.",
+        "en": "Have a seat! Not there, that’s the cat’s seat."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vill-du-ha-nagot-att-dricka",
+      "sv": "Vill du ha något att dricka?",
+      "en": "Would you like something to drink?",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Vill du ha något att dricka? Vi har kaffe, te och vatten.",
+        "en": "Would you like something to drink? We have coffee, tea and water."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Vill du ha något att dricka? – Kaffe. – Vi har bara te. – Varför frågar du då?",
+        "en": "“Would you like something to drink?” “Coffee.” “We only have tea.” “Then why are you asking?”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-kommer-strax",
+      "sv": "Jag kommer strax.",
+      "en": "I’ll be right back. I’ll be there in a moment.",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Sätt dig, jag kommer strax med kaffet.",
+        "en": "Sit down, I’ll be right back with the coffee."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "”Jag kommer strax”, sa min kompis. Det var i mars.",
+        "en": "“I’ll be right back,” said my friend. That was in March."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:tack-for-inbjudan",
+      "sv": "Tack för inbjudan.",
+      "en": "Thanks for the invitation.",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Tack för inbjudan, det var verkligen snällt av dig.",
+        "en": "Thanks for the invitation, that was really kind of you."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Tack för inbjudan! Jag tog med mig en kaka och tre kompisar.",
+        "en": "Thanks for the invitation! I brought a cake and three friends."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:det-var-snallt-av-dig",
+      "sv": "Det var snällt av dig.",
+      "en": "That was kind of you.",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Det var snällt av dig att bjuda in mig.",
+        "en": "It was kind of you to invite me."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Det var snällt av dig att laga mat. Kan jag få receptet? Nej? Då förstår jag.",
+        "en": "It was kind of you to cook. Can I have the recipe? No? Then I understand."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:du-har-ett-vackert-hem",
+      "sv": "Du har ett vackert hem.",
+      "en": "You have a beautiful home.",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Du har ett vackert hem! Hur länge har du bott här?",
+        "en": "You have a beautiful home! How long have you lived here?"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Du har ett vackert hem. Särskilt garderoben där du gömde allt.",
+        "en": "You have a beautiful home. Especially the wardrobe where you hid everything."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-maste-ga-nu",
+      "sv": "Jag måste gå nu.",
+      "en": "I have to go now.",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag måste gå nu, jag har tidig väckning i morgon.",
+        "en": "I have to go now, I have an early start tomorrow."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "”Jag måste gå nu”, sa jag. Sedan pratade vi i hallen i en timme.",
+        "en": "“I have to go now,” I said. Then we talked in the hall for an hour.",
+        "note": "The famous Nordic goodbye in the hallway."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:det-var-trevligt-att-traffas",
+      "sv": "Det var trevligt att träffas.",
+      "en": "It was nice to meet (you).",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Tack för i kväll! Det var verkligen trevligt att träffas.",
+        "en": "Thanks for tonight! It was really nice to see you."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Det var trevligt att träffas. Vi ses om ett år, som vanligt.",
+        "en": "It was nice to see you. See you in a year, as usual."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:kara-nagon",
+      "sv": "Kära någon!",
+      "en": "Oh dear! Goodness!",
+      "pos": "phrase",
+      "function": "visit",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Kära någon, är klockan så mycket?",
+        "en": "Oh dear, is it that late?"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Kära någon, är klockan elva? Vi började prata klockan sex.",
+        "en": "Oh dear, is it eleven? We started talking at six."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:tyvarr-kan-jag-inte-eftersom",
+      "sv": "Tyvärr kan jag inte, eftersom …",
+      "en": "Unfortunately I can’t, because …",
+      "pos": "phrase",
+      "function": "decline",
+      "note": "After eftersom: subject first, then inte, then the verb: eftersom jag inte har tid.",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Tyvärr kan jag inte på lördag, eftersom jag har ett viktigt möte.",
+        "en": "Unfortunately I can’t on Saturday, because I have an important meeting."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Tyvärr kan jag inte, eftersom min soffa behöver mig.",
+        "en": "Unfortunately I can’t, because my sofa needs me."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:garna-en-annan-gang",
+      "sv": "Gärna en annan gång.",
+      "en": "Another time, gladly.",
+      "pos": "phrase",
+      "function": "decline",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag kan inte i kväll, men gärna en annan gång!",
+        "en": "I can’t tonight, but another time, gladly!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Gärna en annan gång! Det säger jag också till disken.",
+        "en": "Another time, gladly! I say that to the dishes too."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-kan-ge-dig-skjuts",
+      "sv": "Jag kan ge dig skjuts.",
+      "en": "I can give you a lift.",
+      "pos": "phrase",
+      "function": "offer",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Bussarna går inte så här dags, men jag kan ge dig skjuts.",
+        "en": "The buses don’t run at this time, but I can give you a lift."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag kan ge dig skjuts. Bilen är full av hundhår, men den går.",
+        "en": "I can give you a lift. The car is full of dog hair, but it runs."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-gor-det-garna",
+      "sv": "Jag gör det gärna.",
+      "en": "I’m happy to do it.",
+      "pos": "phrase",
+      "function": "offer",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "– Är det inte för mycket besvär? – Nej, jag gör det gärna.",
+        "en": "“Isn’t it too much trouble?” “No, I’m happy to do it.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Kan du hjälpa mig att flytta? – Jag gör det gärna! … Vilken våning?",
+        "en": "“Can you help me move?” “I’d be happy to! … Which floor?”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:det-var-sa-lite",
+      "sv": "Det var så lite.",
+      "en": "It was nothing. No big deal.",
+      "pos": "phrase",
+      "function": "offer",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "– Tack för hjälpen! – Det var så lite.",
+        "en": "“Thanks for the help!” “It was nothing.”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Tack för att du bar soffan! – Det var så lite. Mina armar säger något annat.",
+        "en": "“Thanks for carrying the sofa!” “It was nothing.” My arms say otherwise."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-finns-har-for-dig",
+      "sv": "Jag finns här för dig.",
+      "en": "I’m here for you.",
+      "pos": "phrase",
+      "function": "offer",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag finns här för dig om du vill prata om det.",
+        "en": "I’m here for you if you want to talk about it."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag finns här för dig. Och jag har choklad.",
+        "en": "I’m here for you. And I have chocolate."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vad-bra",
+      "sv": "Vad bra!",
+      "en": "How great! That’s good!",
+      "pos": "phrase",
+      "function": "react-good",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "– Jag fick jobbet! – Vad bra!",
+        "en": "“I got the job!” “That’s great!”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Jag har slutat röka! – Vad bra! – I går. – Okej …",
+        "en": "“I’ve quit smoking!” “That’s great!” “Yesterday.” “Okay …”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vilka-fantastiska-nyheter",
+      "sv": "Vilka fantastiska nyheter!",
+      "en": "What fantastic news!",
+      "pos": "phrase",
+      "function": "react-good",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Ni ska gifta er? Vilka fantastiska nyheter!",
+        "en": "You’re getting married? What fantastic news!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Vilka fantastiska nyheter! Inget möte i dag, bara fika.",
+        "en": "What fantastic news! No meeting today, only fika."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:grattis",
+      "sv": "Grattis!",
+      "en": "Congratulations!",
+      "pos": "phrase",
+      "function": "react-good",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag hörde att du har fått ett nytt jobb. Grattis!",
+        "en": "I heard you’ve got a new job. Congratulations!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Grattis på födelsedagen! Kakan är gratis.",
+        "en": "Happy birthday! The cake is free.",
+        "note": "Grattis (congrats) has two t’s; gratis (free) has one."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-ar-sa-stolt-over-dig",
+      "sv": "Jag är så stolt över dig.",
+      "en": "I’m so proud of you.",
+      "pos": "phrase",
+      "function": "react-good",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Du klarade provet! Jag är så stolt över dig.",
+        "en": "You passed the test! I’m so proud of you."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Du klarade den svåra leden! Jag är så stolt över dig. Och lite avundsjuk.",
+        "en": "You climbed the hard route! I’m so proud of you. And a little jealous."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:lycka-till",
+      "sv": "Lycka till!",
+      "en": "Good luck!",
+      "pos": "phrase",
+      "function": "react-good",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Lycka till på intervjun i morgon!",
+        "en": "Good luck at the interview tomorrow!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Lycka till på YKI-provet! Kom ihåg: verbet på andra plats.",
+        "en": "Good luck on the YKI test! Remember: the verb in second place."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vad-synd",
+      "sv": "Vad synd!",
+      "en": "What a shame!",
+      "pos": "phrase",
+      "function": "react-bad",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "– Jag kan inte komma på festen. – Vad synd!",
+        "en": "“I can’t come to the party.” “What a shame!”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Kakan tog slut. – Vad synd! … Vem åt den?",
+        "en": "“The cake ran out.” “What a shame! … Who ate it?”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:vad-jobbigt",
+      "sv": "Vad jobbigt!",
+      "en": "How tough! That sounds hard!",
+      "pos": "phrase",
+      "function": "react-bad",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "– Jag har inte sovit på tre nätter. – Vad jobbigt!",
+        "en": "“I haven’t slept for three nights.” “That sounds tough!”"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Min dator uppdaterar sig. Igen. – Vad jobbigt!",
+        "en": "“My computer is updating. Again.” “How annoying!”"
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:stackars-du",
+      "sv": "Stackars du!",
+      "en": "Poor you!",
+      "pos": "phrase",
+      "function": "react-bad",
+      "note": "Also: Stackare! Stackars dig!",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Är du sjuk igen? Stackars du!",
+        "en": "Are you ill again? Poor you!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "– Jag har bara två veckors semester. – Stackars du! sa ingen i Finland.",
+        "en": "“I only have two weeks’ holiday.” “Poor you!” said nobody in Finland."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-ar-ledsen-att-hora-det",
+      "sv": "Jag är ledsen att höra det.",
+      "en": "I’m sorry to hear that.",
+      "pos": "phrase",
+      "function": "react-bad",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Har du blivit uppsagd? Jag är ledsen att höra det.",
+        "en": "Have you been laid off? I’m sorry to hear that."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Din kod fungerade på din dator men inte i produktion? Jag är ledsen att höra det.",
+        "en": "Your code worked on your computer but not in production? I’m sorry to hear that."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-beklagar-sorgen",
+      "sv": "Jag beklagar sorgen.",
+      "en": "My condolences. I’m sorry for your loss.",
+      "pos": "phrase",
+      "function": "react-bad",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag hörde om din pappa. Jag beklagar sorgen.",
+        "en": "I heard about your father. I’m sorry for your loss."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag beklagar sorgen.",
+        "en": "My condolences.",
+        "note": "Used only when someone has died. No joke for this one."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:ta-hand-om-dig",
+      "sv": "Ta hand om dig!",
+      "en": "Take care (of yourself)!",
+      "pos": "phrase",
+      "function": "react-bad",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Vi hörs nästa vecka. Ta hand om dig!",
+        "en": "Let’s talk next week. Take care!"
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Ta hand om dig! Och vattna mina blommor medan jag är borta.",
+        "en": "Take care of yourself! And water my plants while I’m away."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:oroa-dig-inte",
+      "sv": "Oroa dig inte.",
+      "en": "Don’t worry.",
+      "pos": "phrase",
+      "function": "react-bad",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Oroa dig inte, allt kommer att bli bra.",
+        "en": "Don’t worry, everything will be fine."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Oroa dig inte. Jag har en plan. Planen är att oroa mig åt dig.",
+        "en": "Don’t worry. I have a plan. The plan is to worry for you."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:du-borde",
+      "sv": "Du borde …",
+      "en": "You should …",
+      "pos": "phrase",
+      "function": "advice",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Du borde sova mer och dricka mer vatten.",
+        "en": "You should sleep more and drink more water."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Du borde gå och lägga dig tidigt. Sa jag klockan två på natten.",
+        "en": "You should go to bed early. I said at two in the morning."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:du-kan-prova-att",
+      "sv": "Du kan prova att …",
+      "en": "You can try …",
+      "pos": "phrase",
+      "function": "advice",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Du kan prova att meditera innan du går och lägger dig.",
+        "en": "You can try meditating before you go to bed."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Du kan prova att stänga av och sätta på den igen.",
+        "en": "You can try turning it off and on again."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:jag-kan-rekommendera",
+      "sv": "Jag kan rekommendera …",
+      "en": "I can recommend …",
+      "pos": "phrase",
+      "function": "advice",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag kan rekommendera en bra bok om stress.",
+        "en": "I can recommend a good book about stress."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Jag kan rekommendera kanelbullar. Mot allt.",
+        "en": "I can recommend cinnamon buns. For everything."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:en-sak-som-kan-vara-bra-ar-att",
+      "sv": "En sak som kan vara bra är att …",
+      "en": "One thing that can help is …",
+      "pos": "phrase",
+      "function": "advice",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "En sak som kan vara bra är att promenera varje dag.",
+        "en": "One thing that can help is walking every day."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "En sak som kan vara bra är att lägga mobilen i ett annat rum. Jag har aldrig provat.",
+        "en": "One thing that can help is putting your phone in another room. I’ve never tried."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:det-hjalper-mig-att",
+      "sv": "Det hjälper mig att …",
+      "en": "It helps me to …",
+      "pos": "phrase",
+      "function": "advice",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Det hjälper mig att träna när jag är stressad.",
+        "en": "It helps me to work out when I’m stressed."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Det hjälper mig att laga mat när jag är stressad. Det hjälper inte köket.",
+        "en": "Cooking helps me when I’m stressed. It doesn’t help the kitchen."
+      }
+    },
+    {
+      "id": "vocab:yki-phrases:arligt-talat",
+      "sv": "Ärligt talat …",
+      "en": "Honestly …",
+      "pos": "phrase",
+      "function": "opinion",
+      "note": "Ärligt talat is the first item, so the verb comes next: Ärligt talat känns det …",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Ärligt talat känns det inte så bra.",
+        "en": "Honestly, it doesn’t feel that good."
+      },
+      "tags": [
+        "yki-phrases"
+      ],
+      "fun": {
+        "sv": "Ärligt talat är min favoritsport att titta på andra som tränar.",
+        "en": "Honestly, my favourite sport is watching other people work out."
+      }
     }
   ]
 }

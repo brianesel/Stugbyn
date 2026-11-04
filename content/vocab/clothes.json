@@ -9,12 +9,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "kläderna" },
+      "forms": {
+        "def": "kläderna"
+      },
       "note": "Plural only: kläder, kläderna.",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Barnen behöver nya kläder till vintern.", "en": "The kids need new clothes for the winter." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Barnen behöver nya kläder till vintern.",
+        "en": "The kids need new clothes for the winter."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag har massor av kläder men ingenting att ta på mig.",
         "en": "I have loads of clothes but nothing to wear."
@@ -27,12 +34,21 @@
       "enPl": "dresses",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "klänningen", "pl": "klänningar", "defPl": "klänningarna" },
+      "forms": {
+        "def": "klänningen",
+        "pl": "klänningar",
+        "defPl": "klänningarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Hon har en röd klänning på festen.", "en": "She’s wearing a red dress at the party." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Hon har en röd klänning på festen.",
+        "en": "She’s wearing a red dress at the party."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Klänningen var på rea. Nu har jag tre.",
         "en": "The dress was on sale. Now I have three."
@@ -44,12 +60,21 @@
       "en": "skirt",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "kjolen", "pl": "kjolar", "defPl": "kjolarna" },
+      "forms": {
+        "def": "kjolen",
+        "pl": "kjolar",
+        "defPl": "kjolarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Min dotter vill ha en kort kjol.", "en": "My daughter wants a short skirt." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Min dotter vill ha en kort kjol.",
+        "en": "My daughter wants a short skirt."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Det är minus tjugo. Jag har kjol och tre par strumpbyxor.",
         "en": "It’s minus twenty. I’m wearing a skirt and three pairs of tights."
@@ -61,12 +86,21 @@
       "en": "shoe",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "skon", "pl": "skor", "defPl": "skorna" },
+      "forms": {
+        "def": "skon",
+        "pl": "skor",
+        "defPl": "skorna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Ta av dig skorna i hallen, tack.", "en": "Please take your shoes off in the hall." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Ta av dig skorna i hallen, tack.",
+        "en": "Please take your shoes off in the hall."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Min sko har ett hål. Nu vet jag när det regnar.",
         "en": "My shoe has a hole. Now I know when it’s raining."
@@ -78,12 +112,21 @@
       "en": "boot",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "stöveln", "pl": "stövlar", "defPl": "stövlarna" },
+      "forms": {
+        "def": "stöveln",
+        "pl": "stövlar",
+        "defPl": "stövlarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "När det regnar har jag stövlar på mig.", "en": "When it rains, I wear boots." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "När det regnar har jag stövlar på mig.",
+        "en": "When it rains, I wear boots."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Mina stövlar är vattentäta. Vattnet som kom in stannar där.",
         "en": "My boots are waterproof. The water that got in stays in."
@@ -95,12 +138,21 @@
       "en": "sock",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "strumpan", "pl": "strumpor", "defPl": "strumporna" },
+      "forms": {
+        "def": "strumpan",
+        "pl": "strumpor",
+        "defPl": "strumporna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Var är mina blå strumpor?", "en": "Where are my blue socks?" },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Var är mina blå strumpor?",
+        "en": "Where are my blue socks?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Tvättmaskinen äter strumpor. Jag har tolv strumpor och inga par.",
         "en": "The washing machine eats socks. I have twelve socks and no pairs."
@@ -112,12 +164,21 @@
       "en": "jacket",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "jackan", "pl": "jackor", "defPl": "jackorna" },
+      "forms": {
+        "def": "jackan",
+        "pl": "jackor",
+        "defPl": "jackorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Det är kallt ute. Ta på dig jackan!", "en": "It’s cold outside. Put your jacket on!" },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Det är kallt ute. Ta på dig jackan!",
+        "en": "It’s cold outside. Put your jacket on!"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag har en vinterjacka, en vårjacka och en höstjacka. Alla är svarta.",
         "en": "I have a winter jacket, a spring jacket and an autumn jacket. They’re all black."
@@ -129,12 +190,21 @@
       "en": "shirt",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "skjortan", "pl": "skjortor", "defPl": "skjortorna" },
+      "forms": {
+        "def": "skjortan",
+        "pl": "skjortor",
+        "defPl": "skjortorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Han har en vit skjorta på jobbet.", "en": "He wears a white shirt at work." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Han har en vit skjorta på jobbet.",
+        "en": "He wears a white shirt at work."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag strök skjortan. Bara framsidan. Ingen ser ryggen på videomötet.",
         "en": "I ironed the shirt. Just the front. Nobody sees the back in the video meeting."
@@ -146,12 +216,21 @@
       "en": "sweater",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "tröjan", "pl": "tröjor", "defPl": "tröjorna" },
+      "forms": {
+        "def": "tröjan",
+        "pl": "tröjor",
+        "defPl": "tröjorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Jag köpte en varm tröja på rea.", "en": "I bought a warm sweater in the sale." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Jag köpte en varm tröja på rea.",
+        "en": "I bought a warm sweater in the sale."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Mormor stickade en tröja till mig. Den går ner till knäna.",
         "en": "Grandma knitted me a sweater. It goes down to my knees."
@@ -164,12 +243,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "byxorna" },
+      "forms": {
+        "def": "byxorna"
+      },
       "note": "Plural word: ett par byxor = a pair of trousers.",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Byxorna är för långa.", "en": "The trousers are too long." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Byxorna är för långa.",
+        "en": "The trousers are too long."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag hittade tjugo euro i mina gamla byxor. Årets bästa dag!",
         "en": "I found twenty euros in my old trousers. Best day of the year!"
@@ -182,12 +268,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "jeansen" },
+      "forms": {
+        "def": "jeansen"
+      },
       "note": "Plural word: ett par jeans.",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Erik har alltid jeans på jobbet.", "en": "Erik always wears jeans at work." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Erik har alltid jeans på jobbet.",
+        "en": "Erik always wears jeans at work."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jeans passar till allt: jobbet, festen och soffan.",
         "en": "Jeans go with everything: work, parties and the sofa."
@@ -199,12 +292,21 @@
       "en": "bag",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "väskan", "pl": "väskor", "defPl": "väskorna" },
+      "forms": {
+        "def": "väskan",
+        "pl": "väskor",
+        "defPl": "väskorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Har du plånboken i väskan?", "en": "Do you have your wallet in your bag?" },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Har du plånboken i väskan?",
+        "en": "Do you have your wallet in your bag?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Min väska är full av saker. Jag hittar aldrig det jag letar efter.",
         "en": "My bag is full of stuff. I never find what I’m looking for."
@@ -216,12 +318,21 @@
       "en": "hat; beanie",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "mössan", "pl": "mössor", "defPl": "mössorna" },
+      "forms": {
+        "def": "mössan",
+        "pl": "mössor",
+        "defPl": "mössorna"
+      },
       "group": 1,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "På vintern behöver barnen mössa och vantar.", "en": "In winter the children need hats and mittens." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "På vintern behöver barnen mössa och vantar.",
+        "en": "In winter the children need hats and mittens."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Min mössa är ful men varm. I januari bryr sig ingen.",
         "en": "My hat is ugly but warm. In January nobody cares."
@@ -233,12 +344,21 @@
       "en": "glove",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "handsken", "pl": "handskar", "defPl": "handskarna" },
+      "forms": {
+        "def": "handsken",
+        "pl": "handskar",
+        "defPl": "handskarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Jag har tappat en handske.", "en": "I’ve lost a glove." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Jag har tappat en handske.",
+        "en": "I’ve lost a glove."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag har tre vänsterhandskar och ingen högerhandske.",
         "en": "I have three left gloves and no right glove."
@@ -251,12 +371,21 @@
       "enPl": "scarves",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "halsduken", "pl": "halsdukar", "defPl": "halsdukarna" },
+      "forms": {
+        "def": "halsduken",
+        "pl": "halsdukar",
+        "defPl": "halsdukarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Pappa har en lång grå halsduk.", "en": "Dad has a long grey scarf." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Pappa har en lång grå halsduk.",
+        "en": "Dad has a long grey scarf."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Min halsduk är fyra meter lång. Mormor kunde inte sluta sticka.",
         "en": "My scarf is four metres long. Grandma couldn’t stop knitting."
@@ -268,12 +397,21 @@
       "en": "suit",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "kostymen", "pl": "kostymer", "defPl": "kostymerna" },
+      "forms": {
+        "def": "kostymen",
+        "pl": "kostymer",
+        "defPl": "kostymerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Min bror har kostym på bröllopet.", "en": "My brother is wearing a suit at the wedding." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Min bror har kostym på bröllopet.",
+        "en": "My brother is wearing a suit at the wedding."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Han har kostym på kontoret och pyjamas på mötena hemifrån.",
         "en": "He wears a suit at the office and pyjamas in meetings from home."
@@ -285,12 +423,21 @@
       "en": "suit jacket; blazer",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "kavajen", "pl": "kavajer", "defPl": "kavajerna" },
+      "forms": {
+        "def": "kavajen",
+        "pl": "kavajer",
+        "defPl": "kavajerna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Han har en blå kavaj och jeans.", "en": "He’s wearing a blue blazer and jeans." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Han har en blå kavaj och jeans.",
+        "en": "He’s wearing a blue blazer and jeans."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag har kavaj och slips på videomötet. Och mjukisbyxor under bordet.",
         "en": "I’m wearing a blazer and tie in the video meeting. And sweatpants under the table."
@@ -303,12 +450,19 @@
       "pos": "noun",
       "gender": "en",
       "countable": false,
-      "forms": { "def": "badkläderna" },
+      "forms": {
+        "def": "badkläderna"
+      },
       "note": "Plural only.",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Glöm inte badkläderna när vi åker till stranden!", "en": "Don’t forget your swimwear when we go to the beach!" },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Glöm inte badkläderna när vi åker till stranden!",
+        "en": "Don’t forget your swimwear when we go to the beach!"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag packade badkläder till semestern. Vi åkte till Lappland i januari.",
         "en": "I packed swimwear for the holiday. We went to Lapland in January."
@@ -320,12 +474,21 @@
       "en": "swimsuit",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "baddräkten", "pl": "baddräkter", "defPl": "baddräkterna" },
+      "forms": {
+        "def": "baddräkten",
+        "pl": "baddräkter",
+        "defPl": "baddräkterna"
+      },
       "group": 3,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Hon köpte en ny baddräkt till sommaren.", "en": "She bought a new swimsuit for the summer." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Hon köpte en ny baddräkt till sommaren.",
+        "en": "She bought a new swimsuit for the summer."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Min baddräkt har varit i sjön en gång. Sjön var fyra grader.",
         "en": "My swimsuit has been in the lake once. The lake was four degrees."
@@ -337,13 +500,22 @@
       "en": "bikini",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "bikinin", "pl": "bikinier", "defPl": "bikinierna" },
+      "forms": {
+        "def": "bikinin",
+        "pl": "bikinier",
+        "defPl": "bikinierna"
+      },
       "group": 3,
       "note": "Plural also bikinis.",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Lisa tar med sig en bikini på semestern.", "en": "Lisa is taking a bikini on holiday." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Lisa tar med sig en bikini på semestern.",
+        "en": "Lisa is taking a bikini on holiday."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "check": true,
       "fun": {
         "sv": "Jag köpte en bikini i maj. Det snöade i juni.",
@@ -357,12 +529,19 @@
       "pos": "noun",
       "gender": "ett",
       "countable": false,
-      "forms": { "def": "glasögonen" },
+      "forms": {
+        "def": "glasögonen"
+      },
       "note": "Plural only: ett par glasögon = a pair of glasses.",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Jag hittar inte mina glasögon.", "en": "I can’t find my glasses." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Jag hittar inte mina glasögon.",
+        "en": "I can’t find my glasses."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "– Var är mina glasögon? – På ditt huvud.",
         "en": "“Where are my glasses?” “On your head.”"
@@ -374,12 +553,21 @@
       "en": "pair",
       "pos": "noun",
       "gender": "ett",
-      "forms": { "def": "paret", "pl": "par", "defPl": "paren" },
+      "forms": {
+        "def": "paret",
+        "pl": "par",
+        "defPl": "paren"
+      },
       "group": 5,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Jag köper ett par skor.", "en": "I buy a pair of shoes." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Jag köper ett par skor.",
+        "en": "I buy a pair of shoes."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Ett par strumpor, ett par byxor och ett par minuter till i sängen.",
         "en": "A pair of socks, a pair of trousers and a couple more minutes in bed.",
@@ -392,12 +580,21 @@
       "en": "size",
       "pos": "noun",
       "gender": "en",
-      "forms": { "def": "storleken", "pl": "storlekar", "defPl": "storlekarna" },
+      "forms": {
+        "def": "storleken",
+        "pl": "storlekar",
+        "defPl": "storlekarna"
+      },
       "group": 2,
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Vilken storlek har du?", "en": "What size are you?" },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Vilken storlek har du?",
+        "en": "What size are you?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Storleken var rätt i affären. Hemma var den fel.",
         "en": "The size was right in the shop. At home it was wrong."
@@ -410,8 +607,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Det är kallt, så jag tar en tjock tröja.", "en": "It’s cold, so I’ll take a thick sweater." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Det är kallt, så jag tar en tjock tröja.",
+        "en": "It’s cold, so I’ll take a thick sweater."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag har en tjock tröja, tjocka strumpor och tjocka gardiner. Det är februari.",
         "en": "I have a thick sweater, thick socks and thick curtains. It’s February."
@@ -424,8 +626,13 @@
       "pos": "adjective",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Jackan är för tunn för vintern.", "en": "The jacket is too thin for winter." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Jackan är för tunn för vintern.",
+        "en": "The jacket is too thin for winter."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Min jacka är för tunn för Finland. Den är perfekt för Spanien. Jag bor i Finland.",
         "en": "My jacket is too thin for Finland. It’s perfect for Spain. I live in Finland."
@@ -438,8 +645,13 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Klänningen passar dig.", "en": "The dress suits you." },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Klänningen passar dig.",
+        "en": "The dress suits you."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Den gula mössan passar inte till jackan. Den passar inte till någonting. Jag älskar den.",
         "en": "The yellow hat doesn’t go with the jacket. It doesn’t go with anything. I love it."
@@ -452,11 +664,112 @@
       "pos": "verb",
       "level": "A1",
       "lesson": 10,
-      "example": { "sv": "Får jag prova jackan?", "en": "May I try on the jacket?" },
-      "tags": ["yki-shopping"],
+      "example": {
+        "sv": "Får jag prova jackan?",
+        "en": "May I try on the jacket?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
       "fun": {
         "sv": "Jag provade tio par jeans. Sedan köpte jag samma som förra gången.",
         "en": "I tried on ten pairs of jeans. Then I bought the same as last time."
+      }
+    },
+    {
+      "id": "vocab:clothes:kladkod",
+      "sv": "klädkod",
+      "en": "dress code",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "klädkoden",
+        "pl": "klädkoder",
+        "defPl": "klädkoderna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Klädkoden är mörk kostym.",
+        "en": "The dress code is dark suit."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Klädkod i klätterhallen: kalk på allt.",
+        "en": "Dress code at the climbing gym: chalk on everything."
+      }
+    },
+    {
+      "id": "vocab:clothes:aftonklanning",
+      "sv": "aftonklänning",
+      "en": "evening gown",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "aftonklänningen",
+        "pl": "aftonklänningar",
+        "defPl": "aftonklänningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Hon behöver en lång aftonklänning till festen.",
+        "en": "She needs a long evening gown for the party."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "En aftonklänning för en kväll. Sedan hänger den i garderoben i tio år.",
+        "en": "An evening gown for one evening. Then it hangs in the wardrobe for ten years."
+      }
+    },
+    {
+      "id": "vocab:clothes:sammet",
+      "sv": "sammet",
+      "en": "velvet",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "sammeten"
+      },
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Hon har en svart klänning av sammet.",
+        "en": "She has a black velvet dress."
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "Sammet är mjukt. Katten tycker också det. Nu är klänningen grå.",
+        "en": "Velvet is soft. The cat thinks so too. Now the dress is grey."
+      }
+    },
+    {
+      "id": "vocab:clothes:ha-pa-sig",
+      "sv": "ha på sig",
+      "en": "wear, have on",
+      "pos": "verb",
+      "note": "Har på mig / dig / sig: the pronoun follows the person. Also: bära (carry, wear).",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Vad ska du ha på dig på festen?",
+        "en": "What are you going to wear to the party?"
+      },
+      "tags": [
+        "yki-shopping"
+      ],
+      "fun": {
+        "sv": "– Vad ska du ha på dig? – Det jag har på mig nu. – Det är pyjamas.",
+        "en": "“What are you going to wear?” “What I’m wearing now.” “That’s pyjamas.”"
       }
     }
   ]

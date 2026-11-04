@@ -1,0 +1,720 @@
+{
+  "theme": "feelings",
+  "title": "Känslor och relationer",
+  "entries": [
+    {
+      "id": "vocab:feelings:se-ut",
+      "sv": "se ut",
+      "en": "look (like), appear",
+      "pos": "verb",
+      "note": "ser ut, såg ut, har sett ut. The stress is on ut: Du ser trött ut.",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Du ser trött ut. Sov du dåligt?",
+        "en": "You look tired. Did you sleep badly?"
+      },
+      "fun": {
+        "sv": "– Du ser trött ut. – Nej, jag ser ut så här.",
+        "en": "“You look tired.” “No, I just look like this.”"
+      }
+    },
+    {
+      "id": "vocab:feelings:komma-ihag",
+      "sv": "komma ihåg",
+      "en": "remember",
+      "pos": "verb",
+      "note": "kommer ihåg, kom ihåg, har kommit ihåg.",
+      "level": "A1",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag kommer inte ihåg när du flyttade hit.",
+        "en": "I don’t remember when you moved here."
+      },
+      "fun": {
+        "sv": "Jag kommer ihåg allt från 1999. Men inte varför jag gick in i köket.",
+        "en": "I remember everything from 1999. But not why I walked into the kitchen."
+      }
+    },
+    {
+      "id": "vocab:feelings:kanna-igen",
+      "sv": "känna igen",
+      "en": "recognise",
+      "pos": "verb",
+      "note": "känner igen, kände igen, har känt igen.",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Min telefon kände inte igen ditt nummer.",
+        "en": "My phone didn’t recognise your number."
+      },
+      "fun": {
+        "sv": "Jag kände inte igen dig utan mössa.",
+        "en": "I didn’t recognise you without a beanie."
+      }
+    },
+    {
+      "id": "vocab:feelings:bjuda-in",
+      "sv": "bjuda in",
+      "en": "invite",
+      "pos": "verb",
+      "note": "bjuder in, bjöd in, har bjudit in.",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Hon bjöd in oss på middag.",
+        "en": "She invited us to dinner."
+      },
+      "fun": {
+        "sv": "Vi bjöd in tio personer. Tjugo kom. Två hade mat med sig.",
+        "en": "We invited ten people. Twenty came. Two brought food."
+      }
+    },
+    {
+      "id": "vocab:feelings:erbjuda",
+      "sv": "erbjuda",
+      "en": "offer",
+      "pos": "verb",
+      "note": "erbjuder, erbjöd, har erbjudit.",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "De erbjöd mig jobbet!",
+        "en": "They offered me the job!"
+      },
+      "fun": {
+        "sv": "Jag erbjöd min hjälp. Sedan såg jag hur stor soffan var.",
+        "en": "I offered my help. Then I saw how big the sofa was."
+      }
+    },
+    {
+      "id": "vocab:feelings:erbjudande",
+      "sv": "erbjudande",
+      "en": "offer",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "erbjudandet",
+        "pl": "erbjudanden",
+        "defPl": "erbjudandena"
+      },
+      "group": 4,
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Det är ett bra erbjudande.",
+        "en": "That’s a good offer."
+      },
+      "fun": {
+        "sv": "Erbjudande: köp tre, betala för tre!",
+        "en": "Special offer: buy three, pay for three!"
+      }
+    },
+    {
+      "id": "vocab:feelings:skjuts",
+      "sv": "skjuts",
+      "en": "lift, ride",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "skjutsen"
+      },
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Kan du ge mig skjuts till stationen?",
+        "en": "Can you give me a lift to the station?"
+      },
+      "fun": {
+        "sv": "Pappa ger skjuts. Pappa ger också råd om hur man kör, hela vägen.",
+        "en": "Dad gives lifts. Dad also gives driving advice, the whole way."
+      }
+    },
+    {
+      "id": "vocab:feelings:besvar",
+      "sv": "besvär",
+      "en": "trouble, bother",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "besväret"
+      },
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Det är inget besvär alls.",
+        "en": "It’s no trouble at all."
+      },
+      "fun": {
+        "sv": "– Är det mycket besvär? – Nej då. (Ja.)",
+        "en": "“Is it a lot of trouble?” “Oh no.” (Yes.)"
+      }
+    },
+    {
+      "id": "vocab:feelings:inbjudan",
+      "sv": "inbjudan",
+      "en": "invitation",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "inbjudan",
+        "pl": "inbjudningar",
+        "defPl": "inbjudningarna"
+      },
+      "group": 2,
+      "irregular": true,
+      "note": "The definite is also inbjudan; plural inbjudningar.",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "På inbjudan står det mörk kostym.",
+        "en": "The invitation says dark suit."
+      },
+      "fun": {
+        "sv": "Inbjudan säger ”klädkod: mörk kostym”. Min garderob säger ”klädkod: mjukisbyxor”.",
+        "en": "The invitation says “dress code: dark suit”. My wardrobe says “dress code: sweatpants”."
+      }
+    },
+    {
+      "id": "vocab:feelings:vackning",
+      "sv": "väckning",
+      "en": "wake-up (call)",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "väckningen",
+        "pl": "väckningar",
+        "defPl": "väckningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag har tidig väckning i morgon.",
+        "en": "I have an early start tomorrow."
+      },
+      "fun": {
+        "sv": "Tidig väckning: klockan fem. Katten tycker att fyra är bättre.",
+        "en": "Early wake-up: five o’clock. The cat thinks four is better."
+      }
+    },
+    {
+      "id": "vocab:feelings:morgonpass",
+      "sv": "morgonpass",
+      "en": "morning shift",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "morgonpasset",
+        "pl": "morgonpass",
+        "defPl": "morgonpassen"
+      },
+      "group": 5,
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag har morgonpass hela veckan.",
+        "en": "I’m on the morning shift all week."
+      },
+      "fun": {
+        "sv": "Morgonpass betyder att jag ser soluppgången. I november betyder det att jag inte ser något.",
+        "en": "Morning shift means I see the sunrise. In November it means I see nothing."
+      }
+    },
+    {
+      "id": "vocab:feelings:fruktansvard",
+      "sv": "fruktansvärd",
+      "en": "terrible, horrible",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "fruktansvärt",
+        "a": "fruktansvärda"
+      },
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Det är fruktansvärt väder ute.",
+        "en": "It’s terrible weather outside."
+      },
+      "fun": {
+        "sv": "Fruktansvärt väder! sa jag. Sedan kom jag ihåg att jag bor i Finland.",
+        "en": "“Terrible weather!” I said. Then I remembered that I live in Finland."
+      }
+    },
+    {
+      "id": "vocab:feelings:upptagen",
+      "sv": "upptagen",
+      "en": "busy, taken",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "upptaget",
+        "a": "upptagna"
+      },
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag är upptagen hela lördagen.",
+        "en": "I’m busy all Saturday."
+      },
+      "fun": {
+        "sv": "Jag är väldigt upptagen. Mest med att scrolla.",
+        "en": "I’m very busy. Mostly with scrolling.",
+        "note": "Upptagen → upptaget → upptagna: the e drops before -a."
+      }
+    },
+    {
+      "id": "vocab:feelings:sann",
+      "sv": "sann",
+      "en": "true",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "sant",
+        "a": "sanna"
+      },
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Är det sant att du har fått ett nytt jobb?",
+        "en": "Is it true that you’ve got a new job?"
+      },
+      "fun": {
+        "sv": "– Är det sant? – Ja. – Helt sant? – Nästan.",
+        "en": "“Is it true?” “Yes.” “Completely true?” “Almost.”",
+        "note": "Sann → sant: nn becomes n before t."
+      }
+    },
+    {
+      "id": "vocab:feelings:dromjobb",
+      "sv": "drömjobb",
+      "en": "dream job",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "drömjobbet",
+        "pl": "drömjobb",
+        "defPl": "drömjobben"
+      },
+      "group": 5,
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Det är mitt drömjobb!",
+        "en": "It’s my dream job!"
+      },
+      "fun": {
+        "sv": "Mitt drömjobb: testa spel och smaka kakor. Samtidigt.",
+        "en": "My dream job: testing games and tasting cakes. At the same time."
+      }
+    },
+    {
+      "id": "vocab:feelings:stolt",
+      "sv": "stolt",
+      "en": "proud",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "stolt",
+        "a": "stolta"
+      },
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Jag är så stolt över dig!",
+        "en": "I’m so proud of you!"
+      },
+      "fun": {
+        "sv": "Jag är stolt över min surdeg. Den är tre år gammal och fortfarande vid liv.",
+        "en": "I’m proud of my sourdough. It’s three years old and still alive.",
+        "note": "Stolt över + person or thing."
+      }
+    },
+    {
+      "id": "vocab:feelings:upprord",
+      "sv": "upprörd",
+      "en": "upset",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "upprört",
+        "a": "upprörda"
+      },
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Hon var upprörd efter mötet.",
+        "en": "She was upset after the meeting."
+      },
+      "fun": {
+        "sv": "Han var upprörd. Någon hade ätit hans lunch. Det var han själv, i går.",
+        "en": "He was upset. Someone had eaten his lunch. It was himself, yesterday."
+      }
+    },
+    {
+      "id": "vocab:feelings:ledsen",
+      "sv": "ledsen",
+      "en": "sad; sorry",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "ledset",
+        "a": "ledsna"
+      },
+      "level": "A1",
+      "lesson": 25,
+      "example": {
+        "sv": "Barnet är ledset för att glassen föll.",
+        "en": "The child is sad because the ice cream fell."
+      },
+      "fun": {
+        "sv": "Jag är ledsen. Inte ”sorry”-ledsen, utan glassen-föll-ledsen.",
+        "en": "I’m sad. Not “sorry”-sad, but the-ice-cream-fell-sad.",
+        "note": "Ledsen → ledset → ledsna. Jag är ledsen can mean “I’m sorry” or “I’m sad”."
+      }
+    },
+    {
+      "id": "vocab:feelings:lamplig",
+      "sv": "lämplig",
+      "en": "suitable, appropriate",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "lämpligt",
+        "a": "lämpliga"
+      },
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Är shorts lämpliga på företagsfesten?",
+        "en": "Are shorts appropriate at the company party?"
+      },
+      "fun": {
+        "sv": "– Är det här lämpligt? – Nej. – Bra, då tar jag det.",
+        "en": "“Is this appropriate?” “No.” “Good, then I’ll take it.”"
+      }
+    },
+    {
+      "id": "vocab:feelings:ha-brattom",
+      "sv": "ha bråttom",
+      "en": "be in a hurry",
+      "pos": "verb",
+      "note": "har bråttom, hade bråttom, har haft bråttom.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Förlåt, jag har bråttom. Kan jag ringa dig i kväll?",
+        "en": "Sorry, I’m in a hurry. Can I call you tonight?"
+      },
+      "fun": {
+        "sv": "Jag har alltid bråttom. Jag vet inte vart.",
+        "en": "I’m always in a hurry. I don’t know where to."
+      }
+    },
+    {
+      "id": "vocab:feelings:overraskning",
+      "sv": "överraskning",
+      "en": "surprise",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "överraskningen",
+        "pl": "överraskningar",
+        "defPl": "överraskningarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Det var ingen överraskning.",
+        "en": "It was no surprise."
+      },
+      "fun": {
+        "sv": "Överraskning! Det är din födelsedag. Igen.",
+        "en": "Surprise! It’s your birthday. Again."
+      }
+    },
+    {
+      "id": "vocab:feelings:forhallande",
+      "sv": "förhållande",
+      "en": "relationship",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "förhållandet",
+        "pl": "förhållanden",
+        "defPl": "förhållandena"
+      },
+      "group": 4,
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Vårt förhållande har varit lite on-off.",
+        "en": "Our relationship has been a bit on-off."
+      },
+      "fun": {
+        "sv": "Mitt längsta förhållande är med min kaffebryggare.",
+        "en": "My longest relationship is with my coffee maker."
+      }
+    },
+    {
+      "id": "vocab:feelings:chock",
+      "sv": "chock",
+      "en": "shock",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "chocken",
+        "pl": "chocker",
+        "defPl": "chockerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Det var en chock för alla.",
+        "en": "It was a shock for everyone."
+      },
+      "fun": {
+        "sv": "Chock: elräkningen i januari.",
+        "en": "Shock: the electricity bill in January."
+      }
+    },
+    {
+      "id": "vocab:feelings:fortfarande",
+      "sv": "fortfarande",
+      "en": "still",
+      "pos": "adverb",
+      "level": "A1",
+      "lesson": 25,
+      "example": {
+        "sv": "Han bor fortfarande hos sina föräldrar.",
+        "en": "He still lives with his parents."
+      },
+      "fun": {
+        "sv": "Det är fortfarande november. Det har varit november i tre månader.",
+        "en": "It’s still November. It’s been November for three months."
+      }
+    },
+    {
+      "id": "vocab:feelings:lamna",
+      "sv": "lämna",
+      "en": "leave",
+      "pos": "verb",
+      "note": "lämnar, lämnade, har lämnat.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Han lämnade lägenheten i helgen.",
+        "en": "He left the flat at the weekend."
+      },
+      "fun": {
+        "sv": "Jag lämnade jobbet klockan fyra. Jobbet lämnade inte mig.",
+        "en": "I left work at four. Work didn’t leave me."
+      }
+    },
+    {
+      "id": "vocab:feelings:orka",
+      "sv": "orka",
+      "en": "have the energy, manage",
+      "pos": "verb",
+      "note": "orkar, orkade, har orkat. Orkar + infinitive, no att: Jag orkar inte laga mat.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Jag orkar inte laga mat i kväll.",
+        "en": "I can’t be bothered to cook tonight."
+      },
+      "fun": {
+        "sv": "Jag orkar inte gå till gymmet. Men jag orkar titta på klättringsvideor i tre timmar.",
+        "en": "I don’t have the energy to go to the gym. But I can watch climbing videos for three hours."
+      }
+    },
+    {
+      "id": "vocab:feelings:komma-overens",
+      "sv": "komma överens",
+      "en": "agree; get along",
+      "pos": "verb",
+      "note": "kommer överens, kom överens, har kommit överens.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Vi har inte kommit överens om det än.",
+        "en": "We haven’t agreed on it yet."
+      },
+      "fun": {
+        "sv": "Vi kom överens om en sak: ingen av oss diskar.",
+        "en": "We agreed on one thing: neither of us does the dishes."
+      }
+    },
+    {
+      "id": "vocab:feelings:grata",
+      "sv": "gråta",
+      "en": "cry",
+      "pos": "verb",
+      "note": "gråter, grät, har gråtit.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Barnet grät hela natten.",
+        "en": "The baby cried all night."
+      },
+      "fun": {
+        "sv": "Jag grät i slutet av filmen. Och i början. Och när jag hackade lök.",
+        "en": "I cried at the end of the film. And at the start. And when I chopped onions."
+      }
+    },
+    {
+      "id": "vocab:feelings:anta",
+      "sv": "anta",
+      "en": "assume, suppose",
+      "pos": "verb",
+      "note": "antar, antog, har antagit.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Jag antar att du har rätt.",
+        "en": "I suppose you’re right."
+      },
+      "fun": {
+        "sv": "Jag antar att det finns kaffe. Jag antar alltid det.",
+        "en": "I assume there’s coffee. I always assume that."
+      }
+    },
+    {
+      "id": "vocab:feelings:undra",
+      "sv": "undra",
+      "en": "wonder",
+      "pos": "verb",
+      "note": "undrar, undrade, har undrat.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Jag undrar om jag kan ha den korta klänningen.",
+        "en": "I wonder if I can wear the short dress."
+      },
+      "fun": {
+        "sv": "Jag undrar varför strumpor försvinner i tvättmaskinen.",
+        "en": "I wonder why socks disappear in the washing machine."
+      }
+    },
+    {
+      "id": "vocab:feelings:ta-hand-om",
+      "sv": "ta hand om",
+      "en": "take care of",
+      "pos": "verb",
+      "note": "tar hand om, tog hand om, har tagit hand om.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Vi borde ta hand om vår hälsa.",
+        "en": "We should take care of our health."
+      },
+      "fun": {
+        "sv": "Jag tar hand om min kaktus. Den överlever trots det.",
+        "en": "I take care of my cactus. It survives despite that."
+      }
+    },
+    {
+      "id": "vocab:feelings:ha-ratt",
+      "sv": "ha rätt",
+      "en": "be right",
+      "pos": "verb",
+      "note": "har rätt, hade rätt, har haft rätt.",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Du har rätt, jag måste sova mer.",
+        "en": "You’re right, I need to sleep more."
+      },
+      "fun": {
+        "sv": "– Du har rätt. – Kan du säga det igen? Jag spelar in.",
+        "en": "“You’re right.” “Can you say that again? I’m recording.”"
+      }
+    },
+    {
+      "id": "vocab:feelings:blek",
+      "sv": "blek",
+      "en": "pale",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "blekt",
+        "a": "bleka"
+      },
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Du ser blek ut. Är allt okej?",
+        "en": "You look pale. Is everything okay?"
+      },
+      "fun": {
+        "sv": "– Du ser blek ut. – Det är februari. Alla ser bleka ut.",
+        "en": "“You look pale.” “It’s February. Everyone looks pale.”"
+      }
+    },
+    {
+      "id": "vocab:feelings:pigg",
+      "sv": "pigg",
+      "en": "alert, lively, wide awake",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "piggt",
+        "a": "pigga"
+      },
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Du ser alltid så pigg ut!",
+        "en": "You always look so wide awake!"
+      },
+      "fun": {
+        "sv": "Jag är pigg på morgonen. Efter tre koppar kaffe.",
+        "en": "I’m lively in the morning. After three cups of coffee."
+      }
+    },
+    {
+      "id": "vocab:feelings:pa-sistone",
+      "sv": "på sistone",
+      "en": "lately",
+      "pos": "adverb",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "På sistone har jag sovit väldigt dåligt.",
+        "en": "Lately I’ve been sleeping really badly."
+      },
+      "fun": {
+        "sv": "På sistone har jag lärt mig mycket svenska. Mest ord för väder.",
+        "en": "Lately I’ve learned a lot of Swedish. Mostly words for weather."
+      }
+    },
+    {
+      "id": "vocab:feelings:formodligen",
+      "sv": "förmodligen",
+      "en": "probably",
+      "pos": "adverb",
+      "level": "A2",
+      "lesson": 25,
+      "example": {
+        "sv": "Det beror förmodligen på stress.",
+        "en": "It’s probably because of stress."
+      },
+      "fun": {
+        "sv": "Det är förmodligen en bugg. Eller en funktion. Förmodligen en bugg.",
+        "en": "It’s probably a bug. Or a feature. Probably a bug."
+      }
+    },
+    {
+      "id": "vocab:feelings:aterigen",
+      "sv": "återigen",
+      "en": "once again",
+      "pos": "adverb",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Maten var återigen fantastisk.",
+        "en": "Once again, the food was fantastic."
+      },
+      "fun": {
+        "sv": "Återigen kom jag för sent. Återigen var det bussens fel.",
+        "en": "Once again I was late. Once again it was the bus’s fault."
+      }
+    }
+  ]
+}

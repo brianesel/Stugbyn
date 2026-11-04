@@ -928,6 +928,60 @@
         "sv": "I annonsen stod det ”mysig lägenhet”. Det betydde ”liten”.",
         "en": "The ad said “cozy apartment”. It meant “small”."
       }
+    },
+    {
+      "id": "vocab:housing:utsikt",
+      "sv": "utsikt",
+      "en": "view",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "utsikten",
+        "pl": "utsikter",
+        "defPl": "utsikterna"
+      },
+      "group": 3,
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Balkongen har utsikt över parken.",
+        "en": "The balcony has a view over the park."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Utsikt över parken! Och över grannens kök.",
+        "en": "A view over the park! And over the neighbour’s kitchen."
+      }
+    },
+    {
+      "id": "vocab:housing:matrum",
+      "sv": "matrum",
+      "en": "dining room",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "matrummet",
+        "pl": "matrum",
+        "defPl": "matrummen"
+      },
+      "group": 5,
+      "irregular": true,
+      "note": "Like rum: matrummet, matrummen (double m).",
+      "level": "A2",
+      "lesson": 24,
+      "example": {
+        "sv": "Vi äter i matrummet på söndagar.",
+        "en": "We eat in the dining room on Sundays."
+      },
+      "tags": [
+        "yki-housing"
+      ],
+      "fun": {
+        "sv": "Vi har ett matrum. Vi äter i soffan.",
+        "en": "We have a dining room. We eat on the sofa."
+      }
     }
   ]
 }
