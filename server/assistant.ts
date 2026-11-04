@@ -124,7 +124,14 @@ function overLimit(userId: string, now = Date.now()) {
  */
 export async function handleAssistant(request: Request, env: Env, deps: Deps | null): Promise<Response> {
   if (request.method !== 'POST') return json(405, 'Use POST.');
-  if (!deps) return json(503, 'The writing helper isn’t set up on the server yet (missing API key or Supabase settings).');
+  if (!deps) {
+    const missing = [
+      !env.ANTHROPIC_API_KEY && 'ANTHROPIC_API_KEY',
+      !env.SUPABASE_URL && 'VITE_SUPABASE_URL',
+      !env.SUPABASE_ANON_KEY && 'VITE_SUPABASE_ANON_KEY',
+    ].filter(Boolean);
+    return json(503, `The writing helper isn’t set up on the server yet (missing: ${missing.join(', ') || 'unknown'}).`);
+  }
 
   const token = request.headers.get('authorization')?.replace(/^Bearer\s+/i, '');
   if (!token) return json(401, 'Sign in under Settings → Account to use the writing helper.');
