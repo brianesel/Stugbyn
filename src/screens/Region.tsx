@@ -67,6 +67,9 @@ export function RegionScreen({ id }: { id: string }) {
         <a className="btn btn-primary btn-block" href={`#/play/practice/${enc}`}>
           Practice · 10 items
         </a>
+        <a className="btn btn-block" href={`#/helper/${encodeURIComponent(`region:${region.id}`)}`}>
+          Writing helper · write and translate with this topic
+        </a>
         <a className="btn btn-block" href={`#/play/boss/${enc}`} aria-describedby="boss-note">
           Boss battle{beaten ? ' · beaten ✓' : ''}
         </a>

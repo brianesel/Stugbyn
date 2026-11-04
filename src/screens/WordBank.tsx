@@ -54,7 +54,7 @@ export function FormsLine({ forms, className }: { forms: WordForm[]; className: 
 }
 
 /** 0 = new, 1 = learning, 2 = known (box 3+ on average). */
-function wordLevel(e: VocabEntry, progress: ProgressMap): number {
+export function wordLevel(e: VocabEntry, progress: ProgressMap): number {
   const ids = itemsByEntry.get(e.id) ?? [];
   if (!ids.some((id) => progress[id]?.seen)) return 0;
   return mastery(ids, progress) >= 0.6 ? 2 : 1;
@@ -110,6 +110,9 @@ export function WordBank({ theme }: { theme: string | null }) {
       ) : (
         <>
           <CardsButton entryIds={library.decks.flatMap((d) => d.entries.map((e) => e.id))} href="#/cards" label="Flashcards · all themes" progress={progress} />
+          <a className="btn btn-block" href="#/helper">
+            Writing helper · all my words
+          </a>
           <DeckGrid progress={progress} />
         </>
       )}
@@ -153,6 +156,9 @@ function DeckView({ deck, progress }: { deck: Deck; progress: ProgressMap }) {
         <CardsButton entryIds={deck.entries.map((e) => e.id)} href={`#/cards/${encodeURIComponent(deck.theme)}`} label="Flashcards" progress={progress} primary />
         <a className="btn btn-block" href={`#/play/practice/${encodeURIComponent(deck.id)}`}>
           Practise this deck · 10 items
+        </a>
+        <a className="btn btn-block" href={`#/helper/${encodeURIComponent(`deck:${deck.theme}`)}`}>
+          Writing helper · write and translate with these words
         </a>
       </div>
       <WordList entries={deck.entries} progress={progress} />

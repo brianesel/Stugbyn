@@ -45,6 +45,18 @@ Options:
 
 After the first deploy, put the app’s address into Supabase (step 1.3), then open the app → **Settings → Account**, enter your email and sign in. On your phone, open the address and use “Add to Home Screen” to install it.
 
+## 3. Writing helper (optional, uses the Claude API)
+
+The writing helper (Word bank theme → **Writing helper**, or a region → **Writing helper**) writes texts with your practised words, translates, and checks your Swedish. It runs as a small server function (`api/assistant.ts`) so the API key never reaches the browser, and only signed-in users can call it.
+
+1. Create an API key at [platform.claude.com](https://platform.claude.com) → **API Keys**, and add a little credit (each answer costs roughly one to three euro cents with Claude Opus 5.5). Setting a monthly spend limit there is a good idea.
+2. In Vercel → your project → **Settings → Environment Variables**, add:
+   - `ANTHROPIC_API_KEY` = the key (server-only; never with a `VITE_` prefix).
+   - Optional: `ASSISTANT_ALLOWED_EMAILS` = your email, so no other account can use your credit.
+3. **Deployments → … → Redeploy** so the function picks up the new variables.
+
+Without the key, the helper shows “isn’t set up on the server yet” and the rest of the app works as before.
+
 ## Local development with accounts
 
 ```bash

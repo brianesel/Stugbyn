@@ -9,6 +9,7 @@ import { RulesScreen } from './screens/Rules';
 import { Settings } from './screens/Settings';
 import { Village } from './screens/Village';
 import { WordBank } from './screens/WordBank';
+import { Helper } from './screens/Helper';
 import { Flashcards } from './screens/Flashcards';
 import { useAccount } from './store/account';
 import { useProgress } from './store/progress';
@@ -66,6 +67,8 @@ function Screen({ route }: { route: ReturnType<typeof parseHash> }) {
       return <WordBank theme={route.theme} />;
     case 'cards':
       return <Flashcards key={route.theme ?? 'all'} theme={route.theme} />;
+    case 'helper':
+      return <Helper key={route.ctx ?? 'all'} ctx={route.ctx} />;
     default:
       return <NotFound />;
   }

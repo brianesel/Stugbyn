@@ -131,3 +131,11 @@ New Word bank themes: Miljö, Stad och land and Fraser för YKI (the teacher’s
 ## App updates on iPhone (2026-10-30)
 
 The service worker now uses `registerType: 'prompt'`. An installed iPhone app usually resumes instead of relaunching, so it kept running the old version. The app now checks for a new version whenever it comes back into view (and hourly), downloads it in the background, and shows a bar: “A new version of Stugbyn is ready. Update / Later”. Update reloads into the new version; Later lets a round finish first. Tested end to end by serving a newer build underneath a running app.
+
+## Writing helper (2026-11-04)
+
+An AI helper writes short texts with the learner’s practised words, translates, and checks Swedish. It knows where the learner is: a region sends its rule cards and the sentences already practised there; a Word bank theme sends its practised and not-yet-practised words; the Word bank root sends all practised words.
+
+- **Server function, not a browser call.** `api/assistant.ts` (Vercel) holds `ANTHROPIC_API_KEY`; the app never sees it. The function checks the Supabase access token, an optional `ASSISTANT_ALLOWED_EMAILS` list, and a per-instance limit of 60 requests an hour per user. `npm run dev` serves the same handler through a small Vite middleware.
+- **Model:** Claude Opus 5.5 at medium effort, streamed as plain text so the answer appears while it is written; `fallbacks: "default"` re-runs a safety decline on Anthropic’s recommended fallback model.
+- **Not stored.** Conversations live in memory while the app is open; nothing is saved to Supabase. The helper needs a connection and a signed-in account; the rest of the app stays offline-first.

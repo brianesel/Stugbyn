@@ -19,6 +19,7 @@
     "content-report": "tsx scripts/content-report.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^1.4.0",
     "@fontsource/atkinson-hyperlegible": "^5.1.0",
     "@fontsource/young-serif": "^5.1.0",
     "@supabase/supabase-js": "^2.45.4",
