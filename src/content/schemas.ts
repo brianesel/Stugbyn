@@ -207,6 +207,10 @@ export const VocabEntry = z
       .object({ def: z.string().optional(), pl: z.string().optional(), defPl: z.string().optional() })
       .optional(),
     group: z.number().int().min(1).max(5).optional(),
+    /** Adjective forms: ett-form, plural/definite, and comparison when it is useful. */
+    adjForms: z
+      .object({ t: z.string().min(1), a: z.string().min(1), comp: z.string().optional(), sup: z.string().optional() })
+      .optional(),
     /** Listed irregular noun: skips the group / definite-plural agreement checks. */
     irregular: z.boolean().optional(),
     example: z.object({ sv: z.string(), en: z.string() }).optional(),

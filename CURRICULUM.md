@@ -41,6 +41,6 @@ Valid combinations: writing + listening or speaking; speaking + reading or writi
 
 **Opinion text:** intro (Många tycker att … Jag håller (inte) med. Enligt mig är …), body (Å ena sidan … Å andra sidan …, Några av fördelarna är … En nackdel är …), end (Till slut …). **Informal message:** greeting, ask how they are, react to their news or say why you write, suggest meeting with time and place, give your own news, informal ending. **Formal email:** Från / Till / Skickat / Ärende, Hej, Jag skriver angående …, background and a clear question (Skulle ni kunna …?), Tack på förhand / Jag ser fram emot ert svar, Vänliga hälsningar + contact details. **Dialogue:** present yourself, answer yes (svara jakande) or no + explain + suggest (svara nekande), end the conversation (Tack för hjälpen, Då säger vi så, Det ska jag göra, Låter bra, Jag ser fram emot det).
 
-**Personal-interest themes** (not from class): Klättring, Matlagning, Programmering, Spel och gaming.
+**Personal-interest themes** (not from class): Klättring, Matlagning, Programmering, Spel och gaming. **Beskriva saker** (colours, size and shape, materials, how things feel) supports describing pictures and objects in YKI speaking and writing.
 
 **Vocabulary** from every lesson lives in the Word bank (`content/vocab/*.json`, 17 themes). **Not in the app yet:** formal writing practice and speaking tasks (Phase 5: Exam Hall).

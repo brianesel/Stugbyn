@@ -31,7 +31,7 @@ export function forms(e: VocabEntry): WordForm[] {
     if (v) return list([['present', v.pres], ['past', v.past], ['har', v.sup]]);
   }
   if (e.pos === 'adjective') {
-    const a = library.adjectives?.adjectives.find((x) => x.base === e.sv);
+    const a = e.adjForms ?? library.adjectives?.adjectives.find((x) => x.base === e.sv);
     if (a) return list([['ett', a.t], ['plural, the', a.a], ['more', a.comp], ['most', a.sup]]);
   }
   return [];

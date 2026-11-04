@@ -1,0 +1,1323 @@
+{
+  "theme": "describing",
+  "title": "Beskriva saker",
+  "entries": [
+    {
+      "id": "vocab:describing:farg",
+      "sv": "färg",
+      "en": "colour",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "färgen",
+        "pl": "färger",
+        "defPl": "färgerna"
+      },
+      "group": 3,
+      "level": "A1",
+      "example": {
+        "sv": "Vilken färg tycker du bäst om?",
+        "en": "Which colour do you like best?"
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Min favoritfärg? Det beror på vad som är på rea.",
+        "en": "My favourite colour? Depends on what’s on sale."
+      }
+    },
+    {
+      "id": "vocab:describing:rod",
+      "sv": "röd",
+      "en": "red",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "rött",
+        "a": "röda"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Huset är rött med vita knutar.",
+        "en": "The house is red with white corners."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Ett rött hus, en röd lada, röda kinder efter bastun. Mycket svenskt.",
+        "en": "A red house, a red barn, red cheeks after the sauna. Very Swedish.",
+        "note": "Röd → rött: vowel + d becomes -tt."
+      }
+    },
+    {
+      "id": "vocab:describing:bla",
+      "sv": "blå",
+      "en": "blue",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "blått",
+        "a": "blå"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "note": "Plural: blå or blåa.",
+      "example": {
+        "sv": "Himlen är blå i dag.",
+        "en": "The sky is blue today."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Finlands flagga är blå och vit. Sveriges är blå och gul. Ingen är röd, som jag efter en hel dag i solen.",
+        "en": "Finland’s flag is blue and white. Sweden’s is blue and yellow. Neither is red, like me after a whole day in the sun."
+      }
+    },
+    {
+      "id": "vocab:describing:gron",
+      "sv": "grön",
+      "en": "green",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "grönt",
+        "a": "gröna"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Bananen är fortfarande grön.",
+        "en": "The banana is still green."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Bananen är grön på måndag, gul på tisdag och brun när jag minns den.",
+        "en": "The banana is green on Monday, yellow on Tuesday and brown when I remember it."
+      }
+    },
+    {
+      "id": "vocab:describing:gul",
+      "sv": "gul",
+      "en": "yellow",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "gult",
+        "a": "gula"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Jag köpte en gul regnjacka.",
+        "en": "I bought a yellow raincoat."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "En gul regnjacka: ingen bil kan missa mig. Tyvärr kan ingen människa heller.",
+        "en": "A yellow raincoat: no car can miss me. Unfortunately, no person can either."
+      }
+    },
+    {
+      "id": "vocab:describing:svart",
+      "sv": "svart",
+      "en": "black",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "svart",
+        "a": "svarta"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Jag dricker kaffet svart.",
+        "en": "I drink my coffee black."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Svart kaffe, svart tröja, svart humor. Jag är redo för november.",
+        "en": "Black coffee, black sweater, black humour. I’m ready for November.",
+        "note": "Svart already ends in -t, so the ett-form is also svart."
+      }
+    },
+    {
+      "id": "vocab:describing:vit",
+      "sv": "vit",
+      "en": "white",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "vitt",
+        "a": "vita"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Allt är vitt efter snöstormen.",
+        "en": "Everything is white after the snowstorm."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Vit snö, vita väggar, vitt ljus. Det enda som syns är mitt kaffe.",
+        "en": "White snow, white walls, white light. The only thing you can see is my coffee."
+      }
+    },
+    {
+      "id": "vocab:describing:gra",
+      "sv": "grå",
+      "en": "grey",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "grått",
+        "a": "grå"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "note": "Plural: grå or gråa.",
+      "example": {
+        "sv": "Det är grått och kallt ute.",
+        "en": "It’s grey and cold outside."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "– Vilken färg har himlen i november? – Grå. – Och i december? – Mörkgrå.",
+        "en": "“What colour is the sky in November?” “Grey.” “And in December?” “Dark grey.”"
+      }
+    },
+    {
+      "id": "vocab:describing:brun",
+      "sv": "brun",
+      "en": "brown",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "brunt",
+        "a": "bruna"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Hon har bruna ögon.",
+        "en": "She has brown eyes."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Brunt bröd är nyttigt. Brunt ris är nyttigt. Brun sås är … gott.",
+        "en": "Brown bread is healthy. Brown rice is healthy. Brown gravy is … tasty."
+      }
+    },
+    {
+      "id": "vocab:describing:rosa",
+      "sv": "rosa",
+      "en": "pink",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "rosa",
+        "a": "rosa"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Hon har ett rosa skal på mobilen.",
+        "en": "She has a pink case on her phone."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Jag tvättade en röd strumpa med mina vita skjortor. Nu har jag rosa skjortor.",
+        "en": "I washed a red sock with my white shirts. Now I have pink shirts.",
+        "note": "Rosa never changes: en rosa, ett rosa, rosa skjortor."
+      }
+    },
+    {
+      "id": "vocab:describing:lila",
+      "sv": "lila",
+      "en": "purple",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "lila",
+        "a": "lila"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Lupinerna är lila och rosa.",
+        "en": "The lupins are purple and pink."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "En lila tröja, ett lila hus, lila lupiner. Lila ändrar sig aldrig. Inte jag heller.",
+        "en": "A purple sweater, a purple house, purple lupins. Lila never changes. Neither do I.",
+        "note": "Lila, like rosa and orange, has the same form everywhere."
+      }
+    },
+    {
+      "id": "vocab:describing:orange",
+      "sv": "orange",
+      "en": "orange",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "orange",
+        "a": "orange"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Hon har en orange mössa.",
+        "en": "She has an orange beanie."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Apelsinen är orange. Moroten är orange. Jag är orange efter brun utan sol.",
+        "en": "The orange is orange. The carrot is orange. I’m orange after fake tan.",
+        "note": "Orange is the same in all forms. The fruit is en apelsin."
+      }
+    },
+    {
+      "id": "vocab:describing:ljus",
+      "sv": "ljus",
+      "en": "light (colour), bright",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "ljust",
+        "a": "ljusa",
+        "comp": "ljusare",
+        "sup": "ljusast"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Rummet är ljust och stort.",
+        "en": "The room is light and big."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "I juni är det ljust hela natten. I december är det ljust … i kylskåpet.",
+        "en": "In June it’s light all night. In December it’s light … in the fridge."
+      }
+    },
+    {
+      "id": "vocab:describing:mork",
+      "sv": "mörk",
+      "en": "dark",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "mörkt",
+        "a": "mörka",
+        "comp": "mörkare",
+        "sup": "mörkast"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Det är mörkt klockan fyra.",
+        "en": "It’s dark at four o’clock."
+      },
+      "tags": [
+        "colour"
+      ],
+      "fun": {
+        "sv": "Det är mörkt när jag går till jobbet och mörkt när jag går hem. Jobbet är det ljusaste stället.",
+        "en": "It’s dark when I go to work and dark when I go home. Work is the brightest place."
+      }
+    },
+    {
+      "id": "vocab:describing:storlek",
+      "sv": "storlek",
+      "en": "size",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "storleken",
+        "pl": "storlekar",
+        "defPl": "storlekarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Vilken storlek har du?",
+        "en": "What size are you?"
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "– Vilken storlek har du? – Före eller efter jul?",
+        "en": "“What size are you?” “Before or after Christmas?”"
+      }
+    },
+    {
+      "id": "vocab:describing:form",
+      "sv": "form",
+      "en": "shape, form",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "formen",
+        "pl": "former",
+        "defPl": "formerna"
+      },
+      "group": 3,
+      "level": "A2",
+      "example": {
+        "sv": "Bordet har en rund form.",
+        "en": "The table has a round shape."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Jag är i form. Formen är rund.",
+        "en": "I’m in shape. The shape is round.",
+        "note": "I form = in (good) shape."
+      }
+    },
+    {
+      "id": "vocab:describing:stor",
+      "sv": "stor",
+      "en": "big, large",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "stort",
+        "a": "stora",
+        "comp": "större",
+        "sup": "störst"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Vi bor i ett stort hus.",
+        "en": "We live in a big house."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "En stor kaffe, en större kaffe, den största kaffen. Måndagen är ändå större.",
+        "en": "A big coffee, a bigger coffee, the biggest coffee. Monday is still bigger."
+      }
+    },
+    {
+      "id": "vocab:describing:liten",
+      "sv": "liten",
+      "en": "small, little",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "litet",
+        "a": "små (the: lilla)",
+        "comp": "mindre",
+        "sup": "minst"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "note": "After den, det, min …: lilla (den lilla katten).",
+      "example": {
+        "sv": "Vi har en liten lägenhet.",
+        "en": "We have a small flat."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Liten lägenhet, litet kök, små rum. Men en stor tv.",
+        "en": "Small flat, small kitchen, small rooms. But a big TV.",
+        "note": "Liten is irregular: litet, små, and lilla after den or min."
+      }
+    },
+    {
+      "id": "vocab:describing:lang",
+      "sv": "lång",
+      "en": "long, tall",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "långt",
+        "a": "långa",
+        "comp": "längre",
+        "sup": "längst"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Han är lång och smal.",
+        "en": "He is tall and slim."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Jag är lång nog att nå toppen av väggen. Mina armar håller inte med.",
+        "en": "I’m tall enough to reach the top of the wall. My arms disagree."
+      }
+    },
+    {
+      "id": "vocab:describing:kort",
+      "sv": "kort",
+      "en": "short",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "kort",
+        "a": "korta",
+        "comp": "kortare",
+        "sup": "kortast"
+      },
+      "level": "A1",
+      "lesson": 5,
+      "example": {
+        "sv": "Byxorna är för korta.",
+        "en": "The trousers are too short."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Sommaren är kort. Vintern är lång. Fredagen är kortast.",
+        "en": "Summer is short. Winter is long. Friday is the shortest.",
+        "note": "Kort ends in -t, so the ett-form is also kort."
+      }
+    },
+    {
+      "id": "vocab:describing:hog",
+      "sv": "hög",
+      "en": "high, tall, loud",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "högt",
+        "a": "höga",
+        "comp": "högre",
+        "sup": "högst"
+      },
+      "level": "A2",
+      "note": "Hög is for buildings, walls and sounds; lång is for people.",
+      "example": {
+        "sv": "Väggen är tolv meter hög.",
+        "en": "The wall is twelve metres high."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "– Är väggen hög? – Inte från marken. Från toppen, ja.",
+        "en": "“Is the wall high?” “Not from the ground. From the top, yes.”"
+      }
+    },
+    {
+      "id": "vocab:describing:lag",
+      "sv": "låg",
+      "en": "low",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "lågt",
+        "a": "låga",
+        "comp": "lägre",
+        "sup": "lägst"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Bordet är för lågt.",
+        "en": "The table is too low."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Låga priser! Låg kvalitet! Hög puls när den går sönder.",
+        "en": "Low prices! Low quality! High pulse when it breaks."
+      }
+    },
+    {
+      "id": "vocab:describing:bred",
+      "sv": "bred",
+      "en": "wide, broad",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "brett",
+        "a": "breda",
+        "comp": "bredare",
+        "sup": "bredast"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Vägen är bred.",
+        "en": "The road is wide."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Ett brett leende, en bred soffa och breda axlar efter klättringen.",
+        "en": "A wide smile, a wide sofa and broad shoulders after climbing.",
+        "note": "Bred → brett: vowel + d becomes -tt."
+      }
+    },
+    {
+      "id": "vocab:describing:smal",
+      "sv": "smal",
+      "en": "narrow, slim",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "smalt",
+        "a": "smala",
+        "comp": "smalare",
+        "sup": "smalast"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Gatan är smal.",
+        "en": "The street is narrow."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Den smala listen var perfekt. Mina fingrar var inte så smala.",
+        "en": "The narrow ledge was perfect. My fingers weren’t that thin."
+      }
+    },
+    {
+      "id": "vocab:describing:tung",
+      "sv": "tung",
+      "en": "heavy",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "tungt",
+        "a": "tunga",
+        "comp": "tyngre",
+        "sup": "tyngst"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Väskan är för tung.",
+        "en": "The bag is too heavy."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Väskan är tung. Den är full av böcker jag inte har läst.",
+        "en": "The bag is heavy. It’s full of books I haven’t read.",
+        "note": "The opposite is lätt (light)."
+      }
+    },
+    {
+      "id": "vocab:describing:rund",
+      "sv": "rund",
+      "en": "round",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "runt",
+        "a": "runda"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Vi har ett runt bord i köket.",
+        "en": "We have a round table in the kitchen."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Ett runt bord har inga hörn. Katten hittade ett ändå.",
+        "en": "A round table has no corners. The cat found one anyway.",
+        "note": "Rund → runt: consonant + d, the d becomes t."
+      }
+    },
+    {
+      "id": "vocab:describing:fyrkantig",
+      "sv": "fyrkantig",
+      "en": "square",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "fyrkantigt",
+        "a": "fyrkantiga"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Fönstret är fyrkantigt.",
+        "en": "The window is square."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Min pizza är fyrkantig. Kartongen är fyrkantig. Bitarna är trekantiga. Matematik!",
+        "en": "My pizza is square. The box is square. The slices are triangular. Maths!"
+      }
+    },
+    {
+      "id": "vocab:describing:platt",
+      "sv": "platt",
+      "en": "flat",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "platt",
+        "a": "platta"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Landskapet är platt här.",
+        "en": "The landscape is flat here."
+      },
+      "tags": [
+        "size-shape"
+      ],
+      "fun": {
+        "sv": "Mitt däck är platt. Mitt skämt också.",
+        "en": "My tyre is flat. So is my joke."
+      }
+    },
+    {
+      "id": "vocab:describing:material",
+      "sv": "material",
+      "en": "material",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "materialet",
+        "pl": "material",
+        "defPl": "materialen"
+      },
+      "group": 5,
+      "level": "A2",
+      "example": {
+        "sv": "Vilket material är det?",
+        "en": "What material is it?"
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "– Vilket material är jackan gjord av? – Plast, löften och reklam.",
+        "en": "“What material is the jacket made of?” “Plastic, promises and advertising.”"
+      }
+    },
+    {
+      "id": "vocab:describing:tra",
+      "sv": "trä",
+      "en": "wood",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "träet"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Bordet är av trä.",
+        "en": "The table is made of wood."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Bordet är av trä, stolarna är av trä, och jag tar i trä att de håller.",
+        "en": "The table is wood, the chairs are wood, and I knock on wood that they last.",
+        "note": "Peppar, peppar, ta i trä = knock on wood."
+      }
+    },
+    {
+      "id": "vocab:describing:metall",
+      "sv": "metall",
+      "en": "metal",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "metallen"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Karbinhaken är av metall.",
+        "en": "The carabiner is made of metal."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Metall är kallt på vintern. Det vet min tunga sedan 1998.",
+        "en": "Metal is cold in winter. My tongue has known that since 1998."
+      }
+    },
+    {
+      "id": "vocab:describing:glas",
+      "sv": "glas",
+      "en": "glass",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "glaset",
+        "pl": "glas",
+        "defPl": "glasen"
+      },
+      "group": 5,
+      "level": "A1",
+      "example": {
+        "sv": "Flaskan är av glas.",
+        "en": "The bottle is made of glass."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Ett glas av glas med glass i. Svenska är enkelt.",
+        "en": "A glass made of glass with ice cream in it. Swedish is easy.",
+        "note": "Glas (glass) and glass (ice cream): long a vs short a."
+      }
+    },
+    {
+      "id": "vocab:describing:papper",
+      "sv": "papper",
+      "en": "paper",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "pappret"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Kan jag få ett papper och en penna?",
+        "en": "Can I have a piece of paper and a pen?"
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Mitt kontor är papperslöst. Papperet ligger hemma.",
+        "en": "My office is paperless. The paper is at home.",
+        "note": "Definite: pappret or papperet."
+      }
+    },
+    {
+      "id": "vocab:describing:ull",
+      "sv": "ull",
+      "en": "wool",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "ullen"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Sockorna är av ull.",
+        "en": "The socks are made of wool."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Ullsockor, ulltröja, ullmössa. Jag är ett får i februari.",
+        "en": "Wool socks, wool sweater, wool hat. I’m a sheep in February."
+      }
+    },
+    {
+      "id": "vocab:describing:bomull",
+      "sv": "bomull",
+      "en": "cotton",
+      "pos": "noun",
+      "gender": "en",
+      "countable": false,
+      "forms": {
+        "def": "bomullen"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "T-shirten är av bomull.",
+        "en": "The T-shirt is made of cotton."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Hundra procent bomull, säger lappen. Hundra procent krympt, säger tvättmaskinen.",
+        "en": "A hundred percent cotton, says the label. A hundred percent shrunk, says the washing machine."
+      }
+    },
+    {
+      "id": "vocab:describing:lader",
+      "sv": "läder",
+      "en": "leather",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "lädret"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Jag har en jacka av läder.",
+        "en": "I have a leather jacket."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "En jacka av läder: jag ser cool ut tills det regnar.",
+        "en": "A leather jacket: I look cool until it rains."
+      }
+    },
+    {
+      "id": "vocab:describing:sten",
+      "sv": "sten",
+      "en": "stone, rock",
+      "pos": "noun",
+      "gender": "en",
+      "forms": {
+        "def": "stenen",
+        "pl": "stenar",
+        "defPl": "stenarna"
+      },
+      "group": 2,
+      "level": "A2",
+      "example": {
+        "sv": "Muren är byggd av sten.",
+        "en": "The wall is built of stone."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Klippan är av sten. Mina fingrar är inte det.",
+        "en": "The cliff is made of rock. My fingers are not."
+      }
+    },
+    {
+      "id": "vocab:describing:tyg",
+      "sv": "tyg",
+      "en": "fabric, cloth",
+      "pos": "noun",
+      "gender": "ett",
+      "forms": {
+        "def": "tyget",
+        "pl": "tyger",
+        "defPl": "tygerna"
+      },
+      "group": 3,
+      "irregular": true,
+      "note": "An ett-word, but the plural is tyger (Group 3).",
+      "level": "A2",
+      "example": {
+        "sv": "Gardinerna är av tunt tyg.",
+        "en": "The curtains are made of thin fabric."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Jag köpte tyg för att sy en väska. Nu har jag tyg och ingen väska.",
+        "en": "I bought fabric to sew a bag. Now I have fabric and no bag."
+      }
+    },
+    {
+      "id": "vocab:describing:guld",
+      "sv": "guld",
+      "en": "gold",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "guldet"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Ringen är av guld.",
+        "en": "The ring is made of gold."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Tystnad är guld. På mitt jobb är vi miljonärer.",
+        "en": "Silence is golden. At my job we’re millionaires.",
+        "note": "Tala är silver, tiga är guld = speech is silver, silence is golden."
+      }
+    },
+    {
+      "id": "vocab:describing:silver",
+      "sv": "silver",
+      "en": "silver",
+      "pos": "noun",
+      "gender": "ett",
+      "countable": false,
+      "forms": {
+        "def": "silvret"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Hon vann silver i loppet.",
+        "en": "She won silver in the race."
+      },
+      "tags": [
+        "material"
+      ],
+      "fun": {
+        "sv": "Jag vann silver. Det fanns två deltagare.",
+        "en": "I won silver. There were two competitors."
+      }
+    },
+    {
+      "id": "vocab:describing:gjord-av",
+      "sv": "gjord av",
+      "en": "made of",
+      "pos": "phrase",
+      "level": "A2",
+      "note": "Gjord (en), gjort (ett), gjorda (plural): Huset är gjort av sten.",
+      "example": {
+        "sv": "Vad är den gjord av? Den är gjord av trä.",
+        "en": "What is it made of? It’s made of wood."
+      },
+      "fun": {
+        "sv": "– Vad är kakan gjord av? – Kärlek. Och smör. Mest smör.",
+        "en": "“What is the cake made of?” “Love. And butter. Mostly butter.”"
+      }
+    },
+    {
+      "id": "vocab:describing:det-kanns",
+      "sv": "det känns",
+      "en": "it feels",
+      "pos": "phrase",
+      "level": "A2",
+      "note": "Känns + adjective: Tröjan känns mjuk (en-word), tyget känns mjukt (ett-word).",
+      "example": {
+        "sv": "Det känns mjukt. Hur känns det?",
+        "en": "It feels soft. How does it feel?"
+      },
+      "fun": {
+        "sv": "– Hur känns det? – Det känns som måndag.",
+        "en": "“How does it feel?” “It feels like Monday.”"
+      }
+    },
+    {
+      "id": "vocab:describing:mjuk",
+      "sv": "mjuk",
+      "en": "soft",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "mjukt",
+        "a": "mjuka",
+        "comp": "mjukare",
+        "sup": "mjukast"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Kudden är mjuk och skön.",
+        "en": "The pillow is soft and comfortable."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Degen ska vara mjuk, inte kladdig. Min deg är kladdig och jag är mjuk.",
+        "en": "The dough should be soft, not sticky. My dough is sticky and I am soft."
+      }
+    },
+    {
+      "id": "vocab:describing:hard",
+      "sv": "hård",
+      "en": "hard",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "hårt",
+        "a": "hårda",
+        "comp": "hårdare",
+        "sup": "hårdast"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Sängen är för hård.",
+        "en": "The bed is too hard."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Brödet var hårt. Jag också, efter tre dagar i skogen.",
+        "en": "The bread was hard. So was I, after three days in the forest.",
+        "note": "Hård → hårt: the d after r becomes t."
+      }
+    },
+    {
+      "id": "vocab:describing:slat",
+      "sv": "slät",
+      "en": "smooth",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "slätt",
+        "a": "släta"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Väggen är helt slät.",
+        "en": "The wall is completely smooth."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "En slät vägg är vacker. För en klättrare är den en mardröm.",
+        "en": "A smooth wall is beautiful. For a climber it’s a nightmare."
+      }
+    },
+    {
+      "id": "vocab:describing:strav",
+      "sv": "sträv",
+      "en": "rough",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "strävt",
+        "a": "sträva"
+      },
+      "level": "B1",
+      "example": {
+        "sv": "Greppet är strävt och bra.",
+        "en": "The hold is rough and good."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Strävt grepp: bra för fötterna, dåligt för fingertopparna.",
+        "en": "Rough hold: good for the feet, bad for the fingertips."
+      }
+    },
+    {
+      "id": "vocab:describing:vass",
+      "sv": "vass",
+      "en": "sharp",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "vasst",
+        "a": "vassa",
+        "comp": "vassare",
+        "sup": "vassast"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Kniven är vass.",
+        "en": "The knife is sharp."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "En vass kniv är säkrare än en slö. Säger kocken med plåster på fingret.",
+        "en": "A sharp knife is safer than a blunt one. Says the cook with a plaster on his finger."
+      }
+    },
+    {
+      "id": "vocab:describing:blot",
+      "sv": "blöt",
+      "en": "wet",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "blött",
+        "a": "blöta"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Mina skor är blöta.",
+        "en": "My shoes are wet."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Blöta skor, blöta strumpor, blött hår. Det var bara tio meter till bussen.",
+        "en": "Wet shoes, wet socks, wet hair. It was only ten metres to the bus.",
+        "note": "Blöt → blött: the t doubles."
+      }
+    },
+    {
+      "id": "vocab:describing:torr",
+      "sv": "torr",
+      "en": "dry",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "torrt",
+        "a": "torra"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Tvätten är torr nu.",
+        "en": "The laundry is dry now."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Kakan är torr. Skämtet är torrt. Kaffet räddar båda.",
+        "en": "The cake is dry. The joke is dry. The coffee saves both."
+      }
+    },
+    {
+      "id": "vocab:describing:kladdig",
+      "sv": "kladdig",
+      "en": "sticky",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "kladdigt",
+        "a": "kladdiga"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Mina händer är kladdiga av deg.",
+        "en": "My hands are sticky from dough."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Kladdkaka är en kladdig kaka. Svenska namnger saker ärligt.",
+        "en": "Kladdkaka is a sticky cake. Swedish names things honestly."
+      }
+    },
+    {
+      "id": "vocab:describing:hal",
+      "sv": "hal",
+      "en": "slippery",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "halt",
+        "a": "hala"
+      },
+      "level": "A2",
+      "example": {
+        "sv": "Det är halt ute i dag.",
+        "en": "It’s slippery outside today."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Det är halt ute. Jag går som en pingvin och känner mig smart.",
+        "en": "It’s slippery outside. I walk like a penguin and feel smart."
+      }
+    },
+    {
+      "id": "vocab:describing:skor",
+      "sv": "skör",
+      "en": "fragile",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "skört",
+        "a": "sköra"
+      },
+      "level": "B1",
+      "example": {
+        "sv": "Glaset är skört.",
+        "en": "The glass is fragile."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "”Skört!” stod det på paketet. Postbudet läste det som en utmaning.",
+        "en": "“Fragile!” it said on the parcel. The postman read it as a challenge."
+      }
+    },
+    {
+      "id": "vocab:describing:tom",
+      "sv": "tom",
+      "en": "empty",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "tomt",
+        "a": "tomma"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Kylskåpet är tomt.",
+        "en": "The fridge is empty."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Ett tomt kylskåp, tomma hyllor och en full diskmaskin. Klassisk söndag.",
+        "en": "An empty fridge, empty shelves and a full dishwasher. Classic Sunday.",
+        "note": "Tom → tomma: the m doubles before -a."
+      }
+    },
+    {
+      "id": "vocab:describing:full",
+      "sv": "full",
+      "en": "full",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "fullt",
+        "a": "fulla"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Bussen är full.",
+        "en": "The bus is full."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Bussen är full. Nästa buss är också full. Jag går.",
+        "en": "The bus is full. The next bus is also full. I’m walking."
+      }
+    },
+    {
+      "id": "vocab:describing:ren",
+      "sv": "ren",
+      "en": "clean",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "rent",
+        "a": "rena",
+        "comp": "renare",
+        "sup": "renast"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Är tallrikarna rena?",
+        "en": "Are the plates clean?"
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Köket är rent. Ingen får laga mat i det.",
+        "en": "The kitchen is clean. Nobody is allowed to cook in it."
+      }
+    },
+    {
+      "id": "vocab:describing:smutsig",
+      "sv": "smutsig",
+      "en": "dirty",
+      "pos": "adjective",
+      "adjForms": {
+        "t": "smutsigt",
+        "a": "smutsiga"
+      },
+      "level": "A1",
+      "example": {
+        "sv": "Mina kläder är smutsiga efter klättringen.",
+        "en": "My clothes are dirty after climbing."
+      },
+      "tags": [
+        "feel"
+      ],
+      "fun": {
+        "sv": "Smutsiga händer betyder en bra dag i klätterhallen. Eller en dålig dag i köket.",
+        "en": "Dirty hands mean a good day at the climbing gym. Or a bad day in the kitchen."
+      }
+    }
+  ]
+}
